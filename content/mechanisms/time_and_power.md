@@ -9,8 +9,8 @@ Hex Survival operates on a real-time countdown.
 Midnight also triggers the **Nightly Siege**, a defensive phase for the town.
 - **Threat Level**: Enemies attempt to breach the town's perimeter.
 - **Defensive Structures**:
-    - **[[Barbed Wire]]**: Slows enemy movement by 1 hex.
-    - **[[Steel Bulkhead]]**: Prevents breaches for 2 turns.
+    - **[[Barbed Wire Perimeter]]**: Slows enemy movement by 1 hex; minor chip damage.
+    - **[[Reinforced Steel Bulkhead]]**: Massive HP boost; small enemies cannot breach for 2 turns.
     - **[[Automated Sentry]]**: Fires at the nearest enemy. Requires **Ammo: 10/night**.
 
 ## Power System: The City's Lifeblood
@@ -21,7 +21,7 @@ Power is the most critical resource in Hex Survival. The city survives **only** 
 - **Power Management**:
     - **[[Solar Panels]]**: Reduces daily drain by **10%**.
     - **[[Battery Storage]]**: Increases max power capacity by **+20%**.
-    - **[[Beacon Amp]]**: Improves movement efficiency in darkness.
+    - **[[Beacon Amplifier]]**: Improves movement efficiency in darkness.
 
 ## Generator Fuels
 Refills are handled via the **[[mechanisms/skills|Generator Operations]]** skill.

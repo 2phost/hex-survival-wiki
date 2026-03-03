@@ -16,10 +16,15 @@ Survival vitals ([[Hunger]] and [[Thirst]]) are likely deducted at the **[[Midni
 ## Activity Types
 - **Resting**: The default state when not performing other tasks. Restores **1 [[mechanisms/action_points|AP]] per hour**.
 - **[[mechanisms/scavenging|Scavenging]]**: The act of searching a hex for resources. 
-    - **[[mechanisms/action_points|AP]] Cost**: **0 [[mechanisms/action_points|AP]]** to start or stop. The activity itself does **not** drain [[mechanisms/action_points|AP]] over time.
-    - **Recovery**: [[mechanisms/action_points|AP]] regeneration is **paused** while scavenging; you cannot rest and scavenge simultaneously.
+    - **[[mechanisms/action_points|AP]] Cost**: **0 [[mechanisms/action_points|AP]]** for scavenging. Starting and stopping the activity is free.
+    - **Recovery**: [[mechanisms/action_points|AP]] regeneration is **paused** while scavenging.
     - **Loot**: [[mechanisms/items|Items]] are discovered at hourly intervals based on a percentage roll.
 
 ## [[mechanisms/skills|Skill Training]]
 - **Cost**: **0 [[mechanisms/action_points|AP]]** to start or pause training.
-- **Duration**: Real-time progression (Lvl 1 = 1h, Lvl 2 = 24h, Lvl 3 = 7d, Lvl 4 = 14d, Lvl 5 = 30d).
+- **Duration**: Real-time progression:
+    - **Level 1**: 1 Hour
+    - **Level 2**: 24 Hours (1 Day)
+    - **Level 3**: 7 Days
+    - **Level 4**: 14 Days
+    - **Level 5**: 30 Days

@@ -6,19 +6,25 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **AP Costs**: 1 AP/hex movement. **0 AP** for scavenging/skills/inventory actions.
 - **Skill Timings**: Real-time training (Lvl 1=1h, Lvl 2=24h, Lvl 3=7d, Lvl 4=14d, Lvl 5=30d).
 - **[[mechanisms/light_and_darkness|Light Radius]]**: Power Poles/Lamps illuminate only the **current tile (0-radius)**.
-- **Biome Loot Weights**: Confirmed exact weights for all items in all biomes (e.g., **Farm** 90% Rations).
+- **Biome Loot Weights**: Confirmed exact weights for all items in all biomes.
 - **Crafting Recipes**: Exact costs and skill locks confirmed for all functional equipment and infrastructure.
-- **[[mechanisms/infrastructure|Base Constructions]]**: Exact resource requirements confirmed for all builds (e.g., **Solar Panels** require 2 Solar Cells).
+- **[[mechanisms/infrastructure|Base Constructions]]**: Exact resource requirements confirmed for all builds.
 - **Vitals Restoration**: Exact numerical effects for all consumables confirmed.
 - **Stim Conditioning**: Lvl 1/2/3 locks confirmed for Stim Pack/Injector/Overdrive.
 - **Generator Operations**: Tier locks confirmed for Gas/Biofuel/Plasma fuels.
+- **Signal Booster**: Confirmed effect: Reveals nearest High Value Loot hex every morning.
+- **Scrap Workshop**: Confirmed effect: -25% AP cost for Searching within 1 hex of base.
+- **Beacon Amp**: Confirmed effect: Improves movement efficiency in darkness.
+- **Fuel Refinery**: Confirmed effect: Converts salvaged chemicals into stable generator fuel.
+- **Research Lab II**: Confirmed effect: Unlocks second research slot and +20% research speed.
 
 ## 2. Vitals & The "[[Midnight]] Toll"
 - **Hourly Drain**: Does [[Hunger]] and [[Thirst]] drain at a fixed hourly rate *in addition* to the Midnight Toll?
 - **Restoration Timing**: Are Well/Hydroponic resources added *before* or *after* the hunger/thirst check at Midnight?
 - **Siege Breaches**: Confirm exact consequences of a breach (e.g., is it -10% Town Power per enemy?).
 
-## 3. Advanced [[mechanisms/infrastructure|Infrastructure]]
-- **Signal Booster**: Confirm if it marks the tile on the map permanently or just reveals its type in the chat.
-- **Beacon Amp**: Quantify the "improvement in movement efficiency" in darkness (e.g., -0.5 AP cost?).
+## 3. Advanced [[mechanisms/infrastructure|Infrastructure]] & Map
+- **Beacon Amp Logic**: Quantify the "improvement in movement efficiency" in darkness (e.g., is it -0.5 AP cost per hex?).
 - **Facility Production**: Confirm the resource cost and production time for **Alloy Plates** and **Logic Cores** at powered Industrial/Lab tiles.
+- **Map Size**: Is the world finite or procedurally infinite?
+- **Visual Range**: Can players see the biome type of adjacent tiles without moving?

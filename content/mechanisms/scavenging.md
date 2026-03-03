@@ -8,15 +8,17 @@
 ## Biome Loot Weights
 The following table represents the relative rarity/weight of finding specific items in each biome. Higher numbers indicate a higher chance.
 
-| Item | Desert | Forest | Ruined City | Mountain | Industrial | Lab | Farm | Vault | Oasis |
+| Item | Desert | Forest | Ruined City | Mountain | Industrial | Electronic Lab | Farm Facility | Hidden Vault | Oasis |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Rations** | 2 | 8 | 20 | 1 | 6 | 0 | 90 | 2 | 4 |
 | **Clean Water** | 10 | 40 | 15 | 10 | 5 | 0 | 35 | 10 | 90 |
 | **Salad** | 0 | 8 | 2 | 0 | 1 | 0 | 45 | 0 | 8 |
 | **Stim Pack** | 6 | 8 | 14 | 4 | 10 | 6 | 4 | 3 | 2 |
+| **Stim Injector** | 1 | 2 | 7 | 1 | 10 | 12 | 0 | 7 | 0 |
+| **Stim Overdrive**| 0 | 0 | 1 | 0 | 2 | 4 | 0 | 10 | 0 |
 | **Scrap Metal** | 18 | 5 | 85 | 10 | 60 | 20 | 22 | 10 | 0 |
 | **Raw Timber** | 20 | 80 | 15 | 10 | 5 | 0 | 25 | 0 | 10 |
-| **Stone** | 70 | 10 | 15 | 90 | 25 | 0 | 14 | 15 | 5 |
+| **Hardened Stone**| 70 | 10 | 15 | 90 | 25 | 0 | 14 | 15 | 5 |
 | **Copper Wiring** | 5 | 5 | 30 | 10 | 45 | 40 | 18 | 20 | 0 |
 | **Circuit Boards**| 0 | 0 | 8 | 0 | 12 | 75 | 0 | 25 | 0 |
 | **Chemical Sludge**| 0 | 0 | 5 | 0 | 70 | 15 | 0 | 20 | 0 |
@@ -26,9 +28,20 @@ The following table represents the relative rarity/weight of finding specific it
 | **Ancient Relic** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 |
 | **Gasoline Gen** | 0 | 0 | 6 | 0 | 12 | 10 | 0 | 16 | 0 |
 | **Gasoline Can.** | 10 | 0 | 20 | 10 | 30 | 0 | 0 | 20 | 0 |
+| **Gasoline Gen E**| 0 | 0 | 10 | 0 | 20 | 20 | 0 | 40 | 0 |
 | **Lamp (empty)** | 5 | 10 | 45 | 5 | 40 | 20 | 18 | 15 | 0 |
 | **Old Bottle** | 20 | 25 | 45 | 15 | 40 | 10 | 26 | 5 | 20 |
 | **Glowing Mush.** | 8 | 55 | 18 | 20 | 14 | 16 | 0 | 45 | 35 |
+| **Broken Radio** | 0 | 0 | 25 | 0 | 30 | 35 | 0 | 0 | 0 |
+| **Rusty Tool** | 12 | 8 | 30 | 0 | 25 | 0 | 0 | 0 | 0 |
+| **Cracked Lens** | 0 | 0 | 20 | 0 | 35 | 25 | 0 | 0 | 0 |
+| **Burnt Motor** | 0 | 0 | 15 | 0 | 40 | 25 | 0 | 0 | 0 |
+| **Empty Canister**| 10 | 0 | 25 | 0 | 45 | 0 | 0 | 0 | 0 |
+| **Worn Pack** | 0 | 30 | 15 | 20 | 0 | 0 | 0 | 0 | 0 |
+| **Broken Binos** | 0 | 0 | 25 | 20 | 15 | 0 | 0 | 0 | 0 |
+| **Malfunc Sensor**| 0 | 0 | 0 | 0 | 20 | 45 | 0 | 15 | 0 |
+| **Ruined Parts** | 0 | 0 | 25 | 0 | 35 | 20 | 0 | 0 | 0 |
+| **Damaged Solar** | 25 | 0 | 0 | 0 | 15 | 30 | 0 | 0 | 0 |
 
 ## Specialized Tile Properties
 - **[[Hidden Vault]]**: Guaranteed **Ancient Relic** (Weight 100).
