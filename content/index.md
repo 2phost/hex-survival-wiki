@@ -1,20 +1,40 @@
-# Hex Survival Documentation Project
+---
+title: Hex Survival Wiki
+---
 
-This project tracks reviews, ideas, mechanisms, and bugs for the game [Hex Survival](https://hex-survival.onrender.com/). Hex Survival is a collaborative, persistent-world survival game where players work together in hexagonal "towns" to survive the existential threat of "The Darkness."
+# Welcome to the Hex Survival Wiki
 
-## Project Structure
-- `mechanisms/`: Technical and gameplay rules (hex grid, survival elements, light vs. darkness, AP costs, infrastructure, etc.).
-- `guides/`: Player manuals like the "Getting Started" guide.
-- `ideas/`: Strategic suggestions, "Loot Highways," and developer feedback.
-- `bugs/`: Reported issues, reproduction steps (e.g., Item Overlay), and tracking.
-- `reviews/`: Critical analysis and user feedback.
-- `tools/` and `.gemini/commands/`: Automation scripts and custom CLI commands (`/init`, `/update`, `/end`).
+This is the comprehensive knowledge base for [Hex Survival](https://hex-survival.onrender.com/), a collaborative, persistent-world survival game. In this world, players work together in hexagonal "towns" to survive the existential threat of **"The Darkness."**
 
-## Project Goals
-1. **Mechanism Clarification**: Document all confirmed game rules and identify "known unknowns" for testing.
-2. **Strategy Development**: Formulate optimal playstyles for collaborative survival and infrastructure growth.
-3. **Bug Tracking**: Document technical issues to assist in game stability and developer feedback.
-4. **Knowledge Sharing**: Provide clear, accessible guides for new players to reduce the learning curve.
+---
 
-## Mandate for Gemini CLI
-Every time a new session starts, read `GEMINI.md` and the latest files in this repository to stay updated on the project's state. Keep all files updated after each interaction.
+## 🚀 Getting Started
+New to the hex? Start here to understand the basic loop of survival and exploration.
+- **[[guides/getting_started|Getting Started Guide]]** - Your first day in the wasteland.
+- **[[mechanisms/user_interface|User Interface]]** - Understanding the dashboard and controls.
+- **[[mechanisms/player_status|Player Status]]** - Managing Hunger, Thirst, and Health.
+
+## ⚙️ Core Mechanics
+The technical rules that govern life and death in the Hex.
+- **[[mechanisms/light_and_darkness|Light and Darkness]]** - The primary threat and how to fight it.
+- **[[mechanisms/action_points|Action Points (AP)]]** - The economy of movement and labor.
+- **[[mechanisms/scavenging|Scavenging]]** - How to find resources in the ruins.
+- **[[mechanisms/skills|Skills & Specialization]]** - Training for a role in the town.
+- **[[mechanisms/verification_list|Verification List]]** - What we are currently testing and confirming.
+
+## 🏗️ Infrastructure & Economy
+Building a permanent home in the dark.
+- **[[mechanisms/infrastructure|Infrastructure]]** - Power Poles, Generators, and the Grid.
+- **[[mechanisms/items|Items & Equipment]]** - Tools for survival.
+- **[[mechanisms/crafting_and_recipes|Crafting & Recipes]]** - Turning scrap into salvation.
+- **[[mechanisms/world_and_tiles|World & Tiles]]** - Identifying resource hubs and hazards.
+
+## 💡 Strategy & Community
+Optimizing the survival loop through collaboration.
+- **[[ideas/strategic_suggestions|Strategic Suggestions]]** - "Power Highways" and logistics.
+- **[[ideas/dev_feedback_suggestions|Developer Feedback]]** - Suggestions for game balance and features.
+- **[[bugs/item_overlay|Known Issues & Bugs]]** - Help us track and reproduce technical errors.
+
+---
+
+> *"The city only survives as long as it has light. Preventing darkness from taking over is the ultimate objective."*
