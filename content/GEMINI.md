@@ -12,11 +12,11 @@ This file serves as the persistent memory for Gemini CLI regarding the Hex Survi
 - **URL:** https://hex-survival.onrender.com/
 - **Wiki URL:** https://2phost.github.io/hex-survival-wiki/
 - **Current State:** Comprehensive documentation of a collaborative, persistent-world survival game. The primary existential threat is 'The Darkness'.
-- **Key Themes:** Power Grid Strategy, Collaborative Logistics, Real-Time Skill Specialization, and Light-based Exploration.
+- **Key Themes**: Power Grid Strategy, Collaborative Logistics, Real-Time Skill Specialization, Base Management, and Light-based Exploration.
 
 ## Guidelines
-- Extract and document core mechanics: exploration, vitals, AP costs, crafting, and infrastructure.
-- Focus specifically on the "Light vs. Darkness" loop, power management, and collaborative base building.
+- Extract and document core mechanics: exploration, vitals, AP costs, crafting, infrastructure, and base constructions.
+- Focus specifically on the "Light vs. Darkness" loop, power management, skill progressions, and collaborative base building.
 - Track bugs (e.g., Item Overlay) with reproduction steps.
 - Maintain a "Verification List" of confirmed vs. to-be-tested mechanics.
 - Use **Deep-Linking Strategy** ([[path|Title]]) in all Markdown files to ensure full Graph View functionality in the Quartz wiki.

@@ -1,39 +1,76 @@
 # Data: [[mechanisms/items|Items]]
 
-## Equipment
+## Equipment & Light Sources
 ### Starter Lamp
-- **Description**: A basic starter lamp for new scavengers.
-- **Effect**: Provides light for navigation.
-- **Duration**: Max 2 days. Tracks remaining light (e.g., "1 day remaining").
+- **Rarity**: Common.
+- **Description**: A basic starter lamp for new scavengers. Provides light for 2 days.
+- **Illumination**: 2 Days. Radius: 0 (lights current tile only).
+
+### Glowing Bottle
+- **Rarity**: Common.
+- **Description**: A bottle lantern made from bio-luminescent fungus. Provides light for 2 days.
+- **Illumination**: 2 Days. Radius: 0.
+
+### Functioning Lamp
+- **Rarity**: Rare.
+- **Description**: Provides illumination when carried; lights only the tile you stand on.
+- **Illumination**: 5 Days. Radius: 0.
 
 ### Lamp (Empty)
-- **Description**: A non-functional lamp.
-- **Requirement**: Must be combined with a Battery via Recipes to become functional.
+- **Rarity**: Common.
+- **Description**: A non-functional lamp. Salvageable for parts.
 
 ## Consumables
-### Stim Pack
-- **Description**: Improvised stimulant.
-- **Requirement**: Requires **Stim Conditioning Lvl 1** to use.
-- **Effect**: Restores **2 [[mechanisms/action_points|AP]]** immediately.
-- **Penalty**: Increases [[Hunger]] and Thirsty slightly.
-- **Cap**: Any [[mechanisms/action_points|AP]] restored over the player's maximum capacity is lost.
+| Item | Rarity | Hunger | Thirst | AP | Requirements |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Clean Water** | Common | 0 | -30 | 0 | None |
+| **Rations** | Common | -30 | 0 | 0 | None |
+| **Salad** | Common | -20 | 0 | 0 | None |
+| **Glowing Mush.** | Common | -10 | 0 | 0 | None |
+| **Stim Pack** | Common | +6 | +6 | +2 | Stim Cond. Lvl 1 |
+| **Stim Injector** | Rare | +10 | +10 | +4 | Stim Cond. Lvl 2 |
+| **Stim Overdrive**| Mythic | +14 | +14 | +6 | Stim Cond. Lvl 3 |
 
-### Fresh Drinking Water
-- **Effect**: Reduces "Thirsty" when consumed.
+> **Note**: For all stims, any AP restored over your maximum capacity is lost.
 
-### Fresh Salad
-- **Effect**: Reduces "Hunger" when consumed. Produced by the **[[Hydroponic Patch]]**.
+## Power & Fuel
+### Gasoline Canister
+- **Rarity**: Rare.
+- **Refill**: **+25%** town power.
+- **Requirement**: **Generator Operations Lvl 1**.
+
+### Biofuel Cell
+- **Rarity**: Rare.
+- **Refill**: **+40%** town power.
+- **Requirement**: **Generator Operations Lvl 2**.
+
+### Plasma Fuel Rod
+- **Rarity**: Mythic.
+- **Refill**: **+60%** town power.
+- **Requirement**: **Generator Operations Lvl 3**.
 
 ## Materials & Resources
-### Timber / Stone
-- **Description**: Raw building materials found via [[mechanisms/scavenging|Scavenging]].
-- **Use**: Required for **[[Watchtower]]**, **[[Well]]**, and **[[Hydroponic Patch]]**.
+### Industrial & Tech
+- **Circuit Boards**: Rare tech components (Electronic Labs 75%).
+- **Chemical Sludge**: Rare industrial byproduct (Industrial Zones 70%).
+- **Ancient Relic**: **Mythic** artifact found only in **[[Hidden Vault|Hidden Vaults]]**.
+- **Research Material**: Rare data drives for the **[[Research Lab]]**.
+- **Car Battery**: Common heavy lead-acid battery for **[[Battery Storage]]**.
 
-### Scrap Metal / Copper Wiring
-- **Use**: Fundamental for **[[Power Poles]]** and most advanced constructions.
+### Produced via Facilities
+- **Alloy Plate**: Rare precision-forged plating (Field Engineering Lvl 1).
+- **Hydraulic Piston**: Rare heavy mechanical actuator (Field Engineering Lvl 2).
+- **Logic Core**: Rare programmable electronics core (Field Engineering Lvl 2).
+- **Signal Emitter**: Rare advanced transmission module (Field Engineering Lvl 3).
 
-### Car Battery
-- **Use**: High-capacity energy storage. Required for **[[Battery Storage]]**.
-
-### Solar Cell / Circuit Boards
-- **Use**: Advanced tech components required for **[[Solar Panels]]**.
+## Salvageables (Junk)
+- **Broken Radio**: Common. Recoverable electronics.
+- **Rusty Tool**: Common. Corroded metal tool.
+- **Cracked Lens**: Common. Optical glass.
+- **Burnt-Out Motor**: Common. Seized motor housing.
+- **Empty Canister**: Common. Dented fuel container.
+- **Worn Leather Pack**: Common. Decayed travel pack.
+- **Broken Binoculars**: Common. Shattered optics.
+- **Malfunc. Sensor**: Rare. Faulty detection unit.
+- **Damaged Solar Panel**: Rare. Cracked array.
+- **Ruined Gen Parts**: Common. Internals internals.

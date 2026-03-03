@@ -1,45 +1,42 @@
 # Mechanism: [[mechanisms/verification_list|Verification List]] (Required Testing)
 
-These are the "known unknowns" that require testing to confirm how the game's internal logic works.
+These are the confirmed mechanics and remaining "known unknowns" based on the latest available data.
 
 ## 1. Confirmed Mechanics
-- **Movement**: Consumes 1 [[mechanisms/action_points|AP]] per hex (uniform for all tiles).
-- **[[mechanisms/skills|Skills]]**: 0 [[mechanisms/action_points|AP]] to start/pause. Can pause progress to switch research. Level 1 skills (like Stim Conditioning and [[mechanisms/action_points|AP]] Capacity) take 1 hour of real time. Level 2 skills ([[mechanisms/action_points|AP]] Capacity and Stim Conditioning) take 24 hours.
-- **[[mechanisms/expedition_objectives|Expedition Objectives]]**: **[[Watchtower]]** reveals objective headings. Relays are hidden until the Watchtower is built.
-- **Base Restrictions**: **Scavenging is impossible** in the Base hex.
-- **Inventory**: 0 [[mechanisms/action_points|AP]] to drop, consume, or combine.
-- **[[mechanisms/infrastructure|Infrastructure]]**: [[Power Poles]] only light their own hex (1-tile range). Must be placed adjacent to a lit tile.
-- **Activities**: Starting/stopping scavenging is free (0 [[mechanisms/action_points|AP]]) and doesn't drain [[mechanisms/action_points|AP]]. Resting restores 1 [[mechanisms/action_points|AP]] per hour.
-- **Vitals & Consumables**: Stim Packs restore 2 [[mechanisms/action_points|AP]] (requires Stim Conditioning Lvl 1). Any [[mechanisms/action_points|AP]] over max capacity is lost.
-- **[[Midnight]] Lamp Expiration**: Lamps expire at [[Midnight]]. Standing in an unlit hex (no pole) during expiration results in instant death.
-- **Base Menu**: Standing on the Base tile unlocks the "Enter Base" button.
-- **Town Bank**: Items can be deposited/withdrawn from the town bank via the Base menu.
-- **Town Status**: Power levels (Light & Survival bar) and Night Use drain are visible in the Base menu.
-- **Base Constructions**: Advanced buildings (Watchtower, Well, etc.) are built via the Base menu using banked resources.
+- **Movement**: Consumes 1 [[mechanisms/action_points|AP]] per hex.
+- **[[mechanisms/skills|Skills]]**: 0 [[mechanisms/action_points|AP]] to start/pause. 30-day training progression (Lvl 1-5).
+- **Skill Prerequisites**: 
+    - **AP Capacity Lvl 1** required for: Scavenger's Eye, Pack Mule, Stim Conditioning.
+    - **AP Capacity Lvl 2** required for: Rest Recovery.
+    - **Scavenger's Eye Lvl 1** required for: Salvage.
+    - **Scavenger's Eye Lvl 2** required for: Field Engineering.
+    - **Field Engineering Lvl 1** required for: Generator Operations.
+- **[[mechanisms/scavenging|Scavenging]]**: Impossible in Base. 1 roll/hour. Biome-specific loot tables and exact probabilities confirmed (e.g., **Hidden Vault** 100% Ancient Relic drop).
+- **Salvage Mechanics**: Exact deconstruction probabilities confirmed for all junk items.
+- **Power System**: Base menu shows Light & Survival bar and Night Use. Town falls at 0%.
+- **[[mechanisms/infrastructure|Infrastructure]]**: Power Poles (1 hex range, adjacent placement).
+- **Base Constructions**: All builds (Barbed Wire, Sentry Turret, etc.) confirmed with exact requirements (e.g., **Research Lab II** requires 60 Scrap).
+- **[[mechanisms/time_and_power|Nightly Siege]]**: Confirmed event at [[Midnight]]. Enemies attempt to breach the town.
+- **Vitals Restoration**: Exact numerical effects for all consumables confirmed (e.g., **Rations** -30 Hunger).
+- **Stim Types**: 
+    - **Stim Pack** (Lvl 1): +2 AP, +6 Hunger/Thirst.
+    - **Stim Injector** (Lvl 2): +4 AP, +10 Hunger/Thirst.
+    - **Stim Overdrive** (Lvl 3): +6 AP, +14 Hunger/Thirst.
+    - **AP Cap**: Any overflow AP is confirmed to be lost.
+- **Fuel Types**: 
+    - **Gasoline Canister**: +25% Power.
+    - **Biofuel Cell** (Lvl 2 Gen Ops): +40% Power.
+    - **Plasma Fuel Rod** (Lvl 3 Gen Ops): +60% Power.
 
 ## 2. Vitals & The "[[Midnight]] Toll"
-- **Drain Rate**: How much [[Hunger]] and [[Thirst]] is lost per hour?
-- **[[Midnight]] Event**: Confirm if [[Hunger]]/[[Thirst]] drops significantly at [[Midnight]] (the "Daily Consumption").
-- **Resource Generation**: Confirm the Well produces exactly 10 water at midnight and Hydroponic Patch produces rations/salad.
-- **Death by Vitals**: What happens when [[Hunger]] or [[Thirst]] reaches 0%? Is it instant death or a health drain?
-- **Health Recovery**: How is "Health" restored? Does "Resting" heal you, or only "Medicine"?
+- **Drain Rate**: How much [[Hunger]] and [[Thirst]] is lost per hour vs. Midnight?
+- **Resource Generation**: Confirm Well produces 10 water at midnight and Hydroponic Patch produces rations/salad daily.
+- **Nightly Siege**: Confirm "Automated Sentry" functionality and ammo consumption rules (10 per night). Confirm Barbed Wire slow and Steel Bulkhead durability.
 
-## 3. Power & [[mechanisms/infrastructure|Infrastructure]]
-- **Base Power Drain**: How much does "Night Use" increase per Power Pole placed?
-- **Power Failure**: Does reaching 0% power immediately end the game for all players in the town?
-- **Solar Efficiency**: Confirm the 10% reduction from Solar Panels is multiplicative or additive with other bonuses.
-- **Watchtower Range**: Does the Watchtower reveal *all* active objectives or just the closest one?
+## 3. Advanced [[mechanisms/infrastructure|Infrastructure]]
+- **Signal Booster**: Confirm it reveals the *actual* hex type or just a generic "Loot" marker.
+- **Beacon Amp**: Quantify the "improvement in movement efficiency" in darkness.
+- **Research Lab II**: Confirm the 20% research speed bonus is active. (Requirement: **60 Scrap Metal**).
 
-
-## 4. Resource Depletion
-- **Threshold**: After how many hourly "loot drops" does a hex become "Depleted"?
-- **Regeneration**: Do depleted hexes ever recover over time (e.g., after 24 hours)?
-
-## 5. [[mechanisms/exploration|Exploration]] & Map
-- **Map Size**: Is there an edge to the world? (Try walking in one direction until you hit a boundary).
-- **Visual Range**: Can you see the tile type of an adjacent hex *before* you move into it?
-
-## 6. Death & Persistence
-- **Inventory Loss**: Upon death, are items on your person lost forever, or can you find your "corpse" in the next town?
-- **Skill Training**: Does dying cancel your currently training skill?
-- **Corpse Mechanics**: Can other players loot your items if you die in a shared hex?
+## 4. Facility Production
+- **Alloy Plate / Logic Core**: Confirm production time and resource cost once facilities are powered and skills are met.

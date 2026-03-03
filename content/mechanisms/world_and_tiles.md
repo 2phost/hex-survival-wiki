@@ -6,55 +6,46 @@ The map of Hex Survival is composed of various hexagonal tile types, each repres
 ## Tile Types
 
 ### Base
-- **Description**: The starting hub for all survivors in a town.
-- **Gameplay**: 
-    - **Safety**: Primary location for depositing resources (Rations, Water, Batteries).
-    - **No [[mechanisms/scavenging|Scavenging]]**: Scavenging is not possible on the Base tile.
-    - **[[mechanisms/infrastructure|Infrastructure]]**: Usually has inherent light and serves as the respawn point.
-    - **Coordination**: The central point for "Emergency Stockpile" objectives and all **[[mechanisms/base_and_resources|Base Constructions]]**.
+- **Description**: The starting hub for all survivors.
+- **Gameplay**: Safe zone for storage, bank management, and **[[mechanisms/base_and_resources|Base Constructions]]**. No scavenging possible.
+
+### Farm Facility
+- **Description**: A large-scale agricultural complex.
+- **Strategic Importance**: The primary source of food. **90% chance** for Rations and **45% chance** for Salad.
+- **Loot Profile**: Also contains Timber (25%) and Scrap Metal (22%).
+
+### Hidden Vault
+- **Description**: A rare, fortified pre-collapse bunker.
+- **Strategic Importance**: The only source for **Ancient Relics** (100% chance). 
+- **Loot Profile**: High concentration of tech: Research Material (35%), Circuit Boards (25%), and Chemical Sludge (20%).
+
+### Oasis
+- **Description**: A rare fertile area with water.
+- **Strategic Importance**: Primary source of **Clean Water** (90% chance). Also contains Glowing Mushrooms (35%).
+
+### Electronic Store / Lab
+- **Description**: A specialized facility for advanced tech.
+- **Strategic Importance**: Primary source for **Circuit Boards** (75%), **Research Material** (70%), and **Batteries** (60%).
 
 ### Industrial Zone
 - **Description**: A manufacturing and processing complex.
-- **Gameplay**: 
-    - **Production**: Requires the **Field Engineering** skill to set and manage production.
-    - **Power**: Must be connected to the grid (**Grid Power: Online**) to operate.
-    - **Resources**: Likely source for heavy machinery, fuel, and metal components.
-
-### Electronic Store / Lab
-- **Description**: A specialized facility containing advanced technology.
-- **Gameplay**: 
-    - **Loot**: Source for Circuit Boards, Wiring, and Batteries.
-    - **Production**: Requires **Field Engineering** and **Grid Power: Online** for advanced lab work.
-
-### Human Farm Facility
-- **Description**: An ominous, specialized facility.
-- **Gameplay**: (To be confirmed) Likely related to large-scale food production (Rations) or unique Story Events.
-
-### Forest
-- **Description**: A wooded area with dense vegetation.
-- **Gameplay**: Likely source for organic materials like "Glowing Mushrooms," wood, or herbal resources.
-
-### Oasis
-- **Description**: A rare, fertile area with water and vegetation.
-- **Strategic Importance**: Critical for managing [[Hunger]] and [[Thirst]] vitals.
-
-### Mountain/Quarry
-- **Description**: High-altitude or excavated terrain.
-- **Resources**: Industrial materials like Scrap Metal or Stone.
+- **Strategic Importance**: Primary source for **Chemical Sludge** (70%) and **Copper Wiring** (45%). Required for producing Alloy Plates and Logic Cores.
 
 ### Ruined City
-- **Description**: A dense urban environment fallen into decay.
-- **Resources**: Diverse scavenging opportunities for general supplies.
+- **Description**: Dense urban environment.
+- **Strategic Importance**: Primary source for **Scrap Metal** (85%). High chance for junk items like Broken Radios and Binoculars.
 
-### Hidden Vault
-- **Description**: A rare facility hidden within the landscape.
-- **Gameplay**: Likely contains high-tier loot or requires specific keys/skills.
+### Forest
+- **Description**: Wooded area.
+- **Strategic Importance**: Primary source for **Timber** (80%) and **Glowing Mushrooms** (55%).
 
-### Desert/Sand
-- **Description**: The most common, barren tile type.
+### Mountain / Quarry
+- **Description**: Excavated terrain.
+- **Strategic Importance**: Primary source for **Stone** (90%).
+
+### Desert / Sand
+- **Description**: Barren terrain. High chance for **Stone** (70%) and **Timber** (20%).
 
 ## Discovery
-The map is a blank slate at the start of a town's run.
-- **Movement-Based**: Tiles are revealed only as players physically traverse the map.
-- **Hidden Buildings**: High-value locations (Industrial, Lab, Oasis) are hidden until discovered by a survivor.
-- **Uncertainty**: The distance and direction of these buildings are randomized or unknown, requiring active scouting.
+- **Movement-Based**: Tiles are revealed as players traverse the map.
+- **Watchtower Prerequisite**: Headings for high-value facilities (Relays, Vaults) are hidden until the **[[Watchtower]]** is constructed at Base.

@@ -17,8 +17,8 @@ This project tracks reviews, ideas, mechanisms, and bugs for the game [Hex Survi
 - **`tools/`** and **`.gemini/commands/`**: Automation scripts and custom CLI commands (`/init`, `/update`, `/end`).
 
 ## Project Goals
-1. **Mechanism Clarification**: Document all confirmed game rules and identify "known unknowns" for testing.
-2. **Strategy Development**: Formulate optimal playstyles for collaborative survival and infrastructure growth.
+1. **Mechanism Clarification**: Document all confirmed game rules, including skill progressions, base infrastructure, and objective prerequisites (e.g., Watchtower), while identifying "known unknowns" for testing.
+2. **Strategy Development**: Formulate optimal playstyles for collaborative survival, Base resource management, and efficient Power Grid growth.
 3. **Bug Tracking**: Document technical issues to assist in game stability and developer feedback.
 4. **Knowledge Sharing**: Provide clear, accessible guides for new players to reduce the learning curve.
 
