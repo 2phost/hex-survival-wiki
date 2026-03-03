@@ -36,8 +36,5 @@ Training is a real-time process requiring significant dedication for higher leve
 - **Level 4**: 14 Days (1,209,600,000 ms)
 - **Level 5**: 30 Days (2,592,000,000 ms)
 
-## Specialist Roles (Inferred)
-- **The Scout**: Focuses on **AP Capacity** and **Scavenger's Eye** to map the world.
-- **The Quartermaster**: Focuses on **Pack Mule** and **Salvage** to manage resources.
-- **The Engineer**: Focuses on **Field Engineering** and **Generator Operations**.
-- **The Survivor**: Focuses on **Rest Recovery** and **Stim Conditioning**.
+## Strategic Role Suggestions (Inferred)
+Based on the skill prerequisites and town needs, players often adopt specialized roles to maximize efficiency. See the **[[ideas/strategic_suggestions#7-professional-specialization-suggested-roles|Strategic Suggestions]]** for detailed professional blueprints.

@@ -8,10 +8,12 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **[[mechanisms/light_and_darkness|Light Radius]]**: Power Poles/Lamps illuminate only the **current tile (0-radius)**.
 - **Biome Loot Weights**: Confirmed exact weights for all items in all biomes.
 - **Crafting Recipes**: Exact costs and skill locks confirmed for all functional equipment and infrastructure.
+- **Salvage Yields**: Exact primary and rare bonus yield probabilities confirmed for all scavengeable items.
 - **[[mechanisms/infrastructure|Base Constructions]]**: Exact resource requirements confirmed for all builds.
 - **Vitals Restoration**: Exact numerical effects for all consumables confirmed.
 - **Stim Conditioning**: Lvl 1/2/3 locks confirmed for Stim Pack/Injector/Overdrive.
 - **Generator Operations**: Tier locks confirmed for Gas/Biofuel/Plasma fuels.
+- **Facility Production**: Confirmed skill requirements for Alloy Plates (Lvl 1), Logic Cores (Lvl 2), Hydraulic Pistons (Lvl 2), and Signal Emitters (Lvl 3).
 - **Signal Booster**: Confirmed effect: Reveals nearest High Value Loot hex every morning.
 - **Scrap Workshop**: Confirmed effect: -25% AP cost for Searching within 1 hex of base.
 - **Beacon Amp**: Confirmed effect: Improves movement efficiency in darkness.
@@ -25,6 +27,6 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 
 ## 3. Advanced [[mechanisms/infrastructure|Infrastructure]] & Map
 - **Beacon Amp Logic**: Quantify the "improvement in movement efficiency" in darkness (e.g., is it -0.5 AP cost per hex?).
-- **Facility Production**: Confirm the resource cost and production time for **Alloy Plates** and **Logic Cores** at powered Industrial/Lab tiles.
+- **Facility Production Costs**: Confirm the exact resource costs (e.g., Scrap Metal, Circuit Boards) and production time required to manufacture components at powered Industrial/Lab tiles.
 - **Map Size**: Is the world finite or procedurally infinite?
 - **Visual Range**: Can players see the biome type of adjacent tiles without moving?

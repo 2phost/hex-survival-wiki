@@ -13,4 +13,4 @@ The map is initially shrouded in darkness or a "Fog of War." Players do not know
 - **Infinite vs. Finite**: It is unclear if the map is a fixed size (e.g., a 20x20 grid) or if it generates infinitely as players move.
 
 ## Scouting Strategy
-Successful towns likely use "Scouts" (players with high [[mechanisms/action_points|AP]] or Lamps) to map out the surrounding area and identify key resource hubs before the rest of the group commits to building Power Pole highways.
+Successful towns likely use "Scouts" (players with high **[[mechanisms/action_points|AP]]** or Lamps) to map out the surrounding area and identify key resource hubs before the rest of the group commits to building **[[mechanisms/infrastructure|Power Pole]]** highways.

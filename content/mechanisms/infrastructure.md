@@ -6,14 +6,15 @@ Players can contribute resources to the Base to construct defensive and utility 
 | Structure | Requirements | Effect / Description |
 | :--- | :--- | :--- |
 | **Barbed Wire Perimeter** | 2 Scrap Metal | Slows enemy movement by 1 hex; minor chip damage. |
-| **Reinforced Steel Bulkhead** | 1 Scrap, 3 Hardened Stone | Massive HP boost; small enemies cannot breach for 2 turns. |
-| **Watchtower** | 2 Raw Timber, 2 Hardened Stone | Simple lookout tower that reveals the direction of active world threats. |
+| **Reinforced Steel Bulkhead** | 1 Scrap Metal, 3 Hardened Stone | Massive HP boost; small enemies cannot breach for 2 turns. |
+| **[[mechanisms/infrastructure|Watchtower]]** | 2 Raw Timber, 2 Hardened Stone | Simple lookout tower
+ that reveals the direction of active world threats. |
 | **Scrap Workshop** | 1 Scrap Metal, 2 Circuit Boards | -25% AP cost for Searching within 1 hex of base. |
 | **Signal Booster (Radar)** | 1 Scrap Metal, 1 Circuit Boards | Reveals nearest High Value Loot hex every morning. |
 | **Hydroponic Patch** | 2 Raw Timber, 1 Hardened Stone, 1 Scrap Metal | Produces rations and fresh salad at the base each day. |
 | **Well** | 2 Raw Timber, 3 Hardened Stone | Produces 10 water at the base each day at midnight. |
 | **Automated Sentry** | 2 Scrap Metal, 1 Circuit Boards | Fires at nearest enemy during Nightly Siege. Ammo: 10/night. |
-| **Solar Panels** | 2 Solar Cell, 1 Circ., 2 Copper, 1 Scrap | Reduces daily base power drain by 10%. |
+| **Solar Panels** | 2 Solar Cell, 1 Circuit Boards, 2 Copper Wiring, 1 Scrap Metal | Reduces daily base power drain by 10%. |
 | **Research Lab** | 4 Scrap Metal | Enables research projects and lets the town process Research Material. |
 | **Research Lab II** | 60 Scrap Metal | Unlocks a second research slot and increases research speed by 20%. (Prerequisite: Research Lab) |
 | **Battery Storage** | 3 Car Battery, 4 Copper Wiring, 2 Scrap Metal | Increases maximum town power capacity by +20% permanently. |

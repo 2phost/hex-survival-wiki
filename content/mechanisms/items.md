@@ -8,6 +8,7 @@
 | **Glowing Bottle** | Common | A bottle lantern made from bio-luminescent fungus. Provides light for 2 days. | 2 Days | 0 |
 | **Functioning Lamp**| Rare | Provides illumination when carried; lights only the tile you stand on. | 5 Days | 0 |
 | **Lamp (empty)** | Common | A non-functional lamp. Salvageable for parts. | - | - |
+| **Power Pole** | Common | Deployable relay pole. Needed for the Place Pole action. | - | 0 |
 
 ## Consumables
 
@@ -37,13 +38,14 @@
 - **Circuit Boards**: Rare tech components used in solar and electronic construction.
 - **Chemical Sludge**: Rare industrial byproduct.
 - **Ancient Relic**: **Mythic** artifact found exclusively in **[[Hidden Vault|Hidden Vaults]]**.
-- **Research Material**: Recovered data drives, scientific logs, and salvageable pre-collapse notes used by the **[[Research Lab]]**.
-- **Car Battery**: Heavy lead-acid battery salvaged from old vehicles. Useful for expanding town power storage.
-- **Copper Wiring**: Electrical wiring for connecting solar panels to the grid.
+- **Research Material**: Rare recovered data drives, scientific logs, and salvageable pre-collapse notes used by the **[[Research Lab]]**.
+- **Battery**: Common energy storage cell. Essential for crafting functioning lamps.
+- **Car Battery**: Common heavy lead-acid battery salvaged from old vehicles. Useful for expanding town power storage.
+- **Copper Wiring**: Common electrical wiring for connecting solar panels to the grid.
 - **Scrap Metal**: Common structural material found in urban/industrial areas.
 - **Hardened Stone**: Common material found in deserts and mountains.
 - **Raw Timber**: Common material found in forests and oases.
-- **Old Glass Bottle**: Standard glass container.
+- **Old Glass Bottle**: Common standard glass container.
 
 ### Specialized Components
 - **Alloy Plate**: Rare precision-forged industrial plating produced by powered Industrial facilities (Field Engineering Lvl 1).
@@ -63,8 +65,8 @@
 | **Empty Canister** | Common | Dented fuel container. Scrap metal at best. |
 | **Worn Leather Pack** | Common | Decayed travel pack. Straps and buckles yield some materials. |
 | **Broken Binoculars**| Common | Shattered optics. Glass and metal casing can be salvaged. |
-| **Malfunc. Sensor** | Rare | Faulty detection unit. Electronics inside may be recoverable. |
-| **Ruined Gen Parts** | Common | Scorched generator internals. Mixed scrap and chemicals. |
-| **Damaged Solar Pnl** | Rare | Cracked photovoltaic array. Some cells might still function. |
-| **Gasoline Gen (E)** | Common | Empty gasoline generator. |
-| **Gasoline Gen** | Rare | This gasoline generator can probably power your house for a long time. |
+| **Malfunctioning Sensor** | Rare | Faulty detection unit. Electronics inside may be recoverable. |
+| **Ruined Generator Parts** | Common | Scorched generator internals. Mixed scrap and chemicals. |
+| **Damaged Solar Panel** | Rare | Cracked photovoltaic array. Some cells might still function. |
+| **Gasoline Generator (empty)** | Common | Empty gasoline generator. |
+| **Gasoline Generator** | Rare | This gasoline generator can probably power your house for a long time. |

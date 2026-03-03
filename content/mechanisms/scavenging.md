@@ -26,22 +26,22 @@ The following table represents the relative rarity/weight of finding specific it
 | **Car Battery** | 12 | 4 | 40 | 3 | 35 | 8 | 6 | 4 | 0 |
 | **Research Mat.** | 0 | 0 | 6 | 0 | 18 | 70 | 0 | 35 | 0 |
 | **Ancient Relic** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 |
-| **Gasoline Gen** | 0 | 0 | 6 | 0 | 12 | 10 | 0 | 16 | 0 |
-| **Gasoline Can.** | 10 | 0 | 20 | 10 | 30 | 0 | 0 | 20 | 0 |
-| **Gasoline Gen E**| 0 | 0 | 10 | 0 | 20 | 20 | 0 | 40 | 0 |
+| **Gasoline Generator** | 0 | 0 | 6 | 0 | 12 | 10 | 0 | 16 | 0 |
+| **Gasoline Canister** | 10 | 0 | 20 | 10 | 30 | 0 | 0 | 20 | 0 |
+| **Gasoline Generator (empty)** | 0 | 0 | 10 | 0 | 20 | 20 | 0 | 40 | 0 |
 | **Lamp (empty)** | 5 | 10 | 45 | 5 | 40 | 20 | 18 | 15 | 0 |
-| **Old Bottle** | 20 | 25 | 45 | 15 | 40 | 10 | 26 | 5 | 20 |
-| **Glowing Mush.** | 8 | 55 | 18 | 20 | 14 | 16 | 0 | 45 | 35 |
+| **Old Glass Bottle** | 20 | 25 | 45 | 15 | 40 | 10 | 26 | 5 | 20 |
+| **Glowing Mushroom** | 8 | 55 | 18 | 20 | 14 | 16 | 0 | 45 | 35 |
 | **Broken Radio** | 0 | 0 | 25 | 0 | 30 | 35 | 0 | 0 | 0 |
 | **Rusty Tool** | 12 | 8 | 30 | 0 | 25 | 0 | 0 | 0 | 0 |
 | **Cracked Lens** | 0 | 0 | 20 | 0 | 35 | 25 | 0 | 0 | 0 |
-| **Burnt Motor** | 0 | 0 | 15 | 0 | 40 | 25 | 0 | 0 | 0 |
+| **Burnt-Out Motor** | 0 | 0 | 15 | 0 | 40 | 25 | 0 | 0 | 0 |
 | **Empty Canister**| 10 | 0 | 25 | 0 | 45 | 0 | 0 | 0 | 0 |
-| **Worn Pack** | 0 | 30 | 15 | 20 | 0 | 0 | 0 | 0 | 0 |
-| **Broken Binos** | 0 | 0 | 25 | 20 | 15 | 0 | 0 | 0 | 0 |
-| **Malfunc Sensor**| 0 | 0 | 0 | 0 | 20 | 45 | 0 | 15 | 0 |
-| **Ruined Parts** | 0 | 0 | 25 | 0 | 35 | 20 | 0 | 0 | 0 |
-| **Damaged Solar** | 25 | 0 | 0 | 0 | 15 | 30 | 0 | 0 | 0 |
+| **Worn Leather Pack** | 0 | 30 | 15 | 20 | 0 | 0 | 0 | 0 | 0 |
+| **Broken Binoculars** | 0 | 0 | 25 | 20 | 15 | 0 | 0 | 0 | 0 |
+| **Malfunctioning Sensor**| 0 | 0 | 0 | 0 | 20 | 45 | 0 | 15 | 0 |
+| **Ruined Generator Parts** | 0 | 0 | 25 | 0 | 35 | 20 | 0 | 0 | 0 |
+| **Damaged Solar Panel** | 25 | 0 | 0 | 0 | 15 | 30 | 0 | 0 | 0 |
 
 ## Specialized Tile Properties
 - **[[Hidden Vault]]**: Guaranteed **Ancient Relic** (Weight 100).
