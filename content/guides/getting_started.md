@@ -4,21 +4,17 @@ Welcome to the town, survivor. You've joined a collaborative effort to keep the 
 
 ## 1. New Player Priorities (The First Hour)
 Your survival depends on these three immediate actions:
-1. **Check Your Vitals**: Look at your Hunger and Thirst. If they are low, find **Fresh Drinking Water** or **Rations** immediately.
-2. **Start a [[mechanisms/skills|Skill]]**: Go to the **Skills** menu and start training **[[mechanisms/action_points|AP]] Capacity Lvl 1** or **Stim Conditioning Lvl 1** (both take 1 hour). This costs **0 [[mechanisms/action_points|AP]]**.
-3. **Scout for Resources**: Move to an adjacent hex (1 [[mechanisms/action_points|AP]]) and click **Scavenge** (0 [[mechanisms/action_points|AP]]) to start your first hourly loot roll.
+1. **Check Your Vitals**: Look at your Hunger and Thirst. If they are low, find **Clean Water** or **Rations** immediately.
+2. **Start a [[mechanisms/skills|Skill]]**: Go to the **Skills** menu and start training **[[mechanisms/action_points|AP]] Capacity Lvl 1** or **Stim Conditioning Lvl 1**. 
+    - **Cost**: **0 [[mechanisms/action_points|AP]]** to start.
+    - **Duration**: **1 Hour** (Real-time).
+3. **Scout for Resources**: Move to an adjacent hex (**1 [[mechanisms/action_points|AP]]**) and click **Scavenge** (**0 [[mechanisms/action_points|AP]]**) to start your first hourly loot roll.
 
-## 2. The [[Tile: Base|Base]] Hub
-The Base is more than just a starting point; it is the town's life support system.
-- **"Enter Base" Button**: When standing on the Base hex, use the **Enter Base** button to access the **Town Bank**.
-- **The Bank**: Deposit your found materials (**Timber, Stone, Scrap Metal**) here so they can be used for **[[mechanisms/base_and_resources|Base Constructions]]**.
-- **Survival Status**: Monitor the **Light & Survival Bar** (e.g., 72%) and the **Night Use** (e.g., 20%) in the Base menu. If that bar hits 0%, the game is over for everyone.
-
-## 3. The Golden Rule: Stay in the Light
+## 2. Stay in the Light (The Golden Rule)
 The "Darkness" in this world is lethal.
-- **Never move into a dark hex** unless you have a light source (like your **[[Starter Lamp]]**) or you are certain it is within the town's power grid.
-- Moving into a dark hex without light results in immediate death: **"Consumed by darkness."**
-- **CRITICAL WARNING**: If your lamp shows **"1 day remaining,"** you must be in a permanently lit hex (Base or Power Pole) *before* the [[Midnight]] transition. If your lamp expires while you are in an unlit hex at Day Change, you will die instantly.
+- **Lethal Movement**: Moving into a dark hex without a light source (like your **[[Starter Lamp]]**) results in immediate death: **"Consumed by darkness."**
+- **[[mechanisms/infrastructure|Power Poles]]**: These create permanently lit tiles. A powered pole illuminates only its **current tile (0-radius)**.
+- **The [[Midnight]] Trap**: If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex (Base or Power Pole) *before* the [[Midnight]] transition. If it expires in the dark, you die instantly.
 
 ## 2. Managing Your Vitals
 You have four status bars: **[[Hunger]], [[Thirst]], [[mechanisms/action_points|Action Points]] ([[mechanisms/action_points|AP]]), and Activity.**

@@ -5,18 +5,18 @@ Crafting allows players to combine base resources or damaged items into function
 
 ## Known Recipes (Combinations)
 
-| Output | Inputs |
-| :--- | :--- |
-| **Functioning Lamp** | 1 Battery + 1 Lamp (empty) |
-| **Glowing Bottle** | 1 Old Glass Bottle + 1 Glowing Mushroom |
-| **Gasoline Generator** | 1 Gasoline Generator (empty) + 1 Gasoline Canister |
-| **Solar Cell** | 1 Circuit Boards + 2 Copper Wiring + 1 Scrap Metal |
-| **Power Pole** | 1 Copper Wiring + 1 Scrap Metal |
+| Output | Inputs | Status | Requirement |
+| :--- | :--- | :--- | :--- |
+| **Functioning Lamp** | 1 Battery + 1 Lamp (empty) | **Available** | None |
+| **Glowing Bottle** | 1 Old Glass Bottle + 1 Glowing Mushroom | **Available** | None |
+| **Gasoline Generator** | 1 Gas Gen (E) + 1 Gas Canister | **Locked** | Gen. Ops Lvl 1 |
+| **Solar Cell** | 1 Circuit + 2 Copper + 1 Scrap | **Locked** | Field Eng. Lvl 2 |
+| **Power Pole** | 1 Copper Wiring + 1 Scrap Metal | **Available** | None |
 
 ---
 
 ## Deconstruction (Salvage)
-With the **[[mechanisms/skills|Salvage]]** skill, players can break down items into raw materials. The percentages below represent the base probability of receiving that resource per salvage action.
+With the **[[mechanisms/skills|Salvage]]** skill, players can break down items into raw materials.
 
 | Item | Primary Yield (Prob.) | Rare Bonus (Prob.) |
 | :--- | :--- | :--- |
@@ -26,13 +26,13 @@ With the **[[mechanisms/skills|Salvage]]** skill, players can break down items i
 | **Solar Cell** | Circuit Boards (30%), Copper (50%), Scrap (30%) | Research Mat (4%) |
 | **Power Pole** | Copper Wiring (50%), Scrap Metal (40%) | - |
 | **Glowing Bottle** | Old Glass Bottle (50%), Glowing Mush (30%) | - |
-| **Broken Radio** | Scrap (50%), Copper (30%), Battery (20%) | Circuit Boards (5%) |
+| **Broken Radio** | Scrap Metal (50%), Copper (30%), Battery (20%) | Circuit Boards (5%) |
 | **Rusty Tool** | Scrap Metal (60%), Stone (20%) | - |
-| **Cracked Lens** | Old Glass Bottle (50%), Scrap (30%) | Research Mat (3%) |
-| **Burnt-Out Motor** | Scrap (50%), Copper (40%) | Chem Sludge (8%) |
+| **Cracked Lens** | Old Glass Bottle (50%), Scrap Metal (30%) | Research Mat (3%) |
+| **Burnt-Out Motor** | Scrap Metal (50%), Copper (40%) | Chem Sludge (8%) |
 | **Empty Canister** | Scrap Metal (50%) | - |
 | **Worn Leather Pack** | Timber (40%), Scrap Metal (20%) | Glowing Mush (5%) |
-| **Broken Binoculars** | Old Glass Bottle (40%), Scrap (40%) | Research Mat (4%) |
+| **Broken Binoculars** | Old Glass Bottle (40%), Scrap Metal (40%) | Research Mat (4%) |
 | **Malfunc. Sensor** | Circuit Boards (40%), Battery (30%) | Research Mat (10%) |
 | **Ruined Gen Parts** | Scrap (50%), Copper (30%), Sludge (20%) | Circuit Boards (6%) |
 | **Damaged Solar Pnl** | Solar Cell (30%), Copper (50%), Scrap (30%) | Circuit Boards (8%) |

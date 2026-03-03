@@ -1,38 +1,40 @@
-# Mechanism: [[mechanisms/scavenging|Scavenging]]
+# Mechanism: [[mechanisms/scavenging|Scavenging]] and Loot Tables
 
-## Description
-[[mechanisms/scavenging|Scavenging]] is the primary method of resource gathering in Hex Survival. Each zone on the map is represented as a hexagon.
+## Scavenging Logic
+- **Action**: Searching costs Action Points (AP).
+- **Success Rate**: Base success rates are improved by the **[[mechanisms/skills|Scavenger's Eye]]** skill (+5% per level).
+- **Biome Specifics**: Loot is heavily dependent on the tile type.
 
-## Rules
-- **Hexagonal Zones**: Every zone is a hexagon that can be interacted with for scavenging.
-- **Base Restriction**: **[[Tile: Base|Scavenging is impossible in the Base.]]** The Base is a safe zone for management and storage, not resource gathering.
-- **Activity Status**: [[mechanisms/scavenging|Scavenging]] is tracked as an active state in the player's status bar, distinguishing it from other states like "Resting".
-- **Toggle [[mechanisms/scavenging|Scavenging]]**: Players can start and stop the scavenging process at any time, as many times as they want. **This action is free and consumes 0 [[mechanisms/action_points|AP]].**
-- **Resource Depletion**: Zones have a limited resource pool. After a certain number of searches, a zone will become depleted.
-## Loot Timing
-[[mechanisms/scavenging|Scavenging]] is a persistent, time-based activity rather than a single click.
-- **Hourly Checks**: While the scavenging state is active, the game performs a loot "roll" every hour of real time.
-- **Probability**: There is a set probability of an item "dropping" (appearing on the ground or in the inventory) at each hourly interval.
-- **Skill Synergy**: The **Scavenger's Eye** skill (+5% loot chance per level) directly improves this hourly roll.
+## Biome Loot Weights
+The following table represents the relative rarity/weight of finding specific items in each biome. Higher numbers indicate a higher chance.
 
-## Biome Loot Tables (Primary Drops)
-The probability of finding specific items varies significantly based on the tile's biome:
+| Item | Desert | Forest | Ruined City | Mountain | Industrial | Lab | Farm | Vault | Oasis |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Rations** | 2 | 8 | 20 | 1 | 6 | 0 | 90 | 2 | 4 |
+| **Clean Water** | 10 | 40 | 15 | 10 | 5 | 0 | 35 | 10 | 90 |
+| **Salad** | 0 | 8 | 2 | 0 | 1 | 0 | 45 | 0 | 8 |
+| **Stim Pack** | 6 | 8 | 14 | 4 | 10 | 6 | 4 | 3 | 2 |
+| **Scrap Metal** | 18 | 5 | 85 | 10 | 60 | 20 | 22 | 10 | 0 |
+| **Raw Timber** | 20 | 80 | 15 | 10 | 5 | 0 | 25 | 0 | 10 |
+| **Stone** | 70 | 10 | 15 | 90 | 25 | 0 | 14 | 15 | 5 |
+| **Copper Wiring** | 5 | 5 | 30 | 10 | 45 | 40 | 18 | 20 | 0 |
+| **Circuit Boards**| 0 | 0 | 8 | 0 | 12 | 75 | 0 | 25 | 0 |
+| **Chemical Sludge**| 0 | 0 | 5 | 0 | 70 | 15 | 0 | 20 | 0 |
+| **Battery** | 10 | 10 | 5 | 0 | 30 | 60 | 12 | 10 | 0 |
+| **Car Battery** | 12 | 4 | 40 | 3 | 35 | 8 | 6 | 4 | 0 |
+| **Research Mat.** | 0 | 0 | 6 | 0 | 18 | 70 | 0 | 35 | 0 |
+| **Ancient Relic** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 |
+| **Gasoline Gen** | 0 | 0 | 6 | 0 | 12 | 10 | 0 | 16 | 0 |
+| **Gasoline Can.** | 10 | 0 | 20 | 10 | 30 | 0 | 0 | 20 | 0 |
+| **Lamp (empty)** | 5 | 10 | 45 | 5 | 40 | 20 | 18 | 15 | 0 |
+| **Old Bottle** | 20 | 25 | 45 | 15 | 40 | 10 | 26 | 5 | 20 |
+| **Glowing Mush.** | 8 | 55 | 18 | 20 | 14 | 16 | 0 | 45 | 35 |
 
-| Resource | Best Biome | Prob. | Other Biomes |
-| :--- | :--- | :--- | :--- |
-| **Clean Water** | **Oasis** | 90% | Forest (40%), Farm Facility (35%) |
-| **Rations** | **Farm Facility** | 90% | Ruined City (20%), Forest (8%) |
-| **Timber** | **Forest** | 80% | Farm Facility (25%), Desert (20%) |
-| **Scrap Metal** | **Ruined City** | 85% | Industrial (60%), Electronic Lab (20%) |
-| **Stone** | **Mountain** | 90% | Desert (70%), Industrial (25%) |
-| **Circuit Boards** | **Electronic Lab** | 75% | Hidden Vault (25%), Industrial (12%) |
-| **Chemical Sludge**| **Industrial** | 70% | Hidden Vault (20%), Electronic Lab (15%) |
-| **Research Mat.** | **Electronic Lab** | 70% | Hidden Vault (35%), Industrial (18%) |
-| **Battery** | **Electronic Lab** | 60% | Industrial (30%), Farm Facility (12%) |
-| **Ancient Relic** | **Hidden Vault** | 100% | (Only found in Vaults) |
-
-## Notes
-- The ability to start and stop scavenging suggests a time-based or progress-based system that persists even when interrupted.
-- Depletion mechanics likely force players to move and explore new hexes.
-- **Electronic Labs** and **Industrial Zones** are the primary hubs for advanced tech materials.
-- **Farm Facilities** and **Oases** are critical for survival vitals (Food/Water).
+## Specialized Tile Properties
+- **[[Hidden Vault]]**: Guaranteed **Ancient Relic** (Weight 100).
+- **Electronic Lab**: Best source for **Circuit Boards**, **Batteries**, and **Research Material**.
+- **Industrial Zone**: Best source for **Chemical Sludge**, **Scrap Metal**, and **Fuel**.
+- **Farm Facility**: Primary source of **Rations** and **Salad**.
+- **Oasis**: Primary source of **Clean Water**.
+- **Desert/Mountain**: Primary source of **Stone**.
+- **Forest**: Primary source of **Timber**.
