@@ -9,8 +9,8 @@ Hex Survival operates on a day-based progression with real-time countdowns.
 ## Power System: The City's Lifeblood
 Power is the most critical resource in Hex Survival. The city survives **only** while it has light.
 
+- **Light & Survival Bar**: Visible in the **[[Tile: Base|Base]]** menu, this meter tracks the town's current energy reserve (e.g., 72%). **At 0%, the town falls and the run ends.**
+- **Night Use**: The amount of power consumed during the [[Midnight]] transition (e.g., 20%). This drain increases as the grid expands.
+- **Efficiency**: **[[Solar Panels]]** can be built to reduce this daily drain by 10%.
+- **Capacity**: **[[Battery Storage]]** increases the maximum power the town can hold by +20%.
 - **Critical [[mechanisms/infrastructure|Infrastructure]]**: Lights, defenses, and utility systems all rely on energy. If power fails, these systems collapse.
-- **[[mechanisms/light_and_darkness|The Darkness]] Game Over**: If critical systems fail due to power shortages and the city falls into darkness, **everyone dies and the run is over.**
-- **Monitoring Drain**: Players must monitor the daily power drain. As the city expands with more power poles and facilities, the drain increases.
-- **Production Expansion**: Survivors must collaboratively build and fuel Generators and Solar Panels to increase production before drain exceeds capacity.
-- **Safety Reserve**: Maintaining a power surplus is a top priority to survive unexpected threats or "bad days."

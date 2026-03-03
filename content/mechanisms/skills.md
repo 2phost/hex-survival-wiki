@@ -15,7 +15,10 @@
     - **Lvl 1**: 1 hour of real time.
     - **Lvl 2**: 24 hours of real time.
 - **Rest Recovery**: Grants a chance for +1 extra [[mechanisms/action_points|AP]] each rest period (per hour): 10% per level (up to 50%).
-- **Stim Conditioning**: Trains metabolism to use [[mechanisms/action_points|AP]] recovery stims. **Lvl 1 takes 1 hour of real time to learn.** Lvl 1 is required to use basic Stim Packs. Unlocks common (Lvl 1), rare (Lvl 2), and mythic (Lvl 3) stims.
+- **Stim Conditioning**: Trains metabolism to use [[mechanisms/action_points|AP]] recovery stims. 
+    - **Lvl 1**: 1 hour of real time. Required to use basic Stim Packs.
+    - **Lvl 2**: 24 hours of real time. Unlocks use of rare stims.
+    - **Lvl 3**: Unlocks mythic stims.
 
 ### [[mechanisms/exploration|Exploration]] & Inventory
 - **Scavenger's Eye**: +5% loot chance when searching per level. Improves the "roll" vs the encounter rather than auto-finding.

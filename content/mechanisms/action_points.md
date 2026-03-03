@@ -6,7 +6,8 @@
 ## Usage
 - **Disabling Threats**: Specific quest actions (e.g., disabling a Corrupted Relay) require a set amount of [[mechanisms/action_points|AP]] (e.g., 2 [[mechanisms/action_points|AP]]).
 - **Movement**: Consumes **1 [[mechanisms/action_points|AP]] per hex**. This cost is uniform across all tile types (Desert, Mountain, etc.).
-- **[[mechanisms/scavenging|Scavenging]]**: Does **not** consume [[mechanisms/action_points|AP]] over time; starting and stopping the activity is also free.
+- **[[mechanisms/scavenging|Scavenging]]**: Does **not** consume [[mechanisms/action_points|AP]] over time; starting and stopping the activity is also free (0 [[mechanisms/action_points|AP]]).
+- **Inventory & [[mechanisms/skills|Skills]]**: Opening the inventory, consuming items, or starting/pausing a skill consumes **0 [[mechanisms/action_points|AP]]**.
 - **Restoration**: 
     - **Passive Regeneration**: While the player is in the **Resting** state (not scavenging), they restore **1 [[mechanisms/action_points|AP]] every hour** of real time.
     - **Skill Bonus**: The "Rest Recovery" skill provides a chance (10% per level) to gain an additional +1 [[mechanisms/action_points|AP]] during this hourly window.

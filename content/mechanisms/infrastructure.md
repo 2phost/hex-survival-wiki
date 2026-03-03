@@ -16,3 +16,15 @@ Power Poles serve as the physical link between the town's central energy source 
 - **Status Indicator**: When a tile containing a building is successfully connected to the grid, it displays: **"Grid Power: Online ready"**.
 - **Operational Requirement**: Specialized tiles (e.g., [[Industrial Zone]], Electronic Lab) cannot function or start production unless they are "Online."
 - **Visual Feedback**: This provides clear confirmation to the player that their "Power Highway" has successfully reached its destination.
+
+## Base Constructions
+Unlike Power Poles, which are placed on individual hexes, these projects are managed through the **"Enter Base"** menu and provide town-wide benefits or resource generation.
+
+- **[[Watchtower]]**: Reveals objective directions.
+- **[[Hydroponic Patch]]**: Daily food production.
+- **[[Well]]**: Daily water production (10 units).
+- **[[Solar Panels]]**: Power drain reduction (-10%).
+- **[[Research Lab]]**: Unlocks research projects.
+- **[[Battery Storage]]**: Increases max power capacity (+20%).
+
+For full details on costs and effects, see **[[mechanisms/base_and_resources|Base and Resources]]**.

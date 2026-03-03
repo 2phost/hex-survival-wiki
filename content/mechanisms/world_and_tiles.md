@@ -8,9 +8,10 @@ The map of Hex Survival is composed of various hexagonal tile types, each repres
 ### Base
 - **Description**: The starting hub for all survivors in a town.
 - **Gameplay**: 
-    - **Safety**: Likely the primary location for depositing resources (Rations, Water, Batteries).
+    - **Safety**: Primary location for depositing resources (Rations, Water, Batteries).
+    - **No [[mechanisms/scavenging|Scavenging]]**: Scavenging is not possible on the Base tile.
     - **[[mechanisms/infrastructure|Infrastructure]]**: Usually has inherent light and serves as the respawn point.
-    - **Coordination**: The central point for "Emergency Stockpile" objectives.
+    - **Coordination**: The central point for "Emergency Stockpile" objectives and all **[[mechanisms/base_and_resources|Base Constructions]]**.
 
 ### Industrial Zone
 - **Description**: A manufacturing and processing complex.

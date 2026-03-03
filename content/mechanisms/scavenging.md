@@ -5,6 +5,7 @@
 
 ## Rules
 - **Hexagonal Zones**: Every zone is a hexagon that can be interacted with for scavenging.
+- **Base Restriction**: **[[Tile: Base|Scavenging is impossible in the Base.]]** The Base is a safe zone for management and storage, not resource gathering.
 - **Activity Status**: [[mechanisms/scavenging|Scavenging]] is tracked as an active state in the player's status bar, distinguishing it from other states like "Resting".
 - **Toggle [[mechanisms/scavenging|Scavenging]]**: Players can start and stop the scavenging process at any time, as many times as they want. **This action is free and consumes 0 [[mechanisms/action_points|AP]].**
 - **Resource Depletion**: Zones have a limited resource pool. After a certain number of searches, a zone will become depleted.

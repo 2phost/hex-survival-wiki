@@ -20,3 +20,20 @@
 
 ### Fresh Drinking Water
 - **Effect**: Reduces "Thirsty" when consumed.
+
+### Fresh Salad
+- **Effect**: Reduces "Hunger" when consumed. Produced by the **[[Hydroponic Patch]]**.
+
+## Materials & Resources
+### Timber / Stone
+- **Description**: Raw building materials found via [[mechanisms/scavenging|Scavenging]].
+- **Use**: Required for **[[Watchtower]]**, **[[Well]]**, and **[[Hydroponic Patch]]**.
+
+### Scrap Metal / Copper Wiring
+- **Use**: Fundamental for **[[Power Poles]]** and most advanced constructions.
+
+### Car Battery
+- **Use**: High-capacity energy storage. Required for **[[Battery Storage]]**.
+
+### Solar Cell / Circuit Boards
+- **Use**: Advanced tech components required for **[[Solar Panels]]**.
