@@ -1,3 +1,28 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Hex Survival Custom Theme
+h1, h2, h3, h4 {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+a {
+  text-shadow: 0 0 5px rgba(250, 204, 21, 0.2);
+  transition: all 0.2s ease-in-out;
+  
+  &:hover {
+    text-shadow: 0 0 12px rgba(250, 204, 21, 0.6);
+  }
+}
+
+.search-button {
+  border: 1px solid rgba(250, 204, 21, 0.3) !important;
+  background-color: #1a1a1d !important;
+}
+
+.popover {
+  border: 1px solid var(--secondary) !important;
+  box-shadow: 0 0 20px rgba(250, 204, 21, 0.15) !important;
+}
