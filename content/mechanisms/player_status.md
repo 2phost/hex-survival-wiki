@@ -2,15 +2,15 @@
 
 ## Vitals
 The player must manage several primary status bars to survive:
-1. **Hunger**: Replenished by food/rations. **Drains significantly at [[Midnight]].**
-2. **Thirst**: Replenished by fresh drinking water. **Drains significantly at [[Midnight]].**
+1. **[[mechanisms/hunger|Hunger]]**: Replenished by food/rations. **Drains significantly at [[Midnight]].**
+2. **[[mechanisms/thirst|Thirst]]**: Replenished by fresh drinking water. **Drains significantly at [[Midnight]].**
 3. **Health**: Managed by finding **Medicine** and recovery items. 
 4. **[[mechanisms/action_points|Action Points]] ([[mechanisms/action_points|AP]])**: Currency for performing active tasks on the map.
 5. **Activity Status**: Displays current state (Resting, [[mechanisms/scavenging|Scavenging]]).
 
 ## The [[Midnight]] Transition
-Survival vitals ([[Hunger]] and [[Thirst]]) are deducted at the **[[Midnight]]** cycle, creating a daily "survival check" where the player must have enough resources to survive the transition. 
-- **The "Midnight Toll"**: Both **Hunger and Thirst drain by 40%** (4 out of 10 bars) during the transition from Day 3 to Day 4 (and likely every midnight).
+Survival vitals (**[[mechanisms/hunger|Hunger]]** and **[[mechanisms/thirst|Thirst]]**) are deducted at the **[[Midnight]]** cycle, creating a daily "survival check" where the player must have enough resources to survive the transition. 
+- **The "Midnight Toll"**: Both **[[mechanisms/hunger|Hunger]] and [[mechanisms/thirst|Thirst]] drain by 40%** (4 out of 10 bars) during the transition from Day 3 to Day 4 (and likely every midnight).
 - **Lamps**: Standing in an unlit hex during the midnight transition when a lamp expires results in **instant death.**
 - **Town Power**: The city's energy reserve also drains at this point.
 

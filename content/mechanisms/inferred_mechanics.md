@@ -13,7 +13,9 @@ These are logical deductions based on established gameplay patterns and official
 - **Inferred Power/Ammo Loop**: Does the Sentry turret consume power or just the 10 ammo? Is the ammo automatically deducted from base resources or must it be manually loaded?
 - **Inferred Breach Consequences**: If a breach occurs, is it a direct drain on town power, a destruction of infrastructure (Power Poles), or a reduction in base population?
 
-## 3. Narrative Inferences (The Setting)
-- **[[mechanisms/world_and_tiles|Tile Types]]**: The existence of **Farm Facilities** and **Electronic Labs** suggests a world that was once highly industrialized and possibly managed by a centralized AI or corporate entity.
-- **[[mechanisms/light_and_darkness|The Darkness]]**: May be a "Nanite Cloud," a "Corrupted Network," or a "Biological Plague" rather than just a lack of photons, as it physically "consumes" those without light.
-- **Ancient Relics**: Found only in **Hidden Vaults**, these suggest a pre-collapse civilization with technology far beyond the "scrap metal" era of the current scavengers.
+## 4. Starvation & Dehydration Consequences
+While the exact mechanics of 0% vitals are being verified, it is inferred that:
+- **Starvation**: Health begins to drain every hour while at 0% hunger. Movement may cost more AP or be disabled entirely. Regeneration of health or AP may be halted.
+- **Dehydration**: Health begins to drain every hour while at 0% thirst. AP regeneration and movement may be severely impaired. Death occurs much faster from thirst than from hunger.
+- **Vitals Restoration Timing**: Are Well/Hydroponic resources added *before* or *after* the hunger/thirst check at Midnight? (Cross-referenced with [[mechanisms/verification_list|Verification List]]).
+

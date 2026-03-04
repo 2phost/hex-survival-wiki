@@ -29,8 +29,8 @@
 | Item | Rarity | Power Refill | Requirement | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **Gasoline Canister**| Rare | **+25%** | Gen. Ops Lvl 1 | Fuel for the base generators. Refills 25% town power when used at base. |
-| **Biofuel Cell** | Rare | **+40%** | Gen. Ops Lvl 2 | Refined high-density biofuel cell. Refills 40% town power. |
-| **Plasma Fuel Rod** | Mythic | **+60%** | Gen. Ops Lvl 3 | Experimental pre-collapse fuel rod. Refills 60% town power. |
+| **Biofuel Cell** | Rare | **+40%** | Gen. Ops Lvl 2 | Refined high-density biofuel cell. Refills 40% town power and requires Generator Operations II. |
+| **Plasma Fuel Rod** | Mythic | **+60%** | Gen. Ops Lvl 3 | Experimental pre-collapse fuel rod. Refills 60% town power and requires Generator Operations III. |
 
 ## Materials & Resources
 

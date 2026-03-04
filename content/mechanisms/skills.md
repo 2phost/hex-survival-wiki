@@ -1,40 +1,76 @@
 # Mechanism: [[mechanisms/skills|Skills]] and Specialization
 
+In Hex Survival, skills represent a player's long-term specialization. Training occurs in real-time, making each choice critical for the town's survival.
+
+## Skill Progression (Real-Time)
+Training a skill costs **0 [[mechanisms/action_points|AP]]** but takes a significant amount of actual time.
+
+| Level | Training Duration |
+| :--- | :--- |
+| **Level 1** | 1 Hour |
+| **Level 2** | 24 Hours (1 Day) |
+| **Level 3** | 7 Days |
+| **Level 4** | 14 Days |
+| **Level 5** | 30 Days |
+
+---
+
 ## Core Skills
 
-| Skill | Max Lvl | Description | Effect |
-| :--- | :--- | :--- | :--- |
-| **AP Capacity** | 5 | +1 max Action Points per level. Permanent character upgrade. | +1 Max AP per level. |
-| **Rest Recovery** | 5 | Gain a chance for +1 extra AP each rest period (per hour): 10% per level, up to 50%. | +10% chance per level (Max 50%). |
-| **Scavenger's Eye** | 5 | 5% higher chance to find loot when searching (per level). Does not auto-find; improves roll vs encounter. | +5% search success chance per level. |
-| **Pack Mule** | 3 | +1 carried inventory slot per level (max +3). 1 item always = 1 slot. | +1 slot per level (Max +3). |
-| **Salvage** | 5 | Learn to deconstruct items into base resources. Level 1 unlocks deconstruction. Higher levels improve base yield (+10% per level) and increase chance for rare bonus materials (+5% per level). | Lvl 1: Unlock. +10% yield, +5% rare chance/lvl. |
-| **Field Engineering**| 3 | Operate and calibrate advanced field facilities. Required to set production in Industrial and Electronic Lab tiles. | Required for Industrial/Electronic Labs. |
-| **Gen. Operations** | 3 | Safely run and refuel the town generator. Higher levels are required for advanced fuel types. | Unlocks higher tier fuels. |
-| **Stim Conditioning**| 3 | Train your metabolism to use AP recovery stims. Level 1/2/3 unlocks common/rare/mythic stims. | Unlocks Common (Lvl 1), Rare (2), Mythic (3). |
+### [[mechanisms/action_points|AP]] Capacity
+- **Description**: +1 max Action Points per level. Permanent character upgrade.
+- **Max Level**: 5
+- **Effect**: Increases your maximum AP pool.
 
-## Progression & Prerequisites
+### Rest Recovery
+- **Description**: Gain a chance for +1 extra AP each rest period (per hour).
+- **Max Level**: 5
+- **Prerequisites**: [[mechanisms/action_points|AP]] Capacity Lvl 2
+- **Effect**: 10% per level, up to 50% max chance.
 
-The skill tree is designed to encourage cooperation through specialized roles.
+### [[mechanisms/scavenging|Scavenger's Eye]]
+- **Description**: Higher chance to find loot when searching.
+- **Max Level**: 5
+- **Prerequisites**: [[mechanisms/action_points|AP]] Capacity Lvl 1
+- **Effect**: +5% higher chance to find loot per level.
 
-```mermaid
-graph TD
-    AP[AP Capacity] --> RR[Rest Recovery Lvl 2 Prereq]
-    AP --> SE[Scavenger's Eye Lvl 1 Prereq]
-    AP --> PM[Pack Mule Lvl 1 Prereq]
-    AP --> SC[Stim Conditioning Lvl 1 Prereq]
-    SE --> SL[Salvage Lvl 1 Prereq]
-    SE --> FE[Field Engineering Lvl 2 Prereq]
-    FE --> GO[Gen. Operations Lvl 1 Prereq]
-```
+### Pack Mule (Inventory Capacity)
+- **Description**: +1 carried inventory slot per level.
+- **Max Level**: 3
+- **Prerequisites**: [[mechanisms/action_points|AP]] Capacity Lvl 1
+- **Effect**: Increases personal inventory slots (max +3).
 
-### Training Times
-Training is a real-time process requiring significant dedication for higher levels.
-- **Level 1**: 1 Hour (3,600,000 ms)
-- **Level 2**: 24 Hours (86,400,000 ms)
-- **Level 3**: 7 Days (604,800,000 ms)
-- **Level 4**: 14 Days (1,209,600,000 ms)
-- **Level 5**: 30 Days (2,592,000,000 ms)
+### Field Engineering
+- **Description**: Operate and calibrate advanced field facilities.
+- **Max Level**: 3
+- **Prerequisites**: [[mechanisms/scavenging|Scavenger's Eye]] Lvl 2
+- **Effect**: Required to set production in Industrial and Electronic Lab tiles.
+  - **Lvl 1**: Unlocks Alloy Plate production.
+  - **Lvl 2**: Unlocks Logic Core and Hydraulic Piston production.
+  - **Lvl 3**: Unlocks Signal Emitter production.
 
-## Strategic Role Suggestions (Inferred)
-Based on the skill prerequisites and town needs, players often adopt specialized roles to maximize efficiency. See the **[[ideas/strategic_suggestions#7-professional-specialization-suggested-roles|Strategic Suggestions]]** for detailed professional blueprints.
+### Generator Operations
+- **Description**: Safely run and refuel the town generator.
+- **Max Level**: 3
+- **Prerequisites**: Field Engineering Lvl 1
+- **Effect**: Required for advanced fuel types.
+  - **Lvl 1**: Gasoline Canister (+25% Power).
+  - **Lvl 2**: Biofuel Cell (+40% Power).
+  - **Lvl 3**: Plasma Fuel Rod (+60% Power).
+
+### Stim Conditioning
+- **Description**: Train your metabolism to use AP recovery stims.
+- **Max Level**: 3
+- **Prerequisites**: [[mechanisms/action_points|AP]] Capacity Lvl 1
+- **Effect**: Unlocks stim usage.
+  - **Lvl 1**: Stim Pack (+2 AP).
+  - **Lvl 2**: Stim Injector (+4 AP).
+  - **Lvl 3**: Stim Overdrive (+6 AP).
+
+### Salvage
+- **Description**: Learn to deconstruct items into base resources.
+- **Max Level**: 5
+- **Prerequisites**: [[mechanisms/scavenging|Scavenger's Eye]] Lvl 1
+- **Effect**: Unlocks deconstruction at Lvl 1. 
+  - **Yield**: +10% base yield per level.
+  - **Rare Chance**: +5% rare bonus chance per level.

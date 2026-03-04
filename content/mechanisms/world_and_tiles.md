@@ -11,40 +11,40 @@ The map of Hex Survival is composed of various hexagonal tile types, each repres
 
 ### Farm Facility
 - **Description**: A large-scale agricultural complex.
-- **Strategic Importance**: The primary source of food. **90% chance** for Rations and **45% chance** for Salad.
-- **Loot Profile**: Also contains Raw Timber (25%) and Scrap Metal (22%).
+- **Strategic Importance**: The primary source of food. **Weight 90** for **Rations** and **Weight 45** for **Salad**.
+- **Loot Profile**: Also contains **Raw Timber** (Weight 25) and **Scrap Metal** (Weight 22).
 
 ### Hidden Vault
 - **Description**: A rare, fortified pre-collapse bunker.
-- **Strategic Importance**: The only source for **Ancient Relics** (100% chance). 
-- **Loot Profile**: High concentration of tech: Research Material (35%), Circuit Boards (25%), and Chemical Sludge (20%).
+- **Strategic Importance**: The only source for **Ancient Relics** (Weight 100). 
+- **Loot Profile**: High concentration of tech: **Research Material** (Weight 35), **Circuit Boards** (Weight 25), and **Chemical Sludge** (Weight 20).
 
 ### Oasis
 - **Description**: A rare fertile area with water.
-- **Strategic Importance**: Primary source of **Clean Water** (90% chance). Also contains Glowing Mushrooms (35%).
+- **Strategic Importance**: Primary source of **Clean Water** (Weight 90). Also contains **Glowing Mushrooms** (Weight 35).
 
 ### Electronic Lab
 - **Description**: A specialized facility for advanced tech.
-- **Strategic Importance**: Primary source for **Circuit Boards** (75%), **Research Material** (70%), and **Battery** (60%).
+- **Strategic Importance**: Primary source for **Circuit Boards** (Weight 75), **Research Material** (Weight 70), and **Battery** (Weight 60).
 
 ### Industrial
 - **Description**: A manufacturing and processing complex.
-- **Strategic Importance**: Primary source for **Chemical Sludge** (70%) and **Copper Wiring** (45%). Required for producing Alloy Plates and Logic Cores.
+- **Strategic Importance**: Primary source for **Chemical Sludge** (Weight 70) and **Copper Wiring** (Weight 45). Required for producing Alloy Plates and Logic Cores.
 
 ### Ruined City
 - **Description**: Dense urban environment.
-- **Strategic Importance**: Primary source for **Scrap Metal** (85%). High chance for junk items like Broken Radios and Binoculars.
+- **Strategic Importance**: Primary source for **Scrap Metal** (Weight 85). High chance for junk items like **Broken Radios** and **Binoculars**.
 
 ### Forest
 - **Description**: Wooded area.
-- **Strategic Importance**: Primary source for **Raw Timber** (80%) and **Glowing Mushrooms** (55%).
+- **Strategic Importance**: Primary source for **Raw Timber** (Weight 80) and **Glowing Mushrooms** (Weight 55).
 
 ### Mountain
 - **Description**: Excavated terrain.
-- **Strategic Importance**: Primary source for **Hardened Stone** (90%).
+- **Strategic Importance**: Primary source for **Hardened Stone** (Weight 90).
 
 ### Desert
-- **Description**: Barren terrain. High chance for **Hardened Stone** (70%) and **Raw Timber** (20%).
+- **Description**: Barren terrain. High chance for **Hardened Stone** (Weight 70) and **Raw Timber** (Weight 20).
 
 ## Discovery
 - **Movement-Based**: Tiles are revealed as players traverse the map.

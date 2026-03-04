@@ -21,7 +21,6 @@ The following table represents the relative rarity/weight of finding specific it
 | **Scrap Metal** | 18 | 5 | 85 | 10 | 60 | 20 | 22 | 10 | 0 |
 | **Raw Timber** | 20 | 80 | 15 | 10 | 5 | 0 | 25 | 0 | 10 |
 | **Hardened Stone**| 70 | 10 | 15 | 90 | 25 | 0 | 14 | 15 | 5 |
-| **Copper Wiring** | 5 | 5 | 30 | 10 | 45 | 40 | 18 | 20 | 0 |
 | **Circuit Boards**| 0 | 0 | 8 | 0 | 12 | 75 | 0 | 25 | 0 |
 | **Chemical Sludge**| 0 | 0 | 5 | 0 | 70 | 15 | 0 | 20 | 0 |
 | **Battery** | 10 | 10 | 5 | 0 | 30 | 60 | 12 | 10 | 0 |
