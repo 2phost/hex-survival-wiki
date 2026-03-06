@@ -18,8 +18,8 @@
 | **[[items/cracked_lens|Cracked Lens]]** | 25 |
 | **[[items/burnt_motor|Burnt-Out Motor]]** | 25 |
 | **[[items/scrap_metal|Scrap Metal]]** | 20 |
-| **[[items/gasoline_generator_empty|Gasoline Generator (empty)]]** | 20 |
 | **[[items/lamp_empty|Lamp (empty)]]** | 20 |
+| **[[items/gasoline_generator_empty|Gasoline Generator (empty)]]** | 20 |
 | **[[items/ruined_generator_parts|Ruined Generator Parts]]** | 20 |
 | **[[items/glowing_mushroom|Glowing Mushroom]]** | 16 |
 | **[[items/chemical_sludge|Chemical Sludge]]** | 15 |
@@ -31,7 +31,6 @@
 | **[[items/plasma_fuel_rod|Plasma Fuel Rod]]** | 8 |
 | **[[items/stim_pack|Stim Pack]]** | 6 |
 | **[[items/stim_overdrive|Stim Overdrive]]** | 4 |
-
 ## Technical Information
 - **Asset ID**: `electronic_lab`
 - **Asset Path**: `tiles/electronics_01.png`

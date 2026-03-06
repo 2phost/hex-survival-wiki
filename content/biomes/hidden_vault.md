@@ -16,23 +16,22 @@
 | **[[items/circuit_boards|Circuit Boards]]** | 25 |
 | **[[items/chemical_sludge|Chemical Sludge]]** | 20 |
 | **[[items/gasoline_canister|Gasoline Canister]]** | 20 |
+| **[[items/copper_wiring|Copper Wiring]]** | 20 |
 | **[[items/gasoline_generator|Gasoline Generator]]** | 16 |
 | **[[items/stone|Hardened Stone]]** | 15 |
 | **[[items/lamp_empty|Lamp (empty)]]** | 15 |
 | **[[items/malfunctioning_sensor|Malfunctioning Sensor]]** | 15 |
 | **[[items/plasma_fuel_rod|Plasma Fuel Rod]]** | 14 |
 | **[[items/water|Clean Water]]** | 10 |
+| **[[items/stim_overdrive|Stim Overdrive]]** | 10 |
 | **[[items/scrap_metal|Scrap Metal]]** | 10 |
 | **[[items/battery|Battery]]** | 10 |
-| **[[items/stim_overdrive|Stim Overdrive]]** | 10 |
-| **[[items/copper_wiring|Copper Wiring]]** | 20 |
 | **[[items/biofuel_cell|Biofuel Cell]]** | 8 |
+| **[[items/stim_injector|Stim Injector]]** | 7 |
 | **[[items/old_glass_bottle|Old Glass Bottle]]** | 5 |
 | **[[items/car_battery|Car Battery]]** | 4 |
 | **[[items/stim_pack|Stim Pack]]** | 3 |
 | **[[items/rations|Rations]]** | 2 |
-| **[[items/stim_injector|Stim Injector]]** | 7 |
-
 ## Technical Information
 - **Asset ID**: `hidden_vault`
 - **Asset Path**: `tiles/hidden_vault_01.png`

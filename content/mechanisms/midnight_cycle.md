@@ -25,5 +25,5 @@ Automated facilities produce resources at this point:
 - **Facility Production**: Industrial or Lab components are added to the Bank.
 
 ## 5. The Nightly Siege
-Midnight triggers a defensive phase where enemies attempt to breach the town perimeter.
+Midnight triggers a defensive phase where enemies attempt to breach the town perimeter. (Exact breach consequences are being verified; see [[mechanisms/inferred_mechanics|Inferred Mechanics]]).
 - **Defense**: **[[base/constructions|Automated Sentries]]** and bulkheads activate to protect the town.

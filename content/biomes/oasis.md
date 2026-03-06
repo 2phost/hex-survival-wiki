@@ -16,7 +16,6 @@
 | **[[items/stone|Hardened Stone]]** | 5 |
 | **[[items/rations|Rations]]** | 4 |
 | **[[items/stim_pack|Stim Pack]]** | 2 |
-
 ## Technical Information
 - **Asset ID**: `oasis`
 - **Asset Path**: `tiles/oasis_01.png`

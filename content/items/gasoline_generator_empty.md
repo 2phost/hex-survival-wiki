@@ -1,15 +1,20 @@
 # Gasoline Generator (empty)
 **Rarity**: common
 **Category**: Material
-**Description**: Empty gasoline generator.
+**Description**: 
 
-## Crafting & Construction Usage
-- Used in recipe for [[items/gasoline_generator|Gasoline Generator]] (x1)
+## Usage
+- Usage: Material used in crafting and construction.
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[mechanisms/world_and_tiles|Ruined City]] | 10 |
-| [[mechanisms/world_and_tiles|Industrial]] | 20 |
-| [[mechanisms/world_and_tiles|Electronic Lab]] | 20 |
-| [[mechanisms/world_and_tiles|Hidden Vault]] | 40 |
+| [[biomes/desert|Desert]] | 0 |
+| [[biomes/electronic_lab|Electronic Lab]] | 20 |
+| [[biomes/farm_facility|Farm Facility]] | 0 |
+| [[biomes/forest|Forest]] | 0 |
+| [[biomes/hidden_vault|Hidden Vault]] | 40 |
+| [[biomes/industrial|Industrial]] | 20 |
+| [[biomes/mountain|Mountain]] | 0 |
+| [[biomes/oasis|Oasis]] | 0 |
+| [[biomes/ruined_city|Ruined City]] | 10 |

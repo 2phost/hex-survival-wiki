@@ -7,14 +7,14 @@ Once the basic **[[mechanisms/infrastructure|Watchtower]]** and **[[mechanisms/i
 
 - **[[mechanisms/infrastructure|Research Lab II]]**: A massive upgrade (60 Scrap) that unlocks a second research slot and increases research speed by 20%. This is critical for scaling your town's technical capabilities.
 - **[[mechanisms/infrastructure|Battery Storage]]**: Increases max power capacity by **+20%**. This provides a vital buffer for when the town is under siege or fuel is scarce.
-- **[[mechanisms/infrastructure|Fuel Refinery]]**: Converts **[[mechanisms/items|Chemical Sludge]]** into stable generator fuel. This allows the town to survive even if **[[mechanisms/items|Gasoline Canisters]]** are not being found.
+- **[[mechanisms/infrastructure|Fuel Refinery]]**: Converts **[[items/chemical_sludge|Chemical Sludge]]** into stable generator fuel. This allows the town to survive even if **[[mechanisms/items|Gasoline Canisters]]** are not being found.
 - **[[mechanisms/infrastructure|Beacon Amplifier]]**: A specialized system that improves town-wide movement efficiency in the darkness.
 
 ## 2. Professional Grid Expansion
 The "Loot Highway" is more than just a line of poles; it's the lifeblood of your town's industry.
 
 ### The Industrial Hub
-To produce advanced materials like **[[mechanisms/items|Alloy Plate]]s** and **[[mechanisms/items|Logic Core]]s**, you must connect the grid to an **[[mechanisms/world_and_tiles|Industrial]]** or **[[mechanisms/world_and_tiles|Electronic Lab]]** tile.
+To produce advanced materials like **[[items/alloy_plate|Alloy Plate]]s** and **[[items/logic_core|Logic Core]]s**, you must connect the grid to an **[[biomes/industrial|Industrial]]** or **[[biomes/electronic_lab|Electronic Lab]]** tile.
 - **Step 1**: Build **[[mechanisms/infrastructure|Power Poles]]** until they are adjacent to the target tile.
 - **Step 2**: Ensure a player with **[[mechanisms/skills|Field Engineering]]** (Lvl 1 for Industrial, Lvl 2 for Labs) is present to activate the facility.
 - **Step 3**: Once powered, these tiles allow for the production of specialized components needed for the highest-tier builds.

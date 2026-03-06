@@ -1,20 +1,20 @@
 # Old Glass Bottle
 **Rarity**: common
 **Category**: Material
-**Description**: Standard glass container.
+**Description**: 
 
-## Crafting & Construction Usage
-- Used in recipe for [[items/glowing_bottle|Glowing Bottle]] (x1)
+## Usage
+- Usage: Material used in crafting and construction.
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[mechanisms/world_and_tiles|Desert]] | 20 |
-| [[mechanisms/world_and_tiles|Forest]] | 25 |
-| [[mechanisms/world_and_tiles|Ruined City]] | 45 |
-| [[mechanisms/world_and_tiles|Mountain]] | 15 |
-| [[mechanisms/world_and_tiles|Industrial]] | 40 |
-| [[mechanisms/world_and_tiles|Electronic Lab]] | 10 |
-| [[mechanisms/world_and_tiles|Farm Facility]] | 26 |
-| [[mechanisms/world_and_tiles|Hidden Vault]] | 5 |
-| [[mechanisms/world_and_tiles|Oasis]] | 20 |
+| [[biomes/desert|Desert]] | 20 |
+| [[biomes/electronic_lab|Electronic Lab]] | 10 |
+| [[biomes/farm_facility|Farm Facility]] | 26 |
+| [[biomes/forest|Forest]] | 25 |
+| [[biomes/hidden_vault|Hidden Vault]] | 5 |
+| [[biomes/industrial|Industrial]] | 40 |
+| [[biomes/mountain|Mountain]] | 15 |
+| [[biomes/oasis|Oasis]] | 20 |
+| [[biomes/ruined_city|Ruined City]] | 45 |

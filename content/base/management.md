@@ -3,7 +3,7 @@
 Management of the town's collective assets is performed through a specialized interface accessible only at the Base.
 
 ## The "Enter Base" Menu
-When a player is standing on the **[[mechanisms/world_and_tiles|Tile: Base]]** hex, a context-sensitive **"Enter Base"** button appears on the main bottom menu. 
+When a player is standing on the **[[base/overview|Base]]** hex, a context-sensitive **"Enter Base"** button appears on the main bottom menu. 
 - **Purpose**: This menu provides access to the Town Bank, the Refueling system, and the Base Construction project list.
 
 ## 1. Town Resources (The Bank)

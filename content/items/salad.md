@@ -1,22 +1,25 @@
 # Salad
 **Rarity**: common
 **Category**: Consumable
-**Description**: Fresh greens.
+**Description**: 
+
+## Usage
+- Usage: Consume to restore 20 hunger and restore 1 AP.
 
 ## Consumable Stats
 - **Hunger**: -20
 - **Thirst**: 0
-- **AP**: +1
+- **AP**: 1
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[mechanisms/world_and_tiles|Desert]] | 0 |
-| [[mechanisms/world_and_tiles|Forest]] | 8 |
-| [[mechanisms/world_and_tiles|Ruined City]] | 2 |
-| [[mechanisms/world_and_tiles|Mountain]] | 0 |
-| [[mechanisms/world_and_tiles|Industrial]] | 1 |
-| [[mechanisms/world_and_tiles|Electronic Lab]] | 0 |
-| [[mechanisms/world_and_tiles|Farm Facility]] | 45 |
-| [[mechanisms/world_and_tiles|Hidden Vault]] | 0 |
-| [[mechanisms/world_and_tiles|Oasis]] | 8 |
+| [[biomes/desert|Desert]] | 0 |
+| [[biomes/electronic_lab|Electronic Lab]] | 0 |
+| [[biomes/farm_facility|Farm Facility]] | 45 |
+| [[biomes/forest|Forest]] | 8 |
+| [[biomes/hidden_vault|Hidden Vault]] | 0 |
+| [[biomes/industrial|Industrial]] | 1 |
+| [[biomes/mountain|Mountain]] | 0 |
+| [[biomes/oasis|Oasis]] | 8 |
+| [[biomes/ruined_city|Ruined City]] | 2 |

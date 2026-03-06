@@ -1,24 +1,20 @@
 # Raw Timber
 **Rarity**: common
 **Category**: Material
-**Description**: Common material found in forests and oases.
+**Description**: 
 
-## Crafting & Construction Usage
-- Used to build **[[mechanisms/infrastructure|Watchtower]]** (x2) — *Simple lookout tower that reveals the direction of active world threats.*
-- Used to build **[[mechanisms/infrastructure|Hydroponic Patch]]** (x2) — *Produces rations and fresh salad at the base each day.*
-- Used to build **[[mechanisms/infrastructure|Well]]** (x2) — *Produces 10 water at the base each day at midnight.*
-
-## Technical Information
-- **Asset ID**: `timber`
-- **Asset Path**: `items/timber.png`
+## Usage
+- Usage: Material used in crafting and construction.
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[mechanisms/world_and_tiles|Desert]] | 20 |
-| [[mechanisms/world_and_tiles|Forest]] | 80 |
-| [[mechanisms/world_and_tiles|Ruined City]] | 15 |
-| [[mechanisms/world_and_tiles|Mountain]] | 10 |
-| [[mechanisms/world_and_tiles|Industrial]] | 5 |
-| [[mechanisms/world_and_tiles|Farm Facility]] | 25 |
-| [[mechanisms/world_and_tiles|Oasis]] | 10 |
+| [[biomes/desert|Desert]] | 20 |
+| [[biomes/electronic_lab|Electronic Lab]] | 0 |
+| [[biomes/farm_facility|Farm Facility]] | 25 |
+| [[biomes/forest|Forest]] | 80 |
+| [[biomes/hidden_vault|Hidden Vault]] | 0 |
+| [[biomes/industrial|Industrial]] | 5 |
+| [[biomes/mountain|Mountain]] | 10 |
+| [[biomes/oasis|Oasis]] | 10 |
+| [[biomes/ruined_city|Ruined City]] | 15 |

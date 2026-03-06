@@ -32,13 +32,12 @@
 | **[[items/gasoline_generator_empty|Gasoline Generator (empty)]]** | 10 |
 | **[[items/circuit_boards|Circuit Boards]]** | 8 |
 | **[[items/stim_injector|Stim Injector]]** | 7 |
-| **[[items/research_material|Research Material]]** | 6 |
 | **[[items/gasoline_generator|Gasoline Generator]]** | 6 |
-| **[[items/battery|Battery]]** | 5 |
+| **[[items/research_material|Research Material]]** | 6 |
 | **[[items/chemical_sludge|Chemical Sludge]]** | 5 |
+| **[[items/battery|Battery]]** | 5 |
 | **[[items/salad|Salad]]** | 2 |
 | **[[items/stim_overdrive|Stim Overdrive]]** | 1 |
-
 ## Technical Information
 - **Asset ID**: `ruined_city`
 - **Asset Path**: `tiles/ruined_city_01.png`

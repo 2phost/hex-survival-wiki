@@ -1,10 +1,10 @@
 # Hex Survival Wiki
 
-Welcome to the **Hex Survival Wiki**, the comprehensive repository for surviving the Darkness.
+Welcome to the premium Hex Survival documentation. This wiki is organized into logical clusters to help you survive the darkness.
 
 ## 🚀 Quick Start
 - [[guides/getting_started|Getting Started Guide]]
-- [[ideas/strategic_suggestions|Strategic Insights]]
+- [[ideas/strategic_suggestions|Strategic Suggestions]]
 
 ## 🧭 Directory Structure
 
@@ -24,23 +24,13 @@ Detailed breakdown of every tile type and their loot tables.
 Complete list of all items, their stats, and usage.
 
 ### ⚙️ [[mechanisms/verification_list|Core Mechanisms]]
-The technical rules of the game:
-- [[mechanisms/midnight_cycle|Midnight Cycle]]
-- [[mechanisms/power_grid|Power Grid]]
-- [[mechanisms/scavenging_logic|Scavenging Logic]]
-- [[mechanisms/exploration_logic|Exploration Logic]]
-- [[mechanisms/expedition_objectives|Expedition Objectives]]
-- [[mechanisms/multiplayer_and_death|Multiplayer & Death]]
-- [[mechanisms/chat_system|Chat System]]
-- [[mechanisms/user_interface|User Interface]]
-- [[mechanisms/patch_notes|Patch Notes]]
+Technical game logic: [[mechanisms/midnight_cycle|Midnight Cycle]], [[mechanisms/power_grid|Power Grid]], [[mechanisms/scavenging_logic|Scavenging Logic]], [[mechanisms/exploration_logic|Exploration Logic]], and more.
 
-## 🗺️ Expedition & Tracking
+### 🗺️ Expedition & Tracking
 - [[mechanisms/expedition_objectives|Active Objectives]]
 - [[mechanisms/patch_notes|Patch Notes]]
 - [[mechanisms/verification_list|Verification List]]
 - [[ideas/dev_feedback_suggestions|Tester Feedback & Suggestions]]
-- [[mechanisms/inferred_mechanics|Inferred Game Logic]]
 
 ---
 *Maintained by the Hex Survival Documentation AI.*

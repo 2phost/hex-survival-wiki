@@ -5,11 +5,11 @@ These suggestions are intended for the developers to improve the player experien
 ## 1. Quality of Life (QoL) & UI
 - **Shared Storage Building**: To solve the "[[ideas/dev_feedback_suggestions#Item Overlay|Item Overlay]] Bug" and the 5-slot inventory limit, add a "Storage Crate" or "Warehouse" building at the Base. This provides a clean UI for shared resources rather than dropping items on the floor.
 - **Map Pinging System**: In a collaborative game, players need to "ping" a hex (e.g., "Found Oasis here" or "Need Power Pole here"). A simple alt-click on a tile could broadcast a coordinate to the town chat.
-- **Stim Buff Tracking**: With the addition of high-tier **[[mechanisms/items|Stim Injectors]]** and **[[mechanisms/items|Stim Overdrive]]**, a clear status icon should show the remaining duration of any active buffs and the "Conditioning" level required to use them.
+- **Stim Buff Tracking**: With the addition of high-tier **[[mechanisms/items|Stim Injectors]]** and **[[items/stim_overdrive|Stim Overdrive]]**, a clear status icon should show the remaining duration of any active buffs and the "Conditioning" level required to use them.
 - **Action Queueing**: For repetitive tasks like scavenging or "Resting," allow players to queue up a certain amount of [[mechanisms/action_points|AP]]/time so they don't have to click "Start" repeatedly.
 
 ## 2. [[mechanisms/infrastructure|Infrastructure]] & Base Building
-- **Rechargeable Batteries**: Instead of **Batteries** being one-time use, allow the **[[mechanisms/world_and_tiles|Electronic Lab]]** to have a "Charging Station" that uses town Power to refuel empty batteries.
+- **Rechargeable Batteries**: Instead of **Batteries** being one-time use, allow the **[[biomes/electronic_lab|Electronic Lab]]** to have a "Charging Station" that uses town Power to refuel empty batteries.
 - **Advanced Research Visualization**: The **[[mechanisms/infrastructure|Research Lab II]]** (+20% speed) should provide a clear progress bar for the second research slot to help the town coordinate long-term projects.
 - **Power Grid Map**: A dedicated overlay that shows the "connectedness" of the town's grid, making it clear where the next **[[mechanisms/infrastructure|Power Pole]]** should be placed.
 

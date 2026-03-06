@@ -25,7 +25,6 @@
 | **[[items/copper_wiring|Copper Wiring]]** | 5 |
 | **[[items/car_battery|Car Battery]]** | 4 |
 | **[[items/stim_injector|Stim Injector]]** | 2 |
-
 ## Technical Information
 - **Asset ID**: `forest`
 - **Asset Path**: `tiles/forest_01.png`

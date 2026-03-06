@@ -13,14 +13,14 @@
 | **[[items/scrap_metal|Scrap Metal]]** | 60 |
 | **[[items/copper_wiring|Copper Wiring]]** | 45 |
 | **[[items/empty_canister|Empty Canister]]** | 45 |
-| **[[items/old_glass_bottle|Old Glass Bottle]]** | 40 |
 | **[[items/lamp_empty|Lamp (empty)]]** | 40 |
+| **[[items/old_glass_bottle|Old Glass Bottle]]** | 40 |
 | **[[items/burnt_motor|Burnt-Out Motor]]** | 40 |
-| **[[items/ruined_generator_parts|Ruined Generator Parts]]** | 35 |
-| **[[items/cracked_lens|Cracked Lens]]** | 35 |
 | **[[items/car_battery|Car Battery]]** | 35 |
-| **[[items/gasoline_canister|Gasoline Canister]]** | 30 |
+| **[[items/cracked_lens|Cracked Lens]]** | 35 |
+| **[[items/ruined_generator_parts|Ruined Generator Parts]]** | 35 |
 | **[[items/battery|Battery]]** | 30 |
+| **[[items/gasoline_canister|Gasoline Canister]]** | 30 |
 | **[[items/broken_radio|Broken Radio]]** | 30 |
 | **[[items/stone|Hardened Stone]]** | 25 |
 | **[[items/rusty_tool|Rusty Tool]]** | 25 |
@@ -40,7 +40,6 @@
 | **[[items/timber|Raw Timber]]** | 5 |
 | **[[items/stim_overdrive|Stim Overdrive]]** | 2 |
 | **[[items/salad|Salad]]** | 1 |
-
 ## Technical Information
 - **Asset ID**: `industrial`
 - **Asset Path**: `tiles/industrial_01.png`

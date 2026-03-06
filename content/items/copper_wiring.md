@@ -3,23 +3,18 @@
 **Category**: Material
 **Description**: Electrical wiring for connecting solar panels to the grid.
 
-## Crafting & Construction Usage
-- Used to build [[mechanisms/infrastructure|Solar Panels]] (x2)
-- Used to build [[mechanisms/infrastructure|Battery Storage]] (x4)
-- Used to build [[mechanisms/infrastructure|Beacon Amplifier]] (x3)
-- Used to build [[mechanisms/infrastructure|Power Pole]] (x1)
-- Used in recipe for [[items/solar_cell|Solar Cell]] (x2)
-- Used in recipe for [[items/power_pole|Power Pole]] (x1)
+## Usage
+- Usage: Material used in crafting and construction.
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[mechanisms/world_and_tiles|Desert]] | 5 |
-| [[mechanisms/world_and_tiles|Forest]] | 5 |
-| [[mechanisms/world_and_tiles|Ruined City]] | 30 |
-| [[mechanisms/world_and_tiles|Mountain]] | 10 |
-| [[mechanisms/world_and_tiles|Industrial]] | 45 |
-| [[mechanisms/world_and_tiles|Electronic Lab]] | 40 |
-| [[mechanisms/world_and_tiles|Farm Facility]] | 18 |
-| [[mechanisms/world_and_tiles|Hidden Vault]] | 20 |
-| [[mechanisms/world_and_tiles|Oasis]] | 0 |
+| [[biomes/desert|Desert]] | 5 |
+| [[biomes/electronic_lab|Electronic Lab]] | 40 |
+| [[biomes/farm_facility|Farm Facility]] | 18 |
+| [[biomes/forest|Forest]] | 5 |
+| [[biomes/hidden_vault|Hidden Vault]] | 20 |
+| [[biomes/industrial|Industrial]] | 45 |
+| [[biomes/mountain|Mountain]] | 10 |
+| [[biomes/oasis|Oasis]] | 0 |
+| [[biomes/ruined_city|Ruined City]] | 30 |

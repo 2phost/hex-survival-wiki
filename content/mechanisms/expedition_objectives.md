@@ -23,7 +23,7 @@
 ## Objective Types
 
 ### 1. Story & Infrastructure Events
-- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[mechanisms/infrastructure|Research Lab]], [[mechanisms/world_and_tiles|Industrial Facility]]) to progress the narrative or gain resources.
+- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[mechanisms/infrastructure|Research Lab]], [[biomes/industrial|Industrial Facility]]) to progress the narrative or gain resources.
 - **Reward**: Critical materials or navigation data.
 
 ### 2. Threat Mitigation

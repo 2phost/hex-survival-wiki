@@ -13,7 +13,10 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Vitals Restoration**: Exact numerical effects for all consumables confirmed.
 - **Stim Conditioning**: Tier locks confirmed for Stim Pack/Injector/Overdrive.
 - **Generator Operations**: Tier locks confirmed for Gas/Biofuel/Plasma fuels.
-- **Facility Production**: Skill requirements for components (Lvl 1 Alloy, Lvl 2 Logic/Hydraulic, Lvl 3 Signal).
+- **Facility Production**: Skill requirements for components (Lvl 1 Alloy, Lvl 2 Logic/Hydraulic, Lvl 3 Signal). One unit produced per Midnight transition if facility is active.
+- **Item/Biome Directories**: Exact loot weights and item properties (Rarity, Category, Consumable Stats, Power Refills) for all 43 items and 9 biomes are fully confirmed and audited against the latest content pack.
+- **Deconstruction (Salvage) Yields**: Exact primary and rare bonus yield probabilities confirmed for all scavengeable items, including the **[[items/damaged_solar_panel|Damaged Solar Panel]]**.
+- **Internal Wiki Structure**: Successfully migrated all legacy links to the new `biomes/` and `items/` directory structures.
 - **Midnight Cycle**: Confirmed 40% drain for Hunger and Thirst at Midnight.
 - **Fear System**: Confirmed Fear accumulation in darkness and recovery while resting in light.
 - **Relative Tracking**: Objective navigation data is relative to the player's current position.
@@ -29,7 +32,7 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 
 ## 3. Advanced Mechanisms & Map
 - **Beacon Amp Logic**: (Testing) Quantify the "improvement in movement efficiency" in darkness (e.g., is it -0.5 AP cost per hex?).
-- **Facility Production Costs**: (Testing) Confirm the exact resource costs and production time required at facility tiles.
+- **Facility Production**: (Testing) Confirm if multiple players at the same facility can increase production rate.
 - **Map Size**: (Testing) Is the world finite or procedurally infinite?
 - **Visual Range**: (Testing) Can players see the biome type of adjacent tiles without moving?
 - **Power Pole Connectivity**: (Testing) Confirm if poles *must* be connected to the base grid or if isolated "mini-grids" are possible.

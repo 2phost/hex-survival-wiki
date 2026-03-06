@@ -15,12 +15,11 @@
 | **[[items/timber|Raw Timber]]** | 25 |
 | **[[items/scrap_metal|Scrap Metal]]** | 22 |
 | **[[items/lamp_empty|Lamp (empty)]]** | 18 |
+| **[[items/copper_wiring|Copper Wiring]]** | 18 |
 | **[[items/stone|Hardened Stone]]** | 14 |
 | **[[items/battery|Battery]]** | 12 |
-| **[[items/copper_wiring|Copper Wiring]]** | 18 |
 | **[[items/car_battery|Car Battery]]** | 6 |
 | **[[items/stim_pack|Stim Pack]]** | 4 |
-
 ## Technical Information
 - **Asset ID**: `farm_facility`
 - **Asset Path**: `tiles/farm_facility_01.png`

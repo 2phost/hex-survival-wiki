@@ -1,15 +1,20 @@
 # Chemical Sludge
 **Rarity**: rare
 **Category**: Material
-**Description**: Rare industrial byproduct.
+**Description**: 
 
-## Crafting & Construction Usage
-- Used to build [[mechanisms/infrastructure|Fuel Refinery]] (x3)
+## Usage
+- Usage: Material used in crafting and construction.
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[mechanisms/world_and_tiles|Ruined City]] | 5 |
-| [[mechanisms/world_and_tiles|Industrial]] | 70 |
-| [[mechanisms/world_and_tiles|Electronic Lab]] | 15 |
-| [[mechanisms/world_and_tiles|Hidden Vault]] | 20 |
+| [[biomes/desert|Desert]] | 0 |
+| [[biomes/electronic_lab|Electronic Lab]] | 15 |
+| [[biomes/farm_facility|Farm Facility]] | 0 |
+| [[biomes/forest|Forest]] | 0 |
+| [[biomes/hidden_vault|Hidden Vault]] | 20 |
+| [[biomes/industrial|Industrial]] | 70 |
+| [[biomes/mountain|Mountain]] | 0 |
+| [[biomes/oasis|Oasis]] | 0 |
+| [[biomes/ruined_city|Ruined City]] | 5 |

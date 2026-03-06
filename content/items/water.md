@@ -1,22 +1,25 @@
 # Clean Water
 **Rarity**: common
 **Category**: Consumable
-**Description**: Standard hydration.
+**Description**: 
+
+## Usage
+- Usage: Consume to restore 30 thirst and restore 1 AP.
 
 ## Consumable Stats
 - **Hunger**: 0
 - **Thirst**: -30
-- **AP**: +1
+- **AP**: 1
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[mechanisms/world_and_tiles|Desert]] | 10 |
-| [[mechanisms/world_and_tiles|Forest]] | 40 |
-| [[mechanisms/world_and_tiles|Ruined City]] | 15 |
-| [[mechanisms/world_and_tiles|Mountain]] | 10 |
-| [[mechanisms/world_and_tiles|Industrial]] | 5 |
-| [[mechanisms/world_and_tiles|Electronic Lab]] | 0 |
-| [[mechanisms/world_and_tiles|Farm Facility]] | 35 |
-| [[mechanisms/world_and_tiles|Hidden Vault]] | 10 |
-| [[mechanisms/world_and_tiles|Oasis]] | 90 |
+| [[biomes/desert|Desert]] | 10 |
+| [[biomes/electronic_lab|Electronic Lab]] | 0 |
+| [[biomes/farm_facility|Farm Facility]] | 35 |
+| [[biomes/forest|Forest]] | 40 |
+| [[biomes/hidden_vault|Hidden Vault]] | 10 |
+| [[biomes/industrial|Industrial]] | 5 |
+| [[biomes/mountain|Mountain]] | 10 |
+| [[biomes/oasis|Oasis]] | 90 |
+| [[biomes/ruined_city|Ruined City]] | 15 |

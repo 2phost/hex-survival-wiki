@@ -1,25 +1,26 @@
 # Gasoline Canister
 **Rarity**: rare
 **Category**: Fuel
-**Description**: Fuel for the base generators. Used from the **Town Bank** to refill 25% town power.
+**Description**: Fuel for the base generators. Refills 25% town power when used at base.
+
+## Usage
+- Usage: Refill Town Power at the Base (25%).
 
 ## Power/Fuel Stats
 - **Power Refill**: +25%
-- **Usage**: Deposit in [[mechanisms/base_and_resources|Town Bank]] to unlock "Refuel" option.
-- **Skill Requirements**: [[mechanisms/skills|Generator Operations]] Level 1
 
-## Crafting & Construction Usage
-- Used to **Refuel** the town from the [[mechanisms/base_and_resources|Town Bank]] (+25% Power).
-- Used in recipe for [[items/gasoline_generator|Gasoline Generator]] (x1)
+## Skill Requirements
+- [[skills/generator_operations|Generator Operations]] Level 1
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[mechanisms/world_and_tiles|Desert]] | 10 |
-| [[mechanisms/world_and_tiles|Ruined City]] | 20 |
-| [[mechanisms/world_and_tiles|Mountain]] | 10 |
-| [[mechanisms/world_and_tiles|Industrial]] | 30 |
-| [[mechanisms/world_and_tiles|Electronic Lab]] | 0 |
-| [[mechanisms/world_and_tiles|Farm Facility]] | 0 |
-| [[mechanisms/world_and_tiles|Hidden Vault]] | 20 |
-| [[mechanisms/world_and_tiles|Oasis]] | 0 |
+| [[biomes/desert|Desert]] | 10 |
+| [[biomes/electronic_lab|Electronic Lab]] | 0 |
+| [[biomes/farm_facility|Farm Facility]] | 0 |
+| [[biomes/forest|Forest]] | 0 |
+| [[biomes/hidden_vault|Hidden Vault]] | 20 |
+| [[biomes/industrial|Industrial]] | 30 |
+| [[biomes/mountain|Mountain]] | 10 |
+| [[biomes/oasis|Oasis]] | 0 |
+| [[biomes/ruined_city|Ruined City]] | 20 |

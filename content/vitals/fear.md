@@ -13,7 +13,7 @@ Fear imposes significant penalties on player efficiency:
 - **[[mechanisms/skills|Skill Checks]]**: -5% success chance per Fear point for all non-search skill checks.
 
 ## Panic State
-Exceeding **Fear Max** triggers a panic-loss condition. While the exact gameplay effects are still being documented, it represents a total failure to function due to terror.
+Exceeding **Fear Max** triggers a panic-loss condition. (Exact mechanics are currently being verified; see [[mechanisms/inferred_mechanics|Inferred Mechanics]] for theories).
 
 ## Technical Details
 - **HUD**: Features a segmented Fear bar and a high-risk visual pulse near the limit.
