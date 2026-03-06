@@ -23,6 +23,7 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Player Scoring**: First iteration of scoring (calculated on death) is active.
 - **Town Tracking**: Initial support for persistent town statistics is active.
 - **Refueling**: Confirmed "Refuel" button appears in the Base menu when fuel is in the Town Bank (requires Generator Operations).
+- **Expansion Ideas**: Created 4 new suggestion files ([[ideas/new_items|Items]], [[ideas/new_skills|Skills]], [[ideas/new_constructions|Constructions]], [[ideas/new_combinations|Combinations]]) to track future development goals.
 
 ## 2. Vitals & The "[[mechanisms/midnight_cycle|Midnight]] Toll"
 - **Hourly Drain**: (Testing) Confirm if Hunger/Thirst drains at a fixed hourly rate *in addition* to the 40% Midnight Toll.
