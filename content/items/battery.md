@@ -4,7 +4,7 @@
 **Description**: 
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Used to craft [[items/lamp_functioning|Functioning Lamp]].
 
 ## Biome Weights
 | Biome | Weight |

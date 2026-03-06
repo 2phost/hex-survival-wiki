@@ -4,7 +4,7 @@
 **Description**: 
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Used to craft [[items/glowing_bottle|Glowing Bottle]].
 
 ## Biome Weights
 | Biome | Weight |

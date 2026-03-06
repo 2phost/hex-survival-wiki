@@ -5,6 +5,7 @@
 
 ## Usage
 - Usage: Deconstruct at Base for materials.
+- Usage: Used to craft [[items/lamp_functioning|Functioning Lamp]].
 
 ## Deconstruction Yields
 - **Primary Yields**: [[items/scrap_metal|Scrap Metal]] (40%), [[items/copper_wiring|Copper Wiring]] (20%)

@@ -4,7 +4,7 @@
 **Description**: 
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Used to build [[base/constructions|Fuel Refinery]].
 
 ## Biome Weights
 | Biome | Weight |

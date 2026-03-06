@@ -4,7 +4,7 @@
 **Description**: 
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Used to craft [[items/power_pole|Power Pole]], [[items/solar_cell|Solar Cell]]. Used to build [[base/constructions|Automated Sentry]], [[base/constructions|Barbed Wire Perimeter]], [[base/constructions|Battery Storage]], [[base/constructions|Beacon Amplifier]], [[base/constructions|Fuel Refinery]], [[base/constructions|Hydroponic Patch]], [[base/constructions|Power Pole]], [[base/constructions|Reinforced Steel Bulkhead]], [[base/constructions|Research Lab II]], [[base/constructions|Research Lab]], [[base/constructions|Scrap Workshop]], [[base/constructions|Signal Booster (Radar)]], [[base/constructions|Solar Panels]].
 
 ## Biome Weights
 | Biome | Weight |

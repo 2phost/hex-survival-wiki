@@ -4,7 +4,7 @@
 **Description**: 
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Used to craft [[items/gasoline_generator|Gasoline Generator]].
 
 ## Biome Weights
 | Biome | Weight |

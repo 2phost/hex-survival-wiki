@@ -15,8 +15,8 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Generator Operations**: Tier locks confirmed for Gas/Biofuel/Plasma fuels.
 - **Facility Production**: Skill requirements for components (Lvl 1 Alloy, Lvl 2 Logic/Hydraulic, Lvl 3 Signal). One unit produced per Midnight transition if facility is active.
 - **Item/Biome Directories**: Exact loot weights and item properties (Rarity, Category, Consumable Stats, Power Refills) for all 43 items and 9 biomes are fully confirmed and audited against the latest content pack.
-- **Deconstruction (Salvage) Yields**: Exact primary and rare bonus yield probabilities confirmed for all scavengeable items, including the **[[items/damaged_solar_panel|Damaged Solar Panel]]**.
-- **Internal Wiki Structure**: Successfully migrated all legacy links to the new `biomes/` and `items/` directory structures.
+- **Detailed Item Usage**: Confirmed specific crafting and construction roles for all materials (e.g., Car Battery for Battery Storage, Copper Wiring for Solar Panels).
+- **Internal Wiki Structure**: Successfully migrated all legacy links to the new `biomes/` and `items/` directory structures. Fixed broken infrastructure links in base documentation.
 - **Midnight Cycle**: Confirmed 40% drain for Hunger and Thirst at Midnight.
 - **Fear System**: Confirmed Fear accumulation in darkness and recovery while resting in light.
 - **Relative Tracking**: Objective navigation data is relative to the player's current position.

@@ -5,6 +5,7 @@
 
 ## Usage
 - Usage: Consume to restore 10 hunger and restore 1 AP.
+- Usage: Used to craft [[items/glowing_bottle|Glowing Bottle]].
 
 ## Consumable Stats
 - **Hunger**: -10

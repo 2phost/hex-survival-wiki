@@ -4,7 +4,7 @@
 **Description**: 
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Used to craft [[items/solar_cell|Solar Cell]]. Used to build [[base/constructions|Automated Sentry]], [[base/constructions|Beacon Amplifier]], [[base/constructions|Scrap Workshop]], [[base/constructions|Signal Booster (Radar)]], [[base/constructions|Solar Panels]].
 
 ## Biome Weights
 | Biome | Weight |

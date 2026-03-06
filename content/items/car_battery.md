@@ -4,7 +4,7 @@
 **Description**: Heavy lead-acid battery salvaged from old vehicles. Useful for expanding town power storage.
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Used to build [[base/constructions|Battery Storage]].
 
 ## Biome Weights
 | Biome | Weight |

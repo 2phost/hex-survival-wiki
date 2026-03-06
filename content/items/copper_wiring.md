@@ -4,7 +4,7 @@
 **Description**: Electrical wiring for connecting solar panels to the grid.
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Used to craft [[items/power_pole|Power Pole]], [[items/solar_cell|Solar Cell]]. Used to build [[base/constructions|Battery Storage]], [[base/constructions|Beacon Amplifier]], [[base/constructions|Power Pole]], [[base/constructions|Solar Panels]].
 
 ## Biome Weights
 | Biome | Weight |

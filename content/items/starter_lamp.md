@@ -5,4 +5,3 @@
 
 ## Usage
 - Usage: Carry for illumination (2 days, 0-hex radius).
-

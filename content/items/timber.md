@@ -4,7 +4,7 @@
 **Description**: 
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Used to build [[base/constructions|Hydroponic Patch]], [[base/constructions|Watchtower]], [[base/constructions|Well]].
 
 ## Biome Weights
 | Biome | Weight |

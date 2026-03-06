@@ -4,7 +4,7 @@
 **Description**: 
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Material used in various recipes.
 
 ## Biome Weights
 | Biome | Weight |

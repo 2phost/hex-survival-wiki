@@ -4,7 +4,7 @@
 **Description**: Recovered data drives, scientific logs, and salvageable pre-collapse notes used by the Research Lab.
 
 ## Usage
-- Usage: Material used in crafting and construction.
+- Usage: Material used in various recipes.
 
 ## Biome Weights
 | Biome | Weight |

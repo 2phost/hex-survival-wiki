@@ -5,6 +5,7 @@
 
 ## Usage
 - Usage: Refill Town Power at the Base (25%).
+- Usage: Used to craft [[items/gasoline_generator|Gasoline Generator]].
 
 ## Power/Fuel Stats
 - **Power Refill**: +25%
