@@ -48,4 +48,4 @@ The map of Hex Survival is composed of various hexagonal tile types, each repres
 
 ## Discovery
 - **Movement-Based**: Tiles are revealed as players traverse the map.
-- **Watchtower Prerequisite**: Headings for high-value facilities (Relays, Vaults) are hidden until the **[[Watchtower]]** is constructed at Base.
+- **Watchtower Prerequisite**: Headings for high-value facilities (Relays, Vaults) are hidden until the **[[mechanisms/infrastructure|Watchtower]]** is constructed at Base.

@@ -11,5 +11,7 @@
 - **Restoration**: 
     - **Passive Regeneration**: While the player is in the **Resting** state (not scavenging), they restore **1 [[mechanisms/action_points|AP]] every hour** of real time.
     - **Skill Bonus**: The "Rest Recovery" skill provides a chance (10% per level) to gain an additional +1 [[mechanisms/action_points|AP]] during this hourly window.
-    - **Consumables**: Restored by **Stim Packs** (+2 [[mechanisms/action_points|AP]]).
+    - **Consumables**: 
+        - **Stim Packs**: Restored by Stim Packs (+2 AP), Stim Injectors (+4 AP), and Stim Overdrive (+6 AP).
+        - **Food & Water**: **Rations, Clean Water, Salad, and Glowing Mushrooms** now restore **+1 AP** upon consumption.
 - **[[mechanisms/action_points|AP]] Cap**: Any [[mechanisms/action_points|AP]] gained (e.g., from Stims) that exceeds the current maximum capacity is permanently lost.

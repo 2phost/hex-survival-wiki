@@ -45,7 +45,7 @@ The following table represents the relative rarity/weight of finding specific it
 | **Damaged Solar Panel** | 25 | 0 | 0 | 0 | 15 | 30 | 0 | 0 | 0 |
 
 ## Specialized Tile Properties
-- **[[Hidden Vault]]**: Guaranteed **Ancient Relic** (Weight 100).
+- **[[mechanisms/world_and_tiles|Hidden Vault]]**: Guaranteed **Ancient Relic** (Weight 100).
 - **Electronic Lab**: Best source for **Circuit Boards**, **Batteries**, and **Research Material**.
 - **Industrial Zone**: Best source for **Chemical Sludge**, **Scrap Metal**, and **Fuel**.
 - **Farm Facility**: Primary source of **Rations** and **Salad**.

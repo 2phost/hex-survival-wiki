@@ -5,7 +5,7 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 ## 1. Confirmed Mechanics
 - **AP Costs**: 1 AP/hex movement. **0 AP** for scavenging/skills/inventory actions.
 - **Skill Timings**: Real-time training (Lvl 1=1h, Lvl 2=24h, Lvl 3=7d, Lvl 4=14d, Lvl 5=30d).
-- **[[mechanisms/light_and_darkness|Light Radius]]**: Power Poles illuminate the **current tile and all adjacent tiles (1-hex radius)**. Lamps illuminate only the **current tile (0-radius)**.
+- **[[mechanisms/light_and_darkness|Light Radius]]**: Both Power Poles and Lamps illuminate only the **current tile (0-radius)**.
 - **Biome Loot Weights**: Confirmed exact weights for all items in all biomes.
 - **Crafting Recipes**: Exact costs and skill locks confirmed for all functional equipment and infrastructure.
 - **Salvage Yields**: Exact primary and rare bonus yield probabilities confirmed for all scavengeable items.
@@ -19,12 +19,15 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Beacon Amp**: Confirmed effect: Improves movement efficiency in darkness.
 - **Fuel Refinery**: Confirmed effect: Converts salvaged chemicals into stable generator fuel.
 - **Research Lab II**: Confirmed effect: Unlocks second research slot and +20% research speed.
-- **Midnight Vital Drain**: Confirmed 40% (4 out of 10 bars) drain for Hunger and Thirst at [[Midnight]].
+- **Midnight Vital Drain**: Confirmed 40% (4 out of 10 bars) drain for Hunger and Thirst at [[mechanisms/time_and_power|Midnight]].
+- **Fear System**: Confirmed Fear accumulation in darkness, recovery while resting in light, and specific penalties (-10% search, -5% other skills).
+- **Consumable AP**: Confirmed Rations, Water, Salad, and Glowing Mushrooms now restore 1 AP.
 - **Objective Navigation**: Confirmed headings and distances are **relative to the player's current position**.
+- **Hourly Regeneration**: Confirmed 1 AP/hour recovery while Resting.
 - **Rapid Prototype Request**: Confirmed reward (+2 Research, +2 Scrap) for setting facility production.
 
-## 2. Vitals & The "[[Midnight]] Toll"
-- **Hourly Drain**: Does [[Hunger]] and [[Thirst]] drain at a fixed hourly rate *in addition* to the Midnight Toll?
+## 2. Vitals & The "[[mechanisms/time_and_power|Midnight]] Toll"
+- **Hourly Drain**: (Testing) Confirm if Hunger/Thirst drains at a fixed hourly rate *in addition* to the 40% Midnight Toll.
 - **Restoration Timing**: Are Well/Hydroponic resources added *before* or *after* the hunger/thirst check at Midnight?
 - **Siege Breaches**: Confirm exact consequences of a breach (e.g., is it -10% Town Power per enemy?).
 - **Vitals Scaling**: Does the 40% drain scale with town level or number of players?

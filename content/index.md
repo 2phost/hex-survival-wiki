@@ -10,6 +10,8 @@ Welcome to the **Hex Survival Wiki**, the comprehensive repository for surviving
 - [[mechanisms/light_and_darkness|Light and Darkness]]
 - [[mechanisms/action_points|Action Points (AP)]]
 - [[mechanisms/player_status|Player Status & Vitals]]
+- [[mechanisms/hunger|Hunger]]
+- [[mechanisms/thirst|Thirst]]
 - [[mechanisms/skills|Skills & Specialization]]
 - [[mechanisms/infrastructure|Infrastructure & Power Grid]]
 

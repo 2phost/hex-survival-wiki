@@ -11,24 +11,24 @@
 ### 1. Story Event: Rapid Prototype Request (Medium)
 - **Context**: Effect Engineers request a live fabrication queue before assaulting the corrupted relay.
 - **Goal**: Set production on any **powered** Industrial, Electronic, or Farm facility.
-- **Reward**: +2 Research Material and +2 Scrap Metal in base stores at [[Midnight]].
+- **Reward**: +2 Research Material and +2 Scrap Metal in base stores at [[mechanisms/time_and_power|Midnight]].
 
 ### 2. Threat: Corrupted Relay (Lvl 1) (High)
 - **Goal**: Reach the relay hex and spend **2 [[mechanisms/action_points|AP]]** to disable it.
-- **Location**: Use the **[[Watchtower]]** to reveal. (Example: Heading SW, Distance 2 hexes away).
+- **Location**: Use the **[[mechanisms/infrastructure|Watchtower]]** to reveal. (Example: Heading SW, Distance 2 hexes away).
 - **Penalty if Ignored**: 
     - **Immediate**: -12% Search Chance town-wide.
-    - **Escalation**: -16% Search Chance at next [[Midnight]].
+    - **Escalation**: -16% Search Chance at next [[mechanisms/time_and_power|Midnight]].
 
 ## Objective Types
 
 ### 1. Story & Infrastructure Events
-- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[Research Lab]], [[Industrial Facility]]) to progress the narrative or gain resources.
+- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[mechanisms/infrastructure|Research Lab]], [[mechanisms/world_and_tiles|Industrial Facility]]) to progress the narrative or gain resources.
 - **Reward**: Critical materials or navigation data.
 
 ### 2. Threat Mitigation
 - **Goal**: Neutralize a specific threat on the map (e.g., Relays, Corrupted Nodes).
 - **Penalty if Ignored**: Global negative effects that scale over time.
 - **Requirements**:
-    - **Navigation**: **Requires [[Watchtower]] to reveal headings.**
+    - **Navigation**: **Requires [[mechanisms/infrastructure|Watchtower]] to reveal headings.**
     - **Action**: Spend [[mechanisms/action_points|Action Points]] ([[mechanisms/action_points|AP]]) to perform a specific task (e.g., "Disable").

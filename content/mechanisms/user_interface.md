@@ -10,7 +10,7 @@ The primary interface for player actions is located at the bottom of the screen 
 ## Dynamic Action System
 The UI is context-sensitive. Specific buttons and actions unlock only when certain conditions are met:
 - **Location-Based**: 
-    - **[[Tile: Base]]**: Unlocks the **"Enter Base"** button on the bottom menu, granting access to the Town Bank and Construction projects.
+    - **[[mechanisms/world_and_tiles|Tile: Base]]**: Unlocks the **"Enter Base"** button on the bottom menu, granting access to the Town Bank and Construction projects.
     - **Relay**: Likely unlocks unique interaction buttons for signal transmission.
 - **Requirement-Based**: Having specific items or skills (e.g., "Field Engineering") may reveal previously hidden options.
 - **Event-Based**: Current [[mechanisms/expedition_objectives|Expedition Objectives]] may trigger temporary buttons for quest-specific actions.

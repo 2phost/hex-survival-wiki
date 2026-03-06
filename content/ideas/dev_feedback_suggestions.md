@@ -16,8 +16,16 @@ These suggestions are intended for the developers to improve the player experien
 ## 3. Light & Darkness Mechanics (The "Fear" Meter)
 - **Panic/Fear Vitals**: Instead of instant death when moving into darkness, introduce a "Panic" or "Fear" meter that fills rapidly. When full, the player dies or suffers severe [[mechanisms/action_points|AP]] penalties. This gives a small window (2-3 seconds) to realize a mistake and move back.
 - **Flares/Glowsticks**: A cheap, one-time use item that provides light to a single hex for 5-10 minutes. Useful for "scouting" ahead before committing a permanent Power Pole.
+- **Fear Resistance Items**: Add a "Calming Herbal Tea" (crafted from Oasis plants) or "Weighted Vest" (crafted from Scrap) that slows the rate of Fear accumulation in the dark.
 
 ## 4. Collaborative Roles (The "Job" System)
+...
+
+## 7. Environmental Dynamics
+- **Biome Hazards**: Introduce biome-specific threats like "Sandstorms" (Desert) that drain AP/thirst faster, or "Toxic Mist" (Industrial) that increases Fear even in the light.
+- **Power Pole Upgrades**: Allow players to upgrade a **Power Pole** (using Circuit Boards) from a 0-hex radius to a 1-hex radius. This would provide a massive late-game reward for technical progression.
+- **The "Solar Eclipse"**: A rare world event where all solar power generation stops for 24 hours, forcing the town to rely entirely on stored fuel and manual scavenging.
+- **Social HUD**: Allow players to see the **Fear** levels of their teammates in the chat or on the map. This lets "Survivors" know who needs an escort back to base.
 - **Specialization Buffs**: If a player has a high level in a skill (e.g., Field Engineering Lvl 3), give them a unique "Title" in chat and a small passive bonus to everyone nearby (e.g., "Expert Engineer: -10% build cost for allies in same hex").
 - **Town Goals**: A "Message Board" at the Base where players can vote on the next major project (e.g., "Build Solar Array" vs "Expand to Human Farm").
 

@@ -8,21 +8,21 @@
 | **Glowing Bottle** | Common | A bottle lantern made from bio-luminescent fungus. Provides light for 2 days. | 2 Days | 0 |
 | **Functioning Lamp**| Rare | Provides illumination when carried; lights only the tile you stand on. | 5 Days | 0 |
 | **Lamp (empty)** | Common | A non-functional lamp. Salvageable for parts. | - | - |
-| **Power Pole** | Common | Deployable relay pole. Needed for the Place Pole action. | - | 1 |
+| **Power Pole** | Common | Deployable relay pole. Needed for the Place Pole action. | - | 0 |
 
 ## Consumables
 
 | Item | Rarity | Hunger | Thirst | AP | Requirements | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Clean Water** | Common | 0 | -30 | 0 | None | Standard hydration. |
-| **Rations** | Common | -30 | 0 | 0 | None | Standard nutrition. |
-| **Salad** | Common | -20 | 0 | 0 | None | Fresh greens. |
-| **Glowing Mush.** | Common | -10 | 0 | 0 | None | Edible but bioluminescent fungus. |
+| **Clean Water** | Common | 0 | -30 | +1 | None | Standard hydration. |
+| **Rations** | Common | -30 | 0 | +1 | None | Standard nutrition. |
+| **Salad** | Common | -20 | 0 | +1 | None | Fresh greens. |
+| **Glowing Mush.** | Common | -10 | 0 | +1 | None | Edible but bioluminescent fungus. |
 | **Stim Pack** | Common | +6 | +6 | +2 | Stim Cond. Lvl 1 | Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases hunger and thirst slightly. |
 | **Stim Injector** | Rare | +10 | +10 | +4 | Stim Cond. Lvl 2 | Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Increases hunger and thirst. |
 | **Stim Overdrive**| Mythic | +14 | +14 | +6 | Stim Cond. Lvl 3 | Experimental overdrive dose that restores 6 AP. Any AP over your max is lost. Greatly increases hunger and thirst. |
 
-> **Note**: For all stims, any AP restored over your maximum capacity is lost.
+> **Note**: For all consumables (Food/Water/Stims), any AP restored over your maximum capacity is lost.
 
 ## Power & Fuel
 
@@ -37,8 +37,8 @@
 ### Industrial & Tech
 - **Circuit Boards**: Rare tech components used in solar and electronic construction.
 - **Chemical Sludge**: Rare industrial byproduct.
-- **Ancient Relic**: **Mythic** artifact found exclusively in **[[Hidden Vault|Hidden Vaults]]**.
-- **Research Material**: Rare recovered data drives, scientific logs, and salvageable pre-collapse notes used by the **[[Research Lab]]**.
+- **Ancient Relic**: **Mythic** artifact found exclusively in **[[mechanisms/world_and_tiles|Hidden Vaults]]**.
+- **Research Material**: Rare recovered data drives, scientific logs, and salvageable pre-collapse notes used by the **[[mechanisms/infrastructure|Research Lab]]**.
 - **Battery**: Common energy storage cell. Essential for crafting functioning lamps.
 - **Car Battery**: Common heavy lead-acid battery salvaged from old vehicles. Useful for expanding town power storage.
 - **Copper Wiring**: Common electrical wiring for connecting solar panels to the grid.

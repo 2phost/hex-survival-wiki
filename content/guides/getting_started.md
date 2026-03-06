@@ -13,14 +13,17 @@ Your survival depends on these three immediate actions:
 ## 2. Stay in the Light (The Golden Rule)
 The "Darkness" in this world is lethal.
 - **Lethal Movement**: Moving into a dark hex without a light source (like your **[[mechanisms/items|Starter Lamp]]**) results in immediate death: **"Consumed by darkness."**
-- **[[mechanisms/infrastructure|Power Poles]]**: These create permanently lit areas. A powered pole illuminates its **current tile and all adjacent tiles (1-hex radius)**.
-- **The [[Midnight]] Trap**: Both **Hunger and Thirst drain by 40%** at [[Midnight]]. If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex (Base or Power Pole) *before* the [[Midnight]] transition. If it expires in the dark, you die instantly.
+- **[[mechanisms/fear|Fear System]]**: Entering dark tiles without a lamp increases your **Fear** stat.
+    - **Penalties**: High Fear imposes a **-10% penalty per point** to scavenging and **-5% per point** to all other skill checks.
+    - **Recovery**: Fear is recovered by **Resting** on lit tiles (Base or Power Pole).
+- **[[mechanisms/infrastructure|Power Poles]]**: These create permanently lit areas. A powered pole illuminates its **current tile (0-hex radius)**.
+- **The [[mechanisms/time_and_power|Midnight]] Trap**: Both **Hunger and Thirst drain by 40%** at [[mechanisms/time_and_power|Midnight]]. If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex (Base or Power Pole) *before* the [[mechanisms/time_and_power|Midnight]] transition. If it expires in the dark, you die instantly.
 
 ## 3. Managing Your Vitals
-You have four status bars: **[[mechanisms/player_status|Hunger]], [[mechanisms/player_status|Thirst]], [[mechanisms/action_points|Action Points]] ([[mechanisms/action_points|AP]]), and Activity.**
+You have five status bars: **[[mechanisms/player_status|Hunger]], [[mechanisms/player_status|Thirst]], [[mechanisms/fear|Fear]], [[mechanisms/action_points|Action Points]] ([[mechanisms/action_points|AP]]), and Activity.**
 - **The Midnight Toll**: Prepare for a **40% (4 bars)** drain to both Hunger and Thirst every midnight.
 - **Find Water and Rations**: Head to an **[[mechanisms/world_and_tiles|Oasis]]** or the **[[mechanisms/world_and_tiles|Farm Facility]]** early on to stockpile food and water.
-- **Consuming [[mechanisms/items|Items]]**: Use **Right-Click** in your inventory to drink water or eat rations.
+- **Consuming [[mechanisms/items|Items]]**: Use **Right-Click** in your inventory to drink water or eat rations. **Basic food and water now restore +1 AP.**
 - **[[mechanisms/action_points|AP]] Management**: Every action (moving, questing) costs [[mechanisms/action_points|AP]]. **Scavenging is free (0 AP).**
 - **Recovery**: If you run out, set your activity to **Resting** to recover **1 [[mechanisms/action_points|AP]] per hour**. You can also use a **[[mechanisms/items|Stim Pack]]** for an immediate +2 [[mechanisms/action_points|AP]] boost (requires Stim Conditioning Lvl 1).
 
@@ -37,7 +40,7 @@ Check the **[[mechanisms/expedition_objectives|Expedition Objectives]]** (top of
 ## 6. Building [[mechanisms/infrastructure|Infrastructure]]
 Once you have **1 Copper Wiring** and **1 Scrap Metal**, use the **Inventory -> Recipes** menu to craft a **[[mechanisms/infrastructure|Power Pole]]**.
 - **Placement**: Place it on a tile adjacent to the Base or an existing pole.
-- **Why?**: This permanently lights up that tile, making it safe for everyone to travel through without a lamp.
+- **Why?**: This permanently lights up that tile, making it safe for everyone to stand on without a lamp and allowing you to recover **Fear**.
 
 ## 7. Scouting the Unknown (Fog of War)
 The map starts empty. You won't know where the **[[mechanisms/world_and_tiles|Oasis]]** or **[[mechanisms/world_and_tiles|Electronic Lab]]** is until someone finds it.
