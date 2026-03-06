@@ -3,7 +3,7 @@
 These suggestions are intended for the developers to improve the player experience, balance the survival loop, and solve emerging issues.
 
 ## 1. Quality of Life (QoL) & UI
-- **Shared Storage Building**: To solve the "[[bugs/item_overlay|Item Overlay]] Bug" and the 5-slot inventory limit, add a "Storage Crate" or "Warehouse" building at the Base. This provides a clean UI for shared resources rather than dropping items on the floor.
+- **Shared Storage Building**: To solve the "[[ideas/dev_feedback_suggestions#Item Overlay|Item Overlay]] Bug" and the 5-slot inventory limit, add a "Storage Crate" or "Warehouse" building at the Base. This provides a clean UI for shared resources rather than dropping items on the floor.
 - **Map Pinging System**: In a collaborative game, players need to "ping" a hex (e.g., "Found Oasis here" or "Need Power Pole here"). A simple alt-click on a tile could broadcast a coordinate to the town chat.
 - **Stim Buff Tracking**: With the addition of high-tier **[[mechanisms/items|Stim Injectors]]** and **[[mechanisms/items|Stim Overdrive]]**, a clear status icon should show the remaining duration of any active buffs and the "Conditioning" level required to use them.
 - **Action Queueing**: For repetitive tasks like scavenging or "Resting," allow players to queue up a certain amount of [[mechanisms/action_points|AP]]/time so they don't have to click "Start" repeatedly.
@@ -33,5 +33,10 @@ These suggestions are intended for the developers to improve the player experien
 - **"Log" [[mechanisms/items|Items]]**: [[mechanisms/scavenging|Scavenging]] in the "Ruined City" should occasionally drop "Data Logs" or "Journal Scraps" that provide world-building lore about the "Darkness" and the "Human Farm."
 - **Visual Evolution**: As the town's Power level increases, the Base should visually upgrade (e.g., more lights, cleaner textures) to give players a sense of "winning" against the wasteland.
 
-## 6. Inventory Expansion
-- **The "Sled" or "Cart"**: An equippable item that adds +5 slots but increases the [[mechanisms/action_points|AP]] cost of movement. This creates a trade-off between "Scouts" (fast, low carry) and "Haulers" (slow, high carry).
+## 8. Reported Technical Issues (Bug-Suggestions)
+The following issues have been identified by testers and are being tracked through the suggestions feature for developer review.
+
+### [[ideas/dev_feedback_suggestions#Item Overlay|Item Overlay]]/Overflow
+- **Description**: When too many items are dropped on a single hex, the visual representation of those items begins to overlay or bleed into adjacent tiles.
+- **Symptoms**: Visual clutter in high-activity areas (like the Base or popular scavenging spots); difficulty clicking on or interacting with the underlying tile or other items due to visual overlap.
+- **Tester Recommendation**: Implement a "Stacked Item" UI where multiple items on one tile are represented by a single icon with a counter (e.g., "x5 Items").

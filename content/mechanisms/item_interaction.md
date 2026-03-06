@@ -9,8 +9,8 @@ Performing basic inventory tasks is free:
 
 ## Item Types: Consumables
 Consumables are used to manage the player's status bars.
-- **Fresh Drinking Water**: Reduces "Thirsty" when consumed.
-- **Rations**: Likely reduces "[[mechanisms/hunger|Hunger]]" (to be confirmed).
+- **Fresh Drinking Water**: Reduces "Thirsty" by 30 and restores **+1 [[mechanisms/action_points|AP]]**.
+- **Rations**: Reduces "[[mechanisms/hunger|Hunger]]" by 30 and restores **+1 [[mechanisms/action_points|AP]]**.
 
 ## Item States
 Some items have specific states that affect their utility:

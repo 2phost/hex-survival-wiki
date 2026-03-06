@@ -1,10 +1,6 @@
 # Hex Survival Wiki
 
-Welcome to the **Hex Survival Wiki**, the comprehensive repository for surviving the Darkness.
-
-## 🚀 Quick Start
-- [[guides/getting_started|Getting Started Guide]]
-- [[ideas/strategic_suggestions|Strategic Insights]]
+Welcome to the premium Hex Survival documentation. This wiki is organized into logical clusters to help you survive the darkness.
 
 ## 🧭 Directory Structure
 
@@ -35,12 +31,12 @@ The technical rules of the game:
 - [[mechanisms/user_interface|User Interface]]
 - [[mechanisms/patch_notes|Patch Notes]]
 
-## 🗺️ Expedition & Tracking
-- [[mechanisms/expedition_objectives|Active Objectives]]
-- [[mechanisms/patch_notes|Patch Notes]]
-- [[mechanisms/verification_list|Verification List]]
+### 💡 [[ideas/strategic_suggestions|Guides & Strategy]]
+- [[guides/getting_started|Getting Started Guide]]
+- [[ideas/strategic_suggestions|Strategic Suggestions]]
 - [[ideas/dev_feedback_suggestions|Tester Feedback & Suggestions]]
-- [[mechanisms/inferred_mechanics|Inferred Game Logic]]
 
 ---
-*Maintained by the Hex Survival Documentation AI.*
+
+## 🛠️ Verification Status
+Stay updated on confirmed vs. unverified mechanics in the **[[mechanisms/verification_list|Verification List]]**.

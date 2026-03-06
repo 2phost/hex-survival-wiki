@@ -4,46 +4,43 @@ Welcome to the town, survivor. You've joined a collaborative effort to keep the 
 
 ## 1. New Player Priorities (The First Hour)
 Your survival depends on these three immediate actions:
-1. **Check Your Vitals**: Look at your Hunger and Thirst. If they are low, find **Clean Water** or **Rations** immediately.
-2. **Start a [[mechanisms/skills|Skill]]**: Go to the **Skills** menu and start training **[[mechanisms/action_points|AP]] Capacity Lvl 1** or **Stim Conditioning Lvl 1**. 
-    - **Cost**: **0 [[mechanisms/action_points|AP]]** to start.
+1. **Check Your [[vitals/index|Vitals]]**: Look at your Hunger and Thirst. If they are low, find food or water immediately.
+2. **Start a [[skills/index|Skill]]**: Go to the **Skills** menu and start training **[[skills/ap_capacity|AP Capacity]] Lvl 1** or **[[skills/stim_conditioning|Stim Conditioning]] Lvl 1**. 
+    - **Cost**: **0 AP** to start.
     - **Duration**: **1 Hour** (Real-time).
-3. **Scout for Resources**: Move to an adjacent hex (**1 [[mechanisms/action_points|AP]]**) and click **Scavenge** (**0 [[mechanisms/action_points|AP]]**) to start your first hourly loot roll.
+3. **Scout for Resources**: Move to an adjacent hex (**1 AP**) and click **Scavenge** (**0 AP**) to start your first hourly loot roll.
 
 ## 2. Stay in the Light (The Golden Rule)
 The "Darkness" in this world is lethal.
-- **Lethal Movement**: Moving into a dark hex without a light source (like your **[[mechanisms/items|Starter Lamp]]**) results in immediate death: **"Consumed by darkness."**
-- **[[mechanisms/fear|Fear System]]**: Entering dark tiles without a lamp increases your **Fear** stat.
-    - **Penalties**: High Fear imposes a **-10% penalty per point** to scavenging and **-5% per point** to all other skill checks.
-    - **Recovery**: Fear is recovered by **Resting** on lit tiles (Base or Power Pole).
-- **[[mechanisms/infrastructure|Power Poles]]**: These create permanently lit areas. A powered pole illuminates its **current tile (0-hex radius)**.
-- **The [[mechanisms/time_and_power|Midnight]] Trap**: Both **Hunger and Thirst drain by 40%** at [[mechanisms/time_and_power|Midnight]]. If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex (Base or Power Pole) *before* the [[mechanisms/time_and_power|Midnight]] transition. If it expires in the dark, you die instantly.
+- **Lethal Movement**: Moving into a dark hex without a light source results in immediate death: **"Consumed by darkness."**
+- **[[vitals/fear|Fear System]]**: Entering dark tiles without a lamp increases your **Fear** stat.
+    - **Penalties**: High Fear imposes massive penalties to scavenging and skill checks.
+    - **Recovery**: Fear is recovered by **Resting** on lit tiles (**[[base/overview|Base]]** or **[[items/power_pole|Power Pole]]**).
+- **[[items/power_pole|Power Poles]]**: These create permanently lit areas. A powered pole illuminates only its **current tile (0-hex radius)**.
+- **The [[mechanisms/midnight_cycle|Midnight]] Trap**: Hunger and Thirst drain by **40%** at Midnight. If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex *before* the clock hits zero.
 
 ## 3. Managing Your Vitals
-You have five status bars: **[[mechanisms/player_status|Hunger]], [[mechanisms/player_status|Thirst]], [[mechanisms/fear|Fear]], [[mechanisms/action_points|Action Points]] ([[mechanisms/action_points|AP]]), and Activity.**
-- **The Midnight Toll**: Prepare for a **40% (4 bars)** drain to both Hunger and Thirst every midnight.
-- **Find Water and Rations**: Head to an **[[mechanisms/world_and_tiles|Oasis]]** or the **[[mechanisms/world_and_tiles|Farm Facility]]** early on to stockpile food and water.
-- **Consuming [[mechanisms/items|Items]]**: Use **Right-Click** in your inventory to drink water or eat rations. **Basic food and water now restore +1 AP.**
-- **[[mechanisms/action_points|AP]] Management**: Every action (moving, questing) costs [[mechanisms/action_points|AP]]. **Scavenging is free (0 AP).**
-- **Recovery**: If you run out, set your activity to **Resting** to recover **1 [[mechanisms/action_points|AP]] per hour**. You can also use a **[[mechanisms/items|Stim Pack]]** for an immediate +2 [[mechanisms/action_points|AP]] boost (requires Stim Conditioning Lvl 1).
+You have five status bars: **[[vitals/hunger|Hunger]]**, **[[vitals/thirst|Thirst]]**, **[[vitals/fear|Fear]]**, **[[vitals/action_points|Action Points]] (AP)**, and Activity.
+- **Find Water and Rations**: Head to an **[[biomes/oasis|Oasis]]** or the **[[biomes/farm_facility|Farm Facility]]** early on to stockpile resources.
+- **Consuming Items**: Use **Right-Click** in your inventory to drink water or eat rations. **Basic food and water restore +1 AP.**
+- **AP Management**: Every movement costs 1 AP. **Scavenging is free.** If you run out, set your activity to **Resting** to recover **1 AP per hour**.
 
 ## 4. Your First Expedition
 Check the **[[mechanisms/expedition_objectives|Expedition Objectives]]** (top of the screen).
-- **Emergency Stockpile**: Look for **[[mechanisms/items|Battery]]** in the **[[mechanisms/world_and_tiles|Ruined City]]** or **[[mechanisms/world_and_tiles|Electronic Lab]]** and deposit them at the **Base**. This helps the whole town get rations and water at midnight.
-- **Corrupted Relays**: If these aren't disabled (requires 2 [[mechanisms/action_points|AP]]), search chances town-wide will drop significantly.
+- **Emergency Stockpile**: Look for **[[items/battery|Batteries]]** and deposit them at the **Base**. This helps the whole town get resources at midnight.
+- **Corrupted Relays**: If these aren't disabled (requires 2 AP), search chances town-wide will drop significantly.
 
-## 5. [[mechanisms/scavenging|Scavenging]] and Inventory
-- **Hex [[mechanisms/scavenging|Scavenging]]**: Click on your current hex to start scavenging. You can toggle it on/off as needed. It is free to start/stop.
-- **Limited Space**: You only have **5 slots**. Prioritize high-value items like Batteries, Copper Wiring, and Scrap Metal.
-- **[[mechanisms/items|Items]] on the Ground**: You can leave things on the floor and they will stay there, but beware the **[[bugs/item_overlay|Item Overlay]] Bug** in crowded areas.
+## 5. Scavenging and Inventory
+- **Hex Scavenging**: Click on your current hex to start scavenging. It is free to start/stop.
+- **Limited Space**: You only have **5 slots** initially. Prioritize high-value items like Copper Wiring and Scrap Metal.
+- **Items on the Ground**: You can leave things on the floor, but beware visual clutter in crowded areas.
 
-## 6. Building [[mechanisms/infrastructure|Infrastructure]]
-Once you have **1 Copper Wiring** and **1 Scrap Metal**, use the **Inventory -> Recipes** menu to craft a **[[mechanisms/infrastructure|Power Pole]]**.
+## 6. Building Infrastructure and Power
+Once you have **1 Copper Wiring** and **1 Scrap Metal**, use the **Inventory -> Recipes** menu to craft a **[[items/power_pole|Power Pole]]**.
 - **Placement**: Place it on a tile adjacent to the Base or an existing pole.
-- **Why?**: This permanently lights up that tile, making it safe for everyone to stand on without a lamp and allowing you to recover **Fear**.
+- **Refueling**: Deposit **[[items/gasoline_canister|Gasoline Canisters]]** in the **Town Bank**. With the **[[skills/generator_operations|Generator Operations]]** skill, you can use the **"Refuel"** button in the **[[base/index|Base Menu]]**.
 
-## 7. Scouting the Unknown (Fog of War)
-The map starts empty. You won't know where the **[[mechanisms/world_and_tiles|Oasis]]** or **[[mechanisms/world_and_tiles|Electronic Lab]]** is until someone finds it.
-- **Scout Early**: Use your **[[mechanisms/items|Starter Lamp]]** to reveal nearby tiles and find critical resources.
-- **The "Loot Highway"**: Focus on building Power Poles toward high-value biomes to create safe, efficient paths for the whole town.
-- **Share Discoveries**: Use the Town Chat to tell others the direction of key buildings (e.g., "Industrial 4 hexes North").
+## 7. Scouting the Unknown
+The map starts empty. Reveal it by moving.
+- **The "Loot Highway"**: Focus on building Power Poles toward high-value **[[biomes/index|Biomes]]** to create safe paths for the whole town.
+- **Relative Triangulation**: Use your objective compass. The headings are **relative to you**, so they will shift as you move, allowing you to pinpoint locations.

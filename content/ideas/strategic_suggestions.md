@@ -14,7 +14,7 @@ Based on the current understanding of Hex Survival, these strategies focus on ef
 - **Role Assignment**: Use the **Town Chat** to coordinate who brings what:
     - *Gatherers*: Drop materials at the Base and deposit them.
     - *Builders*: Use banked materials to build **[[mechanisms/infrastructure|Watchtowers]]** and **[[mechanisms/infrastructure|Power Poles]]**.
-- **Caution**: Be mindful of the **[[bugs/item_overlay|Item Overlay]] Bug**; try to spread items out within the Base hex.
+- **Caution**: Be mindful of the **[[ideas/dev_feedback_suggestions#Item Overlay|Item Overlay]] Bug**; try to spread items out within the Base hex.
 
 ## 3. [[mechanisms/infrastructure|Infrastructure]]: The "Loot Highway"
 - **Strategic Grid**: Do not build [[mechanisms/infrastructure|Power Poles]] randomly. Focus on creating a straight-line "highway" from the **Base** to the nearest **[[mechanisms/world_and_tiles|Oasis]]** and **[[mechanisms/world_and_tiles|Electronic Lab]]**.
@@ -48,6 +48,7 @@ In Hex Survival, no one person can do everything. Success requires the town to c
 ### The Scout (The Pathfinder)
 - **Focus**: **[[mechanisms/skills|AP Capacity]]** & **[[mechanisms/skills|Scavenger's Eye]]**.
 - **Role**: Map the world, identify key biomes (Oasis, Vault, etc.), and disable active world threats.
+- **Relative Triangulation**: Remember that objective distances and headings are **relative to your position**. As you move, watch how the data changes to pinpoint the exact location of a Hidden Vault or Relay.
 - **Skill Priority**: 
     1. **AP Capacity** (Lvl 5): To allow for deep-world expeditions.
     2. **Scavenger's Eye** (Lvl 5): To ensure high-value loot is found efficiently during travel.
