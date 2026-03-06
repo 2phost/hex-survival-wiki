@@ -7,17 +7,17 @@ Reducing drain and increasing capacity is critical for surviving the late game.
 
 | Upgrade | Requirements | Effect |
 | :--- | :--- | :--- |
-| **Solar Panels** | 2 Solar Cell, 1 Circuit Board, 2 Copper Wiring, 1 Scrap | Reduces daily base power drain by **10%**. |
-| **Battery Bank** | 3 Car Battery, 4 Copper Wiring, 2 Scrap Metal | Increases maximum town power capacity by **+20%** permanently. |
-| **Beacon Amplifier** | 3 Circuit Boards, 3 Copper Wiring, 2 Scrap Metal | Beacon control systems that improve movement efficiency in darkness. |
+| **Solar Panels** | 2 [[items/solar_cell|Solar Cell]], 1 [[items/circuit_boards|Circuit Boards]], 2 [[items/copper_wiring|Copper Wiring]], 1 [[items/scrap_metal|Scrap Metal]] | Reduces daily base power drain by **10%**. |
+| **Battery Bank** | 3 [[items/car_battery|Car Battery]], 4 [[items/copper_wiring|Copper Wiring]], 2 [[items/scrap_metal|Scrap Metal]] | Increases maximum town power capacity by **+20%** permanently. |
+| **Beacon Amplifier** | 3 [[items/circuit_boards|Circuit Boards]], 3 [[items/copper_wiring|Copper Wiring]], 2 [[items/scrap_metal|Scrap Metal]] | Beacon control systems that improve movement efficiency in darkness. |
 
 ## Research & Technology
 The Research Lab unlocks the town's ability to process advanced data and materials.
 
 | Upgrade | Requirements | Effect |
 | :--- | :--- | :--- |
-| **Research Lab** | 4 Scrap Metal | Enables research projects and data processing. |
-| **Research Lab II** | 60 Scrap Metal | +20% research speed, +1 research slot. |
+| **Research Lab** | 4 [[items/scrap_metal|Scrap Metal]] | Enables research projects and data processing. |
+| **Research Lab II** | 60 [[items/scrap_metal|Scrap Metal]] | +20% research speed, +1 research slot. |
 
 ## Build Pathing
 - **Research Priority**: Constructing the **Research Lab** early allows the town to begin processing **[[items/research_material|Research Material]]** found in Labs and Vaults.

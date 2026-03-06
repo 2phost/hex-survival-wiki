@@ -2,6 +2,11 @@
 
 ## Multiplayer (Collaborative)
 Hex Survival is a collaborative game where players work together within a shared "Town."
+
+| You | Other Survivors |
+| :---: | :---: |
+| ![[assets/players/scavanger.png|150]] | ![[assets/players/scavanger_other.png|150]] |
+
 - **Shared Environment**: Multiple players inhabit the same town simultaneously.
 - **Resource Management**: Base stores (Rations, Water, Power) are shared or impact the town-wide survival state.
 - **Town Tracking**: Initial support for tracking town-wide progress and statistics across sessions.

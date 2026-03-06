@@ -1,4 +1,8 @@
 # Biome: [[biomes/industrial|Industrial Zone]]
+
+![[assets/tiles/industrial_01.png|200]]
+
+
 **Description**: A manufacturing and processing complex.
 
 ## Strategic Importance

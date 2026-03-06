@@ -1,4 +1,8 @@
 # Biome: [[biomes/forest|Forest]]
+
+![[assets/tiles/forest_01.png|200]]
+
+
 **Description**: Wooded area.
 
 ## Strategic Importance

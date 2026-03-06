@@ -1,4 +1,8 @@
 # Biome: [[biomes/electronic_lab|Electronic Lab]]
+
+![[assets/tiles/electronics_01.png|200]]
+
+
 **Description**: A specialized facility for advanced tech.
 
 ## Strategic Importance

@@ -16,7 +16,9 @@ Crafting allows players to combine base resources or damaged items into function
 ---
 
 ## Deconstruction (Salvage)
-With the **[[skills/salvage|Salvage]]** skill, players can break down items into raw materials. Yields represent the probability of receiving 1 unit of that material.
+With the **[[skills/salvage|Salvage]]** skill, players can break down items into raw materials. 
+
+> **Note**: Yields are probabilistic. Each material is rolled independently, meaning it is possible to retrieve all, some, or **no materials** (Total Failure). At low **[[skills/salvage|Salvage]]** levels, the "base" failure rate is significant. Success rates can be improved by leveling the Salvage skill.
 
 | Item | Primary Yield (Prob.) | Rare Bonus (Prob.) |
 | :--- | :--- | :--- |

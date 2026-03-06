@@ -1,20 +1,27 @@
 # Raw Timber
-**Rarity**: common
-**Category**: Material
-**Description**: 
+
+![[assets/items/timber.png|150]]
+
+
+### Core Properties
+- **Rarity**: common
+- **Category**: Material
+- **Description**: 
 
 ## Usage
-- Usage: Used to build [[base/constructions|Hydroponic Patch]], [[base/constructions|Watchtower]], [[base/constructions|Well]].
+- Used to build [[base/constructions|Hydroponic Patch]], [[base/constructions|Watchtower]], [[base/constructions|Well]].
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[biomes/desert|Desert]] | 20 |
-| [[biomes/electronic_lab|Electronic Lab]] | 0 |
-| [[biomes/farm_facility|Farm Facility]] | 25 |
 | [[biomes/forest|Forest]] | 80 |
-| [[biomes/hidden_vault|Hidden Vault]] | 0 |
-| [[biomes/industrial|Industrial]] | 5 |
+| [[biomes/farm_facility|Farm Facility]] | 25 |
+| [[biomes/desert|Desert]] | 20 |
+| [[biomes/ruined_city|Ruined City]] | 15 |
 | [[biomes/mountain|Mountain]] | 10 |
 | [[biomes/oasis|Oasis]] | 10 |
-| [[biomes/ruined_city|Ruined City]] | 15 |
+| [[biomes/industrial|Industrial]] | 5 |
+
+## Technical Information
+- **Asset ID**: `timber`
+- **Asset Path**: `items/timber.png`

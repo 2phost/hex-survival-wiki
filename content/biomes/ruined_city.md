@@ -1,4 +1,8 @@
 # Biome: [[biomes/ruined_city|Ruined City]]
+
+![[assets/tiles/ruined_city_01.png|200]]
+
+
 **Description**: Dense urban environment.
 
 ## Strategic Importance

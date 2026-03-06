@@ -1,20 +1,24 @@
 # Gasoline Generator (empty)
-**Rarity**: common
-**Category**: Material
-**Description**: 
+
+![[assets/items/gasoline_generator.png|150]]
+
+
+### Core Properties
+- **Rarity**: common
+- **Category**: Material
+- **Description**: 
 
 ## Usage
-- Usage: Used to craft [[items/gasoline_generator|Gasoline Generator]].
+- Used to craft [[items/gasoline_generator|Gasoline Generator]].
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[biomes/desert|Desert]] | 0 |
-| [[biomes/electronic_lab|Electronic Lab]] | 20 |
-| [[biomes/farm_facility|Farm Facility]] | 0 |
-| [[biomes/forest|Forest]] | 0 |
 | [[biomes/hidden_vault|Hidden Vault]] | 40 |
 | [[biomes/industrial|Industrial]] | 20 |
-| [[biomes/mountain|Mountain]] | 0 |
-| [[biomes/oasis|Oasis]] | 0 |
+| [[biomes/electronic_lab|Electronic Lab]] | 20 |
 | [[biomes/ruined_city|Ruined City]] | 10 |
+
+## Technical Information
+- **Asset ID**: `gasoline_generator_empty`
+- **Asset Path**: `items/gasoline_generator.png`

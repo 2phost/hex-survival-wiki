@@ -1,4 +1,8 @@
 # Biome: [[biomes/mountain|Mountain]]
+
+![[assets/tiles/mountain_01.png|200]]
+
+
 **Description**: Excavated terrain.
 
 ## Strategic Importance

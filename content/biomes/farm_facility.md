@@ -1,4 +1,8 @@
 # Biome: [[biomes/farm_facility|Farm Facility]]
+
+![[assets/tiles/farm_facility_01.png|200]]
+
+
 **Description**: A large-scale agricultural complex.
 
 ## Strategic Importance

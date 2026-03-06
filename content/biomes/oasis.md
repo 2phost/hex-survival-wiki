@@ -1,4 +1,8 @@
 # Biome: [[biomes/oasis|Oasis]]
+
+![[assets/tiles/oasis_01.png|200]]
+
+
 **Description**: A rare fertile area with water.
 
 ## Strategic Importance

@@ -1,24 +1,29 @@
 # Damaged Solar Panel
-**Rarity**: rare
-**Category**: Junk
-**Description**: Cracked photovoltaic array. Some cells might still function.
+
+![[assets/items/damaged_solar_panel.png|150]]
+
+
+### Core Properties
+- **Rarity**: rare
+- **Category**: Junk
+- **Description**: Cracked photovoltaic array. Some cells might still function.
 
 ## Usage
-- Usage: Deconstruct at Base for [[items/solar_cell|Solar Cell]] and electrical components.
+- Deconstruct at Base for [[items/solar_cell|Solar Cell]] and electrical components.
 
 ## Deconstruction Yields
+> **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.
+
 - **Primary Yields**: [[items/solar_cell|Solar Cell]] (30%), [[items/copper_wiring|Copper Wiring]] (50%), [[items/scrap_metal|Scrap Metal]] (30%)
 - **Rare Yields**: [[items/circuit_boards|Circuit Boards]] (8%)
 
 ## Biome Weights
 | Biome | Weight |
 | :--- | :--- |
-| [[biomes/desert|Desert]] | 25 |
 | [[biomes/electronic_lab|Electronic Lab]] | 30 |
-| [[biomes/farm_facility|Farm Facility]] | 0 |
-| [[biomes/forest|Forest]] | 0 |
-| [[biomes/hidden_vault|Hidden Vault]] | 0 |
+| [[biomes/desert|Desert]] | 25 |
 | [[biomes/industrial|Industrial]] | 15 |
-| [[biomes/mountain|Mountain]] | 0 |
-| [[biomes/oasis|Oasis]] | 0 |
-| [[biomes/ruined_city|Ruined City]] | 0 |
+
+## Technical Information
+- **Asset ID**: `damaged_solar_panel`
+- **Asset Path**: `items/damaged_solar_panel.png`

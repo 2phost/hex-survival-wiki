@@ -1,5 +1,8 @@
 # Mechanism: [[mechanisms/fear|Fear]]
 
+![[assets/overlays/fear.png|300]]
+
+
 ## Overview
 Fear is a psychological status system added on March 5, 2026. it tracks the mental strain of exploring the darkness.
 

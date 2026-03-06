@@ -1,4 +1,8 @@
 # Biome: [[biomes/desert|Desert]]
+
+![[assets/tiles/desert_01.png|200]]
+
+
 **Description**: Barren terrain.
 
 ## Strategic Importance

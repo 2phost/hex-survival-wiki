@@ -1,4 +1,8 @@
 # Biome: [[biomes/hidden_vault|Hidden Vault]]
+
+![[assets/tiles/hidden_vault_01.png|200]]
+
+
 **Description**: A rare, fortified pre-collapse bunker.
 
 ## Strategic Importance
