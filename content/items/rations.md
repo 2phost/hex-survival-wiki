@@ -16,6 +16,14 @@
 - **Thirst**: 0
 - **AP**: 1
 
+
+
+## Obtained From Fabrication
+This item can be produced via the **[[mechanisms/facility_fabrication|Fabricate]]** action.
+- **Facility**: [[biomes/farm_facility|Human Human Farm Facility]]
+- **Requirement**: No skill required
+- **Note**: The fabrication completes at Midnight and the item appears on the ground at the facility tile.
+
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
