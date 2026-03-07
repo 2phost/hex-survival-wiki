@@ -13,7 +13,8 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Vitals Restoration**: Exact numerical effects for all consumables confirmed.
 - **Stim Conditioning**: Tier locks confirmed for Stim Pack/Injector/Overdrive.
 - **Generator Operations**: Tier locks confirmed for Gas/Biofuel/Plasma fuels.
-- **Facility Production**: Skill requirements for components (Lvl 1 Alloy, Lvl 2 Logic/Hydraulic, Lvl 3 Signal). One unit produced per Midnight transition if facility is active.
+- **[[mechanisms/facility_fabrication|Facility Fabrication]]**: Confirmed "Fabricate" action logic. Starting a fabrication costs **0 AP**. Products are selected on-tile and produced at Midnight, appearing on the ground at that tile. Multiple fabrications can be active across different tiles, but only one per tile.
+- **Town Failure**: Confirmed that if the town's power level reaches **0%**, the town instance ends for all players.
 - **Scavenging Math**: Fully confirmed the multi-tier roll system (45/25/5/25) used by the server. Migrated all item and biome weights to **Absolute Success Probabilities (% per hour)**.
 - **Fear System**: Confirmed Fear accumulation in darkness and recovery while resting in light. Verified the **3-bar Fear maximum**; reaching 3/3 Fear results in death ("Consumed by darkness").
 - **Detailed Item Usage**: Confirmed specific crafting and construction roles for all materials, including reverse-mapping of deconstruction sources for all yields.
@@ -35,7 +36,6 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 
 ## 3. Advanced Mechanisms & Map
 - **Beacon Amp Logic**: (Testing) Quantify the "improvement in movement efficiency" in darkness (e.g., is it -0.5 AP cost per hex?).
-- **Facility Production**: (Testing) Confirm if multiple players at the same facility can increase production rate.
 - **Map Size**: (Testing) Is the world finite or procedurally infinite?
 - **Visual Range**: (Testing) Can players see the biome type of adjacent tiles without moving?
 - **Power Pole Connectivity**: (Testing) Confirm if poles *must* be connected to the base grid or if isolated "mini-grids" are possible.

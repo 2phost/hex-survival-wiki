@@ -22,7 +22,7 @@ The town's total energy reserve is reduced based on:
 Automated facilities produce resources at this point:
 - **[[base/constructions|Well]]**: Produces 10 water.
 - **[[base/constructions|Hydroponic Patch]]**: Produces rations and salad.
-- **Facility Production**: Industrial Zone or Electronic Store - Lab components are added to the Bank.
+- **Facility Production**: Any active **Fabrication** projects (set at **[[biomes/farm_facility|Human Farm Facility]]**, **[[biomes/industrial|Industrial Zone]]**, or **[[biomes/electronic_lab|Electronic Store - Lab]]**) are completed. The resulting items appear on the ground at their respective facility tiles.
 
 ## 5. The Nightly Siege
 Midnight triggers a defensive phase where enemies attempt to breach the town perimeter. (Exact breach consequences are being verified; see [[mechanisms/inferred_mechanics|Inferred Mechanics]]).

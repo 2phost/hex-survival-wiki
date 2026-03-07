@@ -13,6 +13,14 @@
 - The primary source of food. **Weight 90** for **<img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/rations|Rations]]** and **Weight 45** for **<img src="../assets/items/salad.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/salad|Salad]]**.
 - Good source for **<img src="../assets/items/water.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/water|Clean Water]]** (Weight 35) and **<img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/timber|Raw Timber]]** (Weight 25).
 
+## Facility Fabrication
+This facility allows for the large-scale production of food items via the **[[mechanisms/facility_fabrication|Fabricate]]** action.
+- **Action**: Fabricate (**0 AP**)
+- **Products**: **<img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/rations|Rations]]** or **<img src="../assets/items/salad.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/salad|Salad]]**.
+- **Requirement**: No skill required.
+- **Cycle**: Fabrication must be manually started on the tile. The item is produced at **[[mechanisms/midnight_cycle|Midnight]]** and appears on the ground at the current tile.
+- **Limit**: Only one fabrication can be active at this specific tile at a time.
+
 ## Loot Tables (Absolute % Chance)
 | Item | % Per Hour |
 | :--- | :--- |

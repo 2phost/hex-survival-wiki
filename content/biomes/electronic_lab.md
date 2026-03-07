@@ -13,6 +13,15 @@
 - Primary source for **<img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/circuit_boards|Circuit Boards]]** (Weight 75), **<img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/research_material|Research Material]]** (Weight 70), and **<img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/battery|Battery]]** (Weight 60).
 - High chance for **<img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/malfunctioning_sensor|Malfunctioning Sensor]]** (Weight 45).
 
+## Facility Fabrication
+This facility allows for the production of advanced electronic components via the **[[mechanisms/facility_fabrication|Fabricate]]** action.
+- **Action**: Fabricate (**0 AP**)
+- **Requirement**: Requires **[[skills/field_engineering|Field Engineering]]** level:
+    - **<img src="../assets/items/logic_core.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/logic_core|Logic Core]]**: Requires Lvl 2.
+    - **<img src="../assets/items/signal_emitter.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/signal_emitter|Signal Emitter]]**: Requires Lvl 3.
+- **Cycle**: Fabrication must be manually started on the tile. The item is produced at **[[mechanisms/midnight_cycle|Midnight]]** and appears on the ground at the current tile.
+- **Limit**: Only one fabrication can be active at this specific tile at a time.
+
 ## Loot Tables (Absolute % Chance)
 | Item | % Per Hour |
 | :--- | :--- |

@@ -14,6 +14,15 @@
 - High concentration of **<img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/copper_wiring|Copper Wiring]]** (Weight 45) and **<img src="../assets/items/empty_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/empty_canister|Empty Canister]]** (Weight 45).
 - Good source for **<img src="../assets/items/gasoline_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/gasoline_canister|Gasoline Canister]]** (Weight 30) and **<img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/battery|Battery]]** (Weight 30).
 
+## Facility Fabrication
+This facility allows for the production of industrial components via the **[[mechanisms/facility_fabrication|Fabricate]]** action.
+- **Action**: Fabricate (**0 AP**)
+- **Requirement**: Requires **[[skills/field_engineering|Field Engineering]]** level:
+    - **<img src="../assets/items/alloy_plate.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/alloy_plate|Alloy Plate]]**: Requires Lvl 1.
+    - **<img src="../assets/items/hydraulic_piston.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/hydraulic_piston|Hydraulic Piston]]**: Requires Lvl 2.
+- **Cycle**: Fabrication must be manually started on the tile. The item is produced at **[[mechanisms/midnight_cycle|Midnight]]** and appears on the ground at the current tile.
+- **Limit**: Only one fabrication can be active at this specific tile at a time.
+
 ## Loot Tables (Absolute % Chance)
 | Item | % Per Hour |
 | :--- | :--- |

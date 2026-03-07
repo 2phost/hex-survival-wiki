@@ -24,6 +24,7 @@ The technical rules of the game:
 - [[mechanisms/midnight_cycle|Midnight Cycle]]
 - [[mechanisms/power_grid|Power Grid]]
 - [[mechanisms/scavenging_logic|Scavenging Logic]]
+- [[mechanisms/facility_fabrication|Facility Fabrication]]
 - [[mechanisms/exploration_logic|Exploration Logic]]
 - [[mechanisms/expedition_objectives|Expedition Objectives]]
 - [[mechanisms/multiplayer_and_death|Multiplayer & Death]]
