@@ -10,7 +10,7 @@
 
 ## Usage
 - Refill Town Power at the Base (25%).
-- Used to craft [[items/gasoline_generator|Gasoline Generator]].
+- Used to craft <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/gasoline_generator|Gasoline Generator]].
 
 ## Power/Fuel Stats
 - **Power Refill**: +25%

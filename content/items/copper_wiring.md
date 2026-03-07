@@ -9,7 +9,7 @@
 - **Description**: Electrical wiring for connecting solar panels to the grid.
 
 ## Usage
-- Used to craft [[items/power_pole|Power Pole]], [[items/solar_cell|Solar Cell]]. Used to build [[base/constructions|Battery Storage]], [[base/constructions|Beacon Amplifier]], [[base/constructions|Power Pole]], [[base/constructions|Solar Panels]].
+- Used to craft <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/power_pole|Power Pole]], <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/solar_cell|Solar Cell]]. Used to build [[base/constructions|Battery Storage]], [[base/constructions|Beacon Amplifier]], [[base/constructions|Power Pole]], [[base/constructions|Solar Panels]].
 
 ## Biome Weights
 | Biome | Weight |

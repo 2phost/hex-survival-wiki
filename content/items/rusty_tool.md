@@ -14,7 +14,7 @@
 ## Deconstruction Yields
 > **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.
 
-- **Primary Yields**: [[items/scrap_metal|Scrap Metal]] (60%), [[items/stone|Stone]] (20%)
+- **Primary Yields**: <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (60%), <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/stone|Stone]] (20%)
 
 ## Biome Weights
 | Biome | Weight |

@@ -10,12 +10,12 @@
 
 ## Usage
 - Deconstruct at Base for materials.
-- Used to craft [[items/lamp_functioning|Functioning Lamp]].
+- Used to craft <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_functioning|Functioning Lamp]].
 
 ## Deconstruction Yields
 > **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.
 
-- **Primary Yields**: [[items/scrap_metal|Scrap Metal]] (40%), [[items/copper_wiring|Copper Wiring]] (20%)
+- **Primary Yields**: <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (40%), <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/copper_wiring|Copper Wiring]] (20%)
 
 ## Biome Weights
 | Biome | Weight |

@@ -3,6 +3,3 @@
 - **Max Level**: 3
 - **Effect**: +1 inventory slot per level (max 8 total).
 - **Prerequisites**: [[skills/ap_capacity|AP Capacity]] Lvl 1.
-
-## Technical Information
-- **Internal ID**: `inventory_capacity`

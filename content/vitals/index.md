@@ -1,6 +1,6 @@
 # Hex Survival Vitals
 
-Survival in Hex Survival depends on managing five primary status bars. Failing to maintain these will lead to penalties, panic, or death.
+Survival in Hex Survival depends on managing four primary status bars. Failing to maintain these will lead to penalties, panic, or death.
 
 ## Vitals Directory
 
@@ -15,9 +15,6 @@ Psychological strain from the darkness. Accumulates in unlit tiles.
 
 ### [[vitals/action_points|Action Points (AP)]]
 The currency for performing tasks and moving across the map.
-
-### Health
-Managed by finding medicine. (Further details pending discovery).
 
 ---
 

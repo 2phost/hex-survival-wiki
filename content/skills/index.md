@@ -13,6 +13,24 @@ Training costs **0 AP** but requires significant actual time to complete.
 | **Level 4** | 14 Days |
 | **Level 5** | 30 Days |
 
+## Dependency Tree
+```mermaid
+graph TD
+    AP[AP Capacity] -->|Lvl 1| PM[Pack Mule]
+    AP -->|Lvl 1| SE[Scavenger's Eye]
+    AP -->|Lvl 1| SC[Stim Conditioning]
+    AP -->|Lvl 2| RR[Rest Recovery]
+    
+    SE -->|Lvl 1| SL[Salvage]
+    SE -->|Lvl 2| FE[Field Engineering]
+    
+    FE -->|Lvl 1| GO[Generator Operations]
+
+    classDef default fill:#2d2d2d,stroke:#666,stroke-width:2px,color:#fff;
+    classDef highlight fill:#4a4a4a,stroke:#fff,stroke-width:2px,color:#fff;
+    class AP highlight;
+```
+
 ## Skill Directory
 
 ### [[skills/ap_capacity|AP Capacity]]

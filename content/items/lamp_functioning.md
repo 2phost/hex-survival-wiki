@@ -15,8 +15,8 @@
 ## Deconstruction Yields
 > **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.
 
-- **Primary Yields**: [[items/lamp_empty|Lamp Empty]] (60%), [[items/battery|Battery]] (30%)
-- **Rare Yields**: [[items/copper_wiring|Copper Wiring]] (5%)
+- **Primary Yields**: <img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_empty|Lamp Empty]] (60%), <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/battery|Battery]] (30%)
+- **Rare Yields**: <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/copper_wiring|Copper Wiring]] (5%)
 
 ## Technical Information
 - **Asset ID**: `lamp_functioning`

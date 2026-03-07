@@ -14,8 +14,8 @@
 ## Deconstruction Yields
 > **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.
 
-- **Primary Yields**: [[items/circuit_boards|Circuit Boards]] (40%), [[items/battery|Battery]] (30%)
-- **Rare Yields**: [[items/research_material|Research Material]] (10%)
+- **Primary Yields**: <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/circuit_boards|Circuit Boards]] (40%), <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/battery|Battery]] (30%)
+- **Rare Yields**: <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/research_material|Research Material]] (10%)
 
 ## Biome Weights
 | Biome | Weight |

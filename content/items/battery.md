@@ -9,7 +9,7 @@
 - **Description**: 
 
 ## Usage
-- Used to craft [[items/lamp_functioning|Functioning Lamp]].
+- Used to craft <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_functioning|Functioning Lamp]].
 
 ## Biome Weights
 | Biome | Weight |

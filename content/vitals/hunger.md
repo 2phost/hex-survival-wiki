@@ -1,6 +1,6 @@
 # Vital: [[vitals/hunger|Hunger]]
 
-Hunger is a primary survival vital in Hex Survival. Failing to manage your hunger levels will lead to a rapid decline in health and eventual death.
+Hunger is a primary survival vital in Hex Survival. Failing to manage your hunger levels will lead to eventual death.
 
 ## 1. The [[mechanisms/midnight_cycle|Midnight]] Drain
 At **[[mechanisms/midnight_cycle|Midnight]]**, every player's hunger bar is reduced by **40% (4 bars out of 10)**. This "Midnight Toll" is the most significant source of hunger loss and requires players to eat before the day transitions.

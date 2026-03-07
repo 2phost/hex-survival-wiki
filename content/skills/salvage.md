@@ -5,3 +5,6 @@
   - **Base Yield**: +10% material return per level.
   - **Rare Chance**: +5% rare bonus material chance per level.
 - **Prerequisites**: [[skills/scavenger_eye|Scavenger's Eye]] Lvl 1.
+
+## Unlocks
+- *None (End of specialization tree)*

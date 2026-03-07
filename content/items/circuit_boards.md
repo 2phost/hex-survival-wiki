@@ -9,7 +9,7 @@
 - **Description**: 
 
 ## Usage
-- Used to craft [[items/solar_cell|Solar Cell]]. Used to build [[base/constructions|Automated Sentry]], [[base/constructions|Beacon Amplifier]], [[base/constructions|Scrap Workshop]], [[base/constructions|Signal Booster (Radar)]], [[base/constructions|Solar Panels]].
+- Used to craft <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/solar_cell|Solar Cell]]. Used to build [[base/constructions|Automated Sentry]], [[base/constructions|Beacon Amplifier]], [[base/constructions|Scrap Workshop]], [[base/constructions|Signal Booster (Radar)]], [[base/constructions|Solar Panels]].
 
 ## Biome Weights
 | Biome | Weight |

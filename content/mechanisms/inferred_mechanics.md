@@ -14,15 +14,14 @@ These are logical deductions based on established gameplay patterns and official
 
 ## 3. Starvation & Dehydration Consequences
 While the exact mechanics of 0% vitals are being verified, it is inferred that:
-- **Starvation**: Health begins to drain every hour while at 0% hunger. Movement may cost more AP or be disabled entirely.
-- **Dehydration**: Health begins to drain every hour while at 0% thirst. Death likely occurs faster from thirst than from hunger.
+- **Starvation**: Reaching 0% hunger may lead to death or severe mobility penalties. Movement may cost more AP or be disabled entirely.
+- **Dehydration**: Reaching 0% thirst may lead to death. Death likely occurs faster from thirst than from hunger.
 
 ## 4. Panic-Loss State
 While the release notes confirm a "panic-loss condition" when Fear exceeds its maximum, the exact mechanics are inferred to be:
 - **Total Failure**: Represents a total failure to function due to terror.
 - **Forced Movement**: The player may be forced to move toward the nearest light source.
 - **Action Lockdown**: All non-movement actions (scavenging, building) may be disabled.
-- **Health Drain**: High-intensity panic may cause a slow drain on Health until a lit tile is reached.
 
 ## 5. Map & Exploration
 - **Visual Range**: It is inferred that players can see the biome type of adjacent tiles without moving, but cannot see specific contents or buildings until discovered.

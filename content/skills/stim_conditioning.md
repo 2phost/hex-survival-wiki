@@ -6,6 +6,3 @@
   - **Lvl 2**: [[items/stim_injector|Stim Injector]] (+4 AP).
   - **Lvl 3**: [[items/stim_overdrive|Stim Overdrive]] (+6 AP).
 - **Prerequisites**: [[skills/ap_capacity|AP Capacity]] Lvl 1.
-
-## Technical Information
-- **Internal ID**: `stim_usage`

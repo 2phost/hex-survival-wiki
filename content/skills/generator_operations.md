@@ -6,3 +6,6 @@
   - **Lvl 2**: [[items/biofuel_cell|Biofuel]] usage (+40%).
   - **Lvl 3**: [[items/plasma_fuel_rod|Plasma]] usage (+60%).
 - **Prerequisites**: [[skills/field_engineering|Field Engineering]] Lvl 1.
+
+## Unlocks
+- *None (End of specialization tree)*

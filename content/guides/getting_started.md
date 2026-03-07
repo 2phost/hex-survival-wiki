@@ -20,7 +20,7 @@ The "Darkness" in this world is lethal.
 - **The [[mechanisms/midnight_cycle|Midnight]] Trap**: Hunger and Thirst drain by **40%** at Midnight. If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex *before* the clock hits zero.
 
 ## 3. Managing Your Vitals
-You have five status bars: **[[vitals/hunger|Hunger]]**, **[[vitals/thirst|Thirst]]**, **[[vitals/fear|Fear]]**, **[[vitals/action_points|Action Points]] (AP)**, and Activity.
+You have four status bars: **[[vitals/hunger|Hunger]]**, **[[vitals/thirst|Thirst]]**, **[[vitals/fear|Fear]]**, and **[[vitals/action_points|Action Points]] (AP)**.
 - **Find Water and Rations**: Head to an **[[biomes/oasis|Oasis]]** or the **[[biomes/farm_facility|Farm Facility]]** early on to stockpile resources.
 - **Consuming Items**: Use **Right-Click** in your inventory to drink water or eat rations. **Basic food and water restore +1 AP.**
 - **AP Management**: Every movement costs 1 AP. **Scavenging is free.** If you run out, set your activity to **Resting** to recover **1 AP per hour**.

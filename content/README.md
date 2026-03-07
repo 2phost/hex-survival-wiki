@@ -35,6 +35,10 @@ The technical rules of the game:
 - [[guides/getting_started|Getting Started Guide]]
 - [[ideas/strategic_suggestions|Strategic Suggestions]]
 - [[ideas/dev_feedback_suggestions|Tester Feedback & Suggestions]]
+- [[ideas/new_items|New Item Ideas]]
+- [[ideas/new_skills|New Skill Ideas]]
+- [[ideas/new_constructions|New Construction Ideas]]
+- [[ideas/new_combinations|New Combination Ideas]]
 
 ---
 

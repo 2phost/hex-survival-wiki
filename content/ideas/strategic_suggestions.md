@@ -3,9 +3,9 @@
 Based on the current understanding of Hex Survival, these strategies focus on efficiency, collaboration, and risk mitigation.
 
 ## 1. Early-Game Skill Priority (The "Action Economy")
-- **Priority 1: [[mechanisms/action_points|AP]] Capacity**: Increasing your max [[mechanisms/action_points|Action Points|AP]] allows for longer expeditions and more interactions per day.
-- **Priority 2: Scavenger's Eye**: Higher loot chances per search save [[mechanisms/action_points|AP]] in the long run by reducing the number of "empty" searches.
-- **Priority 3: Stim Conditioning (Lvl 1)**: Crucial to unlock the use of Stim Packs for emergency [[mechanisms/action_points|AP]] during high-threat objectives.
+- **Priority 1: [[vitals/action_points|AP]] Capacity**: Increasing your max [[vitals/action_points|AP]] allows for longer expeditions and more interactions per day.
+- **Priority 2: Scavenger's Eye**: Higher loot chances per search save [[vitals/action_points|AP]] in the long run by reducing the number of "empty" searches.
+- **Priority 3: Stim Conditioning (Lvl 1)**: Crucial to unlock the use of Stim Packs for emergency [[vitals/action_points|AP]] during high-threat objectives.
 - **Sustaining AP**: Early on, rely on **Rations** and **Clean Water** for their **+1 AP** restoration to keep your momentum without needing stims.
 
 ## 2. Collaborative Logistics: "The Warehouse"
@@ -20,7 +20,7 @@ Based on the current understanding of Hex Survival, these strategies focus on ef
 - **Strategic Grid**: Do not build [[mechanisms/infrastructure|Power Poles]] randomly. Focus on creating a straight-line "highway" from the **Base** to the nearest **[[biomes/oasis|Oasis]]** and **[[biomes/electronic_lab|Electronic Lab]]**.
 - **0-Hex Radius Precision**: Since poles only light their **current hex**, you must build a pole on **every single hex** of a highway to walk it safely without a lamp. This makes highways incredibly resource-intensive but vital for long-term scavenging.
 - **Resource Leapfrogging**: To save materials, use a **Lamp** to move 3-4 hexes out, then build a **Power Pole** at your destination. This creates a "safe point" or relay station without needing a full continuous highway.
-- **Watchtower First**: The town's first major construction should be the **[[mechanisms/infrastructure|Watchtower]]** (2 Timber, 2 Stone). This reveals the headings of world objectives, saving the town from wasting [[mechanisms/action_points|AP]] and materials on blind "Highways" in the wrong direction.
+- **Watchtower First**: The town's first major construction should be the **[[mechanisms/infrastructure|Watchtower]]** (2 Timber, 2 Stone). This reveals the headings of world objectives, saving the town from wasting [[vitals/action_points|AP]] and materials on blind "Highways" in the wrong direction.
 - **Safe Hubs**: Build a small cluster of [[mechanisms/infrastructure|Power Poles]] at high-value tiles (like the Lab) so multiple players can scavenge there safely without consuming personal lamp time.
 
 ## 4. [[mechanisms/time_and_power|Midnight]] Preparation (The "Survival Check")
@@ -36,7 +36,7 @@ Based on the current understanding of Hex Survival, these strategies focus on ef
 - **Fear-Aware Response**: If your **Fear** is high, your success chance at disabling relays or other skill checks is reduced by **-5% per point**. Rest in the light before attempting critical missions.
 - **The "Panic Dash"**: If you are caught in the dark without a lamp and your **Fear** is rising, do not stop to scavenge. Dash back to the nearest lit tile immediately. Use a **Stim Pack** (+2 AP) if you run out of movement AP while in the darkness to avoid a panic-loss death.
 - **Movement Efficiency**: Use the **[[mechanisms/infrastructure|Beacon Amplifier]]** to mitigate the dangers of exploring in darkness by improving your town-wide movement efficiency.
-- **[[mechanisms/action_points|AP]] Reserves**: Keep at least 2 [[mechanisms/action_points|AP]] in reserve (or a **[[items/stim_pack|Stim Pack]]**) when exploring near known threats to disable them immediately.
+- **[[vitals/action_points|AP]] Reserves**: Keep at least 2 [[vitals/action_points|AP]] in reserve (or a **[[items/stim_pack|Stim Pack]]**) when exploring near known threats to disable them immediately.
 
 ## 6. Advanced Scavenging: "The Drop-Off"
 - **Inventory Juggling**: Since you only have 5 slots, if you find a high-value item (like a **Circuit Board**) but your inventory is full of food, drop the food on a **Power Pole** hex. It will stay there for you to pick up on your way back, freeing a slot for the rare loot.
@@ -60,9 +60,9 @@ In Hex Survival, no one person can do everything. Success requires the town to c
 - **Role**: Maintain the town's power grid, build advanced infrastructure, and operate powered industrial facilities.
 - **Skill Priority**: 
     1. **Field Engineering** (Lvl 3): To operate Industrial and Electronic Lab facilities.
-    2. **Generator Operations** (Lvl 3): To use high-tier fuels like **[[mechanisms/items|Plasma Fuel Rod]]**s.
+    2. **Generator Operations** (Lvl 3): To use high-tier fuels like **[[items/plasma_fuel_rod|Plasma Fuel Rod]]**s.
     3. **AP Capacity** (Lvl 3): To provide enough AP for building complex projects.
-- **Items**: **[[items/gasoline_canister|Gasoline Canister]]**, **[[mechanisms/items|Copper Wiring]]**, and **[[items/circuit_boards|Circuit Boards]]**.
+- **Items**: **[[items/gasoline_canister|Gasoline Canister]]**, **[[items/copper_wiring|Copper Wiring]]**, and **[[items/circuit_boards|Circuit Boards]]**.
 
 ### The Quartermaster (The Scavenger)
 - **Focus**: **[[mechanisms/skills|Pack Mule]]** & **[[mechanisms/skills|Salvage]]**.
