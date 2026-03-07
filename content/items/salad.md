@@ -16,14 +16,14 @@
 - **Thirst**: 0
 - **AP**: 1
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/farm_facility|Farm Facility]] | 45 |
-| [[biomes/forest|Forest]] | 8 |
-| [[biomes/oasis|Oasis]] | 8 |
-| [[biomes/ruined_city|Ruined City]] | 2 |
-| [[biomes/industrial|Industrial]] | 1 |
+| [[biomes/farm_facility|Farm Facility]] | 10.7% |
+| [[biomes/oasis|Oasis]] | 3.4% |
+| [[biomes/forest|Forest]] | 1.9% |
+| [[biomes/ruined_city|Ruined City]] | 0.3% |
+| [[biomes/industrial|Industrial]] | 0.1% |
 
 ## Technical Information
 - **Asset ID**: `salad`

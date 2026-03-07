@@ -17,12 +17,12 @@
 - **Primary Yields**: <img src="../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/old_glass_bottle|Old Glass Bottle]] (40%), <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (40%)
 - **Rare Yields**: <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/research_material|Research Material]] (4%)
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/ruined_city|Ruined City]] | 25 |
-| [[biomes/mountain|Mountain]] | 20 |
-| [[biomes/industrial|Industrial]] | 15 |
+| [[biomes/mountain|Mountain]] | 6.6% |
+| [[biomes/ruined_city|Ruined City]] | 3.2% |
+| [[biomes/industrial|Industrial]] | 1.5% |
 
 ## Technical Information
 - **Asset ID**: `broken_binoculars`

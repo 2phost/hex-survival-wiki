@@ -14,7 +14,7 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Stim Conditioning**: Tier locks confirmed for Stim Pack/Injector/Overdrive.
 - **Generator Operations**: Tier locks confirmed for Gas/Biofuel/Plasma fuels.
 - **Facility Production**: Skill requirements for components (Lvl 1 Alloy, Lvl 2 Logic/Hydraulic, Lvl 3 Signal). One unit produced per Midnight transition if facility is active.
-- **Item/Biome Directories**: Exact loot weights and item properties (Rarity, Category, Consumable Stats, Power Refills) for all 43 items and 9 biomes are fully confirmed and audited against the latest content pack. Biome weight tables are now sorted DESC and exclude zero-weight entries.
+- **Item/Biome Directories**: Exact item properties (Rarity, Category, Consumable Stats, Power Refills) fully audited. Migrated all relative weights to **Absolute Success Probabilities (% per hour)** based on the server roll logic (45/25/5/25). Biome weight tables are now sorted DESC and exclude zero-weight entries.
 - **Detailed Item Usage**: Confirmed specific crafting and construction roles for all materials (e.g., Car Battery for Battery Storage, Copper Wiring for Solar Panels).
 - **Visual Assets**: Standardized all image embeds to Quartz Wikilink format (![[...]]) with uniform scaling (150px-300px). Embedded high-resolution icons for all items and biome tiles.
 - **Table Optimization**: Standardized HTML-based icons (20px) with `vertical-align: middle` across all crafting and deconstruction tables for perfect text alignment.

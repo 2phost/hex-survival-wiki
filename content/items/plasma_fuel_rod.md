@@ -10,6 +10,7 @@
 
 ## Usage
 - Refill Town Power at the Base (60%).
+- Refilling Town Power at the [[base/management|Town Bank]].
 
 ## Power/Fuel Stats
 - **Power Refill**: +60%
@@ -17,11 +18,11 @@
 ## Skill Requirements
 - [[skills/generator_operations|Generator Operations]] Level 3
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/hidden_vault|Hidden Vault]] | 14 |
-| [[biomes/electronic_lab|Electronic Lab]] | 8 |
+| [[biomes/hidden_vault|Hidden Vault]] | 1.4% |
+| [[biomes/electronic_lab|Electronic Lab]] | 0.6% |
 
 ## Technical Information
 - **Asset ID**: `plasma_fuel_rod`

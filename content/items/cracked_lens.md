@@ -17,12 +17,12 @@
 - **Primary Yields**: <img src="../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/old_glass_bottle|Old Glass Bottle]] (50%), <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (30%)
 - **Rare Yields**: <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/research_material|Research Material]] (3%)
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/industrial|Industrial]] | 35 |
-| [[biomes/electronic_lab|Electronic Lab]] | 25 |
-| [[biomes/ruined_city|Ruined City]] | 20 |
+| [[biomes/industrial|Industrial]] | 3.5% |
+| [[biomes/electronic_lab|Electronic Lab]] | 3.4% |
+| [[biomes/ruined_city|Ruined City]] | 2.6% |
 
 ## Technical Information
 - **Asset ID**: `cracked_lens`

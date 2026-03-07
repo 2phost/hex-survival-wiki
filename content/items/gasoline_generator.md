@@ -17,13 +17,13 @@
 - **Primary Yields**: <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/gasoline_generator_empty|Gasoline Generator Empty]] (50%), <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (40%), <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/copper_wiring|Copper Wiring]] (30%)
 - **Rare Yields**: <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/circuit_boards|Circuit Boards]] (6%)
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/hidden_vault|Hidden Vault]] | 16 |
-| [[biomes/industrial|Industrial]] | 12 |
-| [[biomes/electronic_lab|Electronic Lab]] | 10 |
-| [[biomes/ruined_city|Ruined City]] | 6 |
+| [[biomes/hidden_vault|Hidden Vault]] | 2.8% |
+| [[biomes/electronic_lab|Electronic Lab]] | 1.2% |
+| [[biomes/industrial|Industrial]] | 1.1% |
+| [[biomes/ruined_city|Ruined City]] | 0.7% |
 
 ## Technical Information
 - **Asset ID**: `gasoline_generator`

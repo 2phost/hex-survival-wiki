@@ -17,12 +17,12 @@
 - **Primary Yields**: <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (50%), <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/copper_wiring|Copper Wiring]] (40%)
 - **Rare Yields**: <img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/chemical_sludge|Chemical Sludge]] (8%)
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/industrial|Industrial]] | 40 |
-| [[biomes/electronic_lab|Electronic Lab]] | 25 |
-| [[biomes/ruined_city|Ruined City]] | 15 |
+| [[biomes/industrial|Industrial]] | 4.0% |
+| [[biomes/electronic_lab|Electronic Lab]] | 3.4% |
+| [[biomes/ruined_city|Ruined City]] | 1.9% |
 
 ## Technical Information
 - **Asset ID**: `burnt_motor`

@@ -19,13 +19,13 @@
 ## Skill Requirements
 - [[skills/stim_conditioning|Stim Conditioning]] Level 3
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/hidden_vault|Hidden Vault]] | 10 |
-| [[biomes/electronic_lab|Electronic Lab]] | 4 |
-| [[biomes/industrial|Industrial]] | 2 |
-| [[biomes/ruined_city|Ruined City]] | 1 |
+| [[biomes/hidden_vault|Hidden Vault]] | 1.0% |
+| [[biomes/electronic_lab|Electronic Lab]] | 0.3% |
+| [[biomes/industrial|Industrial]] | 0.1% |
+| [[biomes/ruined_city|Ruined City]] | 0.1% |
 
 ## Technical Information
 - **Asset ID**: `stim_overdrive`

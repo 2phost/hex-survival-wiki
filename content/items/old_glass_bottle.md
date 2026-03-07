@@ -9,20 +9,28 @@
 - **Description**: 
 
 ## Usage
-- Used to craft <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/glowing_bottle|Glowing Bottle]].
+- Crafting <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/glowing_bottle|Glowing Bottle]]
 
-## Biome Weights
-| Biome | Weight |
+
+## Obtained From Deconstruction
+> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
+
+- From <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/glowing_bottle|Glowing Bottle]]: **50%** base chance.
+- From <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/cracked_lens|Cracked Lens]]: **50%** base chance.
+- From <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/broken_binoculars|Broken Binoculars]]: **40%** base chance.
+
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/ruined_city|Ruined City]] | 45 |
-| [[biomes/industrial|Industrial]] | 40 |
-| [[biomes/farm_facility|Farm Facility]] | 26 |
-| [[biomes/forest|Forest]] | 25 |
-| [[biomes/desert|Desert]] | 20 |
-| [[biomes/oasis|Oasis]] | 20 |
-| [[biomes/mountain|Mountain]] | 15 |
-| [[biomes/electronic_lab|Electronic Lab]] | 10 |
-| [[biomes/hidden_vault|Hidden Vault]] | 5 |
+| [[biomes/oasis|Oasis]] | 8.6% |
+| [[biomes/desert|Desert]] | 6.2% |
+| [[biomes/farm_facility|Farm Facility]] | 6.2% |
+| [[biomes/forest|Forest]] | 5.9% |
+| [[biomes/ruined_city|Ruined City]] | 5.7% |
+| [[biomes/mountain|Mountain]] | 4.9% |
+| [[biomes/industrial|Industrial]] | 4.0% |
+| [[biomes/electronic_lab|Electronic Lab]] | 1.4% |
+| [[biomes/hidden_vault|Hidden Vault]] | 1.0% |
 
 ## Technical Information
 - **Asset ID**: `old_glass_bottle`

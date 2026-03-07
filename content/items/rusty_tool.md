@@ -16,13 +16,13 @@
 
 - **Primary Yields**: <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (60%), <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/stone|Stone]] (20%)
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/ruined_city|Ruined City]] | 30 |
-| [[biomes/industrial|Industrial]] | 25 |
-| [[biomes/desert|Desert]] | 12 |
-| [[biomes/forest|Forest]] | 8 |
+| [[biomes/ruined_city|Ruined City]] | 3.8% |
+| [[biomes/desert|Desert]] | 3.7% |
+| [[biomes/industrial|Industrial]] | 2.5% |
+| [[biomes/forest|Forest]] | 1.9% |
 
 ## Technical Information
 - **Asset ID**: `rusty_tool`

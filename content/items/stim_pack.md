@@ -19,18 +19,18 @@
 ## Skill Requirements
 - [[skills/stim_conditioning|Stim Conditioning]] Level 1
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/ruined_city|Ruined City]] | 14 |
-| [[biomes/industrial|Industrial]] | 10 |
-| [[biomes/forest|Forest]] | 8 |
-| [[biomes/desert|Desert]] | 6 |
-| [[biomes/electronic_lab|Electronic Lab]] | 6 |
-| [[biomes/mountain|Mountain]] | 4 |
-| [[biomes/farm_facility|Farm Facility]] | 4 |
-| [[biomes/hidden_vault|Hidden Vault]] | 3 |
-| [[biomes/oasis|Oasis]] | 2 |
+| [[biomes/forest|Forest]] | 1.9% |
+| [[biomes/desert|Desert]] | 1.9% |
+| [[biomes/ruined_city|Ruined City]] | 1.8% |
+| [[biomes/mountain|Mountain]] | 1.3% |
+| [[biomes/industrial|Industrial]] | 1.0% |
+| [[biomes/farm_facility|Farm Facility]] | 1.0% |
+| [[biomes/oasis|Oasis]] | 0.9% |
+| [[biomes/electronic_lab|Electronic Lab]] | 0.8% |
+| [[biomes/hidden_vault|Hidden Vault]] | 0.6% |
 
 ## Technical Information
 - **Asset ID**: `stim_pack`

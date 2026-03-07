@@ -19,16 +19,16 @@
 ## Skill Requirements
 - [[skills/stim_conditioning|Stim Conditioning]] Level 2
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/electronic_lab|Electronic Lab]] | 12 |
-| [[biomes/industrial|Industrial]] | 10 |
-| [[biomes/ruined_city|Ruined City]] | 7 |
-| [[biomes/hidden_vault|Hidden Vault]] | 7 |
-| [[biomes/forest|Forest]] | 2 |
-| [[biomes/desert|Desert]] | 1 |
-| [[biomes/mountain|Mountain]] | 1 |
+| [[biomes/electronic_lab|Electronic Lab]] | 1.4% |
+| [[biomes/hidden_vault|Hidden Vault]] | 1.2% |
+| [[biomes/industrial|Industrial]] | 0.9% |
+| [[biomes/ruined_city|Ruined City]] | 0.8% |
+| [[biomes/forest|Forest]] | 0.4% |
+| [[biomes/mountain|Mountain]] | 0.3% |
+| [[biomes/desert|Desert]] | 0.3% |
 
 ## Technical Information
 - **Asset ID**: `stim_injector`

@@ -16,17 +16,17 @@
 - **Thirst**: -30
 - **AP**: 1
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/oasis|Oasis]] | 90 |
-| [[biomes/forest|Forest]] | 40 |
-| [[biomes/farm_facility|Farm Facility]] | 35 |
-| [[biomes/ruined_city|Ruined City]] | 15 |
-| [[biomes/desert|Desert]] | 10 |
-| [[biomes/mountain|Mountain]] | 10 |
-| [[biomes/hidden_vault|Hidden Vault]] | 10 |
-| [[biomes/industrial|Industrial]] | 5 |
+| [[biomes/oasis|Oasis]] | 38.8% |
+| [[biomes/forest|Forest]] | 9.5% |
+| [[biomes/farm_facility|Farm Facility]] | 8.3% |
+| [[biomes/mountain|Mountain]] | 3.3% |
+| [[biomes/desert|Desert]] | 3.1% |
+| [[biomes/hidden_vault|Hidden Vault]] | 2.1% |
+| [[biomes/ruined_city|Ruined City]] | 1.9% |
+| [[biomes/industrial|Industrial]] | 0.5% |
 
 ## Technical Information
 - **Asset ID**: `water`

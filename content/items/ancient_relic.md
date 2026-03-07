@@ -11,10 +11,10 @@
 ## Usage
 - Material used in various recipes.
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/hidden_vault|Hidden Vault]] | 100 |
+| [[biomes/hidden_vault|Hidden Vault]] | 10.0% |
 
 ## Technical Information
 - **Asset ID**: `ancient_relic`

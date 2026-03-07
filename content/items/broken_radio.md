@@ -17,12 +17,12 @@
 - **Primary Yields**: <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (50%), <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/copper_wiring|Copper Wiring]] (30%), <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/battery|Battery]] (20%)
 - **Rare Yields**: <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/circuit_boards|Circuit Boards]] (5%)
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/electronic_lab|Electronic Lab]] | 35 |
-| [[biomes/industrial|Industrial]] | 30 |
-| [[biomes/ruined_city|Ruined City]] | 25 |
+| [[biomes/electronic_lab|Electronic Lab]] | 4.8% |
+| [[biomes/ruined_city|Ruined City]] | 3.2% |
+| [[biomes/industrial|Industrial]] | 3.0% |
 
 ## Technical Information
 - **Asset ID**: `broken_radio`

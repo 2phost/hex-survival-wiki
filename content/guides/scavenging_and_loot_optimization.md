@@ -21,8 +21,8 @@ Items aren't just for use; they are a source of materials. With the **Salvage** 
 
 ### High-Value Deconstructions
 - **[[items/lamp_functioning|Functioning Lamp]]**: Yields a 60% chance for a **Lamp (empty)** and a 30% chance for a **[[items/battery|Battery]]**. 
-- **[[mechanisms/items|Malfunctioning Sensor]]**: Yields a 40% chance for **[[items/circuit_boards|Circuit Boards]]**, a 30% chance for a **[[items/battery|Battery]]**, and a 10% rare chance for **[[mechanisms/items|Research Material]]**.
-- **[[mechanisms/items|Damaged Solar Panel]]**: Yields a 30% chance for a **[[mechanisms/items|Solar Cell]]**, a 50% chance for **[[mechanisms/items|Copper Wiring]]**, a 30% chance for **[[items/scrap_metal|Scrap Metal]]**, and an 8% rare chance for **[[items/circuit_boards|Circuit Boards]]**.
+- **[[items/malfunctioning_sensor|Malfunctioning Sensor]]**: Yields a 40% chance for **[[items/circuit_boards|Circuit Boards]]**, a 30% chance for a **[[items/battery|Battery]]**, and a 10% rare chance for **[[items/research_material|Research Material]]**.
+- **[[items/damaged_solar_panel|Damaged Solar Panel]]**: Yields a 30% chance for a **[[items/solar_cell|Solar Cell]]**, a 50% chance for **[[items/copper_wiring|Copper Wiring]]**, a 30% chance for **[[items/scrap_metal|Scrap Metal]]**, and an 8% rare chance for **[[items/circuit_boards|Circuit Boards]]**.
 
 ### Rare Bonus Materials
 Higher levels of the **Salvage** skill increase your chance for rare bonus yields (e.g., a **Logic Core** or **Alloy Plate**). Always have your specialized **Quartermaster** handle the deconstruction of rare items to maximize these rolls.

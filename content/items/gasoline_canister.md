@@ -10,7 +10,8 @@
 
 ## Usage
 - Refill Town Power at the Base (25%).
-- Used to craft <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/gasoline_generator|Gasoline Generator]].
+- Crafting <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/gasoline_generator|Gasoline Generator]]
+- Refilling Town Power at the [[base/management|Town Bank]].
 
 ## Power/Fuel Stats
 - **Power Refill**: +25%
@@ -18,14 +19,14 @@
 ## Skill Requirements
 - [[skills/generator_operations|Generator Operations]] Level 1
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/industrial|Industrial]] | 30 |
-| [[biomes/ruined_city|Ruined City]] | 20 |
-| [[biomes/hidden_vault|Hidden Vault]] | 20 |
-| [[biomes/desert|Desert]] | 10 |
-| [[biomes/mountain|Mountain]] | 10 |
+| [[biomes/hidden_vault|Hidden Vault]] | 3.5% |
+| [[biomes/mountain|Mountain]] | 3.1% |
+| [[biomes/desert|Desert]] | 2.9% |
+| [[biomes/industrial|Industrial]] | 2.7% |
+| [[biomes/ruined_city|Ruined City]] | 2.4% |
 
 ## Technical Information
 - **Asset ID**: `gasoline_canister`

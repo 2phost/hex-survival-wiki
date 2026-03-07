@@ -16,12 +16,12 @@
 
 - **Primary Yields**: <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (50%)
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/industrial|Industrial]] | 45 |
-| [[biomes/ruined_city|Ruined City]] | 25 |
-| [[biomes/desert|Desert]] | 10 |
+| [[biomes/industrial|Industrial]] | 4.5% |
+| [[biomes/ruined_city|Ruined City]] | 3.2% |
+| [[biomes/desert|Desert]] | 3.1% |
 
 ## Technical Information
 - **Asset ID**: `empty_canister`

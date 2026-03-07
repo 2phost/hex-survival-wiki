@@ -9,18 +9,26 @@
 - **Description**: 
 
 ## Usage
-- Used to craft <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_functioning|Functioning Lamp]].
+- Crafting <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_functioning|Functioning Lamp]]
 
-## Biome Weights
-| Biome | Weight |
+
+## Obtained From Deconstruction
+> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
+
+- From <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_functioning|Functioning Lamp]]: **30%** base chance.
+- From <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/malfunctioning_sensor|Malfunctioning Sensor]]: **30%** base chance.
+- From <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/broken_radio|Broken Radio]]: **20%** base chance.
+
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/electronic_lab|Electronic Lab]] | 60 |
-| [[biomes/industrial|Industrial]] | 30 |
-| [[biomes/farm_facility|Farm Facility]] | 12 |
-| [[biomes/desert|Desert]] | 10 |
-| [[biomes/forest|Forest]] | 10 |
-| [[biomes/hidden_vault|Hidden Vault]] | 10 |
-| [[biomes/ruined_city|Ruined City]] | 5 |
+| [[biomes/electronic_lab|Electronic Lab]] | 8.2% |
+| [[biomes/desert|Desert]] | 3.1% |
+| [[biomes/industrial|Industrial]] | 3.0% |
+| [[biomes/farm_facility|Farm Facility]] | 2.9% |
+| [[biomes/forest|Forest]] | 2.4% |
+| [[biomes/hidden_vault|Hidden Vault]] | 2.1% |
+| [[biomes/ruined_city|Ruined City]] | 0.6% |
 
 ## Technical Information
 - **Asset ID**: `battery`

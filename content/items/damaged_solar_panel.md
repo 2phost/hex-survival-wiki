@@ -17,12 +17,12 @@
 - **Primary Yields**: <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/solar_cell|Solar Cell]] (30%), <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/copper_wiring|Copper Wiring]] (50%), <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/scrap_metal|Scrap Metal]] (30%)
 - **Rare Yields**: <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/circuit_boards|Circuit Boards]] (8%)
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/electronic_lab|Electronic Lab]] | 30 |
-| [[biomes/desert|Desert]] | 25 |
-| [[biomes/industrial|Industrial]] | 15 |
+| [[biomes/desert|Desert]] | 7.2% |
+| [[biomes/electronic_lab|Electronic Lab]] | 3.6% |
+| [[biomes/industrial|Industrial]] | 1.4% |
 
 ## Technical Information
 - **Asset ID**: `damaged_solar_panel`

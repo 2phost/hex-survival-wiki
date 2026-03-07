@@ -10,24 +10,31 @@
 
 ## Usage
 - Consume to restore 10 hunger and restore 1 AP.
-- Used to craft <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/glowing_bottle|Glowing Bottle]].
+- Crafting <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/glowing_bottle|Glowing Bottle]]
 
 ## Consumable Stats
 - **Hunger**: -10
 - **Thirst**: 0
 - **AP**: 1
 
-## Biome Weights
-| Biome | Weight |
+
+## Obtained From Deconstruction
+> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
+
+- From <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/glowing_bottle|Glowing Bottle]]: **30%** base chance.
+- From <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/worn_leather_pack|Worn Leather Pack]]: **5%** base chance (Rare Bonus).
+
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/forest|Forest]] | 55 |
-| [[biomes/hidden_vault|Hidden Vault]] | 45 |
-| [[biomes/oasis|Oasis]] | 35 |
-| [[biomes/mountain|Mountain]] | 20 |
-| [[biomes/ruined_city|Ruined City]] | 18 |
-| [[biomes/electronic_lab|Electronic Lab]] | 16 |
-| [[biomes/industrial|Industrial]] | 14 |
-| [[biomes/desert|Desert]] | 8 |
+| [[biomes/oasis|Oasis]] | 15.1% |
+| [[biomes/forest|Forest]] | 13.1% |
+| [[biomes/hidden_vault|Hidden Vault]] | 9.2% |
+| [[biomes/mountain|Mountain]] | 6.6% |
+| [[biomes/desert|Desert]] | 2.5% |
+| [[biomes/ruined_city|Ruined City]] | 2.3% |
+| [[biomes/electronic_lab|Electronic Lab]] | 2.2% |
+| [[biomes/industrial|Industrial]] | 1.4% |
 
 ## Technical Information
 - **Asset ID**: `glowing_mushroom`

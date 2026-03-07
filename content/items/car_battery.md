@@ -9,19 +9,19 @@
 - **Description**: Heavy lead-acid battery salvaged from old vehicles. Useful for expanding town power storage.
 
 ## Usage
-- Used to build [[base/constructions|Battery Storage]].
+- Building [[base/upgrades|Battery Storage]]
 
-## Biome Weights
-| Biome | Weight |
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/ruined_city|Ruined City]] | 40 |
-| [[biomes/industrial|Industrial]] | 35 |
-| [[biomes/desert|Desert]] | 12 |
-| [[biomes/electronic_lab|Electronic Lab]] | 8 |
-| [[biomes/farm_facility|Farm Facility]] | 6 |
-| [[biomes/forest|Forest]] | 4 |
-| [[biomes/hidden_vault|Hidden Vault]] | 4 |
-| [[biomes/mountain|Mountain]] | 3 |
+| [[biomes/ruined_city|Ruined City]] | 5.1% |
+| [[biomes/desert|Desert]] | 3.7% |
+| [[biomes/industrial|Industrial]] | 3.5% |
+| [[biomes/farm_facility|Farm Facility]] | 1.4% |
+| [[biomes/electronic_lab|Electronic Lab]] | 1.1% |
+| [[biomes/mountain|Mountain]] | 1.0% |
+| [[biomes/forest|Forest]] | 1.0% |
+| [[biomes/hidden_vault|Hidden Vault]] | 0.8% |
 
 ## Technical Information
 - **Asset ID**: `car_battery`

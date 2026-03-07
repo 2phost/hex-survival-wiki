@@ -30,7 +30,7 @@ These suggestions are intended for the developers to improve the player experien
 - **Town Goals**: A "Message Board" at the Base where players can vote on the next major project (e.g., "Build Solar Array" vs "Expand to Human Farm").
 
 ## 5. Narrative & Discovery
-- **"Log" [[mechanisms/items|Items]]**: [[mechanisms/scavenging|Scavenging]] in the "Ruined City" should occasionally drop "Data Logs" or "Journal Scraps" that provide world-building lore about the "Darkness" and the "Human Farm."
+- **"Log" [[items/index|Items]]**: [[mechanisms/scavenging|Scavenging]] in the "Ruined City" should occasionally drop "Data Logs" or "Journal Scraps" that provide world-building lore about the "Darkness" and the "Human Farm."
 - **Visual Evolution**: As the town's Power level increases, the Base should visually upgrade (e.g., more lights, cleaner textures) to give players a sense of "winning" against the wasteland.
 
 ## 8. Reported Technical Issues (Bug-Suggestions)

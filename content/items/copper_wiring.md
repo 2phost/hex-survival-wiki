@@ -9,19 +9,38 @@
 - **Description**: Electrical wiring for connecting solar panels to the grid.
 
 ## Usage
-- Used to craft <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/power_pole|Power Pole]], <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/solar_cell|Solar Cell]]. Used to build [[base/constructions|Battery Storage]], [[base/constructions|Beacon Amplifier]], [[base/constructions|Power Pole]], [[base/constructions|Solar Panels]].
+- Building [[base/constructions|Power Pole]]
+- Building [[base/upgrades|Battery Storage]]
+- Building [[base/upgrades|Beacon Amplifier]]
+- Building [[base/upgrades|Solar Panels]]
+- Crafting <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/power_pole|Power Pole]]
+- Crafting <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/solar_cell|Solar Cell]]
 
-## Biome Weights
-| Biome | Weight |
+
+## Obtained From Deconstruction
+> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
+
+- From <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/solar_cell|Solar Cell]]: **50%** base chance.
+- From <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/power_pole|Power Pole]]: **50%** base chance.
+- From <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/damaged_solar_panel|Damaged Solar Panel]]: **50%** base chance.
+- From <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/burnt_motor|Burnt-Out Motor]]: **40%** base chance.
+- From <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/gasoline_generator|Gasoline Generator]]: **30%** base chance.
+- From <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/broken_radio|Broken Radio]]: **30%** base chance.
+- From <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/ruined_generator_parts|Ruined Generator Parts]]: **30%** base chance.
+- From <img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_empty|Lamp (empty)]]: **20%** base chance.
+- From <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_functioning|Functioning Lamp]]: **5%** base chance (Rare Bonus).
+
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/industrial|Industrial]] | 45 |
-| [[biomes/electronic_lab|Electronic Lab]] | 40 |
-| [[biomes/ruined_city|Ruined City]] | 30 |
-| [[biomes/hidden_vault|Hidden Vault]] | 20 |
-| [[biomes/farm_facility|Farm Facility]] | 18 |
-| [[biomes/mountain|Mountain]] | 10 |
-| [[biomes/desert|Desert]] | 5 |
-| [[biomes/forest|Forest]] | 5 |
+| [[biomes/electronic_lab|Electronic Lab]] | 5.5% |
+| [[biomes/industrial|Industrial]] | 4.5% |
+| [[biomes/farm_facility|Farm Facility]] | 4.3% |
+| [[biomes/hidden_vault|Hidden Vault]] | 4.1% |
+| [[biomes/ruined_city|Ruined City]] | 3.8% |
+| [[biomes/mountain|Mountain]] | 3.3% |
+| [[biomes/desert|Desert]] | 1.6% |
+| [[biomes/forest|Forest]] | 1.2% |
 
 ## Technical Information
 - **Asset ID**: `copper_wiring`

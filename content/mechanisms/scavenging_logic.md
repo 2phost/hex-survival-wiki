@@ -14,6 +14,17 @@ Your chance of finding an item is influenced by:
 - **[[vitals/fear|Fear]] Penalty**: Each point of Fear reduces search success by **-10%**.
 - **Corrupted Relays**: Active relays on the map can impose a town-wide search penalty.
 
+### Scavenging Math (Probability Model)
+The server determines loot through a multi-tier roll system each hour:
+1. **Search Roll (1-100)**:
+    - **1–45 (45%)**: Item can be **Common, Rare, or Mythic**.
+    - **46–70 (25%)**: Item can be **Common or Rare** only.
+    - **71–75 (5%)**: Item can be **Common** only.
+    - **76–100 (25%)**: No item found (Total Failure).
+2. **Weighted Selection**: Once a tier range is selected, the server performs a weighted pick from all valid items in that biome for those tiers.
+
+The percentages shown in the **[[items/index|Item Directory]]** and **[[biomes/index|Biome Index]]** represent the **absolute probability** of finding that specific item in a single hour of scavenging (before skill adjustments).
+
 ## 3. Loot Distribution
 Loot is determined by the **[[biomes/index|Biome]]** of the current tile.
 - **Weights**: Each biome has a unique probability table for items.

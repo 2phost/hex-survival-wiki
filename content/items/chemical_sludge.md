@@ -9,15 +9,22 @@
 - **Description**: 
 
 ## Usage
-- Used to build [[base/constructions|Fuel Refinery]].
+- Building [[base/constructions|Fuel Refinery]]
 
-## Biome Weights
-| Biome | Weight |
+
+## Obtained From Deconstruction
+> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
+
+- From <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/ruined_generator_parts|Ruined Generator Parts]]: **20%** base chance.
+- From <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/burnt_motor|Burnt-Out Motor]]: **8%** base chance (Rare Bonus).
+
+## Biome Probabilities (Absolute %)
+| Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/industrial|Industrial]] | 70 |
-| [[biomes/hidden_vault|Hidden Vault]] | 20 |
-| [[biomes/electronic_lab|Electronic Lab]] | 15 |
-| [[biomes/ruined_city|Ruined City]] | 5 |
+| [[biomes/industrial|Industrial]] | 6.4% |
+| [[biomes/hidden_vault|Hidden Vault]] | 3.5% |
+| [[biomes/electronic_lab|Electronic Lab]] | 1.8% |
+| [[biomes/ruined_city|Ruined City]] | 0.6% |
 
 ## Technical Information
 - **Asset ID**: `chemical_sludge`
