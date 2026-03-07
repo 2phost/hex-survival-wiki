@@ -17,12 +17,6 @@ While the exact mechanics of 0% vitals are being verified, it is inferred that:
 - **Starvation**: Reaching 0% hunger may lead to death or severe mobility penalties. Movement may cost more AP or be disabled entirely.
 - **Dehydration**: Reaching 0% thirst may lead to death. Death likely occurs faster from thirst than from hunger.
 
-## 4. Panic-Loss State
-While the release notes confirm a "panic-loss condition" when Fear exceeds its maximum, the exact mechanics are inferred to be:
-- **Total Failure**: Represents a total failure to function due to terror.
-- **Forced Movement**: The player may be forced to move toward the nearest light source.
-- **Action Lockdown**: All non-movement actions (scavenging, building) may be disabled.
-
-## 5. Map & Exploration
+## 4. Map & Exploration
 - **Visual Range**: It is inferred that players can see the biome type of adjacent tiles without moving, but cannot see specific contents or buildings until discovered.
 - **Connectivity**: Do Power Poles *must* be connected to the base grid, or can they form isolated "mini-grids"? Current logic suggests a requirement for connection to the Town Power grid.

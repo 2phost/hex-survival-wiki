@@ -20,9 +20,9 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/mountain|Mountain]] | 6.6% |
+| [[biomes/mountain|Mountain - Quarry]] | 6.6% |
 | [[biomes/ruined_city|Ruined City]] | 3.2% |
-| [[biomes/industrial|Industrial]] | 1.5% |
+| [[biomes/industrial|Industrial Zone]] | 1.5% |
 
 ## Technical Information
 - **Asset ID**: `broken_binoculars`

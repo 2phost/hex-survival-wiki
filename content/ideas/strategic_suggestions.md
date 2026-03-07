@@ -17,7 +17,7 @@ Based on the current understanding of Hex Survival, these strategies focus on ef
 - **Caution**: Be mindful of the **[[ideas/dev_feedback_suggestions#Item Overlay|Item Overlay]] Bug**; try to spread items out within the Base hex.
 
 ## 3. [[mechanisms/infrastructure|Infrastructure]]: The "Loot Highway"
-- **Strategic Grid**: Do not build [[mechanisms/infrastructure|Power Poles]] randomly. Focus on creating a straight-line "highway" from the **Base** to the nearest **[[biomes/oasis|Oasis]]** and **[[biomes/electronic_lab|Electronic Lab]]**.
+- **Strategic Grid**: Do not build [[mechanisms/infrastructure|Power Poles]] randomly. Focus on creating a straight-line "highway" from the **Base** to the nearest **[[biomes/oasis|Oasis]]** and **[[biomes/electronic_lab|Electronic Store - Lab]]**.
 - **0-Hex Radius Precision**: Since poles only light their **current hex**, you must build a pole on **every single hex** of a highway to walk it safely without a lamp. This makes highways incredibly resource-intensive but vital for long-term scavenging.
 - **Resource Leapfrogging**: To save materials, use a **Lamp** to move 3-4 hexes out, then build a **Power Pole** at your destination. This creates a "safe point" or relay station without needing a full continuous highway.
 - **Watchtower First**: The town's first major construction should be the **[[mechanisms/infrastructure|Watchtower]]** (2 Timber, 2 Stone). This reveals the headings of world objectives, saving the town from wasting [[vitals/action_points|AP]] and materials on blind "Highways" in the wrong direction.
@@ -59,7 +59,7 @@ In Hex Survival, no one person can do everything. Success requires the town to c
 - **Focus**: **[[mechanisms/skills|Field Engineering]]** & **[[mechanisms/skills|Generator Operations]]**.
 - **Role**: Maintain the town's power grid, build advanced infrastructure, and operate powered industrial facilities.
 - **Skill Priority**: 
-    1. **Field Engineering** (Lvl 3): To operate Industrial and Electronic Lab facilities.
+    1. **Field Engineering** (Lvl 3): To operate Industrial and Electronic Store - Lab facilities.
     2. **Generator Operations** (Lvl 3): To use high-tier fuels like **[[items/plasma_fuel_rod|Plasma Fuel Rod]]**s.
     3. **AP Capacity** (Lvl 3): To provide enough AP for building complex projects.
 - **Items**: **[[items/gasoline_canister|Gasoline Canister]]**, **[[items/copper_wiring|Copper Wiring]]**, and **[[items/circuit_boards|Circuit Boards]]**.

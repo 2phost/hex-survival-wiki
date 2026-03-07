@@ -15,10 +15,12 @@ Fear imposes significant penalties on player efficiency:
 - **[[mechanisms/scavenging|Scavenging]] (Search)**: -10% success chance per Fear point (added to the base darkness penalty).
 - **[[mechanisms/skills|Skill Checks]]**: -5% success chance per Fear point for all non-search skill checks.
 
-## Panic State
-Exceeding **Fear Max** triggers a panic-loss condition. (Exact mechanics are currently being verified; see [[mechanisms/inferred_mechanics|Inferred Mechanics]] for theories).
+## Fear Death
+The Fear meter consists of **3 bars**.
+- **Max Fear**: Reaching 3/3 Fear results in immediate death: **"Consumed by darkness."**
+- **Mental Strain**: This represents the final collapse of the survivor's psyche when lost in the void without light.
 
 ## Technical Details
-- **HUD**: Features a segmented Fear bar and a high-risk visual pulse near the limit.
+- **HUD**: Features a 3-segment Fear bar and a high-risk visual pulse near the limit.
 - **Persistence**: `fear_current` and `fear_max` are persisted in player data across sessions.
 - **Sync**: Fear levels are included in movement acknowledgements and state synchronization.

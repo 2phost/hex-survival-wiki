@@ -7,13 +7,13 @@ Every hex belongs to a specific biome with its own specialized loot pool.
 
 | Target Resource | Primary Biome | Strategic Importance |
 | :--- | :--- | :--- |
-| **[[items/rations|Rations]]** | **[[biomes/farm_facility|Farm Facility]]** | High-density nutrition. **90% Chance.** |
+| **[[items/rations|Rations]]** | **[[biomes/farm_facility|Human Human Farm Facility]]** | High-density nutrition. **90% Chance.** |
 | **[[items/water|Clean Water]]** | **[[biomes/oasis|Oasis]]** | Critical hydration. **90% Chance.** |
 | **[[items/scrap_metal|Scrap Metal]]** | **[[biomes/ruined_city|Ruined City]]** | Core construction material. **85% Chance.** |
 | **[[items/timber|Raw Timber]]** | **[[biomes/forest|Forest]]** | Structural material for Well/Watchtower. **80% Chance.** |
-| **[[items/stone|Hardened Stone]]**| **[[biomes/mountain|Mountain]]** | Structural material for Bulkhead/Refinery. **90% Chance.** |
-| **[[items/circuit_boards|Circuit Boards]]**| **[[biomes/electronic_lab|Electronic Lab]]**| Advanced tech component. **75% Chance.** |
-| **[[items/chemical_sludge|Chemical Sludge]]** | **[[biomes/industrial|Industrial]]** | Component for fuel refinery. **70% Chance.** |
+| **[[items/stone|Hardened Stone]]**| **[[biomes/mountain|Mountain - Quarry]]** | Structural material for Bulkhead/Refinery. **90% Chance.** |
+| **[[items/circuit_boards|Circuit Boards]]**| **[[biomes/electronic_lab|Electronic Store - Lab]]**| Advanced tech component. **75% Chance.** |
+| **[[items/chemical_sludge|Chemical Sludge]]** | **[[biomes/industrial|Industrial Zone]]** | Component for fuel refinery. **70% Chance.** |
 | **[[items/ancient_relic|Ancient Relic]]**| **[[biomes/hidden_vault|Hidden Vault]]** | **Mythic** artifact. **100% Chance.** |
 
 ## 2. Advanced [[mechanisms/skills|Salvage]] (Deconstruction)
@@ -30,6 +30,6 @@ Higher levels of the **Salvage** skill increase your chance for rare bonus yield
 ## 3. Scavenging Efficiency
 - **Search Chance**: The **[[mechanisms/skills|Scavenger's Eye]]** skill adds +5% per level to your search success. At Lvl 5, your searches are 25% more likely to succeed.
 - **The [[mechanisms/action_points|AP]] Cost**: While Searching itself is free (0 [[mechanisms/action_points|AP]]), **Movement** is expensive (1 [[mechanisms/action_points|AP]]). 
-- **Strategy**: Don't move just to search. Use the "Highway" to travel quickly to a high-yield biome (like the [[biomes/farm_facility|Farm Facility]]) and spend your time scavenging there.
+- **Strategy**: Don't move just to search. Use the "Highway" to travel quickly to a high-yield biome (like the [[biomes/farm_facility|Human Human Farm Facility]]) and spend your time scavenging there.
 - **Inventory Buffer**: Use the **[[mechanisms/skills|Pack Mule]]** skill (Lvl 3) to carry up to 8 items, reducing the number of return trips to the Base.
 - **Bulk Scavenging**: Drop your low-value junk on the floor of the hex you're in and only carry high-tier materials back to the Base.

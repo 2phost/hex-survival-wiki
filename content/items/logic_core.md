@@ -6,7 +6,7 @@
 ### Core Properties
 - **Rarity**: rare
 - **Category**: Material
-- **Description**: Programmable electronics core produced by powered Electronic Labs.
+- **Description**: Programmable electronics core produced by powered Electronic Store - Labs.
 
 ## Usage
 - Material used in various recipes.

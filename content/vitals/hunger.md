@@ -25,7 +25,7 @@ Building specialized facilities at the **[[base/overview|Base]]** provides a rel
 
 ### Scavenging Locations
 If the base production is insufficient, players must scavenge the wasteland.
-- **[[biomes/farm_facility|Farm Facility]]**: The highest probability of finding Rations (Weight 90) and Salad (Weight 45).
+- **[[biomes/farm_facility|Human Human Farm Facility]]**: The highest probability of finding Rations (Weight 90) and Salad (Weight 45).
 - **[[biomes/ruined_city|Ruined City]]**: Moderate chance for Rations (Weight 20).
 - **[[biomes/forest|Forest]]**: Good source of Glowing Mushrooms (Weight 55) and some Rations (Weight 8).
 - **[[biomes/oasis|Oasis]]**: Small amounts of Salad and Rations can be found here.

@@ -12,7 +12,7 @@ Your survival depends on these three immediate actions:
 
 ## 2. Stay in the Light (The Golden Rule)
 The "Darkness" in this world is lethal.
-- **Lethal Movement**: Moving into a dark hex without a light source results in immediate death: **"Consumed by darkness."**
+- **Lethal Darkness**: Moving into a dark hex without a light source increases your **[[vitals/fear|Fear]]**. If your Fear meter reaches its **3-bar maximum**, you die instantly: **"Consumed by darkness."**
 - **[[vitals/fear|Fear System]]**: Entering dark tiles without a lamp increases your **Fear** stat.
     - **Penalties**: High Fear imposes massive penalties to scavenging and skill checks.
     - **Recovery**: Fear is recovered by **Resting** on lit tiles (**[[base/overview|Base]]** or **[[items/power_pole|Power Pole]]**).
@@ -21,7 +21,7 @@ The "Darkness" in this world is lethal.
 
 ## 3. Managing Your Vitals
 You have four status bars: **[[vitals/hunger|Hunger]]**, **[[vitals/thirst|Thirst]]**, **[[vitals/fear|Fear]]**, and **[[vitals/action_points|Action Points]] (AP)**.
-- **Find Water and Rations**: Head to an **[[biomes/oasis|Oasis]]** or the **[[biomes/farm_facility|Farm Facility]]** early on to stockpile resources.
+- **Find Water and Rations**: Head to an **[[biomes/oasis|Oasis]]** or the **[[biomes/farm_facility|Human Human Farm Facility]]** early on to stockpile resources.
 - **Consuming Items**: Use **Right-Click** in your inventory to drink water or eat rations. **Basic food and water restore +1 AP.**
 - **AP Management**: Every movement costs 1 AP. **Scavenging is free.** If you run out, set your activity to **Resting** to recover **1 AP per hour**.
 

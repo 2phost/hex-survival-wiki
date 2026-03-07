@@ -23,12 +23,12 @@
 | Biome | % Per Hour |
 | :--- | :--- |
 | [[biomes/forest|Forest]] | 19.0% |
-| [[biomes/desert|Desert]] | 6.2% |
-| [[biomes/farm_facility|Farm Facility]] | 6.0% |
+| [[biomes/desert|Desert - Sand]] | 6.2% |
+| [[biomes/farm_facility|Human Human Farm Facility]] | 6.0% |
 | [[biomes/oasis|Oasis]] | 4.3% |
-| [[biomes/mountain|Mountain]] | 3.3% |
+| [[biomes/mountain|Mountain - Quarry]] | 3.3% |
 | [[biomes/ruined_city|Ruined City]] | 1.9% |
-| [[biomes/industrial|Industrial]] | 0.5% |
+| [[biomes/industrial|Industrial Zone]] | 0.5% |
 
 ## Technical Information
 - **Asset ID**: `timber`

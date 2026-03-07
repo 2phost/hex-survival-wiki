@@ -22,13 +22,13 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/electronic_lab|Electronic Lab]] | 1.4% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 1.4% |
 | [[biomes/hidden_vault|Hidden Vault]] | 1.2% |
-| [[biomes/industrial|Industrial]] | 0.9% |
+| [[biomes/industrial|Industrial Zone]] | 0.9% |
 | [[biomes/ruined_city|Ruined City]] | 0.8% |
 | [[biomes/forest|Forest]] | 0.4% |
-| [[biomes/mountain|Mountain]] | 0.3% |
-| [[biomes/desert|Desert]] | 0.3% |
+| [[biomes/mountain|Mountain - Quarry]] | 0.3% |
+| [[biomes/desert|Desert - Sand]] | 0.3% |
 
 ## Technical Information
 - **Asset ID**: `stim_injector`

@@ -24,11 +24,11 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/mountain|Mountain]] | 29.6% |
-| [[biomes/desert|Desert]] | 21.8% |
-| [[biomes/farm_facility|Farm Facility]] | 3.3% |
+| [[biomes/mountain|Mountain - Quarry]] | 29.6% |
+| [[biomes/desert|Desert - Sand]] | 21.8% |
+| [[biomes/farm_facility|Human Human Farm Facility]] | 3.3% |
 | [[biomes/hidden_vault|Hidden Vault]] | 3.1% |
-| [[biomes/industrial|Industrial]] | 2.5% |
+| [[biomes/industrial|Industrial Zone]] | 2.5% |
 | [[biomes/forest|Forest]] | 2.4% |
 | [[biomes/oasis|Oasis]] | 2.2% |
 | [[biomes/ruined_city|Ruined City]] | 1.9% |

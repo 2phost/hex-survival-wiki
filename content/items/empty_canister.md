@@ -19,9 +19,9 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/industrial|Industrial]] | 4.5% |
+| [[biomes/industrial|Industrial Zone]] | 4.5% |
 | [[biomes/ruined_city|Ruined City]] | 3.2% |
-| [[biomes/desert|Desert]] | 3.1% |
+| [[biomes/desert|Desert - Sand]] | 3.1% |
 
 ## Technical Information
 - **Asset ID**: `empty_canister`

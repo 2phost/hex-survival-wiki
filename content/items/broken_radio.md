@@ -20,9 +20,9 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/electronic_lab|Electronic Lab]] | 4.8% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 4.8% |
 | [[biomes/ruined_city|Ruined City]] | 3.2% |
-| [[biomes/industrial|Industrial]] | 3.0% |
+| [[biomes/industrial|Industrial Zone]] | 3.0% |
 
 ## Technical Information
 - **Asset ID**: `broken_radio`

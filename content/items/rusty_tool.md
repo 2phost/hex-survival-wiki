@@ -20,8 +20,8 @@
 | Biome | % Per Hour |
 | :--- | :--- |
 | [[biomes/ruined_city|Ruined City]] | 3.8% |
-| [[biomes/desert|Desert]] | 3.7% |
-| [[biomes/industrial|Industrial]] | 2.5% |
+| [[biomes/desert|Desert - Sand]] | 3.7% |
+| [[biomes/industrial|Industrial Zone]] | 2.5% |
 | [[biomes/forest|Forest]] | 1.9% |
 
 ## Technical Information

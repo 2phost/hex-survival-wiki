@@ -20,9 +20,9 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/electronic_lab|Electronic Lab]] | 5.4% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 5.4% |
 | [[biomes/hidden_vault|Hidden Vault]] | 2.7% |
-| [[biomes/industrial|Industrial]] | 1.8% |
+| [[biomes/industrial|Industrial Zone]] | 1.8% |
 
 ## Technical Information
 - **Asset ID**: `malfunctioning_sensor`

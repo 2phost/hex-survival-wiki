@@ -23,9 +23,9 @@
 | Biome | % Per Hour |
 | :--- | :--- |
 | [[biomes/hidden_vault|Hidden Vault]] | 3.5% |
-| [[biomes/mountain|Mountain]] | 3.1% |
-| [[biomes/desert|Desert]] | 2.9% |
-| [[biomes/industrial|Industrial]] | 2.7% |
+| [[biomes/mountain|Mountain - Quarry]] | 3.1% |
+| [[biomes/desert|Desert - Sand]] | 2.9% |
+| [[biomes/industrial|Industrial Zone]] | 2.7% |
 | [[biomes/ruined_city|Ruined City]] | 2.4% |
 
 ## Technical Information

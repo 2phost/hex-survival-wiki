@@ -22,10 +22,10 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/electronic_lab|Electronic Lab]] | 8.2% |
-| [[biomes/desert|Desert]] | 3.1% |
-| [[biomes/industrial|Industrial]] | 3.0% |
-| [[biomes/farm_facility|Farm Facility]] | 2.9% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 8.2% |
+| [[biomes/desert|Desert - Sand]] | 3.1% |
+| [[biomes/industrial|Industrial Zone]] | 3.0% |
+| [[biomes/farm_facility|Human Human Farm Facility]] | 2.9% |
 | [[biomes/forest|Forest]] | 2.4% |
 | [[biomes/hidden_vault|Hidden Vault]] | 2.1% |
 | [[biomes/ruined_city|Ruined City]] | 0.6% |

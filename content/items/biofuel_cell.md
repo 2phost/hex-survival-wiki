@@ -22,9 +22,9 @@
 | Biome | % Per Hour |
 | :--- | :--- |
 | [[biomes/forest|Forest]] | 1.8% |
-| [[biomes/industrial|Industrial]] | 1.5% |
+| [[biomes/industrial|Industrial Zone]] | 1.5% |
 | [[biomes/hidden_vault|Hidden Vault]] | 1.4% |
-| [[biomes/electronic_lab|Electronic Lab]] | 1.2% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 1.2% |
 
 ## Technical Information
 - **Asset ID**: `biofuel_cell`

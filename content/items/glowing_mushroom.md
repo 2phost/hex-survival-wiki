@@ -30,11 +30,11 @@
 | [[biomes/oasis|Oasis]] | 15.1% |
 | [[biomes/forest|Forest]] | 13.1% |
 | [[biomes/hidden_vault|Hidden Vault]] | 9.2% |
-| [[biomes/mountain|Mountain]] | 6.6% |
-| [[biomes/desert|Desert]] | 2.5% |
+| [[biomes/mountain|Mountain - Quarry]] | 6.6% |
+| [[biomes/desert|Desert - Sand]] | 2.5% |
 | [[biomes/ruined_city|Ruined City]] | 2.3% |
-| [[biomes/electronic_lab|Electronic Lab]] | 2.2% |
-| [[biomes/industrial|Industrial]] | 1.4% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 2.2% |
+| [[biomes/industrial|Industrial Zone]] | 1.4% |
 
 ## Technical Information
 - **Asset ID**: `glowing_mushroom`

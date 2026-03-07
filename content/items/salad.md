@@ -19,11 +19,11 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/farm_facility|Farm Facility]] | 10.7% |
+| [[biomes/farm_facility|Human Human Farm Facility]] | 10.7% |
 | [[biomes/oasis|Oasis]] | 3.4% |
 | [[biomes/forest|Forest]] | 1.9% |
 | [[biomes/ruined_city|Ruined City]] | 0.3% |
-| [[biomes/industrial|Industrial]] | 0.1% |
+| [[biomes/industrial|Industrial Zone]] | 0.1% |
 
 ## Technical Information
 - **Asset ID**: `salad`

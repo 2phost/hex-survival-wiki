@@ -20,9 +20,9 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/industrial|Industrial]] | 3.5% |
+| [[biomes/industrial|Industrial Zone]] | 3.5% |
 | [[biomes/ruined_city|Ruined City]] | 3.2% |
-| [[biomes/electronic_lab|Electronic Lab]] | 2.7% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 2.7% |
 
 ## Technical Information
 - **Asset ID**: `ruined_generator_parts`

@@ -22,7 +22,7 @@
 | Biome | % Per Hour |
 | :--- | :--- |
 | [[biomes/hidden_vault|Hidden Vault]] | 1.4% |
-| [[biomes/electronic_lab|Electronic Lab]] | 0.6% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 0.6% |
 
 ## Technical Information
 - **Asset ID**: `plasma_fuel_rod`

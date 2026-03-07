@@ -21,9 +21,9 @@
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/industrial|Industrial]] | 6.4% |
+| [[biomes/industrial|Industrial Zone]] | 6.4% |
 | [[biomes/hidden_vault|Hidden Vault]] | 3.5% |
-| [[biomes/electronic_lab|Electronic Lab]] | 1.8% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 1.8% |
 | [[biomes/ruined_city|Ruined City]] | 0.6% |
 
 ## Technical Information

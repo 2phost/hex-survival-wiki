@@ -21,7 +21,7 @@
 | Biome | % Per Hour |
 | :--- | :--- |
 | [[biomes/forest|Forest]] | 7.1% |
-| [[biomes/mountain|Mountain]] | 6.6% |
+| [[biomes/mountain|Mountain - Quarry]] | 6.6% |
 | [[biomes/ruined_city|Ruined City]] | 1.9% |
 
 ## Technical Information

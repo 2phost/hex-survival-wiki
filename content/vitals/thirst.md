@@ -25,6 +25,6 @@ Building specialized facilities at the **[[base/overview|Base]]** provides a rel
 If the base production is insufficient, players must scavenge the wasteland.
 - **[[biomes/oasis|Oasis]]**: The primary source of Clean Water (Weight 90).
 - **[[biomes/forest|Forest]]**: Good source of Clean Water (Weight 40).
-- **[[biomes/farm_facility|Farm Facility]]**: Moderate source of Clean Water (Weight 35).
+- **[[biomes/farm_facility|Human Human Farm Facility]]**: Moderate source of Clean Water (Weight 35).
 - **[[biomes/ruined_city|Ruined City]]**: Small amounts of Clean Water can be found here.
 

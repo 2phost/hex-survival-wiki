@@ -6,7 +6,7 @@
 ### Core Properties
 - **Rarity**: rare
 - **Category**: Material
-- **Description**: Advanced transmission module produced by powered Electronic Labs.
+- **Description**: Advanced transmission module produced by powered Electronic Store - Labs.
 
 ## Usage
 - Material used in various recipes.

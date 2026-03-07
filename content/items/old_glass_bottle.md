@@ -23,13 +23,13 @@
 | Biome | % Per Hour |
 | :--- | :--- |
 | [[biomes/oasis|Oasis]] | 8.6% |
-| [[biomes/desert|Desert]] | 6.2% |
-| [[biomes/farm_facility|Farm Facility]] | 6.2% |
+| [[biomes/desert|Desert - Sand]] | 6.2% |
+| [[biomes/farm_facility|Human Human Farm Facility]] | 6.2% |
 | [[biomes/forest|Forest]] | 5.9% |
 | [[biomes/ruined_city|Ruined City]] | 5.7% |
-| [[biomes/mountain|Mountain]] | 4.9% |
-| [[biomes/industrial|Industrial]] | 4.0% |
-| [[biomes/electronic_lab|Electronic Lab]] | 1.4% |
+| [[biomes/mountain|Mountain - Quarry]] | 4.9% |
+| [[biomes/industrial|Industrial Zone]] | 4.0% |
+| [[biomes/electronic_lab|Electronic Store - Lab]] | 1.4% |
 | [[biomes/hidden_vault|Hidden Vault]] | 1.0% |
 
 ## Technical Information

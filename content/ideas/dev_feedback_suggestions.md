@@ -9,7 +9,7 @@ These suggestions are intended for the developers to improve the player experien
 - **Action Queueing**: For repetitive tasks like scavenging or "Resting," allow players to queue up a certain amount of [[vitals/action_points|AP]]/time so they don't have to click "Start" repeatedly.
 
 ## 2. [[mechanisms/infrastructure|Infrastructure]] & Base Building
-- **Rechargeable Batteries**: Instead of **Batteries** being one-time use, allow the **[[biomes/electronic_lab|Electronic Lab]]** to have a "Charging Station" that uses town Power to refuel empty batteries.
+- **Rechargeable Batteries**: Instead of **Batteries** being one-time use, allow the **[[biomes/electronic_lab|Electronic Store - Lab]]** to have a "Charging Station" that uses town Power to refuel empty batteries.
 - **Advanced Research Visualization**: The **[[mechanisms/infrastructure|Research Lab II]]** (+20% speed) should provide a clear progress bar for the second research slot to help the town coordinate long-term projects.
 - **Power Grid Map**: A dedicated overlay that shows the "connectedness" of the town's grid, making it clear where the next **[[mechanisms/infrastructure|Power Pole]]** should be placed.
 

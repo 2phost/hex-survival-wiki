@@ -5,7 +5,7 @@ The **Base** is the primary hexagonal tile where all players start their journey
 ## Key Properties
 - **Starting Point**: Every player begins their session on the Base tile.
 - **Inherent Light**: The Base provides permanent illumination to its hexagonal area. Players standing on the Base tile do not consume lamp fuel and do not accumulate **[[mechanisms/fear|Fear]]**.
-- **Safe Zone**: The Base is a safe zone where players can coordinate, manage resources, and plan expeditions without the immediate threat of being "Consumed by Darkness."
+- **Safe Zone**: The Base is a safe zone where players can coordinate, manage resources, and plan expeditions without accumulating **[[vitals/fear|Fear]]**.
 - **Non-Scavengeable**: Unlike other biomes, the Base tile cannot be scavenged for resources. It relies entirely on the resources brought back by players or produced by its infrastructure.
 
 ## Strategic Importance

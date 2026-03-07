@@ -5,7 +5,7 @@ This document tracks proposed item additions to expand the tactical depth of Hex
 ## 1. Tactical Equipment
 - **Survivor's Flare**:
     - **Usage**: One-time use. Provides light to the current hex for 1 hour.
-    - **Strategy**: Used for emergency scavenging in darkness or to avoid "Consumed by Darkness" if a lamp fails.
+    - **Strategy**: Used for emergency scavenging in darkness or to prevent **[[vitals/fear|Fear]]** accumulation if a lamp fails.
 - **Weighted Vest**:
     - **Usage**: Passive (Carried). Reduces [[vitals/fear|Fear]] accumulation rate by 15%.
     - **Constraint**: Consumes 2 inventory slots due to bulk.

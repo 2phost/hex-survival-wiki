@@ -14,7 +14,7 @@ Once the basic **[[mechanisms/infrastructure|Watchtower]]** and **[[mechanisms/i
 The "Loot Highway" is more than just a line of poles; it's the lifeblood of your town's industry.
 
 ### The Industrial Hub
-To produce advanced materials like **[[items/alloy_plate|Alloy Plate]]s** and **[[items/logic_core|Logic Core]]s**, you must connect the grid to an **[[biomes/industrial|Industrial]]** or **[[biomes/electronic_lab|Electronic Lab]]** tile.
+To produce advanced materials like **[[items/alloy_plate|Alloy Plate]]s** and **[[items/logic_core|Logic Core]]s**, you must connect the grid to an **[[biomes/industrial|Industrial Zone]]** or **[[biomes/electronic_lab|Electronic Store - Lab]]** tile.
 - **Step 1**: Build **[[mechanisms/infrastructure|Power Poles]]** until they are adjacent to the target tile.
 - **Step 2**: Ensure a player with **[[mechanisms/skills|Field Engineering]]** (Lvl 1 for Industrial, Lvl 2 for Labs) is present to activate the facility.
 - **Step 3**: Once powered, these tiles allow for the production of specialized components needed for the highest-tier builds.

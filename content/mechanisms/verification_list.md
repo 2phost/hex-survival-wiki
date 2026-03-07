@@ -14,13 +14,13 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Stim Conditioning**: Tier locks confirmed for Stim Pack/Injector/Overdrive.
 - **Generator Operations**: Tier locks confirmed for Gas/Biofuel/Plasma fuels.
 - **Facility Production**: Skill requirements for components (Lvl 1 Alloy, Lvl 2 Logic/Hydraulic, Lvl 3 Signal). One unit produced per Midnight transition if facility is active.
-- **Item/Biome Directories**: Exact item properties (Rarity, Category, Consumable Stats, Power Refills) fully audited. Migrated all relative weights to **Absolute Success Probabilities (% per hour)** based on the server roll logic (45/25/5/25). Biome weight tables are now sorted DESC and exclude zero-weight entries.
-- **Detailed Item Usage**: Confirmed specific crafting and construction roles for all materials (e.g., Car Battery for Battery Storage, Copper Wiring for Solar Panels).
+- **Scavenging Math**: Fully confirmed the multi-tier roll system (45/25/5/25) used by the server. Migrated all item and biome weights to **Absolute Success Probabilities (% per hour)**.
+- **Fear System**: Confirmed Fear accumulation in darkness and recovery while resting in light. Verified the **3-bar Fear maximum**; reaching 3/3 Fear results in death ("Consumed by darkness").
+- **Detailed Item Usage**: Confirmed specific crafting and construction roles for all materials, including reverse-mapping of deconstruction sources for all yields.
 - **Visual Assets**: Standardized all image embeds to Quartz Wikilink format (![[...]]) with uniform scaling (150px-300px). Embedded high-resolution icons for all items and biome tiles.
 - **Table Optimization**: Standardized HTML-based icons (20px) with `vertical-align: middle` across all crafting and deconstruction tables for perfect text alignment.
 - **Internal Wiki Structure**: Successfully migrated all legacy links to the new `biomes/` and `items/` directory structures. Fixed broken infrastructure links in base documentation and resized icons for readability.
 - **Midnight Cycle**: Confirmed 40% drain for Hunger and Thirst at Midnight.
-- **Fear System**: Confirmed Fear accumulation in darkness and recovery while resting in light.
 - **Relative Tracking**: Objective navigation data is relative to the player's current position.
 - **Player Scoring**: First iteration of scoring (calculated on death) is active.
 - **Town Tracking**: Initial support for persistent town statistics is active.
