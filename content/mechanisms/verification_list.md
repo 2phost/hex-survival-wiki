@@ -23,6 +23,7 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Table Optimization**: Standardized HTML-based icons (20px) with `vertical-align: middle` across all crafting and deconstruction tables for perfect text alignment.
 - **Internal Wiki Structure**: Successfully migrated all legacy links to the new `biomes/` and `items/` directory structures. Fixed broken infrastructure links in base documentation and resized icons for readability.
 - **Midnight Cycle**: Confirmed 40% drain for Hunger and Thirst at Midnight.
+- **Keyboard Shortcuts**: Confirmed full suite of hotkeys (T, K, Z, E, H, N, O, Space) and chat interaction logic (Enter/Escape).
 - **Relative Tracking**: Objective navigation data is relative to the player's current position.
 - **Player Scoring**: First iteration of scoring (calculated on death) is active.
 - **Town Tracking**: Initial support for persistent town statistics is active.

@@ -24,7 +24,7 @@ Detailed breakdown of every tile type and their loot tables.
 Complete list of all items, their stats, and usage.
 
 ### ⚙️ [[mechanisms/verification_list|Core Mechanisms]]
-Technical game logic: [[mechanisms/midnight_cycle|Midnight Cycle]], [[mechanisms/power_grid|Power Grid]], [[mechanisms/scavenging_logic|Scavenging Logic]], [[mechanisms/facility_fabrication|Facility Fabrication]], [[mechanisms/exploration_logic|Exploration Logic]], and more.
+Technical game logic: [[mechanisms/midnight_cycle|Midnight Cycle]], [[mechanisms/power_grid|Power Grid]], [[mechanisms/scavenging_logic|Scavenging Logic]], [[mechanisms/facility_fabrication|Facility Fabrication]], [[mechanisms/exploration_logic|Exploration Logic]], [[mechanisms/shortcuts|Keyboard Shortcuts]], and more.
 
 ### 🗺️ Expedition & Tracking
 - [[mechanisms/expedition_objectives|Active Objectives]]

@@ -1,12 +1,12 @@
-# Guide: Advanced [[mechanisms/infrastructure|Infrastructure]] & Grid Strategy
+# Guide: Advanced [[base/index|Infrastructure]] & Grid Strategy
 
 As your town survives the first few days, your focus must shift from simple survival to long-term sustainability and industrial dominance.
 
 ## 1. High-Tier Base Builds
 Once the basic **[[base/constructions|Watchtower]]** and **[[base/constructions|Well]]** are secure, prioritize these advanced structures:
 
-- **[[mechanisms/infrastructure|Research Lab II]]**: A massive upgrade (60 Scrap) that unlocks a second research slot and increases research speed by 20%. This is critical for scaling your town's technical capabilities.
-- **[[mechanisms/infrastructure|Battery Storage]]**: Increases max power capacity by **+20%**. This provides a vital buffer for when the town is under siege or fuel is scarce.
+- **[[base/upgrades|Research Lab II]]**: A massive upgrade (60 Scrap) that unlocks a second research slot and increases research speed by 20%. This is critical for scaling your town's technical capabilities.
+- **[[base/upgrades|Battery Storage]]**: Increases max power capacity by **+20%**. This provides a vital buffer for when the town is under siege or fuel is scarce.
 - **[[base/constructions|Fuel Refinery]]**: Converts **[[items/chemical_sludge|Chemical Sludge]]** into stable generator fuel. This allows the town to survive even if **[[items/gasoline_canister|Gasoline Canisters]]** are not being found.
 - **[[base/upgrades|Beacon Amplifier]]**: A specialized system that improves town-wide movement efficiency in the darkness.
 
@@ -27,4 +27,4 @@ During the **Nightly Siege**, breaches are your greatest threat.
 ## 3. Power Grid Optimization
 - **[[base/upgrades|Solar Panels]]**: Every array you build reduces the daily base power drain by **10%**. In the late game, a large solar array can make your town almost self-sustaining during the day.
 - **Grid Redundancy**: Avoid "single-pole" bottlenecks. If one pole is destroyed or a threat emerges nearby, a redundant "loop" in your grid can prevent an entire sector of the map from falling into darkness.
-- **Scrap Workshop Buff**: When building your grid, consider the **[[mechanisms/infrastructure|Scrap Workshop]]**. It reduces the [[mechanisms/action_points|AP]] cost of Searching by **25%** within 1 hex of the base—making it the perfect area for your most intensive scavenging operations.
+- **Scrap Workshop Buff**: When building your grid, consider the **[[base/constructions|Scrap Workshop]]**. It reduces the [[mechanisms/action_points|AP]] cost of Searching by **25%** within 1 hex of the base—making it the perfect area for your most intensive scavenging operations.

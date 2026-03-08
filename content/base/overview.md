@@ -9,4 +9,4 @@ The **Base** is the primary hexagonal tile where all players start their journey
 - **Non-Scavengeable**: Unlike other biomes, the Base tile cannot be scavenged for resources. It relies entirely on the resources brought back by players or produced by its infrastructure.
 
 ## Strategic Importance
-As the only source of light at the beginning of a run, the Base serves as the anchor for the town's **[[mechanisms/infrastructure|Power Grid]]**. All **[[items/power_pole|Power Pole]]** highways must originate from the Base or an existing connected pole to extend the town's reach safely into the wasteland.
+As the only source of light at the beginning of a run, the Base serves as the anchor for the town's **[[mechanisms/power_grid|Power Grid]]**. All **[[items/power_pole|Power Pole]]** highways must originate from the Base or an existing connected pole to extend the town's reach safely into the wasteland.

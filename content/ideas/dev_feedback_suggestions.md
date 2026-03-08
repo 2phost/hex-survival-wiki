@@ -5,12 +5,13 @@ These suggestions are intended for the developers to improve the player experien
 ## 1. Quality of Life (QoL) & UI
 - **Map Pinging System**: In a collaborative game, players need to "ping" a hex (e.g., "Found Oasis here" or "Need Power Pole here"). A simple alt-click on a tile could broadcast a coordinate to the town chat.
 - **Stim Buff Tracking**: With the addition of high-tier **[[items/stim_injector|Stim Injectors]]** and **[[items/stim_overdrive|Stim Overdrive]]**, a clear status icon should show the remaining duration of any active buffs and the "Conditioning" level required to use them.
-- **Action Queueing**: For repetitive tasks like scavenging or "Resting," allow players to queue up a certain amount of [[vitals/action_points|AP]]/time so they don't have to click "Start" repeatedly.
+- **Action Queueing**: For repetitive tasks like scavenging or "Resting," allow players to queue up a certain amount of [[vitals/action_points|AP]]/time so they don't have to click "Start" repeatedly. This shifts the "Meta" from mechanical persistence to strategic forecasting.
 
-## 2. [[mechanisms/infrastructure|Infrastructure]] & Base Building
-- **Rechargeable Batteries**: Instead of **Batteries** being one-time use, allow the **[[biomes/electronic_lab|Electronic Store - Lab]]** to have a "Charging Station" that uses town Power to refuel empty batteries.
+## 2. [[base/index|Infrastructure]] & Base Building
+- **Circular Battery Economy**: Instead of **Batteries** disappearing after use, allow the **[[biomes/electronic_lab|Electronic Store - Lab]]** to have a "Charging Station." 
+    - **Mechanism**: When a lamp expires, it drops an **"Empty Battery"** item. Players carry these to the Lab to "Refuel" them using town Power.
 - **Advanced Research Visualization**: The **[[base/upgrades|Research Lab II]]** (+20% speed) should provide a clear progress bar for the second research slot to help the town coordinate long-term projects.
-- **Power Grid Map**: A dedicated overlay that shows the "connectedness" of the town's grid, making it clear where the next **[[items/power_pole|Power Pole]]** should be placed.
+- **Remote Grid Monitoring**: An upgrade to the Base menu that allows players to see exactly which facilities (Farm, Industrial, Lab) are currently active and drawing the **+20% Power Load**, helping the town "load balance" their power usage.
 - **Remote Fabrication**: Add a late-game upgrade to the **[[base/upgrades|Research Lab]]** that allows players to start **[[mechanisms/facility_fabrication|Fabrication]]** projects remotely from the Base menu, provided the target facility is powered.
 
 ## 3. Light & Darkness Refinement

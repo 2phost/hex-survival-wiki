@@ -28,6 +28,7 @@ The technical rules of the game:
 - [[mechanisms/exploration_logic|Exploration Logic]]
 - [[mechanisms/expedition_objectives|Expedition Objectives]]
 - [[mechanisms/multiplayer_and_death|Multiplayer & Death]]
+- [[mechanisms/shortcuts|Keyboard Shortcuts]]
 - [[mechanisms/chat_system|Chat System]]
 - [[mechanisms/user_interface|User Interface]]
 - [[mechanisms/patch_notes|Patch Notes]]
