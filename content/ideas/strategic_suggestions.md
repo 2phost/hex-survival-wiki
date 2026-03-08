@@ -8,13 +8,13 @@ Based on the current understanding of Hex Survival, these strategies focus on ef
 - **Priority 3: Stim Conditioning (Lvl 1)**: Crucial to unlock the use of Stim Packs for emergency [[vitals/action_points|AP]] during high-threat objectives.
 - **Sustaining AP**: Early on, rely on **Rations** and **Clean Water** for their **+1 AP** restoration to keep your momentum without needing stims.
 
-## 2. Collaborative Logistics: "The Warehouse"
-- **Base Drops**: Since inventory is limited to 5 slots, use the **Base tile floor** as a shared warehouse for items that don't need to be in the Bank.
-- **Town Bank**: Use the **Enter Base** menu to deposit **Timber, Stone, and Scrap Metal** into the Bank for collective construction projects.
+## 2. Collaborative Logistics: The Town Bank
+- **Zero-Floor Policy**: Since inventory is limited to 5 slots, do not drop items on the **Base** tile floor. Instead, enter the **[[base/management|Base Menu]]** and deposit them directly into the **Town Bank**.
+- **Bank Utility**: Any item deposited into the Bank is available for construction projects, refueling, or withdrawal by other survivors who need specific materials.
 - **Role Assignment**: Use the **Town Chat** to coordinate who brings what:
-    - *Gatherers*: Drop materials at the Base and deposit them.
-    - *Builders*: Use banked materials to build **[[base/constructions|Watchtowers]]** and **[[items/power_pole|Power Poles]]**.
-- **Caution**: Be mindful of the **[[ideas/dev_feedback_suggestions#Item Overlay|Item Overlay]] Bug**; try to spread items out within the Base hex.
+    - *Gatherers*: Scavenge high-value tiles and return to Base to bank all materials.
+    - *Builders*: Use banked materials to craft **[[items/power_pole|Power Poles]]** and build **[[base/constructions|Watchtowers]]**.
+- **Floor Drops (Field Only)**: Reserve dropping items on the ground for "Relay Stations" (Power Pole hexes) out in the wasteland, where the Bank is inaccessible.
 
 ## 3. Infrastructure: The "Loot Highway"
 - **Strategic Grid**: Do not build [[items/power_pole|Power Poles]] randomly. Focus on creating a straight-line "highway" from the **Base** to the nearest **[[biomes/oasis|Oasis]]** and **[[biomes/electronic_lab|Electronic Store - Lab]]**.
