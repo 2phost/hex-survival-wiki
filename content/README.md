@@ -1,48 +1,52 @@
+---
+title: "Wiki"
+---
+
 # Hex Survival Wiki
 
 Welcome to the premium Hex Survival documentation. This wiki is organized into logical clusters to help you survive the darkness.
 
 ## 🧭 Directory Structure
 
-### 🩸 [[vitals/index|Vitals]]
+### 🩸 [[Vitals/index|Vitals]]
 Manage your Hunger, Thirst, Fear, and Action Points.
 
-### 🏋️ [[skills/index|Skills]]
+### 🏋️ [[Skills/index|Skills]]
 Permanent character specializations and real-time progression.
 
-### 🏗️ [[base/index|Base Guide]]
+### 🏗️ [[Base/index|Base Guide]]
 Overview of the Base tile, resource banking, and infrastructure upgrades.
 
-### 🗺️ [[biomes/index|Biome Index]]
+### 🗺️ [[Biomes/index|Biome Index]]
 Detailed breakdown of every tile type and their loot tables.
 
-### 📦 [[items/index|Item Directory]]
+### 📦 [[Items/index|Item Directory]]
 Complete list of all items, their stats, and usage.
 
-### ⚙️ [[mechanisms/verification_list|Core Mechanisms]]
+### ⚙️ [[Mechanisms/verification_list|Core Mechanisms]]
 The technical rules of the game:
-- [[mechanisms/midnight_cycle|Midnight Cycle]]
-- [[mechanisms/power_grid|Power Grid]]
-- [[mechanisms/scavenging_logic|Scavenging Logic]]
-- [[mechanisms/facility_fabrication|Facility Fabrication]]
-- [[mechanisms/exploration_logic|Exploration Logic]]
-- [[mechanisms/expedition_objectives|Expedition Objectives]]
-- [[mechanisms/multiplayer_and_death|Multiplayer & Death]]
-- [[mechanisms/shortcuts|Keyboard Shortcuts]]
-- [[mechanisms/chat_system|Chat System]]
-- [[mechanisms/user_interface|User Interface]]
-- [[mechanisms/patch_notes|Patch Notes]]
+- [[Mechanisms/midnight_cycle|Midnight Cycle]]
+- [[Mechanisms/power_grid|Power Grid]]
+- [[Mechanisms/scavenging_logic|Scavenging Logic]]
+- [[Mechanisms/facility_fabrication|Facility Fabrication]]
+- [[Mechanisms/exploration_logic|Exploration Logic]]
+- [[Mechanisms/expedition_objectives|Expedition Objectives]]
+- [[Mechanisms/multiplayer_and_death|Multiplayer & Death]]
+- [[Mechanisms/shortcuts|Keyboard Shortcuts]]
+- [[Mechanisms/chat_system|Chat System]]
+- [[Mechanisms/user_interface|User Interface]]
+- [[Mechanisms/patch_notes|Patch Notes]]
 
-### 💡 [[ideas/strategic_suggestions|Guides & Strategy]]
-- [[guides/getting_started|Getting Started Guide]]
-- [[ideas/strategic_suggestions|Strategic Suggestions]]
-- [[ideas/dev_feedback_suggestions|Tester Feedback & Suggestions]]
-- [[ideas/new_items|New Item Ideas]]
-- [[ideas/new_skills|New Skill Ideas]]
-- [[ideas/new_constructions|New Construction Ideas]]
-- [[ideas/new_combinations|New Combination Ideas]]
+### 💡 [[Ideas/strategic_suggestions|Guides & Strategy]]
+- [[Guides/getting_started|Getting Started Guide]]
+- [[Ideas/strategic_suggestions|Strategic Suggestions]]
+- [[Ideas/dev_feedback_suggestions|Tester Feedback & Suggestions]]
+- [[Ideas/new_items|New Item Ideas]]
+- [[Ideas/new_skills|New Skill Ideas]]
+- [[Ideas/new_constructions|New Construction Ideas]]
+- [[Ideas/new_combinations|New Combination Ideas]]
 
 ---
 
 ## 🛠️ Verification Status
-Stay updated on confirmed vs. unverified mechanics in the **[[mechanisms/verification_list|Verification List]]**.
+Stay updated on confirmed vs. unverified mechanics in the **[[Mechanisms/verification_list|Verification List]]**.

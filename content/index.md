@@ -1,36 +1,40 @@
+---
+title: "Hex Survival Wiki"
+---
+
 # Hex Survival Wiki
 
 Welcome to the premium Hex Survival documentation. This wiki is organized into logical clusters to help you survive the darkness.
 
 ## 🚀 Quick Start
-- [[guides/getting_started|Getting Started Guide]]
-- [[ideas/strategic_suggestions|Strategic Suggestions]]
+- [[Guides/getting_started|Getting Started Guide]]
+- [[Ideas/strategic_suggestions|Strategic Suggestions]]
 
 ## 🧭 Directory Structure
 
-### 🩸 [[vitals/index|Vitals]]
+### 🩸 [[Vitals/index|Vitals]]
 Manage your Hunger, Thirst, Fear, and Action Points.
 
-### 🏋️ [[skills/index|Skills]]
+### 🏋️ [[Skills/index|Skills]]
 Permanent character specializations and real-time progression.
 
-### 🏗️ [[base/index|Base Guide]]
+### 🏗️ [[Base/index|Base Guide]]
 Overview of the Base tile, resource banking, and infrastructure upgrades.
 
-### 🗺️ [[biomes/index|Biome Index]]
+### 🗺️ [[Biomes/index|Biome Index]]
 Detailed breakdown of every tile type and their loot tables.
 
-### 📦 [[items/index|Item Directory]]
+### 📦 [[Items/index|Item Directory]]
 Complete list of all items, their stats, and usage.
 
-### ⚙️ [[mechanisms/verification_list|Core Mechanisms]]
-Technical game logic: [[mechanisms/midnight_cycle|Midnight Cycle]], [[mechanisms/power_grid|Power Grid]], [[mechanisms/scavenging_logic|Scavenging Logic]], [[mechanisms/facility_fabrication|Facility Fabrication]], [[mechanisms/exploration_logic|Exploration Logic]], [[mechanisms/shortcuts|Keyboard Shortcuts]], and more.
+### ⚙️ [[Mechanisms/verification_list|Core Mechanisms]]
+Technical game logic: [[Mechanisms/midnight_cycle|Midnight Cycle]], [[Mechanisms/power_grid|Power Grid]], [[Mechanisms/scavenging_logic|Scavenging Logic]], [[Mechanisms/facility_fabrication|Facility Fabrication]], [[Mechanisms/exploration_logic|Exploration Logic]], [[Mechanisms/shortcuts|Keyboard Shortcuts]], and more.
 
 ### 🗺️ Expedition & Tracking
-- [[mechanisms/expedition_objectives|Active Objectives]]
-- [[mechanisms/patch_notes|Patch Notes]]
-- [[mechanisms/verification_list|Verification List]]
-- [[ideas/dev_feedback_suggestions|Tester Feedback & Suggestions]]
+- [[Mechanisms/expedition_objectives|Active Objectives]]
+- [[Mechanisms/patch_notes|Patch Notes]]
+- [[Mechanisms/verification_list|Verification List]]
+- [[Ideas/dev_feedback_suggestions|Tester Feedback & Suggestions]]
 
 ---
 *Maintained by the Hex Survival Documentation AI.*
