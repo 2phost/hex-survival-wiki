@@ -23,7 +23,7 @@
 | :--- | :--- |
 | [[biomes/oasis|Oasis]] | 8.6% |
 | [[biomes/desert|Desert - Sand]] | 6.2% |
-| [[biomes/farm_facility|Human Human Farm Facility]] | 6.2% |
+| [[biomes/farm_facility|Human Farm Facility]] | 6.2% |
 | [[biomes/forest|Forest]] | 5.9% |
 | [[biomes/ruined_city|Ruined City]] | 5.7% |
 | [[biomes/mountain|Mountain - Quarry]] | 4.9% |

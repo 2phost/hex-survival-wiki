@@ -27,7 +27,7 @@
 | Biome | % Per Hour |
 | :--- | :--- |
 | [[biomes/ruined_city|Ruined City]] | 5.7% |
-| [[biomes/farm_facility|Human Human Farm Facility]] | 4.3% |
+| [[biomes/farm_facility|Human Farm Facility]] | 4.3% |
 | [[biomes/industrial|Industrial Zone]] | 4.0% |
 | [[biomes/hidden_vault|Hidden Vault]] | 3.1% |
 | [[biomes/electronic_lab|Electronic Store - Lab]] | 2.7% |

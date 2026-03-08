@@ -20,14 +20,14 @@
 
 ## Obtained From Fabrication
 This item can be produced via the **[[mechanisms/facility_fabrication|Fabricate]]** action.
-- **Facility**: [[biomes/farm_facility|Human Human Farm Facility]]
+- **Facility**: [[biomes/farm_facility|Human Farm Facility]]
 - **Requirement**: No skill required
 - **Note**: The fabrication completes at Midnight and the item appears on the ground at the facility tile.
 
 ## Biome Probabilities (Absolute %)
 | Biome | % Per Hour |
 | :--- | :--- |
-| [[biomes/farm_facility|Human Human Farm Facility]] | 10.7% |
+| [[biomes/farm_facility|Human Farm Facility]] | 10.7% |
 | [[biomes/oasis|Oasis]] | 3.4% |
 | [[biomes/forest|Forest]] | 1.9% |
 | [[biomes/ruined_city|Ruined City]] | 0.3% |

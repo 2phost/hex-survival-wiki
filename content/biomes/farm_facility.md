@@ -20,6 +20,7 @@ This facility allows for the large-scale production of food items via the **[[me
 - **Requirement**: No skill required.
 - **Cycle**: Fabrication must be manually started on the tile. The item is produced at **[[mechanisms/midnight_cycle|Midnight]]** and appears on the ground at the current tile.
 - **Limit**: Only one fabrication can be active at this specific tile at a time.
+- **Power Cost**: Increases town daily power drain by **20%** while active.
 
 ## Loot Tables (Absolute % Chance)
 | Item | % Per Hour |

@@ -47,7 +47,7 @@
 | [[biomes/ruined_city|Ruined City]] | 10.8% |
 | [[biomes/industrial|Industrial Zone]] | 6.0% |
 | [[biomes/desert|Desert - Sand]] | 5.6% |
-| [[biomes/farm_facility|Human Human Farm Facility]] | 5.2% |
+| [[biomes/farm_facility|Human Farm Facility]] | 5.2% |
 | [[biomes/mountain|Mountain - Quarry]] | 3.3% |
 | [[biomes/electronic_lab|Electronic Store - Lab]] | 2.7% |
 | [[biomes/hidden_vault|Hidden Vault]] | 2.1% |

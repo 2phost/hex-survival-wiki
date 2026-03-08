@@ -16,6 +16,7 @@ At the transition, all active players suffer a significant reduction in their **
 The town's total energy reserve is reduced based on:
 - **Base Consumption**: Passive drain for the Base tile.
 - **[[mechanisms/power_grid|Power Grid]] Size**: Each active **[[items/power_pole|Power Pole]]** adds to the daily drain.
+- **Active Fabrication**: Each active project at a facility increases total drain by **20%**.
 - **Offsets**: **[[base/upgrades|Solar Panels]]** reduce this total drain by 10%.
 
 ## 4. Resource Production

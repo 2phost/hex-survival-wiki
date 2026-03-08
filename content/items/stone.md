@@ -25,7 +25,7 @@
 | :--- | :--- |
 | [[biomes/mountain|Mountain - Quarry]] | 29.6% |
 | [[biomes/desert|Desert - Sand]] | 21.8% |
-| [[biomes/farm_facility|Human Human Farm Facility]] | 3.3% |
+| [[biomes/farm_facility|Human Farm Facility]] | 3.3% |
 | [[biomes/hidden_vault|Hidden Vault]] | 3.1% |
 | [[biomes/industrial|Industrial Zone]] | 2.5% |
 | [[biomes/forest|Forest]] | 2.4% |

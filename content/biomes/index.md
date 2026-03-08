@@ -4,7 +4,7 @@ Explore the different hexagonal tiles and facilities of the world. Each biome ha
 
 ## Biome Directory
 
-### [[biomes/farm_facility|Human Human Farm Facility]]
+### [[biomes/farm_facility|Human Farm Facility]]
 The primary source of food. High concentration of **Rations** and **Salad**.
 
 ### [[biomes/hidden_vault|Hidden Vault]]

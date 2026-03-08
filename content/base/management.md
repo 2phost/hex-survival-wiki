@@ -26,4 +26,4 @@ When fuel items are in the **Town Bank**, a **"Refuel"** button appears in the B
     - **[[items/plasma_fuel_rod|Plasma Fuel Rod]]**: +60% Power (Lvl 3).
 
 ## 3. Power Consumption
-The Base menu also displays **"Night Use"**, which indicates the predicted town-wide power drain during the **[[mechanisms/midnight_cycle|Midnight]]** transition. Keeping the town's power level above this number is the primary survival objective. **If town power hits 0%, the town instance ends.**
+The Base menu also displays **"Night Use"**, which indicates the predicted town-wide power drain during the **[[mechanisms/midnight_cycle|Midnight]]** transition. This drain is increased by expansion of the grid and active **[[mechanisms/facility_fabrication|Fabrication]]** projects (+20% each). Keeping the town's power level above this number is the primary survival objective. **If town power hits 0%, the town instance ends.**

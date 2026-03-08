@@ -31,6 +31,7 @@
 
 ## Operational Rules
 - **One Per Tile**: Only one fabrication project can be active on a single hex at any given time.
-- **Global Concurrent Production**: A town can have multiple fabrications active simultaneously across the map (e.g., one player starting Alloy in the Industrial Zone and another starting Rations at the Farm).
+- **Global Concurrent Production**: A town can have multiple fabrications active simultaneously across the map.
 - **AP Cost**: Starting a fabrication costs **0 AP**.
+- **Power Cost**: Each active fabrication project increases the town's **daily power drain by 20%** until it completes at Midnight.
 - **Persistence**: Projects persist through the Midnight cycle as long as the town has power. **Note**: If town power reaches **0%**, the current town session ends.

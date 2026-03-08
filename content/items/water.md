@@ -21,7 +21,7 @@
 | :--- | :--- |
 | [[biomes/oasis|Oasis]] | 38.8% |
 | [[biomes/forest|Forest]] | 9.5% |
-| [[biomes/farm_facility|Human Human Farm Facility]] | 8.3% |
+| [[biomes/farm_facility|Human Farm Facility]] | 8.3% |
 | [[biomes/mountain|Mountain - Quarry]] | 3.3% |
 | [[biomes/desert|Desert - Sand]] | 3.1% |
 | [[biomes/hidden_vault|Hidden Vault]] | 2.1% |
