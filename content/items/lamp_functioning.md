@@ -9,8 +9,13 @@
 - **Description**: Provides illumination when carried; lights only the tile you stand on.
 
 ## Usage
-- Deconstruct at Base for materials.
 - Carry for illumination (5 days, 0-hex radius).
+- Deconstruct at Base for materials.
+
+## Obtained From Crafting
+This item can be created by combining materials in your inventory.
+- **Recipe**: 1 <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/battery|Battery]] + 1 <img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_empty|Lamp (empty)]]
+- **Skill Requirement**: None
 
 ## Deconstruction Yields
 > **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.

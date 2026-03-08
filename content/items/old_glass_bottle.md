@@ -11,7 +11,6 @@
 ## Usage
 - Crafting <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/glowing_bottle|Glowing Bottle]]
 
-
 ## Obtained From Deconstruction
 > **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
 

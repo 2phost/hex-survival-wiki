@@ -9,8 +9,8 @@
 - **Description**: Fuel for the base generators. Refills 25% town power when used at base.
 
 ## Usage
-- Refill Town Power at the Base (25%).
 - Crafting <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/gasoline_generator|Gasoline Generator]]
+- Refill Town Power at the Base (25%).
 - Refilling Town Power at the [[base/management|Town Bank]].
 
 ## Power/Fuel Stats

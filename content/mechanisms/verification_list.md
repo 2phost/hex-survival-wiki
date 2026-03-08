@@ -13,8 +13,9 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Vitals Restoration**: Exact numerical effects for all consumables confirmed.
 - **Stim Conditioning**: Tier locks confirmed for Stim Pack/Injector/Overdrive.
 - **Generator Operations**: Tier locks confirmed for Gas/Biofuel/Plasma fuels.
-- **[[mechanisms/facility_fabrication|Facility Fabrication]]**: Confirmed "Fabricate" action logic. Starting a fabrication costs **0 AP**. Products are selected on-tile and produced at Midnight, appearing on the ground at that tile. Multiple fabrications can be active across different tiles, but only one per tile.
+- **[[mechanisms/facility_fabrication|Facility Fabrication]]**: Confirmed "Fabricate" action logic. Starting a fabrication costs **0 AP**. Products are selected on-tile and produced at Midnight, appearing on the ground at that tile.
 - **Town Failure**: Confirmed that if the town's power level reaches **0%**, the town instance ends for all players.
+- **Structural Definitions**: Corrected **Power Pole** categorization; it is a craftable and placeable **Item**, not a Base Construction.
 - **Scavenging Math**: Fully confirmed the multi-tier roll system (45/25/5/25) used by the server. Migrated all item and biome weights to **Absolute Success Probabilities (% per hour)**.
 - **Fear System**: Confirmed Fear accumulation in darkness and recovery while resting in light. Verified the **3-bar Fear maximum**; reaching 3/3 Fear results in death ("Consumed by darkness").
 - **Detailed Item Usage**: Confirmed specific crafting and construction roles for all materials, including reverse-mapping of deconstruction sources for all yields.

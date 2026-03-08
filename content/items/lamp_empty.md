@@ -9,8 +9,8 @@
 - **Description**: 
 
 ## Usage
-- Deconstruct at Base for materials.
 - Crafting <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_functioning|Functioning Lamp]]
+- Deconstruct at Base for materials.
 
 ## Deconstruction Yields
 > **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.

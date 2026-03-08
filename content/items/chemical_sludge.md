@@ -11,7 +11,6 @@
 ## Usage
 - Building [[base/constructions|Fuel Refinery]]
 
-
 ## Obtained From Deconstruction
 > **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
 

@@ -11,7 +11,7 @@ These suggestions are intended for the developers to improve the player experien
 ## 2. [[mechanisms/infrastructure|Infrastructure]] & Base Building
 - **Rechargeable Batteries**: Instead of **Batteries** being one-time use, allow the **[[biomes/electronic_lab|Electronic Store - Lab]]** to have a "Charging Station" that uses town Power to refuel empty batteries.
 - **Advanced Research Visualization**: The **[[mechanisms/infrastructure|Research Lab II]]** (+20% speed) should provide a clear progress bar for the second research slot to help the town coordinate long-term projects.
-- **Power Grid Map**: A dedicated overlay that shows the "connectedness" of the town's grid, making it clear where the next **[[mechanisms/infrastructure|Power Pole]]** should be placed.
+- **Power Grid Map**: A dedicated overlay that shows the "connectedness" of the town's grid, making it clear where the next **[[items/power_pole|Power Pole]]** should be placed.
 
 ## 3. Light & Darkness Refinement
 - **Fear Implementation Note**: The Fear vital is now active (March 5, 2026). Refinements focus on managing its penalties. When full, the player dies or suffers severe [[vitals/action_points|AP]] penalties. This gives a small window (2-3 seconds) to realize a mistake and move back.

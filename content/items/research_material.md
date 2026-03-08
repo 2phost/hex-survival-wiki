@@ -11,7 +11,6 @@
 ## Usage
 - Processed by the [[base/upgrades|Research Lab]] to unlock new technologies.
 
-
 ## Obtained From Deconstruction
 > **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
 

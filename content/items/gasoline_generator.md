@@ -11,6 +11,11 @@
 ## Usage
 - Deconstruct at Base for materials.
 
+## Obtained From Crafting
+This item can be created by combining materials in your inventory.
+- **Recipe**: 1 <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/gasoline_generator_empty|Gasoline Generator (empty)]] + 1 <img src="../assets/items/gasoline_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/gasoline_canister|Gasoline Canister]]
+- **Skill Requirement**: [[skills/generator_operations|Gen. Ops Lvl 1]]
+
 ## Deconstruction Yields
 > **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.
 

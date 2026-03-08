@@ -11,7 +11,6 @@
 ## Usage
 - Crafting <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/lamp_functioning|Functioning Lamp]]
 
-
 ## Obtained From Deconstruction
 > **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
 

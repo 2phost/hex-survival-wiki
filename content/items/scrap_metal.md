@@ -13,7 +13,6 @@
 - Building [[base/constructions|Barbed Wire Perimeter]]
 - Building [[base/constructions|Fuel Refinery]]
 - Building [[base/constructions|Hydroponic Patch]]
-- Building [[base/constructions|Power Pole]]
 - Building [[base/constructions|Reinforced Steel Bulkhead]]
 - Building [[base/constructions|Research Lab]]
 - Building [[base/constructions|Scrap Workshop]]
@@ -24,7 +23,6 @@
 - Building [[base/upgrades|Solar Panels]]
 - Crafting <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/power_pole|Power Pole]]
 - Crafting <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[items/solar_cell|Solar Cell]]
-
 
 ## Obtained From Deconstruction
 > **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.

@@ -15,7 +15,6 @@
 - Building [[base/constructions|Watchtower]]
 - Building [[base/constructions|Well]]
 
-
 ## Obtained From Deconstruction
 > **Note**: Retrieval chance is affected by the source item's yield probability and your **[[skills/salvage|Salvage]]** skill level.
 

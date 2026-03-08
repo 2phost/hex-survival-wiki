@@ -10,7 +10,7 @@ Darkness is the primary existential threat in Hex Survival.
 ## Light Sources
 Players must manage light to safely navigate the map.
 - **Personal Light**: [[items/index|Items]] like the "[[items/starter_lamp|Starter Lamp]]" provide a mobile radius of safety but have limited duration.
-- **Grid Illumination**: **[[mechanisms/infrastructure|Power Poles]]** can be placed to permanently illuminate a hex. This requires the hex to be connected to the town's power chain.
+- **Grid Illumination**: **[[items/power_pole|Power Poles]]** can be placed to permanently illuminate a hex. This requires the hex to be connected to the town's power chain.
 - **Radius**: A powered pole illuminates only its **current hex (0-hex radius)**.
 - **Hex Light**: The Base has inherent light.
 

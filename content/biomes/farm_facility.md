@@ -1,4 +1,4 @@
-# Biome: [[biomes/farm_facility|Human Human Farm Facility]]
+# Biome: [[biomes/farm_facility|Human Farm Facility]]
 
 <div align=\"center\">
 

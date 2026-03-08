@@ -15,7 +15,7 @@
 
 ### 2. Threat: Corrupted Relay (Lvl 1) (High)
 - **Goal**: Reach the relay hex and spend **2 [[mechanisms/action_points|AP]]** to disable it.
-- **Location**: Use the **[[mechanisms/infrastructure|Watchtower]]** to reveal. (Example: Heading SW, Distance 2 hexes away).
+- **Location**: Use the **[[base/constructions|Watchtower]]** to reveal. (Example: Heading SW, Distance 2 hexes away).
 - **Penalty if Ignored**: 
     - **Immediate**: -12% Search Chance town-wide.
     - **Escalation**: -16% Search Chance at next [[mechanisms/time_and_power|Midnight]].
@@ -23,12 +23,12 @@
 ## Objective Types
 
 ### 1. Story & Infrastructure Events
-- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[mechanisms/infrastructure|Research Lab]], [[biomes/industrial|Industrial Zone]]) to progress the narrative or gain resources.
+- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[base/upgrades|Research Lab]], [[biomes/industrial|Industrial Zone]]) to progress the narrative or gain resources.
 - **Reward**: Critical materials or navigation data.
 
 ### 2. Threat Mitigation
 - **Goal**: Neutralize a specific threat on the map (e.g., Relays, Corrupted Nodes).
 - **Penalty if Ignored**: Global negative effects that scale over time.
 - **Requirements**:
-    - **Navigation**: **Requires [[mechanisms/infrastructure|Watchtower]] to reveal headings.**
+    - **Navigation**: **Requires [[base/constructions|Watchtower]] to reveal headings.**
     - **Action**: Spend [[mechanisms/action_points|Action Points]] ([[mechanisms/action_points|AP]]) to perform a specific task (e.g., "Disable").
