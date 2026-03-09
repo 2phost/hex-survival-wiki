@@ -10,6 +10,7 @@ title: "Alloy Plate"
 Precision-forged industrial plating produced by powered Industrial facilities. While heavy, it serves as a formidable weapon in the wasteland.
 
 ## ⚔️ Combat Stats
+For detailed combat rules, see **[[Mechanisms/combat_and_defense|Combat & Defense]]**.
 - **Category**: Weapon
 - **Monster Damage**: **3** (kills 3 monsters per hit)
 - **Break Chance**: **12%**

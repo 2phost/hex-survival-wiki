@@ -4,7 +4,7 @@ title: "Sweeping Strikes"
 
 # Skill: [[Skills/sweeping_strikes|Sweeping Strikes]]
 
-Sweeping Strikes improves a survivor's ability to dispatch multiple threats at once. It is a vital specialization for clearings large hordes efficiently.
+Sweeping Strikes improves a survivor's ability to dispatch multiple threats at once. It is a vital specialization for clearings large hordes efficiently. See **[[Mechanisms/combat_and_defense|Combat & Defense]]** for rule details.
 
 ## 📝 Description
 "Each attack has a chance to kill **1 extra monster**: **5% per level** (up to 25%)."

@@ -25,6 +25,7 @@ Hordes are not just a threat to players; they actively degrade the environment a
 - **Infrastructure Destruction**: Hordes will destroy any built **[[Items/power_pole|Power Poles]]** on a tile they enter, severing town power lines.
 
 ## 3. Combat & Defense
+For detailed rules on how to engage hordes and town defense math, see the **[[Mechanisms/combat_and_defense|Combat & Defense]]** mechanism.
 
 ### Attacking Monsters
 Players can engage hordes by moving onto their hex and selecting the **Attack Monsters** action.

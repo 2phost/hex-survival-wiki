@@ -1,8 +1,8 @@
 ---
-title: "Multiplayer and Death"
+title: "Multiplayer & Death"
 ---
 
-# Mechanism: Multiplayer and Death
+# Mechanism: [[Mechanisms/multiplayer_and_death|Multiplayer & Death]]
 
 ## Multiplayer (Collaborative)
 Hex Survival is a collaborative game where players work together within a shared "Town."

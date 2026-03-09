@@ -10,6 +10,7 @@ title: "Rusty Tool"
 A corroded metal tool salvaged from the ruins. It is the most basic improvised weapon available to survivors.
 
 ## ⚔️ Combat Stats
+For detailed combat rules, see **[[Mechanisms/combat_and_defense|Combat & Defense]]**.
 - **Category**: Weapon
 - **Monster Damage**: **1** (kills 1 monster per hit)
 - **Break Chance**: **35%**

@@ -24,8 +24,9 @@ Detailed breakdown of every tile type and their loot tables.
 Complete list of all items, their stats, and usage.
 
 ### ⚙️ [[Mechanisms/verification_list|Core Mechanisms]]
-The technical rules of the game:
-- [[Mechanisms/monster_hordes|Monster Hordes (NEW)]]
+Technical game logic:
+- [[Mechanisms/combat_and_defense|Combat & Defense (NEW)]]
+- [[Mechanisms/monster_hordes|Monster Hordes]]
 - [[Mechanisms/midnight_cycle|Midnight Cycle]]
 - [[Mechanisms/power_grid|Power Grid]]
 - [[Mechanisms/scavenging_logic|Scavenging Logic]]

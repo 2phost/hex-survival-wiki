@@ -4,7 +4,7 @@ title: "Critical Hits"
 
 # Skill: [[Skills/critical_hits|Critical Hits]]
 
-Critical Hits is the ultimate specialization for monster hunters. It allows for devastating single-target attacks that can clear high-density hordes in a single action.
+Critical Hits is the ultimate specialization for monster hunters. It allows for devastating single-target attacks that can clear high-density hordes in a single action. See **[[Mechanisms/combat_and_defense|Combat & Defense]]** for rule details.
 
 ## 📝 Description
 "Gain a chance to score a critical hit and kill **3 monsters** with one hit: **2% per level** (up to 10%)."

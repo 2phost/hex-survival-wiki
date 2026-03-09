@@ -20,7 +20,7 @@ Items used to restore Hunger, Thirst, and Action Points.
 | **[[Items/stim_overdrive|Stim Overdrive]]** | +6 AP, -14 Hunger/Thirst | [[Skills/stim_conditioning|Stim Cond.]] Lvl 3 |
 
 ## ⚔️ Weapons & Tools
-Improvised gear for combat and exploration.
+Improvised gear for combat and exploration. See **[[Mechanisms/combat_and_defense|Combat & Defense]]** for technical rules.
 
 | Item | Monster Damage | Break Chance | Special Effect |
 | :--- | :---: | :---: | :--- |

@@ -18,7 +18,7 @@ These facilities provide a steady stream of survival vitals or tactical data to 
 | **[[Base/constructions#Watchtower|Watchtower]]** | 2 Timber, 2 Stone | Reveals direction of active world threats |
 
 ## 🛡️ Defensive Upgrades
-Crucial for surviving the **[[Mechanisms/monster_hordes|Town Siege]]**. Each upgrade contributes to the town's **Defense Strength**.
+Crucial for surviving the **[[Mechanisms/monster_hordes|Town Siege]]**. Each upgrade contributes to the town's **Defense Strength**. See **[[Mechanisms/combat_and_defense|Combat & Defense]]** for technical math.
 
 | Upgrade | Requirements | Defense Bonus / Effect |
 | :--- | :--- | :--- |

@@ -19,7 +19,7 @@ The darkness becomes active at midnight:
 - **Horde Gathering**: Newly spawned hordes spend one night in place before marching.
 
 ## 3. Town Siege & Defense
-The final check of the night is the town's security:
+The final check of the night is the town's security. Detailed math can be found in **[[Mechanisms/combat_and_defense|Combat & Defense]]**.
 - **Attack Calculation**: All hordes on the base tile contribute to the total **Attack Strength**.
 - **Defense Check**: If **Attack Strength > Town Defense**, the town is overrun and the game instance ends for all players.
 

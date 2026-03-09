@@ -4,7 +4,7 @@ title: "Weapon Maintenance"
 
 # Skill: [[Skills/weapon_maintenance|Weapon Maintenance]]
 
-Weapon Maintenance is a fundamental combat skill for survivors who choose to defend the town. It focuses on the care and preservation of improvised weaponry during combat.
+Weapon Maintenance is a fundamental combat skill for survivors who choose to defend the town. It focuses on the care and preservation of improvised weaponry during combat. See **[[Mechanisms/combat_and_defense|Combat & Defense]]** for rule details.
 
 ## 📝 Description
 "Reduce weapon break chance when attacking monsters by **2% per level** (up to 10%)."

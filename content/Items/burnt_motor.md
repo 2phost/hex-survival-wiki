@@ -10,6 +10,7 @@ title: "Burnt-Out Motor"
 A seized motor housing from pre-collapse machinery. Its heavy weight makes it a decent bludgeoning tool.
 
 ## ⚔️ Combat Stats
+For detailed combat rules, see **[[Mechanisms/combat_and_defense|Combat & Defense]]**.
 - **Category**: Weapon
 - **Monster Damage**: **2** (kills 2 monsters per hit)
 - **Break Chance**: **22%**

@@ -9,5 +9,5 @@ The Chat system facilitates coordination between survivors within the same town 
 
 ## Features
 - **Scope**: Currently "Global per Town." Messages are visible to everyone in the current collaborative instance but not across different towns.
-- **UI Position**: Located in the bottom right of the screen.
+- **UI Position**: Located in the bottom right of the screen. The chat window automatically opens at the latest message for ease of reading.
 - **Usage**: Primarily for coordinating on [[Mechanisms/expedition_objectives|Expedition Objectives]] and sharing resource locations.
