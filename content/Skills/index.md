@@ -6,6 +6,59 @@ title: "Skills"
 
 Skills are permanent character specializations that progress in real-time. Training a skill does not consume AP.
 
+## 🔗 Skill Dependencies
+```mermaid
+graph LR
+    subgraph S[Survival]
+        AP[AP Capacity]
+        SC[Stim Conditioning]
+        RR[Rest Recovery]
+    end
+
+    subgraph L[Logistics]
+        SE[Scavenger's Eye]
+        PM[Pack Mule]
+        SL[Salvage]
+    end
+
+    subgraph C[Combat]
+        WM[Weapon Maintenance]
+        SS[Sweeping Strikes]
+        CH[Critical Hits]
+    end
+
+    subgraph E[Engineering]
+        FE[Field Engineering]
+        GO[Generator Operations]
+    end
+
+    AP -->|Lvl 1| SE
+    AP -->|Lvl 1| PM
+    AP -->|Lvl 1| SC
+    AP -->|Lvl 1| WM
+    AP -->|Lvl 2| RR
+    
+    SE -->|Lvl 1| SL
+    SE -->|Lvl 2| FE
+    
+    FE -->|Lvl 1| GO
+    
+    WM -->|Lvl 2| SS
+    SS -->|Lvl 2| CH
+
+    click AP "/Skills/ap_capacity"
+    click RR "/Skills/rest_recovery"
+    click SC "/Skills/stim_conditioning"
+    click SE "/Skills/scavenger_eye"
+    click PM "/Skills/pack_mule"
+    click SL "/Skills/salvage"
+    click FE "/Skills/field_engineering"
+    click GO "/Skills/generator_operations"
+    click WM "/Skills/weapon_maintenance"
+    click SS "/Skills/sweeping_strikes"
+    click CH "/Skills/critical_hits"
+```
+
 ## 🩸 Survival Skills
 Primary skills for basic existence and movement.
 
