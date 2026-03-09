@@ -2,32 +2,29 @@
 title: "Rusty Tool"
 ---
 
-# Rusty Tool
+# Item: [[Items/rusty_tool|Rusty Tool]]
 
 ![[assets/items/rusty_tool.png|150]]
 
+## Description
+A corroded metal tool salvaged from the ruins. It is the most basic improvised weapon available to survivors.
 
-### Core Properties
-- **Rarity**: common
-- **Category**: Junk
-- **Description**: Corroded metal tool. Can be broken down for raw materials.
+## ⚔️ Combat Stats
+- **Category**: Weapon
+- **Monster Damage**: **1** (kills 1 monster per hit)
+- **Break Chance**: **35%**
+- **Requirement**: None
 
-## Usage
-- Deconstruct at Base for materials.
+## 🛠️ Salvage Yield
+Can be deconstructed for raw materials (Requires **[[Skills/salvage|Salvage]] Lvl 1**).
 
-## Deconstruction Yields
-> **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[Skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.
-
-- **Primary Yields**: <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (60%), <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/stone|Stone]] (20%)
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
+| Primary Yield (60%) | Rare Bonus (20%) |
 | :--- | :--- |
-| [[Biomes/ruined_city|Ruined City]] | 3.8% |
-| [[Biomes/desert|Desert - Sand]] | 3.7% |
-| [[Biomes/industrial|Industrial Zone]] | 2.5% |
-| [[Biomes/forest|Forest]] | 1.9% |
+| **[[Items/scrap_metal|Scrap Metal]]** | **[[Items/stone|Hardened Stone]]** |
 
-## Technical Information
-- **Asset ID**: `rusty_tool`
-- **Asset Path**: `items/rusty_tool.png`
+## 🔍 Where to Find
+Found in high quantities within urban and industrial ruins.
+- **[[Biomes/ruined_city|Ruined City]]**: 30% Success Chance
+- **[[Biomes/industrial|Industrial Zone]]**: 25% Success Chance
+- **[[Biomes/desert|Desert]]**: 12% Success Chance
+- **[[Biomes/forest|Forest]]**: 8% Success Chance

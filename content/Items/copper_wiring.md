@@ -2,48 +2,41 @@
 title: "Copper Wiring"
 ---
 
-# Copper Wiring
+# Item: [[Items/copper_wiring|Copper Wiring]]
 
 ![[assets/items/copper_wiring.png|150]]
 
-
-### Core Properties
-- **Rarity**: common
-- **Category**: Material
-- **Description**: Electrical wiring for connecting solar panels to the grid.
+## Description
+Electrical wiring for connecting solar panels to the grid and transmitting power between poles.
 
 ## Usage
-- Building [[Base/upgrades|Battery Storage]]
-- Building [[Base/upgrades|Beacon Amplifier]]
-- Building [[Base/upgrades|Solar Panels]]
-- Crafting <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole|Power Pole]]
-- Crafting <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]
+### 🏗️ Construction
+- **[[Base/constructions#Battery Storage|Battery Storage]]**: 4 Wiring
+- **[[Base/constructions#Beacon Amplifier|Beacon Amplifier]]**: 3 Wiring
+- **[[Base/constructions#Solar Panels|Solar Panels]]**: 2 Wiring
+- **[[Items/power_pole|Power Pole]]**: 1 Wiring
+
+### 🛠️ Crafting
+- **[[Items/solar_cell|Solar Cell]]**: 2 Wiring
+- **[[Items/power_pole|Power Pole]]**: 1 Wiring
 
 ## Obtained From Deconstruction
-> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[Skills/salvage|Salvage]]** skill level.
+- <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]: **50%** yield.
+- <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole|Power Pole]]: **50%** yield.
+- <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]: **50%** yield.
+- <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/burnt_motor|Burnt-Out Motor]]: **40%** yield.
+- <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]: **30%** yield.
+- <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]: **30%** yield.
+- <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]: **30%** yield.
+- <img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_empty|Lamp (empty)]]: **20%** yield.
+- <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]: **5%** yield (Rare Bonus).
 
-- From <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]: **50%** base chance.
-- From <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole|Power Pole]]: **50%** base chance.
-- From <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]: **50%** base chance.
-- From <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/burnt_motor|Burnt-Out Motor]]: **40%** base chance.
-- From <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]: **30%** base chance.
-- From <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]: **30%** base chance.
-- From <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]: **30%** base chance.
-- From <img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_empty|Lamp (empty)]]: **20%** base chance.
-- From <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]: **5%** base chance (Rare Bonus).
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/electronic_lab|Electronic Store - Lab]] | 5.5% |
-| [[Biomes/industrial|Industrial Zone]] | 4.5% |
-| [[Biomes/farm_facility|Human Farm Facility]] | 4.3% |
-| [[Biomes/hidden_vault|Hidden Vault]] | 4.1% |
-| [[Biomes/ruined_city|Ruined City]] | 3.8% |
-| [[Biomes/mountain|Mountain - Quarry]] | 3.3% |
-| [[Biomes/desert|Desert - Sand]] | 1.6% |
-| [[Biomes/forest|Forest]] | 1.2% |
-
-## Technical Information
-- **Asset ID**: `copper_wiring`
-- **Asset Path**: `items/copper_wiring.png`
+## 🔍 Where to Find
+- **[[Biomes/industrial|Industrial Zone]]**: 10.7% Success Chance
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 9.5% Success Chance
+- **[[Biomes/ruined_city|Ruined City]]**: 7.1% Success Chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 4.8% Success Chance
+- **[[Biomes/farm_facility|Human Farm Facility]]**: 4.3% Success Chance
+- **[[Biomes/mountain|Mountain / Quarry]]**: 2.4% Success Chance
+- **[[Biomes/desert|Desert / Sand]]**: 1.2% Success Chance
+- **[[Biomes/forest|Forest]]**: 1.2% Success Chance

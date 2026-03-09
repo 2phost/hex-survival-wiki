@@ -2,61 +2,49 @@
 title: "Skills"
 ---
 
-# Hex Survival Skills
+# Skill: [[Skills/index|Index]]
 
-Skills represent your survivor's long-term specialization. Training takes real-time and persists between town instances.
+Skills are permanent character specializations that progress in real-time. Training a skill does not consume AP.
 
-## Skill Progression
-Training costs **0 AP** but requires significant actual time to complete.
+## 🩸 Survival Skills
+Primary skills for basic existence and movement.
 
-| Level | Duration |
+| Skill | Effect |
 | :--- | :--- |
-| **Level 1** | 1 Hour |
-| **Level 2** | 24 Hours (1 Day) |
-| **Level 3** | 7 Days |
-| **Level 4** | 14 Days |
-| **Level 5** | 30 Days |
+| **[[Skills/ap_capacity|AP Capacity]]** | Increases max Action Points (+1 per level). |
+| **[[Skills/rest_recovery|Rest Recovery]]** | Chance for +1 extra AP per hourly rest. |
+| **[[Skills/stim_conditioning|Stim Conditioning]]** | Unlock the use of high-tier AP Stims. |
 
-## Dependency Tree
-```mermaid
-graph TD
-    AP[AP Capacity] -->|Lvl 1| PM[Pack Mule]
-    AP -->|Lvl 1| SE[Scavenger's Eye]
-    AP -->|Lvl 1| SC[Stim Conditioning]
-    AP -->|Lvl 2| RR[Rest Recovery]
-    
-    SE -->|Lvl 1| SL[Salvage]
-    SE -->|Lvl 2| FE[Field Engineering]
-    
-    FE -->|Lvl 1| GO[Generator Operations]
+## 🔍 Scavenging & Logistics
+Skills that improve resource acquisition and inventory.
 
-    classDef default fill:#2d2d2d,stroke:#666,stroke-width:2px,color:#fff;
-    classDef highlight fill:#4a4a4a,stroke:#fff,stroke-width:2px,color:#fff;
-    class AP highlight;
-```
+| Skill | Effect |
+| :--- | :--- |
+| **[[Skills/scavenger_eye|Scavenger's Eye]]** | Increases loot success chance (+5% per level). |
+| **[[Skills/pack_mule|Pack Mule]]** | Increases carried inventory slots (+1 per level). |
+| **[[Skills/salvage|Salvage]]** | Enables deconstruction and improves resource yield. |
 
-## Skill Directory
+## ⚔️ Combat & Defense
+Specializations for fighting monster hordes.
 
-### [[Skills/ap_capacity|AP Capacity]]
-Increases your maximum Action Point pool.
+| Skill | Effect |
+| :--- | :--- |
+| **[[Skills/weapon_maintenance|Weapon Maintenance]]** | Reduces weapon break chance (-2% per level). |
+| **[[Skills/sweeping_strikes|Sweeping Strikes]]** | Chance to kill 1 extra monster (5% per level). |
+| **[[Skills/critical_hits|Critical Hits]]** | Chance for critical hit (kill 3 monsters). |
 
-### [[Skills/rest_recovery|Rest Recovery]]
-Provides a chance for bonus AP while resting.
+## 🏗️ Engineering & Operations
+Advanced skills for town maintenance and facility fabrication.
 
-### [[Skills/scavenger_eye|Scavenger's Eye]]
-Increases the hourly success rate of scavenging.
+| Skill | Effect |
+| :--- | :--- |
+| **[[Skills/field_engineering|Field Engineering]]** | Unlock fabrication in Industrial/Electronic biomes. |
+| **[[Skills/generator_operations|Generator Operations]]** | Safely run/refuel town generators. |
 
-### [[Skills/pack_mule|Pack Mule]]
-Expands your personal inventory capacity.
-
-### [[Skills/field_engineering|Field Engineering]]
-Unlocks production in industrial facilities.
-
-### [[Skills/generator_operations|Generator Operations]]
-Required for refueling town power generators.
-
-### [[Skills/stim_conditioning|Stim Conditioning]]
-Allows the safe use of high-tier stimulants.
-
-### [[Skills/salvage|Salvage]]
-Unlocks the ability to deconstruct items for materials.
+## ⏳ Training Times
+Training times are fixed real-world intervals.
+- **Level 1**: 1 Hour
+- **Level 2**: 24 Hours
+- **Level 3**: 7 Days
+- **Level 4**: 14 Days
+- **Level 5**: 30 Days

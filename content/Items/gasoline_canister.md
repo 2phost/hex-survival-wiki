@@ -2,36 +2,24 @@
 title: "Gasoline Canister"
 ---
 
-# Gasoline Canister
+# Item: [[Items/gasoline_canister|Gasoline Canister]]
 
 ![[assets/items/gasoline_canister.png|150]]
 
-
-### Core Properties
-- **Rarity**: rare
-- **Category**: Fuel
-- **Description**: Fuel for the base generators. Refills 25% town power when used at base.
+## Description
+A sealed metal canister filled with refined gasoline. Essential for powering town generators and crafting functional portable generators.
 
 ## Usage
-- Crafting <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
-- Refill Town Power at the Base (25%).
-- Refilling Town Power at the [[Base/management|Town Bank]].
+### 🛠️ Crafting
+- **[[Items/gasoline_generator|Gasoline Generator]]**: 1 Gasoline Canister
 
-## Power/Fuel Stats
-- **Power Refill**: +25%
+### ⚙️ Town Refuel
+- **Power Restored**: **25%**
+- **Requirement**: **[[Skills/generator_operations|Generator Operations]] Lvl 1**
 
-## Skill Requirements
-- [[Skills/generator_operations|Generator Operations]] Level 1
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/hidden_vault|Hidden Vault]] | 3.5% |
-| [[Biomes/mountain|Mountain - Quarry]] | 3.1% |
-| [[Biomes/desert|Desert - Sand]] | 2.9% |
-| [[Biomes/industrial|Industrial Zone]] | 2.7% |
-| [[Biomes/ruined_city|Ruined City]] | 2.4% |
-
-## Technical Information
-- **Asset ID**: `gasoline_canister`
-- **Asset Path**: `items/gasoline_canister.png`
+## 🔍 Where to Find
+- **[[Biomes/industrial|Industrial Zone]]**: 7.1% Success Chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 4.8% Success Chance
+- **[[Biomes/ruined_city|Ruined City]]**: 4.8% Success Chance
+- **[[Biomes/desert|Desert / Sand]]**: 2.4% Success Chance
+- **[[Biomes/mountain|Mountain / Quarry]]**: 2.4% Success Chance

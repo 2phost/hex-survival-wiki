@@ -7,7 +7,6 @@ title: "Inferred Mechanics & Logic"
 These are logical deductions based on established gameplay patterns and official help text. They serve as "working theories" until confirmed by direct observation.
 
 ## 1. The [[Mechanisms/midnight_cycle|Midnight]] Cycle (The "Toll")
-- **Confirmed Drain Rates**: Survival vitals ([[Vitals/hunger|Hunger]]/[[Vitals/thirst|Thirst]]) drain by **40% (4 bars)** at [[Mechanisms/midnight_cycle|Midnight]]. 
 - **Inferred Power Drain**: Town Power Drain is likely deducted at [[Mechanisms/midnight_cycle|Midnight]].
 - **Inferred Scaling**: It is currently unknown if the vitals drain is a fixed flat amount or if it scales based on the number of players or town level.
 - **Inferred Restoration Timing**: It is suspected that Well/Hydroponic resources are added *after* the hunger/thirst check at Midnight, but this requires verification.
@@ -22,5 +21,5 @@ While the exact mechanics of 0% vitals are being verified, it is inferred that:
 - **Dehydration**: Reaching 0% thirst may lead to death. Death likely occurs faster from thirst than from hunger.
 
 ## 4. Map & Exploration
-- **Visual Range**: It is inferred that players can see the biome type of adjacent tiles without moving, but cannot see specific contents or buildings until discovered.
-- **Connectivity**: Do Power Poles *must* be connected to the base grid, or can they form isolated "mini-grids"? Current logic suggests a requirement for connection to the Town Power grid.
+- **Connectivity**: Do Power Poles *must* be connected to the base grid, or can they form isolated "mini-grids"? Current logic suggests a requirement for connection to the Town Power grid to provide light.
+- **Visual Range**: It is inferred that players can see the biome type of adjacent tiles without moving, but cannot see specific contents or buildings until discovered. (Partially confirmed to be a **[[Items/restored_binoculars|Restored Binoculars]]** effect).

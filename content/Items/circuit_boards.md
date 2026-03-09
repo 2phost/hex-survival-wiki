@@ -2,42 +2,36 @@
 title: "Circuit Boards"
 ---
 
-# Circuit Boards
+# Item: [[Items/circuit_boards|Circuit Boards]]
 
 ![[assets/items/circuit_board.png|150]]
 
-
-### Core Properties
-- **Rarity**: rare
-- **Category**: Material
-- **Description**: 
+## Description
+Precision electronics core salvaged from pre-collapse devices.
 
 ## Usage
-- Building [[Base/constructions|Automated Sentry]]
-- Building [[Base/constructions|Scrap Workshop]]
-- Building [[Base/constructions|Signal Booster (Radar)]]
-- Building [[Base/upgrades|Beacon Amplifier]]
-- Building [[Base/upgrades|Solar Panels]]
-- Crafting <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]
+### 🏗️ Construction
+- **[[Base/constructions#Beacon Amplifier|Beacon Amplifier]]**: 3 Boards
+- **[[Base/constructions#Scrap Workshop|Scrap Workshop]]**: 2 Boards
+- **[[Base/constructions#Signal Booster|Signal Booster (Radar)]]**: 1 Board
+- **[[Base/constructions#Automated Sentry|Automated Sentry]]**: 1 Board
+- **[[Base/constructions#Solar Panels|Solar Panels]]**: 1 Board
+
+### 🛠️ Crafting
+- **[[Items/solar_cell|Solar Cell]]**: 1 Board
+- **[[Items/restored_binoculars|Restored Binoculars]]**: 1 Board
 
 ## Obtained From Deconstruction
-> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[Skills/salvage|Salvage]]** skill level.
+- <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]: **40%** yield.
+- <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]: **30%** yield.
+- <img src="../assets/items/capacitor_bank.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/capacitor_bank|Capacitor Bank]]: **20%** yield.
+- <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]: **8%** yield (Rare Bonus).
+- <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]: **6%** yield (Rare Bonus).
+- <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]: **6%** yield (Rare Bonus).
+- <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]: **5%** yield (Rare Bonus).
 
-- From <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]: **40%** base chance.
-- From <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]: **30%** base chance.
-- From <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]: **8%** base chance (Rare Bonus).
-- From <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]: **6%** base chance (Rare Bonus).
-- From <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]: **6%** base chance (Rare Bonus).
-- From <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]: **5%** base chance (Rare Bonus).
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/electronic_lab|Electronic Store - Lab]] | 9.1% |
-| [[Biomes/hidden_vault|Hidden Vault]] | 4.4% |
-| [[Biomes/industrial|Industrial Zone]] | 1.1% |
-| [[Biomes/ruined_city|Ruined City]] | 0.9% |
-
-## Technical Information
-- **Asset ID**: `circuit_boards`
-- **Asset Path**: `items/circuit_board.png`
+## 🔍 Where to Find
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 17.8% Success Chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 5.9% Success Chance
+- **[[Biomes/industrial|Industrial Zone]]**: 2.9% Success Chance
+- **[[Biomes/ruined_city|Ruined City]]**: 1.9% Success Chance

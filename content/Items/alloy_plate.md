@@ -2,30 +2,24 @@
 title: "Alloy Plate"
 ---
 
-# Alloy Plate
+# Item: [[Items/alloy_plate|Alloy Plate]]
 
 ![[assets/items/alloy_plate.png|150]]
 
+## Description
+Precision-forged industrial plating produced by powered Industrial facilities. While heavy, it serves as a formidable weapon in the wasteland.
 
-### Core Properties
-- **Rarity**: rare
-- **Category**: Material
-- **Description**: Precision-forged industrial plating produced by powered Industrial facilities.
+## ⚔️ Combat Stats
+- **Category**: Weapon
+- **Monster Damage**: **3** (kills 3 monsters per hit)
+- **Break Chance**: **12%**
+- **Requirement**: **[[Skills/field_engineering|Field Engineering]] Lvl 1**
 
-## Usage
-- Material used in various recipes.
+## 🏗️ Construction Usage
+Alloy Plates are high-grade materials used in advanced town infrastructure.
 
-## Skill Requirements
-- [[Skills/field_engineering|Field Engineering]] Level 1
+(Currently not used in any base constructions)
 
-
-
-## Obtained From Fabrication
-This item can be produced via the **[[Mechanisms/facility_fabrication|Fabricate]]** action.
-- **Facility**: [[Biomes/industrial|Industrial Zone]]
-- **Requirement**: Requires [[Skills/field_engineering|Field Engineering]] Level 1
-- **Note**: The fabrication completes at Midnight and the item appears on the ground at the facility tile.
-
-## Technical Information
-- **Asset ID**: `alloy_plate`
-- **Asset Path**: `items/alloy_plate.png`
+## 🛠️ How to Obtain
+- **Fabrication**: Can be fabricated at a powered **[[Biomes/industrial|Industrial Zone]]**.
+- **Scavenging**: (None) - Alloy Plates must be manufactured.

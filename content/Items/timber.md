@@ -2,37 +2,26 @@
 title: "Raw Timber"
 ---
 
-# Raw Timber
+# Item: [[Items/timber|Raw Timber]]
 
 ![[assets/items/timber.png|150]]
 
-
-### Core Properties
-- **Rarity**: common
-- **Category**: Material
-- **Description**: 
+## Description
+Post-collapse lumber harvested from mutated forests. Essential for basic framing and organic facility expansion.
 
 ## Usage
-- Building [[Base/constructions|Hydroponic Patch]]
-- Building [[Base/constructions|Watchtower]]
-- Building [[Base/constructions|Well]]
+### 🏗️ Construction
+- **[[Base/constructions#Watchtower|Watchtower]]**: 2 Timber
+- **[[Base/constructions#Hydroponic Patch|Hydroponic Patch]]**: 2 Timber
+- **[[Base/constructions#Well|Well]]**: 2 Timber
 
 ## Obtained From Deconstruction
-> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[Skills/salvage|Salvage]]** skill level.
+- <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/worn_leather_pack|Worn Leather Pack]]: **40%** yield.
 
-- From <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/worn_leather_pack|Worn Leather Pack]]: **40%** base chance.
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/forest|Forest]] | 19.0% |
-| [[Biomes/desert|Desert - Sand]] | 6.2% |
-| [[Biomes/farm_facility|Human Farm Facility]] | 6.0% |
-| [[Biomes/oasis|Oasis]] | 4.3% |
-| [[Biomes/mountain|Mountain - Quarry]] | 3.3% |
-| [[Biomes/ruined_city|Ruined City]] | 1.9% |
-| [[Biomes/industrial|Industrial Zone]] | 0.5% |
-
-## Technical Information
-- **Asset ID**: `timber`
-- **Asset Path**: `items/timber.png`
+## 🔍 Where to Find
+- **[[Biomes/forest|Forest]]**: 19.0% Success Chance
+- **[[Biomes/desert|Desert / Sand]]**: 4.8% Success Chance
+- **[[Biomes/farm_facility|Human Farm Facility]]**: 6.0% Success Chance
+- **[[Biomes/ruined_city|Ruined City]]**: 3.6% Success Chance
+- **[[Biomes/mountain|Mountain / Quarry]]**: 2.4% Success Chance
+- **[[Biomes/oasis|Oasis]]**: 2.4% Success Chance

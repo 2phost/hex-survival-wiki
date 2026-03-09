@@ -1,37 +1,60 @@
 ---
-title: "Constructions"
+title: "Base Constructions"
 ---
 
-# Base: Constructions
+# Base: [[Base/constructions|Constructions]]
 
-Base constructions are specialized projects that provide town-wide benefits. These are built using the shared resources from the **Town Bank**.
+Constructing facilities at the **[[Base/overview|Base]]** is essential for long-term survival. These buildings provide resources, technological unlocks, and defense against the nightly siege.
 
-## Basic Infrastructure
-These are the fundamental building blocks of the town grid.
+## 📦 Resource Production & Utility
+These facilities provide a steady stream of survival vitals or tactical data to the Town Bank at **[[Mechanisms/midnight_cycle|Midnight]]**.
 
-## Utility & Navigation
-These structures help the town find resources and explore more efficiently.
-
-| Structure | Requirements | Effect |
+| Facility | Requirements | Effect / Daily Output |
 | :--- | :--- | :--- |
-| **Watchtower** | 2 <img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/timber|Raw Timber]], 2 <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/stone|Hardened Stone]] | Reveals headings of world objectives. |
-| **Scrap Workshop** | 1 <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]], 2 <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | -25% Search AP cost within 1 hex of base. |
-| **Signal Booster (Radar)** | 1 <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]], 1 <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | Reveals nearest High Value Loot hex every morning. |
+| **[[Base/constructions#Hydroponic Patch|Hydroponic Patch]]** | 2 Timber, 1 Stone, 1 Scrap | Produces **Rations** and **Salad** |
+| **[[Base/constructions#Well|Well]]** | 2 Timber, 3 Stone | Produces **10 Water** |
+| **[[Base/constructions#Signal Booster|Signal Booster (Radar)]]** | 1 Scrap, 1 Circuit Board | Reveals nearest High Value Loot hex |
+| **[[Base/constructions#Scrap Workshop|Scrap Workshop]]** | 1 Scrap, 2 Circuit Boards | -25% Search AP cost within 1 hex of base |
+| **[[Base/constructions#Watchtower|Watchtower]]** | 2 Timber, 2 Stone | Reveals direction of active world threats |
 
-## Resource Production
-These structures automate the collection of vital resources at **[[Mechanisms/midnight_cycle|Midnight]]**.
+## 🛡️ Defensive Upgrades
+Crucial for surviving the **[[Mechanisms/monster_hordes|Town Siege]]**. Each upgrade contributes to the town's **Defense Strength**.
 
-| Structure | Requirements | Effect |
+| Upgrade | Requirements | Defense Bonus / Effect |
 | :--- | :--- | :--- |
-| **Well** | 2 <img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/timber|Raw Timber]], 3 <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/stone|Hardened Stone]] | Produces **10 Water** daily. |
-| **Hydroponic Patch** | 2 <img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/timber|Raw Timber]], 1 <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/stone|Hardened Stone]], 1 <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] | Produces rations and fresh salad daily. |
-| **Fuel Refinery** | 3 <img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/chemical_sludge|Chemical Sludge]], 3 <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]], 2 <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/stone|Hardened Stone]] | Converts salvaged chemicals into stable fuel for town generators. |
+| **[[Base/constructions#Barbed Wire|Barbed Wire]]** | 2 Scrap Metal | +1 Defense; Slows enemies by 1 hex |
+| **[[Base/constructions#Reinforced Bulkhead|Reinforced Bulkhead]]** | 1 Scrap, 3 Stone | +3 Defense; Blocks breaches for 2 turns |
+| **[[Base/constructions#Automated Sentry|Automated Sentry]]** | 2 Scrap, 1 Circuit Board | +5 Defense; Fires 10 ammo per night |
 
-## Town Defense
-Defensive structures protect the town during the **[[Mechanisms/midnight_cycle|Nightly Siege]]**.
+## ⚙️ Technology & Power
+Unlocks advanced crafting and reduces resource consumption.
 
-| Structure | Requirements | Effect |
+| Facility | Requirements | Effect |
 | :--- | :--- | :--- |
-| **Barbed Wire Perimeter** | 2 <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] | Slows enemy movement by 1 hex; minor chip damage. |
-| **Reinforced Steel Bulkhead**| 1 <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]], 3 <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/stone|Hardened Stone]] | Massive HP boost; small enemies cannot breach for 2 turns. |
-| **Automated Sentry** | 2 <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]], 1 <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | Fires at nearest enemy during Nightly Siege. Ammo: 10/night. |
+| **[[Base/constructions#Solar Panels|Solar Panels]]** | 2 Solar Cell, 1 Circuit, 2 Copper, 1 Scrap | Reduces daily base power drain by **10%** |
+| **[[Base/constructions#Research Lab|Research Lab]]** | 4 Scrap Metal | Enables research projects and data processing |
+| **[[Base/constructions#Research Lab II|Research Lab II]]** | 60 Scrap Metal | +20% research speed, +1 research slot |
+| **[[Base/constructions#Battery Storage|Battery Storage]]** | 3 Car Battery, 4 Copper, 2 Scrap | **+20%** Max Town Power Capacity |
+| **[[Base/constructions#Fuel Refinery|Fuel Refinery]]** | 3 Chemical Sludge, 3 Scrap, 2 Stone | Converts chemicals into stable fuel |
+| **[[Base/constructions#Beacon Amplifier|Beacon Amplifier]]** | 3 Circuit, 3 Copper, 2 Scrap | Improves movement efficiency in darkness |
+| **[[Items/power_pole|Power Pole]]** | 1 Copper Wiring, 1 Scrap Metal | Extends power grid and provides 0-hex light |
+
+---
+
+### Facility Details
+
+#### Hydroponic Patch
+![[assets/builds/hydroponic_patch.png|200]]
+The cornerstone of town food security.
+
+#### Well
+![[assets/builds/well.png|200]]
+The primary source of clean water.
+
+#### Automated Sentry
+![[assets/builds/sentry_turret.png|200]]
+Automated defense system that targets marching hordes.
+
+#### Watchtower
+![[assets/builds/watchtower.png|200]]
+Provides early warning for incoming hordes and world events.

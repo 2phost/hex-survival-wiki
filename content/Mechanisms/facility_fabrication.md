@@ -13,6 +13,13 @@ title: "Facility Fabrication"
 3. **Midnight Completion**: The item is processed throughout the day. At **[[Mechanisms/midnight_cycle|Midnight]]**, the fabrication finishes.
 4. **Retrieve Item**: The completed item appears **on the ground** at the facility tile. It is not automatically banked.
 
+## Operational Rules
+- **AP Cost**: Starting a fabrication costs **0 AP**.
+- **Power Cost**: Each active fabrication project increases the town's **daily power drain by 20%** until it completes at Midnight.
+- **One Per Tile**: Only one fabrication project can be active on a single hex at any given time.
+- **Global Concurrent Production**: A town can have multiple fabrications active simultaneously across the map.
+- **Persistence**: Projects persist through the Midnight cycle as long as the town has power. **Note**: If town power reaches **0%**, the current town session ends.
+
 ## Fabrication Locations & Products
 
 ### [[Biomes/farm_facility|Human Farm Facility]]
@@ -32,10 +39,3 @@ title: "Facility Fabrication"
 - **Products**:
     - <img src="../assets/items/logic_core.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/logic_core|Logic Core]] (Requires Lvl 2)
     - <img src="../assets/items/signal_emitter.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/signal_emitter|Signal Emitter]] (Requires Lvl 3)
-
-## Operational Rules
-- **One Per Tile**: Only one fabrication project can be active on a single hex at any given time.
-- **Global Concurrent Production**: A town can have multiple fabrications active simultaneously across the map.
-- **AP Cost**: Starting a fabrication costs **0 AP**.
-- **Power Cost**: Each active fabrication project increases the town's **daily power drain by 20%** until it completes at Midnight.
-- **Persistence**: Projects persist through the Midnight cycle as long as the town has power. **Note**: If town power reaches **0%**, the current town session ends.

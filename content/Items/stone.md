@@ -2,40 +2,29 @@
 title: "Hardened Stone"
 ---
 
-# Hardened Stone
+# Item: [[Items/stone|Hardened Stone]]
 
 ![[assets/items/stone.png|150]]
 
-
-### Core Properties
-- **Rarity**: common
-- **Category**: Material
-- **Description**: 
+## Description
+Solid mineral blocks used for heavy-duty reinforcement and foundational infrastructure.
 
 ## Usage
-- Building [[Base/constructions|Fuel Refinery]]
-- Building [[Base/constructions|Hydroponic Patch]]
-- Building [[Base/constructions|Reinforced Steel Bulkhead]]
-- Building [[Base/constructions|Watchtower]]
-- Building [[Base/constructions|Well]]
+### 🏗️ Construction
+Hardened Stone is vital for high-HP and resource-producing structures.
+- **[[Base/constructions#Reinforced Bulkhead|Reinforced Steel Bulkhead]]**: 3 Stone
+- **[[Base/constructions#Well|Well]]**: 3 Stone
+- **[[Base/constructions#Watchtower|Watchtower]]**: 2 Stone
+- **[[Base/constructions#Fuel Refinery|Fuel Refinery]]**: 2 Stone
+- **[[Base/constructions#Hydroponic Patch|Hydroponic Patch]]**: 1 Stone
 
 ## Obtained From Deconstruction
-> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[Skills/salvage|Salvage]]** skill level.
+- <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rusty_tool|Rusty Tool]]: **20%** yield.
 
-- From <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rusty_tool|Rusty Tool]]: **20%** base chance.
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/mountain|Mountain - Quarry]] | 29.6% |
-| [[Biomes/desert|Desert - Sand]] | 21.8% |
-| [[Biomes/farm_facility|Human Farm Facility]] | 3.3% |
-| [[Biomes/hidden_vault|Hidden Vault]] | 3.1% |
-| [[Biomes/industrial|Industrial Zone]] | 2.5% |
-| [[Biomes/forest|Forest]] | 2.4% |
-| [[Biomes/oasis|Oasis]] | 2.2% |
-| [[Biomes/ruined_city|Ruined City]] | 1.9% |
-
-## Technical Information
-- **Asset ID**: `stone`
-- **Asset Path**: `items/stone.png`
+## 🔍 Where to Find
+- **[[Biomes/mountain|Mountain / Quarry]]**: 21.4% Success Chance
+- **[[Biomes/desert|Desert / Sand]]**: 16.6% Success Chance
+- **[[Biomes/ruined_city|Ruined City]]**: 3.6% Success Chance
+- **[[Biomes/farm_facility|Human Farm Facility]]**: 3.3% Success Chance
+- **[[Biomes/forest|Forest]]**: 2.4% Success Chance
+- **[[Biomes/oasis|Oasis]]**: 1.2% Success Chance

@@ -2,32 +2,22 @@
 title: "Gasoline Generator (empty)"
 ---
 
-# Gasoline Generator (empty)
+# Item: [[Items/gasoline_generator_empty|Gasoline Generator (empty)]]
 
 ![[assets/items/gasoline_generator.png|150]]
 
-
-### Core Properties
-- **Rarity**: common
-- **Category**: Material
-- **Description**: 
+## Description
+A pre-collapse portable generator. It is missing its fuel source and cannot currently provide power.
 
 ## Usage
-- Crafting <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
+### 🛠️ Crafting
+- **[[Items/gasoline_generator|Gasoline Generator]]**: 1 Empty Generator
 
 ## Obtained From Deconstruction
-> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[Skills/salvage|Salvage]]** skill level.
+- <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]: **50%** yield.
 
-- From <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]: **50%** base chance.
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/hidden_vault|Hidden Vault]] | 8.2% |
-| [[Biomes/electronic_lab|Electronic Store - Lab]] | 2.7% |
-| [[Biomes/industrial|Industrial Zone]] | 2.0% |
-| [[Biomes/ruined_city|Ruined City]] | 1.3% |
-
-## Technical Information
-- **Asset ID**: `gasoline_generator_empty`
-- **Asset Path**: `items/gasoline_generator.png`
+## 🔍 Where to Find
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 9.5% Success Chance
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 4.8% Success Chance
+- **[[Biomes/industrial|Industrial Zone]]**: 4.8% Success Chance
+- **[[Biomes/ruined_city|Ruined City]]**: 2.4% Success Chance

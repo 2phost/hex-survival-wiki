@@ -1,52 +1,25 @@
----
-title: "Wiki"
----
+# Hex Survival Documentation
 
-# Hex Survival Wiki
+Comprehensive documentation for Hex Survival, a collaborative persistent-world survival game.
 
-Welcome to the premium Hex Survival documentation. This wiki is organized into logical clusters to help you survive the darkness.
+## Current State: Monster Siege Update (Mar 9, 2026)
+The latest update introduces organized **Monster Hordes**, **Town Sieges**, and a complete **Combat Skill Tree**. Players must now balance resource gathering with active defense of the town's perimeter.
 
-## 🧭 Directory Structure
+### Key Features
+- **Power Grid Strategy**: Build Power Pole "highways" to create safe corridors through the darkness.
+- **Collaborative Logistics**: Shared Town Bank for construction, refueling, and material sharing.
+- **Real-Time Progression**: Skills train in real-time over hours, days, and weeks.
+- **Lethal Darkness**: 0-hex light radius and a multi-stage **Fear System** make every step into the unknown a strategic risk.
+- **Nightly Heartbeat**: The **Midnight Cycle** processes vital drains, resource production, and monster movements.
 
-### 🩸 [[Vitals/index|Vitals]]
-Manage your Hunger, Thirst, Fear, and Action Points.
+## Documentation Structure
+- `/Mechanisms`: Core game rules, scavenging logic, and the Power Grid.
+- `/Vitals`: Status bar management (Hunger, Thirst, Fear, AP).
+- `/Skills`: Character specializations and training paths.
+- `/Items`: Complete directory of all items and deconstruction yields.
+- `/Biomes`: Detailed breakdown of every tile type and loot tables.
+- `/Base`: Management of the central hub and infrastructure upgrades.
+- `/Guides`: Survival tactics and getting started.
 
-### 🏋️ [[Skills/index|Skills]]
-Permanent character specializations and real-time progression.
-
-### 🏗️ [[Base/index|Base Guide]]
-Overview of the Base tile, resource banking, and infrastructure upgrades.
-
-### 🗺️ [[Biomes/index|Biome Index]]
-Detailed breakdown of every tile type and their loot tables.
-
-### 📦 [[Items/index|Item Directory]]
-Complete list of all items, their stats, and usage.
-
-### ⚙️ [[Mechanisms/verification_list|Core Mechanisms]]
-The technical rules of the game:
-- [[Mechanisms/midnight_cycle|Midnight Cycle]]
-- [[Mechanisms/power_grid|Power Grid]]
-- [[Mechanisms/scavenging_logic|Scavenging Logic]]
-- [[Mechanisms/facility_fabrication|Facility Fabrication]]
-- [[Mechanisms/exploration_logic|Exploration Logic]]
-- [[Mechanisms/expedition_objectives|Expedition Objectives]]
-- [[Mechanisms/multiplayer_and_death|Multiplayer & Death]]
-- [[Mechanisms/shortcuts|Keyboard Shortcuts]]
-- [[Mechanisms/chat_system|Chat System]]
-- [[Mechanisms/user_interface|User Interface]]
-- [[Mechanisms/patch_notes|Patch Notes]]
-
-### 💡 [[Ideas/strategic_suggestions|Guides & Strategy]]
-- [[Guides/getting_started|Getting Started Guide]]
-- [[Ideas/strategic_suggestions|Strategic Suggestions]]
-- [[Ideas/dev_feedback_suggestions|Tester Feedback & Suggestions]]
-- [[Ideas/new_items|New Item Ideas]]
-- [[Ideas/new_skills|New Skill Ideas]]
-- [[Ideas/new_constructions|New Construction Ideas]]
-- [[Ideas/new_combinations|New Combination Ideas]]
-
----
-
-## 🛠️ Verification Status
-Stay updated on confirmed vs. unverified mechanics in the **[[Mechanisms/verification_list|Verification List]]**.
+## Wiki Access
+For the best reading experience, use the [Hex Survival Wiki](https://2phost.github.io/hex-survival-wiki/) (Quartz).

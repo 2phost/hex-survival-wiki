@@ -2,44 +2,31 @@
 title: "Glowing Mushroom"
 ---
 
-# Glowing Mushroom
+# Item: [[Items/glowing_mushroom|Glowing Mushroom]]
 
 ![[assets/items/glowing_mushroom.png|150]]
 
-
-### Core Properties
-- **Rarity**: common
-- **Category**: Consumable
-- **Description**: 
+## Description
+A bio-luminescent fungus that thrives in damp, dark environments. It provides a small amount of light and can be used as a primitive survival food.
 
 ## Usage
-- Consume to restore 10 hunger and restore 1 AP.
-- Crafting <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]
+### 🛠️ Crafting
+- **[[Items/glowing_bottle|Glowing Bottle]]**: 1 Glowing Mushroom
 
-## Consumable Stats
-- **Hunger**: -10
-- **Thirst**: 0
-- **AP**: 1
-
+### 🍎 Consumption
+- **Hunger**: +10
+- **Action Points**: +1 AP
 
 ## Obtained From Deconstruction
-> **Note**: Retrieval chance is affected by the source item's yield probability and your **[[Skills/salvage|Salvage]]** skill level.
+- <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]: **30%** yield.
+- <img src="../assets/items/mutant_seed_pod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/mutant_seed_pod|Mutant Seed Pod]]: **15%** yield.
+- <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/worn_leather_pack|Worn Leather Pack]]: **5%** yield (Rare Bonus).
 
-- From <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]: **30%** base chance.
-- From <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/worn_leather_pack|Worn Leather Pack]]: **5%** base chance (Rare Bonus).
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/oasis|Oasis]] | 15.1% |
-| [[Biomes/forest|Forest]] | 13.1% |
-| [[Biomes/hidden_vault|Hidden Vault]] | 9.2% |
-| [[Biomes/mountain|Mountain - Quarry]] | 6.6% |
-| [[Biomes/desert|Desert - Sand]] | 2.5% |
-| [[Biomes/ruined_city|Ruined City]] | 2.3% |
-| [[Biomes/electronic_lab|Electronic Store - Lab]] | 2.2% |
-| [[Biomes/industrial|Industrial Zone]] | 1.4% |
-
-## Technical Information
-- **Asset ID**: `glowing_mushroom`
-- **Asset Path**: `items/glowing_mushroom.png`
+## 🔍 Where to Find
+- **[[Biomes/forest|Forest]]**: 13.1% Success Chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 10.7% Success Chance
+- **[[Biomes/oasis|Oasis]]**: 8.3% Success Chance
+- **[[Biomes/mountain|Mountain / Quarry]]**: 4.8% Success Chance
+- **[[Biomes/ruined_city|Ruined City]]**: 4.3% Success Chance
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 3.8% Success Chance
+- **[[Biomes/desert|Desert / Sand]]**: 1.9% Success Chance

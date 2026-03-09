@@ -2,33 +2,31 @@
 title: "Midnight Cycle"
 ---
 
-# Mechanism: Midnight Cycle
+# Mechanism: [[Mechanisms/midnight_cycle|Midnight Cycle]]
 
-The **Midnight Cycle** is the heartbeat of Hex Survival, triggering resource consumption, production, and the defensive siege.
+The **[[Mechanisms/midnight_cycle|Midnight Cycle]]** is the game's primary heartbeat. At exactly midnight, the server processes all global changes, resets specific player stats, and calculates the town's survival.
 
-## 1. The Real-Time Clock
-Hex Survival operates on a real-time 24-hour countdown.
-- **Midnight Transition**: When the countdown reaches zero, the day transitions, and the town's survival state is calculated.
+## 1. The Survival Toll
+The most critical part of the cycle is the survival check.
+- **[[Vitals/hunger|Hunger]] Drain**: Every player loses **40% (4 bars)** of their hunger.
+- **[[Vitals/thirst|Thirst]] Drain**: Every player loses **40% (4 bars)** of their thirst.
 
-## 2. Survival Toll
-At the transition, all active players suffer a significant reduction in their **[[Vitals/index|Vitals]]**:
-- **[[Vitals/hunger|Hunger]]**: -40%.
-- **[[Vitals/thirst|Thirst]]**: -40%.
-- **Lamp Expiration**: If a mobile light source (like a **[[Items/starter_lamp|Starter Lamp]]**) reaches 0 days during this transition while the player is in darkness, their **[[Vitals/fear|Fear]]** will begin to rise rapidly. If the Fear meter fills completely (3 bars), they are **"Consumed by Darkness."**
+## 2. Monster Activity
+The darkness becomes active at midnight:
+- **Horde Spawning**: Corrupted tiles may spawn new monster hordes.
+- **Horde Progression**: Marching hordes move **one hex closer** to the town base.
+- **World Damage**: Hordes consume ground loot and destroy **[[Items/power_pole|Power Poles]]** on tiles they enter.
+- **Horde Gathering**: Newly spawned hordes spend one night in place before marching.
 
-## 3. Town Power Drain
-The town's total energy reserve is reduced based on:
-- **Base Consumption**: Passive drain for the Base tile.
-- **[[Mechanisms/power_grid|Power Grid]] Size**: Each active **[[Items/power_pole|Power Pole]]** adds to the daily drain.
-- **Active Fabrication**: Each active project at a facility increases total drain by **20%**.
-- **Offsets**: **[[Base/upgrades|Solar Panels]]** reduce this total drain by 10%.
+## 3. Town Siege & Defense
+The final check of the night is the town's security:
+- **Attack Calculation**: All hordes on the base tile contribute to the total **Attack Strength**.
+- **Defense Check**: If **Attack Strength > Town Defense**, the town is overrun and the game instance ends for all players.
 
-## 4. Resource Production
-Automated facilities produce resources at this point:
-- **[[Base/constructions|Well]]**: Produces 10 water.
-- **[[Base/constructions|Hydroponic Patch]]**: Produces rations and salad.
-- **Facility Production**: Any active **Fabrication** projects (set at **[[Biomes/farm_facility|Human Farm Facility]]**, **[[Biomes/industrial|Industrial Zone]]**, or **[[Biomes/electronic_lab|Electronic Store - Lab]]**) are completed. The resulting items appear on the ground at their respective facility tiles.
+## 4. Production & Logistics
+- **Facility Yields**: Resources from the **[[Base/constructions|Well]]** and **[[Base/constructions|Hydroponic Patch]]** are added to the Town Bank.
+- **[[Mechanisms/facility_fabrication|Fabrication Completion]]**: Any items currently being fabricated on specific tiles (like Industrial or Electronics) are produced and placed on the ground at that tile.
+- **Power Drain**: Daily town power drain is deducted from the generator.
 
-## 5. The Nightly Siege
-Midnight triggers a defensive phase where enemies attempt to breach the town perimeter. (Exact breach consequences are being verified; see [[Mechanisms/inferred_mechanics|Inferred Mechanics]]).
-- **Defense**: **[[Base/constructions|Automated Sentries]]** and bulkheads activate to protect the town.
+## 5. Global Scaling
+- **Spawn Bonus**: The global monster spawn bonus increases every night, ensuring that newly spawned hordes are larger and more dangerous over time.

@@ -2,31 +2,23 @@
 title: "Car Battery"
 ---
 
-# Car Battery
+# Item: [[Items/car_battery|Car Battery]]
 
 ![[assets/items/car_battery.png|150]]
 
-
-### Core Properties
-- **Rarity**: common
-- **Category**: Material
-- **Description**: Heavy lead-acid battery salvaged from old vehicles. Useful for expanding town power storage.
+## Description
+Heavy lead-acid battery salvaged from old vehicles. Useful for expanding town power storage.
 
 ## Usage
-- Building [[Base/upgrades|Battery Storage]]
+### 🏗️ Construction
+- **[[Base/constructions#Battery Storage|Battery Storage]]**: 3 Car Batteries
 
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/ruined_city|Ruined City]] | 5.1% |
-| [[Biomes/desert|Desert - Sand]] | 3.7% |
-| [[Biomes/industrial|Industrial Zone]] | 3.5% |
-| [[Biomes/farm_facility|Human Farm Facility]] | 1.4% |
-| [[Biomes/electronic_lab|Electronic Store - Lab]] | 1.1% |
-| [[Biomes/mountain|Mountain - Quarry]] | 1.0% |
-| [[Biomes/forest|Forest]] | 1.0% |
-| [[Biomes/hidden_vault|Hidden Vault]] | 0.8% |
-
-## Technical Information
-- **Asset ID**: `car_battery`
-- **Asset Path**: `items/car_battery.png`
+## 🔍 Where to Find
+- **[[Biomes/ruined_city|Ruined City]]**: 9.5% Success Chance
+- **[[Biomes/industrial|Industrial Zone]]**: 8.3% Success Chance
+- **[[Biomes/desert|Desert / Sand]]**: 2.9% Success Chance
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 1.9% Success Chance
+- **[[Biomes/farm_facility|Human Farm Facility]]**: 1.4% Success Chance
+- **[[Biomes/forest|Forest]]**: 1.0% Success Chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.0% Success Chance
+- **[[Biomes/mountain|Mountain / Quarry]]**: 0.7% Success Chance
