@@ -1,4 +1,4 @@
----
+--- 
 title: "Rusty Tool"
 ---
 
@@ -6,26 +6,14 @@ title: "Rusty Tool"
 
 ![[assets/items/rusty_tool.png|150]]
 
-## Description
-A corroded metal tool salvaged from the ruins. It is the most basic improvised weapon available to survivors.
+Corroded metal tool. Can be broken down for raw materials. Weapon: deals 1 monster damage per use with 35% break chance.
 
-## ⚔️ Combat Stats
-For detailed combat rules, see **[[Mechanisms/combat_and_defense|Combat & Defense]]**.
-- **Category**: Weapon
-- **Monster Damage**: **1** (kills 1 monster per hit)
-- **Break Chance**: **35%**
-- **Requirement**: None
+## Where to Find
+- **[[Biomes/ruined_city|Ruined City]]** (7.1%)
+- **[[Biomes/industrial|Industrial Zone]]** (5.9%)
+- **[[Biomes/desert|Desert / Sand]]** (2.9%)
+- **[[Biomes/forest|Forest]]** (1.9%)
 
-## 🛠️ Salvage Yield
-Can be deconstructed for raw materials (Requires **[[Skills/salvage|Salvage]] Lvl 1**).
-
-| Primary Yield (60%) | Rare Bonus (20%) |
-| :--- | :--- |
-| **[[Items/scrap_metal|Scrap Metal]]** | **[[Items/stone|Hardened Stone]]** |
-
-## 🔍 Where to Find
-Found in high quantities within urban and industrial ruins.
-- **[[Biomes/ruined_city|Ruined City]]**: 30% Success Chance
-- **[[Biomes/industrial|Industrial Zone]]**: 25% Success Chance
-- **[[Biomes/desert|Desert]]**: 12% Success Chance
-- **[[Biomes/forest|Forest]]**: 8% Success Chance
+## Technical Information
+- **Asset ID**: `rusty_tool`
+- **Asset Path**: `items/rusty_tool.png`

@@ -1,38 +1,29 @@
----
+--- 
 title: "Stim Injector"
 ---
 
-# Stim Injector
+# Item: [[Items/stim_injector|Stim Injector]]
 
 ![[assets/items/stim_injector.png|150]]
 
+Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Increases hunger and thirst.
 
-### Core Properties
-- **Rarity**: rare
-- **Category**: Consumable
-- **Description**: Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Increases hunger and thirst.
-
-## Usage
-- Consume to add 10 hunger penalty and add 10 thirst penalty and restore 4 AP.
-
-## Consumable Stats
+### Consumable Stats
 - **Hunger**: 10
 - **Thirst**: 10
 - **AP**: 4
 
-## Skill Requirements
-- [[Skills/stim_conditioning|Stim Conditioning]] Level 2
+### Requirements
+- **Skill**: [[Skills/stim_usage|Stim Conditioning]] (Level 2)
 
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/electronic_lab|Electronic Store - Lab]] | 1.4% |
-| [[Biomes/hidden_vault|Hidden Vault]] | 1.2% |
-| [[Biomes/industrial|Industrial Zone]] | 0.9% |
-| [[Biomes/ruined_city|Ruined City]] | 0.8% |
-| [[Biomes/forest|Forest]] | 0.4% |
-| [[Biomes/mountain|Mountain - Quarry]] | 0.3% |
-| [[Biomes/desert|Desert - Sand]] | 0.3% |
+## Where to Find
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (2.9%)
+- **[[Biomes/industrial|Industrial Zone]]** (2.4%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (1.7%)
+- **[[Biomes/ruined_city|Ruined City]]** (1.7%)
+- **[[Biomes/forest|Forest]]** (0.5%)
+- **[[Biomes/desert|Desert / Sand]]** (0.2%)
+- **[[Biomes/mountain|Mountain / Quarry]]** (0.2%)
 
 ## Technical Information
 - **Asset ID**: `stim_injector`

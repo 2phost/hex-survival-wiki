@@ -9,7 +9,7 @@ Welcome to the town, survivor. You've joined a collaborative effort to keep the 
 ## 1. New Player Priorities (The First Hour)
 Your survival depends on these three immediate actions:
 1. **Check Your [[Vitals/index|Vitals]]**: Look at your Hunger and Thirst. If they are low, find food or water immediately.
-2. **Start a [[Skills/index|Skill]]**: Go to the **Skills** menu and start training **[[Skills/ap_capacity|AP Capacity]] Lvl 1** or **[[Skills/stim_conditioning|Stim Conditioning]] Lvl 1**. 
+2. **Start a [[Skills/index|Skill]]**: Go to the **Skills** menu and start training **[[Skills/ap_capacity|AP Capacity]] Lvl 1**. 
     - **Cost**: **0 AP** to start.
     - **Duration**: **1 Hour** (Real-time).
 3. **Scout for Resources**: Move to an adjacent hex (**1 AP**) and click **Scavenge** (**0 AP**) to start your first hourly loot roll.
@@ -26,18 +26,18 @@ The "Darkness" in this world is lethal.
 ## 3. Managing Your Vitals
 You have four status bars: **[[Vitals/hunger|Hunger]]**, **[[Vitals/thirst|Thirst]]**, **[[Vitals/fear|Fear]]**, and **[[Vitals/action_points|Action Points]] (AP)**.
 - **Find Water and Rations**: Head to an **[[Biomes/oasis|Oasis]]** or the **[[Biomes/farm_facility|Human Farm Facility]]** early on to stockpile resources.
-- **Consuming Items**: Use **Right-Click** in your inventory to drink water or eat rations. **Basic food and water restore +1 AP.**
+- **Consuming Items**: Use the inventory menu to drink water or eat rations. **Basic food and water restore +1 AP.**
 - **AP Management**: Every movement costs 1 AP. **Scavenging is free.** If you run out, set your activity to **Resting** to recover **1 AP per hour**.
 
-## 4. Your First Expedition
-Check the **[[Mechanisms/expedition_objectives|Expedition Objectives]]** (top of the screen).
-- **Emergency Stockpile**: Look for **[[Items/battery|Batteries]]** and deposit them at the **Base**. This helps the whole town get resources at midnight.
-- **Corrupted Relays**: If these aren't disabled (requires 2 AP), search chances town-wide will drop significantly.
+## 4. Expanding Your Inventory
+You start with only **5 slots**. To carry more, you must craft specialized gear:
+- **[[Items/salvager_pack|Salvager Pack]]**: Increases capacity by **+2 slots**.
+- **[[Skills/pack_mule|Pack Mule Skill]]**: Increases capacity by **+1 slot per level**.
 
-## 5. Scavenging and Inventory
-- **Hex Scavenging**: Click on your current hex to start scavenging. It is free to start/stop.
-- **Limited Space**: You only have **5 slots** initially. Prioritize high-value items like Copper Wiring and Scrap Metal.
-- **Items on the Ground**: You can leave things on the floor, but beware visual clutter in crowded areas.
+## 5. Your First Expedition
+Check the **[[Mechanisms/expedition_objectives|Expedition Objectives]]** (top of the screen).
+- **Cargo Drones**: If you find a **[[Items/drone|Cargo Drone]]**, you can send 4 items back to base instantly (requires **[[Skills/drone_operator|Drone Operator Lvl 2]]**).
+- **Corrupted Relays**: If these aren't disabled (requires 2 AP), search chances town-wide will drop significantly.
 
 ## 6. Building Infrastructure and Power
 Once you have **1 Copper Wiring** and **1 Scrap Metal**, use the **Inventory -> Recipes** menu to craft a **[[Items/power_pole|Power Pole]]**.

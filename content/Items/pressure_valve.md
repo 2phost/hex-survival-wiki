@@ -1,4 +1,4 @@
----
+--- 
 title: "Pressure Valve"
 ---
 
@@ -6,15 +6,17 @@ title: "Pressure Valve"
 
 ![[assets/items/pressure_valve.png|150]]
 
-## Description
 Industrial-grade valve body from old steam and fuel networks.
 
-## Usage
-- **Construction**: None
-- **Salvage**: Can be deconstructed for **[[Items/scrap_metal|Scrap Metal]]** (40% yield).
+## Where to Find
+- **[[Biomes/industrial|Industrial Zone]]** (10.0%)
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (3.8%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (2.9%)
+- **[[Biomes/ruined_city|Ruined City]]** (2.9%)
+- **[[Biomes/farm_facility|Human Farm Facility]]** (1.9%)
+- **[[Biomes/desert|Desert / Sand]]** (0.5%)
+- **[[Biomes/mountain|Mountain / Quarry]]** (0.5%)
 
-## 🔍 Where to Find
-- **[[Biomes/industrial|Industrial Zone]]**: 10.0% Success Chance
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 3.8% Success Chance
-- **[[Biomes/ruined_city|Ruined City]]**: 2.9% Success Chance
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.9% Success Chance
+## Technical Information
+- **Asset ID**: `pressure_valve`
+- **Asset Path**: `items/pressure_valve.png`

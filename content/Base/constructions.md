@@ -17,8 +17,24 @@ These facilities provide a steady stream of survival vitals or tactical data to 
 | **[[Base/constructions#Scrap Workshop|Scrap Workshop]]** | 1 Scrap, 2 Circuit Boards | -25% Search AP cost within 1 hex of base |
 | **[[Base/constructions#Watchtower|Watchtower]]** | 2 Timber, 2 Stone | Reveals direction of active world threats |
 
-## 🛡️ Defensive Upgrades
-Crucial for surviving the **[[Mechanisms/monster_hordes|Town Siege]]**. Each upgrade contributes to the town's **Defense Strength**. See **[[Mechanisms/combat_and_defense|Combat & Defense]]** for technical math.
+## 🛡️ Defensive Upgrades (Primary Progression)
+
+| Upgrade | Requirements | Defense Bonus / Effect |
+| :--- | :--- | :--- |
+| [[Base/constructions#SpikeTrench|Spike Trench]] | 3 Raw Timber, 2 Hardened Stone, 2 Fortified Rebar | +3 Defense; A shallow anti-rush trench lined with spikes to blunt early night assaults. |
+| [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]] | 4 Scrap Metal, 3 Quarry Bolts, 1 Resin Sealant | +5 Defense; Interlocked scrap wall sections that create a sturdier first defense ring. |
+| [[Base/constructions#PalisadeWall|Timber Palisade Wall]] | 6 Raw Timber, 4 Hardened Stone, 3 Fortified Rebar, 2 Resin Sealant | +7 Defense; Raised timber palisades that force monsters into narrower attack lanes. |
+| [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]] | 2 Battery, 3 Copper Wiring, 2 Quarry Bolts, 1 Signal Emitter | +9 Defense; Floodlights expose approaching hordes and improve turret reaction speed. |
+| [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]] | 2 Alloy Plate, 2 Targeting Relay, 1 Hardened Actuator, 3 Scrap Metal | +12 Defense; Semi-automated launcher nests rain bolts into clustered attackers. |
+| [[Base/constructions#ShockFenceGrid|Shock Fence Grid]] | 6 Copper Wiring, 2 Shock Capacitor, 1 Threat Sensor Array, 2 Bio Spike Pod | +15 Defense; Electrified perimeter fence that staggers large waves and slows breaches. |
+| [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]] | 5 Alloy Plate, 3 Ceramic Armor Tile, 2 Hardened Actuator, 2 Hydraulic Piston | +18 Defense; Heavy impact gate capable of absorbing direct monster charges. |
+| [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]] | 2 Logic Core, 2 Threat Sensor Array, 2 Targeting Relay, 3 Micro Fuse | +22 Defense; Defensive EW net that confuses monster pathing and improves interception. |
+| [[Base/constructions#CounterbatteryArray|Counterbattery Array]] | 3 Signal Emitter, 3 Shock Capacitor, 2 Hardened Actuator, 2 Capacitor Bank | +26 Defense; Automated strike batteries preempt incoming hordes before wall contact. |
+| [[Base/constructions#CitadelAegis|Citadel Aegis Core]] | 3 Threat Sensor Array, 3 Shock Capacitor, 3 Targeting Relay, 2 Logic Core, 1 Ancient Relic | +32 Defense; Integrated command-and-defense core that turns the base into a hardened citadel. |
+
+
+## 🛡️ Secondary Defensive Upgrades
+Individual tactical upgrades that can be built independently.
 
 | Upgrade | Requirements | Defense Bonus / Effect |
 | :--- | :--- | :--- |

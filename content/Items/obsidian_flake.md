@@ -1,4 +1,4 @@
----
+--- 
 title: "Obsidian Flake"
 ---
 
@@ -6,15 +6,17 @@ title: "Obsidian Flake"
 
 ![[assets/items/obsidian_flake.png|150]]
 
-## Description
 Sharp volcanic glass pieces ideal for improvised cutting tools.
 
-## Usage
-- **Construction**: None
-- **Salvage**: None (No deconstruction yields currently confirmed).
+## Where to Find
+- **[[Biomes/mountain|Mountain / Quarry]]** (6.2%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (2.4%)
+- **[[Biomes/desert|Desert / Sand]]** (1.9%)
+- **[[Biomes/industrial|Industrial Zone]]** (1.0%)
+- **[[Biomes/ruined_city|Ruined City]]** (1.0%)
+- **[[Biomes/forest|Forest]]** (0.5%)
+- **[[Biomes/oasis|Oasis]]** (0.5%)
 
-## 🔍 Where to Find
-- **[[Biomes/mountain|Mountain / Quarry]]**: 6.2% Success Chance
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.4% Success Chance
-- **[[Biomes/desert|Desert / Sand]]**: 1.9% Success Chance
-- **[[Biomes/forest|Forest]]**: 0.5% Success Chance
+## Technical Information
+- **Asset ID**: `obsidian_flake`
+- **Asset Path**: `items/obsidian_flake.png`

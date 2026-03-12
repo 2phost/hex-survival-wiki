@@ -1,34 +1,21 @@
----
+--- 
 title: "Biofuel Cell"
 ---
 
-# Biofuel Cell
+# Item: [[Items/biofuel_cell|Biofuel Cell]]
 
 ![[assets/items/biofuel_cell.png|150]]
 
+Refined high-density biofuel cell. Refills 40% town power and requires Generator Operations II.
 
-### Core Properties
-- **Rarity**: rare
-- **Category**: Fuel
-- **Description**: Refined high-density biofuel cell. Refills 40% town power and requires Generator Operations II.
+### Requirements
+- **Skill**: [[Skills/generator_operations|Generator Operations]] (Level 2)
 
-## Usage
-- Refill Town Power at the Base (40%).
-- Refilling Town Power at the [[Base/management|Town Bank]].
-
-## Power/Fuel Stats
-- **Power Refill**: +40%
-
-## Skill Requirements
-- [[Skills/generator_operations|Generator Operations]] Level 2
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/forest|Forest]] | 1.8% |
-| [[Biomes/industrial|Industrial Zone]] | 1.5% |
-| [[Biomes/hidden_vault|Hidden Vault]] | 1.4% |
-| [[Biomes/electronic_lab|Electronic Store - Lab]] | 1.2% |
+## Where to Find
+- **[[Biomes/industrial|Industrial Zone]]** (3.8%)
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (2.4%)
+- **[[Biomes/forest|Forest]]** (1.9%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (1.9%)
 
 ## Technical Information
 - **Asset ID**: `biofuel_cell`

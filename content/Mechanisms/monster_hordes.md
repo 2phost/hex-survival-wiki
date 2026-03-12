@@ -31,7 +31,6 @@ For detailed rules on how to engage hordes and town defense math, see the **[[Me
 Players can engage hordes by moving onto their hex and selecting the **Attack Monsters** action.
 - **Weapon Damage**: Each point of weapon damage converts directly into 1 monster kill.
 - **Weapon Durability**: Weapons have a chance to break with each use.
-- **AP Cost**: (Testing) Confirm the AP cost for the "Attack Monsters" action.
 
 ### Town Sieges
 If a horde reaches the **[[Base/overview|Base]]** tile, it contributes its total count to the nightly **Attack Strength**.

@@ -1,4 +1,4 @@
----
+--- 
 title: "Copper Wiring"
 ---
 
@@ -6,37 +6,44 @@ title: "Copper Wiring"
 
 ![[assets/items/copper_wiring.png|150]]
 
-## Description
-Electrical wiring for connecting solar panels to the grid and transmitting power between poles.
+Electrical wiring for connecting solar panels to the grid.
+
+## Where to Find
+- **[[Biomes/industrial|Industrial Zone]]** (10.7%)
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (9.5%)
+- **[[Biomes/ruined_city|Ruined City]]** (7.1%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (4.8%)
+- **[[Biomes/farm_facility|Human Farm Facility]]** (4.3%)
+- **[[Biomes/mountain|Mountain / Quarry]]** (2.4%)
+- **[[Biomes/desert|Desert / Sand]]** (1.2%)
+- **[[Biomes/forest|Forest]]** (1.2%)
 
 ## Usage
-### 🏗️ Construction
-- **[[Base/constructions#Battery Storage|Battery Storage]]**: 4 Wiring
-- **[[Base/constructions#Beacon Amplifier|Beacon Amplifier]]**: 3 Wiring
-- **[[Base/constructions#Solar Panels|Solar Panels]]**: 2 Wiring
-- **[[Items/power_pole|Power Pole]]**: 1 Wiring
+### Crafting
+- Used to craft [[Items/solar_cell|Solar Cell]]
+- Used to craft [[Items/power_pole|Power Pole]]
+- Used to craft [[Items/expedition_pack|Expedition Pack]]
+- Used to craft [[Items/hauler_pack|Hauler Pack]]
 
-### 🛠️ Crafting
-- **[[Items/solar_cell|Solar Cell]]**: 2 Wiring
-- **[[Items/power_pole|Power Pole]]**: 1 Wiring
+### Construction
+- Required for [[Base/constructions#SolarPanels|Solar Panels]]
+- Required for [[Base/constructions#BatteryBank|Battery Storage]]
+- Required for [[Base/constructions#BeaconAmplifier|Beacon Amplifier]]
+- Required for [[Base/constructions#PowerPole|Power Pole]]
+- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
+- Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
 
-## Obtained From Deconstruction
-- <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]: **50%** yield.
-- <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole|Power Pole]]: **50%** yield.
-- <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]: **50%** yield.
-- <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/burnt_motor|Burnt-Out Motor]]: **40%** yield.
-- <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]: **30%** yield.
-- <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]: **30%** yield.
-- <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]: **30%** yield.
-- <img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_empty|Lamp (empty)]]: **20%** yield.
-- <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]: **5%** yield (Rare Bonus).
+### Salvage Yield
+- Obtained by salvaging [[Items/lamp_empty|Lamp (empty)]]
+- Obtained by salvaging [[Items/lamp_functioning|Functioning Lamp]]
+- Obtained by salvaging [[Items/gasoline_generator|Gasoline Generator]]
+- Obtained by salvaging [[Items/solar_cell|Solar Cell]]
+- Obtained by salvaging [[Items/power_pole|Power Pole]]
+- Obtained by salvaging [[Items/broken_radio|Broken Radio]]
+- Obtained by salvaging [[Items/burnt_motor|Burnt-Out Motor]]
+- Obtained by salvaging [[Items/ruined_generator_parts|Ruined Generator Parts]]
+- Obtained by salvaging [[Items/damaged_solar_panel|Damaged Solar Panel]]
 
-## 🔍 Where to Find
-- **[[Biomes/industrial|Industrial Zone]]**: 10.7% Success Chance
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 9.5% Success Chance
-- **[[Biomes/ruined_city|Ruined City]]**: 7.1% Success Chance
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 4.8% Success Chance
-- **[[Biomes/farm_facility|Human Farm Facility]]**: 4.3% Success Chance
-- **[[Biomes/mountain|Mountain / Quarry]]**: 2.4% Success Chance
-- **[[Biomes/desert|Desert / Sand]]**: 1.2% Success Chance
-- **[[Biomes/forest|Forest]]**: 1.2% Success Chance
+## Technical Information
+- **Asset ID**: `copper_wiring`
+- **Asset Path**: `items/copper_wiring.png`

@@ -31,3 +31,7 @@ When fuel items are in the **Town Bank**, a **"Refuel"** button appears in the B
 
 ## 3. Power Consumption
 The Base menu also displays **"Night Use"**, which indicates the predicted town-wide power drain during the **[[Mechanisms/midnight_cycle|Midnight]]** transition. This drain is increased by expansion of the grid and active **[[Mechanisms/facility_fabrication|Fabrication]]** projects (+20% each). Keeping the town's power level above this number is the primary survival objective. **If town power hits 0%, the town instance ends.**
+
+## 4. Town Defenses
+The Town Bank also fuels the construction of the primary defense ring. Each upgrade increases the town's **Defense Value**, reducing the severity of nightly monster breaches.
+- **Primary Ring**: Progression starts at the **[[Base/constructions#Spike Trench|Spike Trench]]** and culminates in the **[[Base/constructions#Citadel Aegis|Citadel Aegis Core]]**.

@@ -1,24 +1,17 @@
----
+--- 
 title: "Ancient Relic"
 ---
 
-# Ancient Relic
+# Item: [[Items/ancient_relic|Ancient Relic]]
 
 ![[assets/items/ancient_relic.png|150]]
 
-
-### Core Properties
-- **Rarity**: mythic
-- **Category**: Material
-- **Description**: 
+## Where to Find
+- **[[Biomes/hidden_vault|Hidden Vault]]** (23.8%)
 
 ## Usage
-- Material used in various recipes.
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/hidden_vault|Hidden Vault]] | 10.0% |
+### Construction
+- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
 
 ## Technical Information
 - **Asset ID**: `ancient_relic`

@@ -1,4 +1,4 @@
----
+--- 
 title: "Raw Timber"
 ---
 
@@ -6,22 +6,26 @@ title: "Raw Timber"
 
 ![[assets/items/timber.png|150]]
 
-## Description
-Post-collapse lumber harvested from mutated forests. Essential for basic framing and organic facility expansion.
+## Where to Find
+- **[[Biomes/forest|Forest]]** (19.0%)
+- **[[Biomes/farm_facility|Human Farm Facility]]** (5.9%)
+- **[[Biomes/desert|Desert / Sand]]** (4.8%)
+- **[[Biomes/ruined_city|Ruined City]]** (3.6%)
+- **[[Biomes/mountain|Mountain / Quarry]]** (2.4%)
+- **[[Biomes/oasis|Oasis]]** (2.4%)
+- **[[Biomes/industrial|Industrial Zone]]** (1.2%)
 
 ## Usage
-### 🏗️ Construction
-- **[[Base/constructions#Watchtower|Watchtower]]**: 2 Timber
-- **[[Base/constructions#Hydroponic Patch|Hydroponic Patch]]**: 2 Timber
-- **[[Base/constructions#Well|Well]]**: 2 Timber
+### Construction
+- Required for [[Base/constructions#Watchtower|Watchtower]]
+- Required for [[Base/constructions#HydroponicPatch|Hydroponic Patch]]
+- Required for [[Base/constructions#Well|Well]]
+- Required for [[Base/constructions#SpikeTrench|Spike Trench]]
+- Required for [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
 
-## Obtained From Deconstruction
-- <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/worn_leather_pack|Worn Leather Pack]]: **40%** yield.
+### Salvage Yield
+- Obtained by salvaging [[Items/worn_leather_pack|Worn Leather Pack]]
 
-## 🔍 Where to Find
-- **[[Biomes/forest|Forest]]**: 19.0% Success Chance
-- **[[Biomes/desert|Desert / Sand]]**: 4.8% Success Chance
-- **[[Biomes/farm_facility|Human Farm Facility]]**: 6.0% Success Chance
-- **[[Biomes/ruined_city|Ruined City]]**: 3.6% Success Chance
-- **[[Biomes/mountain|Mountain / Quarry]]**: 2.4% Success Chance
-- **[[Biomes/oasis|Oasis]]**: 2.4% Success Chance
+## Technical Information
+- **Asset ID**: `timber`
+- **Asset Path**: `items/timber.png`

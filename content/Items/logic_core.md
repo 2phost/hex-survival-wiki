@@ -1,30 +1,23 @@
----
+--- 
 title: "Logic Core"
 ---
 
-# Logic Core
+# Item: [[Items/logic_core|Logic Core]]
 
 ![[assets/items/logic_core.png|150]]
 
+Programmable electronics core produced by powered Electronic Labs.
 
-### Core Properties
-- **Rarity**: rare
-- **Category**: Material
-- **Description**: Programmable electronics core produced by powered Electronic Store - Labs.
+### Requirements
+- **Skill**: [[Skills/field_engineering|Field Engineering]] (Level 2)
+
+## Where to Find
+- *Cannot be found in the wilderness (Crafting/Production only).*
 
 ## Usage
-- Material used in various recipes.
-
-## Skill Requirements
-- [[Skills/field_engineering|Field Engineering]] Level 2
-
-
-
-## Obtained From Fabrication
-This item can be produced via the **[[Mechanisms/facility_fabrication|Fabricate]]** action.
-- **Facility**: [[Biomes/electronic_lab|Electronic Store - Lab]]
-- **Requirement**: Requires [[Skills/field_engineering|Field Engineering]] Level 2
-- **Note**: The fabrication completes at Midnight and the item appears on the ground at the facility tile.
+### Construction
+- Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
+- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
 
 ## Technical Information
 - **Asset ID**: `logic_core`

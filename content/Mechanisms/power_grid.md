@@ -9,7 +9,6 @@ The Power Grid is the network of light and energy that keeps the town alive.
 ## [[Items/power_pole|Power Poles]]
 - **Function**: Places a relay pole on your current tile.
 - **Requirement**: 1 Copper Wiring,  scrap metal.
-- **Connectivity**: (Testing) Connectivity requirements are currently under verification. See **[[Mechanisms/inferred_mechanics|Inferred Mechanics]]**.
 - **Light Range**: A powered pole illuminates only the **current tile (0-hex radius)**.
 
 ## Grid Maintenance

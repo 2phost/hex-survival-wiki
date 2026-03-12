@@ -1,31 +1,17 @@
----
+--- 
 title: "Empty Canister"
 ---
 
-# Empty Canister
+# Item: [[Items/empty_canister|Empty Canister]]
 
 ![[assets/items/empty_canister.png|150]]
 
+Dented fuel container. Scrap metal at best.
 
-### Core Properties
-- **Rarity**: common
-- **Category**: Junk
-- **Description**: Dented fuel container. Scrap metal at best.
-
-## Usage
-- Deconstruct at Base for materials.
-
-## Deconstruction Yields
-> **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[Skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.
-
-- **Primary Yields**: <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (50%)
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/industrial|Industrial Zone]] | 4.5% |
-| [[Biomes/ruined_city|Ruined City]] | 3.2% |
-| [[Biomes/desert|Desert - Sand]] | 3.1% |
+## Where to Find
+- **[[Biomes/industrial|Industrial Zone]]** (10.7%)
+- **[[Biomes/ruined_city|Ruined City]]** (5.9%)
+- **[[Biomes/desert|Desert / Sand]]** (2.4%)
 
 ## Technical Information
 - **Asset ID**: `empty_canister`

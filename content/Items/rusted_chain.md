@@ -1,4 +1,4 @@
----
+--- 
 title: "Rusted Chain"
 ---
 
@@ -6,15 +6,24 @@ title: "Rusted Chain"
 
 ![[assets/items/rusted_chain.png|150]]
 
-## Description
 Corroded chain links salvaged from gates, cranes, and fences.
 
-## Usage
-- **Construction**: None
-- **Salvage**: Can be deconstructed for **[[Items/scrap_metal|Scrap Metal]]** (30% yield).
+## Where to Find
+- **[[Biomes/industrial|Industrial Zone]]** (10.7%)
+- **[[Biomes/ruined_city|Ruined City]]** (7.6%)
+- **[[Biomes/farm_facility|Human Farm Facility]]** (3.3%)
+- **[[Biomes/desert|Desert / Sand]]** (2.4%)
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (2.4%)
+- **[[Biomes/mountain|Mountain / Quarry]]** (1.9%)
+- **[[Biomes/forest|Forest]]** (1.4%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (1.4%)
 
-## 🔍 Where to Find
-- **[[Biomes/industrial|Industrial Zone]]**: 10.7% Success Chance
-- **[[Biomes/ruined_city|Ruined City]]**: 7.6% Success Chance
-- **[[Biomes/farm_facility|Human Farm Facility]]**: 3.3% Success Chance
-- **[[Biomes/desert|Desert / Sand]]**: 2.4% Success Chance
+## Usage
+### Crafting
+- Used to craft [[Items/salvager_pack|Salvager Pack]]
+- Used to craft [[Items/expedition_pack|Expedition Pack]]
+- Used to craft [[Items/hauler_pack|Hauler Pack]]
+
+## Technical Information
+- **Asset ID**: `rusted_chain`
+- **Asset Path**: `items/rusted_chain.png`

@@ -1,4 +1,4 @@
----
+--- 
 title: "Burnt-Out Motor"
 ---
 
@@ -6,26 +6,13 @@ title: "Burnt-Out Motor"
 
 ![[assets/items/burnt_motor.png|150]]
 
-## Description
-A seized motor housing from pre-collapse machinery. Its heavy weight makes it a decent bludgeoning tool.
+Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster damage per use with 22% break chance.
 
-## ⚔️ Combat Stats
-For detailed combat rules, see **[[Mechanisms/combat_and_defense|Combat & Defense]]**.
-- **Category**: Weapon
-- **Monster Damage**: **2** (kills 2 monsters per hit)
-- **Break Chance**: **22%**
-- **Requirement**: None
+## Where to Find
+- **[[Biomes/industrial|Industrial Zone]]** (9.5%)
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (5.9%)
+- **[[Biomes/ruined_city|Ruined City]]** (3.6%)
 
-## 🛠️ Salvage Yield
-Can be deconstructed for mechanical parts (Requires **[[Skills/salvage|Salvage]] Lvl 1**).
-
-| Primary Yield | Rare Bonus |
-| :--- | :--- |
-| **[[Items/scrap_metal|Scrap Metal]]** (50%) | **[[Items/chemical_sludge|Chemical Sludge]]** (8%) |
-| **[[Items/copper_wiring|Copper Wiring]]** (40%) | |
-
-## 🔍 Where to Find
-Primarily located in zones with heavy machinery.
-- **[[Biomes/industrial|Industrial Zone]]**: 40% Success Chance
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 25% Success Chance
-- **[[Biomes/ruined_city|Ruined City]]**: 15% Success Chance
+## Technical Information
+- **Asset ID**: `burnt_motor`
+- **Asset Path**: `items/burnt_motor.png`

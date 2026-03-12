@@ -1,4 +1,4 @@
----
+--- 
 title: "Ceramic Shards"
 ---
 
@@ -6,15 +6,24 @@ title: "Ceramic Shards"
 
 ![[assets/items/ceramic_shards.png|150]]
 
-## Description
 Broken insulation and cookware fragments from pre-collapse ruins.
 
-## Usage
-- **Construction**: None
-- **Crafting**: None
+## Where to Find
+- **[[Biomes/ruined_city|Ruined City]]** (9.0%)
+- **[[Biomes/mountain|Mountain / Quarry]]** (4.8%)
+- **[[Biomes/desert|Desert / Sand]]** (4.3%)
+- **[[Biomes/farm_facility|Human Farm Facility]]** (3.8%)
+- **[[Biomes/industrial|Industrial Zone]]** (3.3%)
+- **[[Biomes/forest|Forest]]** (2.4%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (1.9%)
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (1.2%)
+- **[[Biomes/oasis|Oasis]]** (1.0%)
 
-## 🔍 Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 9.0% Success Chance
-- **[[Biomes/mountain|Mountain / Quarry]]**: 4.8% Success Chance
-- **[[Biomes/desert|Desert / Sand]]**: 4.3% Success Chance
-- **[[Biomes/farm_facility|Human Farm Facility]]**: 3.8% Success Chance
+## Usage
+### Crafting
+- Used to craft [[Items/expedition_pack|Expedition Pack]]
+- Used to craft [[Items/hauler_pack|Hauler Pack]]
+
+## Technical Information
+- **Asset ID**: `ceramic_shards`
+- **Asset Path**: `items/ceramic_shards.png`

@@ -1,4 +1,4 @@
----
+--- 
 title: "Capacitor Bank"
 ---
 
@@ -6,15 +6,18 @@ title: "Capacitor Bank"
 
 ![[assets/items/capacitor_bank.png|150]]
 
-## Description
 Clustered charge capacitors suitable for energy buffering projects.
 
-## Usage
-- **Construction**: None
-- **Salvage**: Can be deconstructed for **[[Items/circuit_boards|Circuit Boards]]** (20% yield).
+## Where to Find
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (10.0%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (5.7%)
+- **[[Biomes/industrial|Industrial Zone]]** (4.8%)
+- **[[Biomes/ruined_city|Ruined City]]** (2.4%)
 
-## 🔍 Where to Find
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 10.0% Success Chance
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 5.7% Success Chance
-- **[[Biomes/industrial|Industrial Zone]]**: 4.8% Success Chance
-- **[[Biomes/ruined_city|Ruined City]]**: 2.4% Success Chance
+## Usage
+### Construction
+- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+
+## Technical Information
+- **Asset ID**: `capacitor_bank`
+- **Asset Path**: `items/capacitor_bank.png`

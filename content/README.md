@@ -2,8 +2,8 @@
 
 Comprehensive documentation for Hex Survival, a collaborative persistent-world survival game.
 
-## Current State: Monster Siege Update (Mar 9, 2026)
-The latest update introduces organized **Monster Hordes**, **Town Sieges**, and a complete **Combat Skill Tree**. Players must now balance resource gathering with active defense of the town's perimeter.
+## Current State: Logistics & Defense Update (Mar 12, 2026)
+The latest update introduces **Cargo Drone Logistics**, craftable **Backpack Tiers**, and a massive expansion to **Base Defenses**. Players must now balance resource gathering with active defense of the town's perimeter.
 
 ### Key Features
 - **Power Grid Strategy**: Build Power Pole "highways" to create safe corridors through the darkness.

@@ -1,32 +1,17 @@
----
+--- 
 title: "Damaged Solar Panel"
 ---
 
-# Damaged Solar Panel
+# Item: [[Items/damaged_solar_panel|Damaged Solar Panel]]
 
 ![[assets/items/damaged_solar_panel.png|150]]
 
+Cracked photovoltaic array. Some cells might still function.
 
-### Core Properties
-- **Rarity**: rare
-- **Category**: Junk
-- **Description**: Cracked photovoltaic array. Some cells might still function.
-
-## Usage
-- Deconstruct at Base for <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]] and electrical components.
-
-## Deconstruction Yields
-> **Note**: Yields are probabilistic. Each material is rolled independently; at low **[[Skills/salvage|Salvage]]** levels, failing to retrieve any materials is possible.
-
-- **Primary Yields**: <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]] (30%), <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/copper_wiring|Copper Wiring]] (50%), <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (30%)
-- **Rare Yields**: <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] (8%)
-
-## Biome Probabilities (Absolute %)
-| Biome | % Per Hour |
-| :--- | :--- |
-| [[Biomes/desert|Desert - Sand]] | 7.2% |
-| [[Biomes/electronic_lab|Electronic Store - Lab]] | 3.6% |
-| [[Biomes/industrial|Industrial Zone]] | 1.4% |
+## Where to Find
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (7.1%)
+- **[[Biomes/desert|Desert / Sand]]** (5.9%)
+- **[[Biomes/industrial|Industrial Zone]]** (3.6%)
 
 ## Technical Information
 - **Asset ID**: `damaged_solar_panel`

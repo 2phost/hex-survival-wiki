@@ -1,4 +1,4 @@
----
+--- 
 title: "Cracked Lens"
 ---
 
@@ -6,17 +6,17 @@ title: "Cracked Lens"
 
 ![[assets/items/cracked_lens.png|150]]
 
-## Description
-A damaged optical lens from a pre-collapse observation device.
+Optical glass from damaged equipment.
+
+## Where to Find
+- **[[Biomes/industrial|Industrial Zone]]** (8.3%)
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (5.9%)
+- **[[Biomes/ruined_city|Ruined City]]** (4.8%)
 
 ## Usage
-### 🛠️ Crafting
-- **[[Items/restored_binoculars|Restored Binoculars]]**: 1 Cracked Lens
+### Crafting
+- Used to craft [[Items/restored_binoculars|Restored Binoculars]]
 
-## Obtained From Deconstruction
-(None)
-
-## 🔍 Where to Find
-- **[[Biomes/industrial|Industrial Zone]]**: 8.3% Success Chance
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 5.9% Success Chance
-- **[[Biomes/ruined_city|Ruined City]]**: 4.8% Success Chance
+## Technical Information
+- **Asset ID**: `cracked_lens`
+- **Asset Path**: `items/cracked_lens.png`

@@ -1,30 +1,23 @@
----
+--- 
 title: "Signal Emitter"
 ---
 
-# Signal Emitter
+# Item: [[Items/signal_emitter|Signal Emitter]]
 
 ![[assets/items/signal_emitter.png|150]]
 
+Advanced transmission module produced by powered Electronic Labs.
 
-### Core Properties
-- **Rarity**: rare
-- **Category**: Material
-- **Description**: Advanced transmission module produced by powered Electronic Store - Labs.
+### Requirements
+- **Skill**: [[Skills/field_engineering|Field Engineering]] (Level 3)
+
+## Where to Find
+- *Cannot be found in the wilderness (Crafting/Production only).*
 
 ## Usage
-- Material used in various recipes.
-
-## Skill Requirements
-- [[Skills/field_engineering|Field Engineering]] Level 3
-
-
-
-## Obtained From Fabrication
-This item can be produced via the **[[Mechanisms/facility_fabrication|Fabricate]]** action.
-- **Facility**: [[Biomes/electronic_lab|Electronic Store - Lab]]
-- **Requirement**: Requires [[Skills/field_engineering|Field Engineering]] Level 3
-- **Note**: The fabrication completes at Midnight and the item appears on the ground at the facility tile.
+### Construction
+- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
+- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
 
 ## Technical Information
 - **Asset ID**: `signal_emitter`

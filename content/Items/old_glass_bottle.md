@@ -1,4 +1,4 @@
----
+--- 
 title: "Old Glass Bottle"
 ---
 
@@ -6,26 +6,27 @@ title: "Old Glass Bottle"
 
 ![[assets/items/old_glass_bottle.png|150]]
 
-## Description
-A dusty glass container salvaged from the ruins. Useful for improvised light sources and optical repairs.
+## Where to Find
+- **[[Biomes/ruined_city|Ruined City]]** (10.7%)
+- **[[Biomes/industrial|Industrial Zone]]** (9.5%)
+- **[[Biomes/farm_facility|Human Farm Facility]]** (6.2%)
+- **[[Biomes/forest|Forest]]** (5.9%)
+- **[[Biomes/desert|Desert / Sand]]** (4.8%)
+- **[[Biomes/oasis|Oasis]]** (4.8%)
+- **[[Biomes/mountain|Mountain / Quarry]]** (3.6%)
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (2.4%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (1.2%)
 
 ## Usage
-### 🛠️ Crafting
-- **[[Items/glowing_bottle|Glowing Bottle]]**: 1 Old Glass Bottle
-- **[[Items/restored_binoculars|Restored Binoculars]]**: 1 Old Glass Bottle
+### Crafting
+- Used to craft [[Items/glowing_bottle|Glowing Bottle]]
+- Used to craft [[Items/restored_binoculars|Restored Binoculars]]
 
-## Obtained From Deconstruction
-- <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]: **50%** yield.
-- <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cracked_lens|Cracked Lens]]: **50%** yield.
-- <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_binoculars|Broken Binoculars]]: **40%** yield.
-- <img src="../assets/items/cryo_flask.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cryo_flask|Cryo Flask]]: **40%** yield.
+### Salvage Yield
+- Obtained by salvaging [[Items/glowing_bottle|Glowing Bottle]]
+- Obtained by salvaging [[Items/cracked_lens|Cracked Lens]]
+- Obtained by salvaging [[Items/broken_binoculars|Broken Binoculars]]
 
-## 🔍 Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 10.7% Success Chance
-- **[[Biomes/industrial|Industrial Zone]]**: 9.5% Success Chance
-- **[[Biomes/farm_facility|Human Farm Facility]]**: 6.2% Success Chance
-- **[[Biomes/forest|Forest]]**: 5.9% Success Chance
-- **[[Biomes/desert|Desert / Sand]]**: 4.8% Success Chance
-- **[[Biomes/oasis|Oasis]]**: 4.8% Success Chance
-- **[[Biomes/mountain|Mountain / Quarry]]**: 3.6% Success Chance
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 2.4% Success Chance
+## Technical Information
+- **Asset ID**: `old_glass_bottle`
+- **Asset Path**: `items/old_glass_bottle.png`

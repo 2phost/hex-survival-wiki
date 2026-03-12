@@ -16,6 +16,7 @@ The primary interface for player actions is located at the bottom of the screen:
 ## Resource & Town Management
 - **Town Resource UI**: Adjusted to display a wider variety of shared town assets and materials.
 - **Base Management UI**: Enhanced layout for managing the Town Bank and construction projects.
+- **Upgrade Readability**: The Base Upgrade menu features improved spacing, vertical resource scrolling, clearer cost labels, and explicit build-effect descriptions.
 - **Tooltips**: Improved base panel tooltips that remain visible and stable while moving the pointer over items.
 
 ## Suggestions & Feedback Panel
@@ -31,3 +32,4 @@ The UI is context-sensitive. Specific buttons and actions unlock based on:
 
 ## Visual Handling
 - **Tile Overlays**: Improved handling for overflowing tile icons (e.g., large piles of loot or multiple monsters) to prevent visual bleeding into adjacent hexes.
+- **Monster Map Readability**: Monster markers feature increased texture size and reliable rendering. The UI prevents marker/count overlap with player icons, ensuring clear visibility during sieges.

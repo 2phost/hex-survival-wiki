@@ -1,4 +1,4 @@
----
+--- 
 title: "Lamp (empty)"
 ---
 
@@ -6,22 +6,23 @@ title: "Lamp (empty)"
 
 ![[assets/items/lamp_empty.png|150]]
 
-## Description
-A handheld lantern casing without a power source.
+## Where to Find
+- **[[Biomes/ruined_city|Ruined City]]** (10.7%)
+- **[[Biomes/industrial|Industrial Zone]]** (9.5%)
+- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (4.8%)
+- **[[Biomes/farm_facility|Human Farm Facility]]** (4.3%)
+- **[[Biomes/hidden_vault|Hidden Vault]]** (3.6%)
+- **[[Biomes/forest|Forest]]** (2.4%)
+- **[[Biomes/desert|Desert / Sand]]** (1.2%)
+- **[[Biomes/mountain|Mountain / Quarry]]** (1.2%)
 
 ## Usage
-### 🛠️ Crafting
-- **[[Items/lamp_functioning|Functioning Lamp]]**: 1 Empty Lamp
+### Crafting
+- Used to craft [[Items/lamp_functioning|Functioning Lamp]]
 
-## Obtained From Deconstruction
-- <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]: **60%** yield.
+### Salvage Yield
+- Obtained by salvaging [[Items/lamp_functioning|Functioning Lamp]]
 
-## 🔍 Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 10.7% Success Chance
-- **[[Biomes/industrial|Industrial Zone]]**: 9.5% Success Chance
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]**: 4.8% Success Chance
-- **[[Biomes/farm_facility|Human Farm Facility]]**: 4.3% Success Chance
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.6% Success Chance
-- **[[Biomes/forest|Forest]]**: 2.4% Success Chance
-- **[[Biomes/desert|Desert / Sand]]**: 1.2% Success Chance
-- **[[Biomes/mountain|Mountain / Quarry]]**: 1.2% Success Chance
+## Technical Information
+- **Asset ID**: `lamp_empty`
+- **Asset Path**: `items/lamp_empty.png`
