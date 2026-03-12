@@ -7,7 +7,7 @@ title: "Ancient Relic"
 ![[assets/items/ancient_relic.png|150]]
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]** (23.8%)
+- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (23.8%)
 
 ## Usage
 ### Construction

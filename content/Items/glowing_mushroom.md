@@ -11,14 +11,14 @@ title: "Glowing Mushroom"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]** (13.1%)
-- **[[Biomes/hidden_vault|Hidden Vault]]** (10.7%)
-- **[[Biomes/oasis|Oasis]]** (8.3%)
-- **[[Biomes/mountain|Mountain / Quarry]]** (4.8%)
-- **[[Biomes/ruined_city|Ruined City]]** (4.3%)
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (3.8%)
-- **[[Biomes/industrial|Industrial Zone]]** (3.3%)
-- **[[Biomes/desert|Desert / Sand]]** (1.9%)
+- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (13.1%)
+- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (10.7%)
+- **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (8.3%)
+- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (4.8%)
+- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (4.3%)
+- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (3.8%)
+- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (3.3%)
+- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (1.9%)
 
 ## Usage
 ### Crafting

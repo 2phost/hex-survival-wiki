@@ -7,14 +7,14 @@ title: "Hardened Stone"
 ![[assets/items/stone.png|150]]
 
 ## Where to Find
-- **[[Biomes/mountain|Mountain / Quarry]]** (21.4%)
-- **[[Biomes/desert|Desert / Sand]]** (16.6%)
-- **[[Biomes/industrial|Industrial Zone]]** (5.9%)
-- **[[Biomes/hidden_vault|Hidden Vault]]** (3.6%)
-- **[[Biomes/ruined_city|Ruined City]]** (3.6%)
-- **[[Biomes/farm_facility|Human Farm Facility]]** (3.3%)
-- **[[Biomes/forest|Forest]]** (2.4%)
-- **[[Biomes/oasis|Oasis]]** (1.2%)
+- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (21.4%)
+- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (16.6%)
+- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (5.9%)
+- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (3.6%)
+- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (3.6%)
+- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (3.3%)
+- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (2.4%)
+- **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (1.2%)
 
 ## Usage
 ### Construction

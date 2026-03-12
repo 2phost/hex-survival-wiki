@@ -16,9 +16,9 @@ A heavy-duty pack frame and stitched compartments built for long hauls. Increase
 * <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/copper_wiring|Copper Wiring]] (x2)
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]** (0.5%)
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (0.2%)
-- **[[Biomes/industrial|Industrial Zone]]** (0.2%)
+- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (0.5%)
+- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (0.2%)
+- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (0.2%)
 
 ## Usage
 ### Crafting

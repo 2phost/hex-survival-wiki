@@ -11,11 +11,11 @@ title: "Salad"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/farm_facility|Human Farm Facility]]** (10.7%)
-- **[[Biomes/forest|Forest]]** (1.9%)
-- **[[Biomes/oasis|Oasis]]** (1.9%)
-- **[[Biomes/ruined_city|Ruined City]]** (0.5%)
-- **[[Biomes/industrial|Industrial Zone]]** (0.2%)
+- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (10.7%)
+- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (1.9%)
+- **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (1.9%)
+- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (0.5%)
+- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (0.2%)
 
 ## Technical Information
 - **Asset ID**: `salad`

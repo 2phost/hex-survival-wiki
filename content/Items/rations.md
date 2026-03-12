@@ -11,14 +11,14 @@ title: "Rations"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/farm_facility|Human Farm Facility]]** (21.4%)
-- **[[Biomes/ruined_city|Ruined City]]** (4.8%)
-- **[[Biomes/forest|Forest]]** (1.9%)
-- **[[Biomes/industrial|Industrial Zone]]** (1.4%)
-- **[[Biomes/oasis|Oasis]]** (1.0%)
-- **[[Biomes/desert|Desert / Sand]]** (0.5%)
-- **[[Biomes/hidden_vault|Hidden Vault]]** (0.5%)
-- **[[Biomes/mountain|Mountain / Quarry]]** (0.2%)
+- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (21.4%)
+- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (4.8%)
+- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (1.9%)
+- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (1.4%)
+- **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (1.0%)
+- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (0.5%)
+- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (0.5%)
+- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (0.2%)
 
 ## Technical Information
 - **Asset ID**: `rations`

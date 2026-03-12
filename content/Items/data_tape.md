@@ -9,10 +9,10 @@ title: "Data Tape"
 Analog storage reels containing fragmentary technical records.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (8.1%)
-- **[[Biomes/hidden_vault|Hidden Vault]]** (5.2%)
-- **[[Biomes/industrial|Industrial Zone]]** (3.3%)
-- **[[Biomes/ruined_city|Ruined City]]** (1.9%)
+- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (8.1%)
+- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (5.2%)
+- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (3.3%)
+- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (1.9%)
 
 ## Technical Information
 - **Asset ID**: `data_tape`

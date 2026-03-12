@@ -7,10 +7,10 @@ title: "Gasoline Generator (empty)"
 ![[assets/items/gasoline_generator.png|150]]
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]** (9.5%)
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (4.8%)
-- **[[Biomes/industrial|Industrial Zone]]** (4.8%)
-- **[[Biomes/ruined_city|Ruined City]]** (2.4%)
+- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (9.5%)
+- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (4.8%)
+- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (4.8%)
+- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (2.4%)
 
 ## Usage
 ### Crafting

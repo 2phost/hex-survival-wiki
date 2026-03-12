@@ -12,8 +12,8 @@ Experimental pre-collapse fuel rod. Refills 60% town power and requires Generato
 - **Skill**: [[Skills/generator_operations|Generator Operations]] (Level 3)
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]** (3.3%)
-- **[[Biomes/electronic_lab|Electronic Store / Lab]]** (1.9%)
+- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (3.3%)
+- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (1.9%)
 
 ## Technical Information
 - **Asset ID**: `plasma_fuel_rod`
