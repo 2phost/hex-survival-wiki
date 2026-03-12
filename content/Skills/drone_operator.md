@@ -4,7 +4,7 @@ title: "Drone Operator"
 
 # Skill: [[Skills/drone_operator|Drone Operator]]
 
-![[assets/overlays/skill_drone.png|150]]
+![[assets/items/drone.png|150]]
 
 ## Description
 Operate autonomous cargo drones safely. This skill allows players to use **[[Items/drone|Cargo Drones]]** to send loot back to the base while remaining in the field.

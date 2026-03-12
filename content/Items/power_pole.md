@@ -4,7 +4,7 @@ title: "Power Pole"
 
 # Item: [[Items/power_pole|Power Pole]]
 
-![[assets/items/power_pole.png|150]]
+![[assets/builds/power_pole.png|150]]
 
 Deployable relay pole. Needed for the Place Pole action.
 

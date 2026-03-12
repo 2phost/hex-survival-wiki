@@ -2,7 +2,7 @@
 title: "Fear"
 ---
 
-# Mechanism: [[Mechanisms/fear|Fear]]
+# Mechanism: [[Vitals/fear|Fear]]
 
 ![[assets/overlays/fear.png|300]]
 
@@ -16,8 +16,8 @@ Fear is a psychological status system added on March 5, 2026. it tracks the ment
 
 ## Penalties
 Fear imposes significant penalties on player efficiency:
-- **[[Mechanisms/scavenging|Scavenging]] (Search)**: -10% success chance per Fear point (added to the base darkness penalty).
-- **[[Mechanisms/skills|Skill Checks]]**: -5% success chance per Fear point for all non-search skill checks.
+- **[[Mechanisms/scavenging_logic|Scavenging]] (Search)**: -10% success chance per Fear point (added to the base darkness penalty).
+- **[[Skills/index|Skill Checks]]**: -5% success chance per Fear point for all non-search skill checks.
 
 ## Fear Death
 The Fear meter consists of **3 bars**.

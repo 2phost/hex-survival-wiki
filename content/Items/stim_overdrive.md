@@ -14,7 +14,7 @@ Experimental overdrive dose that restores 6 AP. Any AP over your max is lost. Gr
 - **AP**: 6
 
 ### Requirements
-- **Skill**: [[Skills/stim_usage|Stim Conditioning]] (Level 3)
+- **Skill**: [[Skills/stim_conditioning|Stim Conditioning]] (Level 3)
 
 ## Where to Find
 - **[[Biomes/hidden_vault|Hidden Vault]]** (2.4%)

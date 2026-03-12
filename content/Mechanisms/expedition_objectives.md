@@ -15,14 +15,14 @@ title: "Expedition Objectives"
 ### 1. Story Event: Rapid Prototype Request (Medium)
 - **Context**: Effect Engineers request a live fabrication queue before assaulting the corrupted relay.
 - **Goal**: Set production on any **powered** Industrial, Electronic, or Farm facility.
-- **Reward**: +2 Research Material and +2 Scrap Metal in base stores at [[Mechanisms/time_and_power|Midnight]].
+- **Reward**: +2 Research Material and +2 Scrap Metal in base stores at [[Mechanisms/power_grid|Midnight]].
 
 ### 2. Threat: Corrupted Relay (Lvl 1) (High)
-- **Goal**: Reach the relay hex and spend **2 [[Mechanisms/action_points|AP]]** to disable it.
+- **Goal**: Reach the relay hex and spend **2 [[Vitals/action_points|AP]]** to disable it.
 - **Location**: Use the **[[Base/constructions|Watchtower]]** to reveal. (Example: Heading SW, Distance 2 hexes away).
 - **Penalty if Ignored**: 
     - **Immediate**: -12% Search Chance town-wide.
-    - **Escalation**: -16% Search Chance at next [[Mechanisms/time_and_power|Midnight]].
+    - **Escalation**: -16% Search Chance at next [[Mechanisms/power_grid|Midnight]].
 
 ## Objective Types
 
@@ -35,4 +35,4 @@ title: "Expedition Objectives"
 - **Penalty if Ignored**: Global negative effects that scale over time.
 - **Requirements**:
     - **Navigation**: **Requires [[Base/constructions|Watchtower]] to reveal headings.**
-    - **Action**: Spend [[Mechanisms/action_points|Action Points]] ([[Mechanisms/action_points|AP]]) to perform a specific task (e.g., "Disable").
+    - **Action**: Spend [[Vitals/action_points|Action Points]] ([[Vitals/action_points|AP]]) to perform a specific task (e.g., "Disable").

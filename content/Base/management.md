@@ -22,7 +22,7 @@ The top of the Base menu displays the town's current survival status via the **L
 
 ### Refueling Mechanics
 When fuel items are in the **Town Bank**, a **"Refuel"** button appears in the Base menu.
-- **Skill Requirement**: Requires the **[[Mechanisms/skills|Generator Operations]]** skill.
+- **Skill Requirement**: Requires the **[[Skills/index|Generator Operations]]** skill.
 - **Execution**: Clicking "Refuel" consumes the item from the Bank and restores town power immediately.
 - **Fuel Efficiency**:
     - **[[Items/gasoline_canister|Gasoline Canister]]**: +25% Power (Lvl 1).

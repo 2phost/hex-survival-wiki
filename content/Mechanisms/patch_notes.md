@@ -18,9 +18,13 @@ title: "Patch Notes"
 ---
 
 ## Monday, Mar 09, 2026: Monster Siege Update
-*   **Monster Horde System**: Corrupted tiles now spawn hordes that march toward the town.
-*   **Town Sieges**: Active defense is required to prevent town destruction at Midnight.
-*   **Combat Skill Tree**: New specializations for weapon maintenance and multi-kill strikes.
-*   **Weaponized Items**: Many industrial items can now be used as improvised weapons.
+*   **Monster Horde System**: **[[Biomes/corrupted_1|Corrupted Tiles]]** now act as active spawning grounds for organized monster hordes.
+    *   **Horde Life Cycle**: Hordes spawn at Midnight, spend one night **Gathering**, and then begin **Marching** (1 hex per night) directly toward the town.
+    *   **Environmental Damage**: Advancing hordes consume all ground loot and destroy any **[[Items/power_pole|Power Poles]]** in their path, severing loot highways.
+    *   **Escalation**: A global **Spawn Bonus** increases nightly, ensuring the threat grows in intensity over time.
+*   **Corrupted Relays**: Introduction of relay nodes that, if left corrupted, impose a severe **town-wide search penalty**. Disabling them requires 2 AP and coordinated effort.
+*   **Town Sieges**: Active defense is now mandatory. If a horde reaches the base, its strength is tested against the town's built defenses at Midnight.
+*   **Combat Skill Tree**: New specializations added: **[[Skills/weapon_maintenance|Weapon Maintenance]]**, **[[Skills/sweeping_strikes|Sweeping Strikes]]**, and **[[Skills/critical_hits|Critical Hits]]**.
+*   **Weaponized Items**: Industrial items like **[[Items/alloy_plate|Alloy Plates]]** and **[[Items/rusty_tool|Rusty Tools]]** can now be used as improvised weapons with unique damage and break stats.
 
 ---

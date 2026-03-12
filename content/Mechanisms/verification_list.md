@@ -11,7 +11,6 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Backpack Tiers**: Craftable backpacks (Salvager, Expedition, Hauler) increase inventory slot capacity.
 - **Base Defense Progression**: 10 sequential defense builds (Trench -> Citadel) with increasing defense bonuses.
 - **Facility Fabrication**: Confirmed fabrication of defense items at Farm, Industrial, and Lab tiles.
-- **Fabrication Power Drain**: Each active project adds **+20%** to the town's daily power drain.
 - **Monster Hordes**: Corrupted tiles spawn hordes; Gathering (1 night) -> Marching (1 hex/night toward town).
 - **Siege Rules**: Town overrun if **Attack Strength > Town Defense**.
 - **Combat Mechanics**: Weapon damage converts directly to kills. Weapons have a break chance.

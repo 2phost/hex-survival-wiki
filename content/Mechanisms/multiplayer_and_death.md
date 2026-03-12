@@ -22,4 +22,4 @@ Hex Survival is a collaborative game where players work together within a shared
 - **Player Scoring**: A first iteration of player scoring is active, with scores currently calculated upon death.
 - **Town Cycle**: Upon death, players do not necessarily restart the same instance.
 - **Joining New Towns**: After dying, the player joins a different town populated by other active survivors.
-- **Permanent Progression**: While a specific town run may end, "[[Mechanisms/skills|Skills]]" are permanent and carry over between towns.
+- **Permanent Progression**: While a specific town run may end, "[[Skills/index|Skills]]" are permanent and carry over between towns.

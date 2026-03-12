@@ -2,7 +2,7 @@
 title: "Scavenging & Loot Optimization"
 ---
 
-# Guide: [[Mechanisms/scavenging|Scavenging]] & Loot Optimization
+# Guide: [[Mechanisms/scavenging_logic|Scavenging]] & Loot Optimization
 
 Success in Hex Survival depends on knowing where to find what you need and how to extract the most value from every item.
 
@@ -20,7 +20,7 @@ Every hex belongs to a specific biome with its own specialized loot pool.
 | **[[Items/chemical_sludge|Chemical Sludge]]** | **[[Biomes/industrial|Industrial Zone]]** | Component for fuel refinery. **70% Chance.** |
 | **[[Items/ancient_relic|Ancient Relic]]**| **[[Biomes/hidden_vault|Hidden Vault]]** | **Mythic** artifact. **100% Chance.** |
 
-## 2. Advanced [[Mechanisms/skills|Salvage]] (Deconstruction)
+## 2. Advanced [[Skills/index|Salvage]] (Deconstruction)
 Items aren't just for use; they are a source of materials. With the **Salvage** skill, you can deconstruct items directly from your inventory.
 
 ### High-Value Deconstructions
@@ -32,8 +32,8 @@ Items aren't just for use; they are a source of materials. With the **Salvage** 
 Higher levels of the **Salvage** skill increase your chance for rare bonus yields (e.g., a **Logic Core** or **Alloy Plate**). Always have your specialized **Quartermaster** handle the deconstruction of rare items to maximize these rolls.
 
 ## 3. Scavenging Efficiency
-- **Search Chance**: The **[[Mechanisms/skills|Scavenger's Eye]]** skill adds +5% per level to your search success. At Lvl 5, your searches are 25% more likely to succeed.
-- **The [[Mechanisms/action_points|AP]] Cost**: While Searching itself is free (0 [[Mechanisms/action_points|AP]]), **Movement** is expensive (1 [[Mechanisms/action_points|AP]]). 
+- **Search Chance**: The **[[Skills/index|Scavenger's Eye]]** skill adds +5% per level to your search success. At Lvl 5, your searches are 25% more likely to succeed.
+- **The [[Vitals/action_points|AP]] Cost**: While Searching itself is free (0 [[Vitals/action_points|AP]]), **Movement** is expensive (1 [[Vitals/action_points|AP]]). 
 - **Strategy**: Don't move just to search. Use the "Highway" to travel quickly to a high-yield biome (like the [[Biomes/farm_facility|Human Farm Facility]]) and spend your time scavenging there.
-- **Inventory Buffer**: Use the **[[Mechanisms/skills|Pack Mule]]** skill (Lvl 3) to carry up to 8 items, reducing the number of return trips to the Base.
+- **Inventory Buffer**: Use the **[[Skills/index|Pack Mule]]** skill (Lvl 3) to carry up to 8 items, reducing the number of return trips to the Base.
 - **Bulk Scavenging**: Drop your low-value junk on the floor of the hex you're in and only carry high-tier materials back to the Base.

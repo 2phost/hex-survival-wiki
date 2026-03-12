@@ -2,56 +2,103 @@
 title: "Skills"
 ---
 
-# [[Skills/index|Skill Tree]]
+# Skill: [[Skills/index|Index]]
 
-Character progression in Hex Survival is handled through real-time skill training.
+Skills are permanent character specializations that progress in real-time. Training a skill does not consume AP.
 
+## 🔗 Skill Dependencies
 ```mermaid
-graph TD
-    AP[AP Capacity] -->|Lvl 2| RR[Rest Recovery]
-    AP -->|Lvl 1| SE[Scavenger's Eye]
-    AP -->|Lvl 1| PM[Pack Mule]
-    AP -->|Lvl 1| SC[Stim Conditioning]
-    AP -->|Lvl 1| WM[Weapon Maintenance]
-    
-    SE -->|Lvl 2| FE[Field Engineering]
-    SE -->|Lvl 1| SL[Salvage]
-    
-    FE -->|Lvl 1| GO[Generator Operations]
-    FE -->|Lvl 1| DO[Drone Operator]
-    
-    WM -->|Lvl 2| SS[Sweeping Strikes]
-    SS -->|Lvl 2| CH[Critical Hits]
+graph LR
+    subgraph S[Survival]
+        AP[AP Capacity]
+        SC[Stim Conditioning]
+        RR[Rest Recovery]
+    end
 
-    style AP fill:#f9f,stroke:#333,stroke-width:4px
-    style SE fill:#bbf,stroke:#333,stroke-width:2px
-    style FE fill:#bbf,stroke:#333,stroke-width:2px
-    style WM fill:#bfb,stroke:#333,stroke-width:2px
+    subgraph L[Logistics]
+        SE[Scavenger's Eye]
+        PM[Pack Mule]
+        SL[Salvage]
+    end
+
+    subgraph C[Combat]
+        WM[Weapon Maintenance]
+        SS[Sweeping Strikes]
+        CH[Critical Hits]
+    end
+
+    subgraph E[Engineering]
+        FE[Field Engineering]
+        GO[Generator Operations]
+        DO[Drone Operator]
+    end
+
+    AP -->|Lvl 1| SE
+    AP -->|Lvl 1| PM
+    AP -->|Lvl 1| SC
+    AP -->|Lvl 1| WM
+    AP -->|Lvl 2| RR
+    
+    SE -->|Lvl 1| SL
+    SE -->|Lvl 2| FE
+    
+    FE -->|Lvl 1| GO
+    FE -->|Lvl 1| DO
+
+    click AP "/Skills/ap_capacity"
+    click RR "/Skills/rest_recovery"
+    click SC "/Skills/stim_conditioning"
+    click SE "/Skills/scavenger_eye"
+    click PM "/Skills/pack_mule"
+    click SL "/Skills/salvage"
+    click FE "/Skills/field_engineering"
+    click GO "/Skills/generator_operations"
+    click DO "/Skills/drone_operator"
+    click WM "/Skills/weapon_maintenance"
+    click SS "/Skills/sweeping_strikes"
+    click CH "/Skills/critical_hits"
 ```
 
-## 🩸 Vitality & Recovery
-*   **[[Skills/ap_capacity|AP Capacity]]**: +1 Max AP per level.
-*   **[[Skills/rest_recovery|Rest Recovery]]**: Chance for bonus AP during rest.
-*   **[[Skills/stim_conditioning|Stim Conditioning]]**: Unlocks use of Stim Packs, Injectors, and Overdrives.
+## 🩸 Survival Skills
+Primary skills for basic existence and movement.
 
-## 🔍 Exploration & Scavenging
-*   **[[Skills/scavenger_eye|Scavenger's Eye]]**: +5% loot find chance per level.
-*   **[[Skills/pack_mule|Pack Mule]]**: +1 inventory slot per level.
-*   **[[Skills/salvage|Salvage]]**: Unlocks deconstruction and improves resource yields.
+| Skill | Effect |
+| :--- | :--- |
+| **[[Skills/ap_capacity|AP Capacity]]** | Increases max Action Points (+1 per level). |
+| **[[Skills/rest_recovery|Rest Recovery]]** | Chance for +1 extra AP per hourly rest. |
+| **[[Skills/stim_conditioning|Stim Conditioning]]** | Unlock the use of high-tier AP Stims. |
 
-## ⚙️ Engineering & Logistics
-*   **[[Skills/field_engineering|Field Engineering]]**: Unlocks fabrication at industrial and electronic facilities.
-*   **[[Skills/generator_operations|Generator Operations]]**: Required to refuel and manage town power.
-*   **[[Skills/drone_operator|Drone Operator]]**: Unlocks the use of autonomous cargo drones.
+## 🔍 Scavenging & Logistics
+Skills that improve resource acquisition and inventory.
 
-## ⚔️ Combat & Maintenance
-*   **[[Skills/weapon_maintenance|Weapon Maintenance]]**: Reduces weapon break chance.
-*   **[[Skills/sweeping_strikes|Sweeping Strikes]]**: Chance to kill an extra monster per attack.
-*   **[[Skills/critical_hits|Critical Hits]]**: Chance to kill 3 monsters in a single hit.
+| Skill | Effect |
+| :--- | :--- |
+| **[[Skills/scavenger_eye|Scavenger's Eye]]** | Increases loot success chance (+5% per level). |
+| **[[Skills/pack_mule|Pack Mule]]** | Increases carried inventory slots (+1 per level). |
+| **[[Skills/salvage|Salvage]]** | Enables deconstruction and improves resource yield. |
 
----
+## ⚔️ Combat & Defense
+Specializations for fighting monster hordes.
 
-## Training Rules
-- **Real-Time Progress**: Skills train in real-time. Once started, you do not need to be logged in.
-- **Queue**: You can only train **one skill at a time**.
-- **Prerequisites**: Many advanced skills require specific levels in foundational skills.
+| Skill | Effect |
+| :--- | :--- |
+| **[[Skills/weapon_maintenance|Weapon Maintenance]]** | Reduces weapon break chance (-2% per level). |
+| **[[Skills/sweeping_strikes|Sweeping Strikes]]** | Chance to kill 1 extra monster (5% per level). |
+| **[[Skills/critical_hits|Critical Hits]]** | Chance for critical hit (kill 3 monsters). |
+
+## 🏗️ Engineering & Operations
+Advanced skills for town maintenance and facility fabrication.
+
+| Skill | Effect |
+| :--- | :--- |
+| **[[Skills/field_engineering|Field Engineering]]** | Unlock fabrication in Industrial/Electronic biomes. |
+| **[[Skills/generator_operations|Generator Operations]]** | Safely run/refuel town generators. |
+| **[[Skills/drone_operator|Drone Operator]]** | Unlocks use of autonomous cargo drones. |
+
+## ⏳ Training Times
+Training times are fixed real-world intervals.
+- **Level 1**: 1 Hour
+- **Level 2**: 24 Hours
+- **Level 3**: 7 Days
+- **Level 4**: 14 Days
+- **Level 5**: 30 Days

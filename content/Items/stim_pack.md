@@ -14,7 +14,7 @@ Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases
 - **AP**: 2
 
 ### Requirements
-- **Skill**: [[Skills/stim_usage|Stim Conditioning]] (Level 1)
+- **Skill**: [[Skills/stim_conditioning|Stim Conditioning]] (Level 1)
 
 ## Where to Find
 - **[[Biomes/ruined_city|Ruined City]]** (3.3%)

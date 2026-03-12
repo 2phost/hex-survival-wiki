@@ -6,15 +6,15 @@ title: "Item Interaction and Controls"
 
 ## Interaction Costs
 Performing basic inventory tasks is free:
-- **Dropping/Using**: Consumes **0 [[Mechanisms/action_points|AP]]**.
-- **Consuming**: Consumes **0 [[Mechanisms/action_points|AP]]**.
+- **Dropping/Using**: Consumes **0 [[Vitals/action_points|AP]]**.
+- **Consuming**: Consumes **0 [[Vitals/action_points|AP]]**.
 - **Right-Click**: "Use" or consume the item (e.g., drink water, use a stim).
 - **Left-Click (or Click)**: "Drop" the item onto the ground at the current hex.
 
 ## Item Types: Consumables
 Consumables are used to manage the player's status bars.
-- **Fresh Drinking Water**: Reduces "Thirsty" by 30 and restores **+1 [[Mechanisms/action_points|AP]]**.
-- **Rations**: Reduces "[[Mechanisms/hunger|Hunger]]" by 30 and restores **+1 [[Mechanisms/action_points|AP]]**.
+- **Fresh Drinking Water**: Reduces "Thirsty" by 30 and restores **+1 [[Vitals/action_points|AP]]**.
+- **Rations**: Reduces "[[Vitals/hunger|Hunger]]" by 30 and restores **+1 [[Vitals/action_points|AP]]**.
 
 ## Item States
 Some items have specific states that affect their utility:

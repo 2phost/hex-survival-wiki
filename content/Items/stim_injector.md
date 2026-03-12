@@ -14,7 +14,7 @@ Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Inc
 - **AP**: 4
 
 ### Requirements
-- **Skill**: [[Skills/stim_usage|Stim Conditioning]] (Level 2)
+- **Skill**: [[Skills/stim_conditioning|Stim Conditioning]] (Level 2)
 
 ## Where to Find
 - **[[Biomes/electronic_lab|Electronic Store / Lab]]** (2.9%)
