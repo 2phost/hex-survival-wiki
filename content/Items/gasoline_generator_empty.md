@@ -14,7 +14,7 @@ title: "Gasoline Generator (empty)"
 
 ## Usage
 ### Crafting
-- Used to craft [[Items/gasoline_generator|Gasoline Generator]]
+* Used to craft <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
 
 ### Salvage Yield
 - Obtained by salvaging [[Items/gasoline_generator|Gasoline Generator]]

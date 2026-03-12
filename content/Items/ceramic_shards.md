@@ -21,8 +21,8 @@ Broken insulation and cookware fragments from pre-collapse ruins.
 
 ## Usage
 ### Crafting
-- Used to craft [[Items/expedition_pack|Expedition Pack]]
-- Used to craft [[Items/hauler_pack|Hauler Pack]]
+* Used to craft <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/expedition_pack|Expedition Pack]]
+* Used to craft <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/hauler_pack|Hauler Pack]]
 
 ## Technical Information
 - **Asset ID**: `ceramic_shards`

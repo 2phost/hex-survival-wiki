@@ -14,8 +14,8 @@ title: "Circuit Boards"
 
 ## Usage
 ### Crafting
-- Used to craft [[Items/solar_cell|Solar Cell]]
-- Used to craft [[Items/restored_binoculars|Restored Binoculars]]
+* Used to craft <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]
+* Used to craft <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/restored_binoculars|Restored Binoculars]]
 
 ### Construction
 - Required for [[Base/constructions#ScrapWorkshop|Scrap Workshop]]

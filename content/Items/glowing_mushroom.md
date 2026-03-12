@@ -22,7 +22,7 @@ title: "Glowing Mushroom"
 
 ## Usage
 ### Crafting
-- Used to craft [[Items/glowing_bottle|Glowing Bottle]]
+* Used to craft <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]
 
 ### Salvage Yield
 - Obtained by salvaging [[Items/glowing_bottle|Glowing Bottle]]

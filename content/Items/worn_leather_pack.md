@@ -15,7 +15,7 @@ Decayed travel pack. Straps and buckles yield some materials.
 
 ## Usage
 ### Crafting
-- Used to craft [[Items/salvager_pack|Salvager Pack]]
+* Used to craft <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
 
 ## Technical Information
 - **Asset ID**: `worn_leather_pack`

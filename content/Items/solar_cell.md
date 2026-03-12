@@ -8,6 +8,11 @@ title: "Solar Cell"
 
 Crafted photovoltaic cell for harvesting sunlight. Used to build solar panels.
 
+## 🛠️ Crafting Recipe
+* <img src="../assets/items/circuit_boards.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] (x1)
+* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/copper_wiring|Copper Wiring]] (x2)
+* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (x1)
+
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
 

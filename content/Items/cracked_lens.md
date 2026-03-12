@@ -15,7 +15,7 @@ Optical glass from damaged equipment.
 
 ## Usage
 ### Crafting
-- Used to craft [[Items/restored_binoculars|Restored Binoculars]]
+* Used to craft <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/restored_binoculars|Restored Binoculars]]
 
 ## Technical Information
 - **Asset ID**: `cracked_lens`

@@ -17,7 +17,7 @@ title: "Battery"
 
 ## Usage
 ### Crafting
-- Used to craft [[Items/lamp_functioning|Functioning Lamp]]
+* Used to craft <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
 
 ### Construction
 - Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]

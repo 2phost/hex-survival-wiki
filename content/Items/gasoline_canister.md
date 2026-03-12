@@ -20,7 +20,7 @@ Fuel for the base generators. Refills 25% town power when used at base.
 
 ## Usage
 ### Crafting
-- Used to craft [[Items/gasoline_generator|Gasoline Generator]]
+* Used to craft <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
 
 ## Technical Information
 - **Asset ID**: `gasoline_canister`
