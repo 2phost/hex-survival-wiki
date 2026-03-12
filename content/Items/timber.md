@@ -17,14 +17,14 @@ title: "Raw Timber"
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#Watchtower|Watchtower]]
-- Required for [[Base/constructions#HydroponicPatch|Hydroponic Patch]]
-- Required for [[Base/constructions#Well|Well]]
-- Required for [[Base/constructions#SpikeTrench|Spike Trench]]
-- Required for [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
+- Required for <img src="../assets/builds/watchtower.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#Watchtower|Watchtower]]
+- Required for <img src="../assets/builds/hydroponic_patch.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#HydroponicPatch|Hydroponic Patch]]
+- Required for <img src="../assets/builds/well.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#Well|Well]]
+- Required for <img src="../assets/builds/spike_trench.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SpikeTrench|Spike Trench]]
+- Required for <img src="../assets/builds/palisade_wall.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
 
 ### Salvage Yield
-- Obtained by salvaging [[Items/worn_leather_pack|Worn Leather Pack]]
+- Obtained by salvaging <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/worn_leather_pack|Worn Leather Pack]]
 
 ## Technical Information
 - **Asset ID**: `timber`

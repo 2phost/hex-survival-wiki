@@ -25,8 +25,8 @@ title: "Glowing Mushroom"
 * Used to craft <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]
 
 ### Salvage Yield
-- Obtained by salvaging [[Items/glowing_bottle|Glowing Bottle]]
-- Obtained by salvaging [[Items/worn_leather_pack|Worn Leather Pack]]
+- Obtained by salvaging <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]
+- Obtained by salvaging <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/worn_leather_pack|Worn Leather Pack]]
 
 ## Technical Information
 - **Asset ID**: `glowing_mushroom`

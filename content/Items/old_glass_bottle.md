@@ -23,9 +23,9 @@ title: "Old Glass Bottle"
 * Used to craft <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/restored_binoculars|Restored Binoculars]]
 
 ### Salvage Yield
-- Obtained by salvaging [[Items/glowing_bottle|Glowing Bottle]]
-- Obtained by salvaging [[Items/cracked_lens|Cracked Lens]]
-- Obtained by salvaging [[Items/broken_binoculars|Broken Binoculars]]
+- Obtained by salvaging <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]
+- Obtained by salvaging <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cracked_lens|Cracked Lens]]
+- Obtained by salvaging <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_binoculars|Broken Binoculars]]
 
 ## Technical Information
 - **Asset ID**: `old_glass_bottle`

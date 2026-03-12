@@ -21,7 +21,7 @@ title: "Lamp (empty)"
 * Used to craft <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
 
 ### Salvage Yield
-- Obtained by salvaging [[Items/lamp_functioning|Functioning Lamp]]
+- Obtained by salvaging <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
 
 ## Technical Information
 - **Asset ID**: `lamp_empty`

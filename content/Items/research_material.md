@@ -16,10 +16,10 @@ Recovered data drives, scientific logs, and salvageable pre-collapse notes used 
 
 ## Usage
 ### Salvage Yield
-- Obtained by salvaging [[Items/solar_cell|Solar Cell]]
-- Obtained by salvaging [[Items/cracked_lens|Cracked Lens]]
-- Obtained by salvaging [[Items/broken_binoculars|Broken Binoculars]]
-- Obtained by salvaging [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
+- Obtained by salvaging <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]
+- Obtained by salvaging <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cracked_lens|Cracked Lens]]
+- Obtained by salvaging <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_binoculars|Broken Binoculars]]
+- Obtained by salvaging <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
 
 ## Technical Information
 - **Asset ID**: `research_material`

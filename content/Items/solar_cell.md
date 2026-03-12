@@ -18,10 +18,10 @@ Crafted photovoltaic cell for harvesting sunlight. Used to build solar panels.
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#SolarPanels|Solar Panels]]
+- Required for <img src="../assets/builds/solar_panels.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SolarPanels|Solar Panels]]
 
 ### Salvage Yield
-- Obtained by salvaging [[Items/damaged_solar_panel|Damaged Solar Panel]]
+- Obtained by salvaging <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]
 
 ## Technical Information
 - **Asset ID**: `solar_cell`

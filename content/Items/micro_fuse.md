@@ -17,7 +17,7 @@ Tiny protective fuse used in sensitive control circuits.
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
+- Required for <img src="../assets/builds/sensor_jammer_grid.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
 
 ## Technical Information
 - **Asset ID**: `micro_fuse`

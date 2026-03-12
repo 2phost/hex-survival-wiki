@@ -16,7 +16,7 @@ Heavy mechanical actuator produced by powered Industrial facilities.
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
+- Required for <img src="../assets/builds/armor_plated_gate.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
 
 ## Technical Information
 - **Asset ID**: `hydraulic_piston`

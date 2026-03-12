@@ -16,8 +16,8 @@ Hardened organic sealant cultivated in powered Farm facilities to weatherproof f
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]
-- Required for [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
+- Required for <img src="../assets/builds/scrap_barricade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]
+- Required for <img src="../assets/builds/palisade_wall.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
 
 ## Technical Information
 - **Asset ID**: `resin_sealant`

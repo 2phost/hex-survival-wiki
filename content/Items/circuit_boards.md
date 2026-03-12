@@ -18,19 +18,19 @@ title: "Circuit Boards"
 * Used to craft <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/restored_binoculars|Restored Binoculars]]
 
 ### Construction
-- Required for [[Base/constructions#ScrapWorkshop|Scrap Workshop]]
-- Required for [[Base/constructions#SignalBooster|Signal Booster (Radar)]]
-- Required for [[Base/constructions#SentryTurret|Automated Sentry]]
-- Required for [[Base/constructions#SolarPanels|Solar Panels]]
-- Required for [[Base/constructions#BeaconAmplifier|Beacon Amplifier]]
+- Required for <img src="../assets/builds/scrap_workshop.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ScrapWorkshop|Scrap Workshop]]
+- Required for <img src="../assets/builds/signal_booster.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SignalBooster|Signal Booster (Radar)]]
+- Required for <img src="../assets/builds/sentry_turret.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SentryTurret|Automated Sentry]]
+- Required for <img src="../assets/builds/solar_panels.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SolarPanels|Solar Panels]]
+- Required for <img src="../assets/builds/beacon_amplifier.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#BeaconAmplifier|Beacon Amplifier]]
 
 ### Salvage Yield
-- Obtained by salvaging [[Items/gasoline_generator|Gasoline Generator]]
-- Obtained by salvaging [[Items/solar_cell|Solar Cell]]
-- Obtained by salvaging [[Items/broken_radio|Broken Radio]]
-- Obtained by salvaging [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
-- Obtained by salvaging [[Items/ruined_generator_parts|Ruined Generator Parts]]
-- Obtained by salvaging [[Items/damaged_solar_panel|Damaged Solar Panel]]
+- Obtained by salvaging <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
+- Obtained by salvaging <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]
+- Obtained by salvaging <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]
+- Obtained by salvaging <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
+- Obtained by salvaging <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]
+- Obtained by salvaging <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]
 
 ## Technical Information
 - **Asset ID**: `circuit_boards`

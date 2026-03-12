@@ -18,7 +18,7 @@ Dense ceramic plate salvaged from military stockpiles.
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
+- Required for <img src="../assets/builds/armor_plated_gate.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
 
 ## Technical Information
 - **Asset ID**: `ceramic_armor_tile`

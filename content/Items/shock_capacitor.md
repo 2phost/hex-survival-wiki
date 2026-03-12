@@ -16,9 +16,9 @@ Charge-dense capacitor produced by powered Industrial facilities for perimeter s
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
-- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
-- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
+- Required for <img src="../assets/builds/shock_fence_grid.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
+- Required for <img src="../assets/builds/counterbattery_array.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+- Required for <img src="../assets/builds/citadel_aegis.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
 
 ## Technical Information
 - **Asset ID**: `shock_capacitor`

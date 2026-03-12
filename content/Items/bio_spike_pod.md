@@ -16,7 +16,7 @@ Aggressive thorn pod cultivated in powered Farm facilities and used in living tr
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
+- Required for <img src="../assets/builds/shock_fence_grid.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
 
 ## Technical Information
 - **Asset ID**: `bio_spike_pod`

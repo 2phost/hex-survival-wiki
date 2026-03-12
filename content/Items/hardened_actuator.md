@@ -16,9 +16,9 @@ Industrial motion driver produced by powered Industrial facilities for heavy gat
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
-- Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
-- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+- Required for <img src="../assets/builds/auto_bolt_nest.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
+- Required for <img src="../assets/builds/armor_plated_gate.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
+- Required for <img src="../assets/builds/counterbattery_array.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
 
 ## Technical Information
 - **Asset ID**: `hardened_actuator`

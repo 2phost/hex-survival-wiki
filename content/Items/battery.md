@@ -20,12 +20,12 @@ title: "Battery"
 * Used to craft <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
 
 ### Construction
-- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
+- Required for <img src="../assets/builds/kill_zone_lights.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
 
 ### Salvage Yield
-- Obtained by salvaging [[Items/lamp_functioning|Functioning Lamp]]
-- Obtained by salvaging [[Items/broken_radio|Broken Radio]]
-- Obtained by salvaging [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
+- Obtained by salvaging <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
+- Obtained by salvaging <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]
+- Obtained by salvaging <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
 
 ## Technical Information
 - **Asset ID**: `battery`

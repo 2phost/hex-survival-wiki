@@ -16,9 +16,9 @@ Precision relay produced by powered Electronic Labs for automated fire-control s
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
-- Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
-- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
+- Required for <img src="../assets/builds/auto_bolt_nest.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
+- Required for <img src="../assets/builds/sensor_jammer_grid.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
+- Required for <img src="../assets/builds/citadel_aegis.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
 
 ## Technical Information
 - **Asset ID**: `targeting_relay`
