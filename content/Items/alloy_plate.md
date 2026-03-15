@@ -16,9 +16,14 @@ Precision-forged industrial plating produced by powered Industrial facilities. W
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/auto_bolt_nest.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
-- Required for <img src="../assets/builds/armor_plated_gate.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
+- Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
+- Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
 
 ## Technical Information
+- **Item ID**: `alloy_plate`
+- **Rarity**: Rare
+- **Category**: Weapon
+- **Requirement**: Field Engineering Level 1
+
 - **Asset ID**: `alloy_plate`
 - **Asset Path**: `items/alloy_plate.png`

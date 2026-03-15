@@ -17,12 +17,19 @@ title: "Lamp (empty)"
 - **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (1.2%)
 
 ## Usage
-### Crafting
-* Used to craft <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
 
-### Salvage Yield
-- Obtained by salvaging <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
+### Used in Recipes
+* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
+
+### Deconstruction (Salvage)
+* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (40%)
+* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/copper_wiring|Copper Wiring]] (20%)
+
+### Yielded From Salvage
+* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
 
 ## Technical Information
+- **Item ID**: `lamp_empty`
+- **Rarity**: Common
 - **Asset ID**: `lamp_empty`
 - **Asset Path**: `items/lamp_empty.png`

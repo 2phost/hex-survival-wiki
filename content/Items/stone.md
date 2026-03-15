@@ -18,17 +18,20 @@ title: "Hardened Stone"
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/reinforced_bulkhead.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ReinforcedBulkhead|Reinforced Steel Bulkhead]]
-- Required for <img src="../assets/builds/watchtower.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#Watchtower|Watchtower]]
-- Required for <img src="../assets/builds/hydroponic_patch.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#HydroponicPatch|Hydroponic Patch]]
-- Required for <img src="../assets/builds/well.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#Well|Well]]
-- Required for <img src="../assets/builds/fuel_refinery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#FuelRefinery|Fuel Refinery]]
-- Required for <img src="../assets/builds/spike_trench.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SpikeTrench|Spike Trench]]
-- Required for <img src="../assets/builds/palisade_wall.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
+- Required for [[Base/constructions#ReinforcedBulkhead|Reinforced Steel Bulkhead]]
+- Required for [[Base/constructions#Watchtower|Watchtower]]
+- Required for [[Base/constructions#HydroponicPatch|Hydroponic Patch]]
+- Required for [[Base/constructions#Well|Well]]
+- Required for [[Base/constructions#FuelRefinery|Fuel Refinery]]
+- Required for [[Base/constructions#SpikeTrench|Spike Trench]]
+- Required for [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
 
-### Salvage Yield
-- Obtained by salvaging <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rusty_tool|Rusty Tool]]
+### Yielded From Salvage
+* <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rusty_tool|Rusty Tool]]
 
 ## Technical Information
+- **Item ID**: `stone`
+- **Rarity**: Common
+
 - **Asset ID**: `stone`
 - **Asset Path**: `items/stone.png`

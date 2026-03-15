@@ -19,6 +19,12 @@ Luminous spore clusters that thrive in damp and irradiated zones.
 - **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (1.0%)
 - **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (0.5%)
 
+## Usage
+Luminous spore clusters that thrive in damp and irradiated zones.
+
 ## Technical Information
+- **Item ID**: `fungal_spores`
+- **Rarity**: Common
+
 - **Asset ID**: `fungal_spores`
 - **Asset Path**: `items/fungal_spores.png`

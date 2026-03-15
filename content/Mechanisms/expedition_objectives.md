@@ -21,8 +21,8 @@ title: "Expedition Objectives"
 - **Goal**: Reach the relay hex and spend **2 [[Vitals/action_points|AP]]** to disable it.
 - **Location**: Use the **[[Base/constructions|Watchtower]]** to reveal. (Example: Heading SW, Distance 2 hexes away).
 - **Penalty if Ignored**: 
-    - **Immediate**: -12% Search Chance town-wide.
-    - **Escalation**: -16% Search Chance at next [[Mechanisms/power_grid|Midnight]].
+ - **Immediate**: -12% Search Chance town-wide.
+ - **Escalation**: -16% Search Chance at next [[Mechanisms/power_grid|Midnight]].
 
 ## Objective Types
 
@@ -34,5 +34,5 @@ title: "Expedition Objectives"
 - **Goal**: Neutralize a specific threat on the map (e.g., Relays, Corrupted Nodes).
 - **Penalty if Ignored**: Global negative effects that scale over time.
 - **Requirements**:
-    - **Navigation**: **Requires [[Base/constructions|Watchtower]] to reveal headings.**
-    - **Action**: Spend [[Vitals/action_points|Action Points]] ([[Vitals/action_points|AP]]) to perform a specific task (e.g., "Disable").
+ - **Navigation**: **Requires [[Base/constructions|Watchtower]] to reveal headings.**
+ - **Action**: Spend [[Vitals/action_points|Action Points]] ([[Vitals/action_points|AP]]) to perform a specific task (e.g., "Disable").

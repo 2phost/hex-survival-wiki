@@ -27,6 +27,17 @@ Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases
 - **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (0.7%)
 - **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (0.5%)
 
+## Usage
+Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases hunger and thirst slightly.
+### Consumable Effects
+- **Hunger**: 6
+- **Thirst**: 6
+- **Action Points**: 2
+
 ## Technical Information
+- **Item ID**: `stim_pack`
+- **Rarity**: Common
+- **Requirement**: Stim Usage Level 1
+
 - **Asset ID**: `stim_pack`
 - **Asset Path**: `items/stim_pack.png`

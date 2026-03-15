@@ -15,6 +15,17 @@ Experimental pre-collapse fuel rod. Refills 60% town power and requires Generato
 - **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (3.3%)
 - **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (1.9%)
 
+## Usage
+Experimental pre-collapse fuel rod. Refills 60% town power and requires Generator Operations III.
+
+### Used in Recipes
+* <img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/plasma_lance|Plasma Lance]]
+
 ## Technical Information
+- **Item ID**: `plasma_fuel_rod`
+- **Rarity**: Mythic
+- **Category**: Fuel
+- **Requirement**: Generator Operations Level 3
+
 - **Asset ID**: `plasma_fuel_rod`
 - **Asset Path**: `items/plasma_fuel_rod.png`

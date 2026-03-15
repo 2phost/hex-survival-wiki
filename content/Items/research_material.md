@@ -15,12 +15,16 @@ Recovered data drives, scientific logs, and salvageable pre-collapse notes used 
 - **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (1.4%)
 
 ## Usage
-### Salvage Yield
-- Obtained by salvaging <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]
-- Obtained by salvaging <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cracked_lens|Cracked Lens]]
-- Obtained by salvaging <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_binoculars|Broken Binoculars]]
-- Obtained by salvaging <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
+
+### Yielded From Salvage
+* <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]
+* <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cracked_lens|Cracked Lens]]
+* <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_binoculars|Broken Binoculars]]
+* <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
 
 ## Technical Information
+- **Item ID**: `research_material`
+- **Rarity**: Rare
+
 - **Asset ID**: `research_material`
 - **Asset Path**: `items/research_material.png`

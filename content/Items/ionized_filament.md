@@ -14,6 +14,12 @@ Conductive filament that still holds residual charge.
 - **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (2.9%)
 - **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (1.4%)
 
+## Usage
+Conductive filament that still holds residual charge.
+
 ## Technical Information
+- **Item ID**: `ionized_filament`
+- **Rarity**: Rare
+
 - **Asset ID**: `ionized_filament`
 - **Asset Path**: `items/ionized_filament.png`

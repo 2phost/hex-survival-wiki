@@ -17,6 +17,12 @@ Industrial-grade valve body from old steam and fuel networks.
 - **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (0.5%)
 - **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (0.5%)
 
+## Usage
+Industrial-grade valve body from old steam and fuel networks.
+
 ## Technical Information
+- **Item ID**: `pressure_valve`
+- **Rarity**: Rare
+
 - **Asset ID**: `pressure_valve`
 - **Asset Path**: `items/pressure_valve.png`

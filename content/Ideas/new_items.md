@@ -8,22 +8,22 @@ This document tracks proposed item additions to expand the tactical depth of Hex
 
 ## 1. Tactical Equipment
 - **Survivor's Flare**:
-    - **Usage**: One-time use. Provides light to the current hex for 1 hour.
-    - **Strategy**: Used for emergency scavenging in darkness or to prevent **[[Vitals/fear|Fear]]** accumulation if a lamp fails.
+ - **Usage**: One-time use. Provides light to the current hex for 1 hour.
+ - **Strategy**: Used for emergency scavenging in darkness or to prevent **[[Vitals/fear|Fear]]** accumulation if a lamp fails.
 - **Weighted Vest**:
-    - **Usage**: Passive (Carried). Reduces [[Vitals/fear|Fear]] accumulation rate by 15%.
-    - **Constraint**: Consumes 2 inventory slots due to bulk.
+ - **Usage**: Passive (Carried). Reduces [[Vitals/fear|Fear]] accumulation rate by 15%.
+ - **Constraint**: Consumes 2 inventory slots due to bulk.
 
 ## 2. Consumables
 - **Herbal Infusion**:
-    - **Usage**: Crafted from [[Items/glowing_mushroom|Glowing Mushrooms]] and [[Items/water|Clean Water]].
-    - **Stats**: Restores 5 [[Vitals/fear|Fear]] immediately. Does not restore Hunger or Thirst.
+ - **Usage**: Crafted from [[Items/glowing_mushroom|Glowing Mushrooms]] and [[Items/water|Clean Water]].
+ - **Stats**: Restores 5 [[Vitals/fear|Fear]] immediately. Does not restore Hunger or Thirst.
 - **Adrenaline Injector**:
-    - **Usage**: Restores 3 [[Vitals/action_points|AP]] immediately.
-    - **Penalty**: Increases [[Vitals/fear|Fear]] by 2 points due to the crash.
+ - **Usage**: Restores 3 [[Vitals/action_points|AP]] immediately.
+ - **Penalty**: Increases [[Vitals/fear|Fear]] by 2 points due to the crash.
 
 ## 3. Specialized Tools
 - **Magnetic Wrench**:
-    - **Usage**: Passive (Carried). Reduces the time required for [[Base/constructions|Base Constructions]] by 10%.
+ - **Usage**: Passive (Carried). Reduces the time required for [[Base/constructions|Base Constructions]] by 10%.
 - **Biometric Scanner**:
-    - **Usage**: One-time use. Reveals the biome type and any active facilities of all 6 adjacent tiles without moving.
+ - **Usage**: One-time use. Reveals the biome type and any active facilities of all 6 adjacent tiles without moving.

@@ -16,10 +16,17 @@ Industrial motion driver produced by powered Industrial facilities for heavy gat
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/auto_bolt_nest.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
-- Required for <img src="../assets/builds/armor_plated_gate.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
-- Required for <img src="../assets/builds/counterbattery_array.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+- Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
+- Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
+- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+
+### Used in Recipes
+* <img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/shock_maul|Shock Maul]]
 
 ## Technical Information
+- **Item ID**: `hardened_actuator`
+- **Rarity**: Rare
+- **Requirement**: Field Engineering Level 1
+
 - **Asset ID**: `hardened_actuator`
 - **Asset Path**: `items/hardened_actuator.png`

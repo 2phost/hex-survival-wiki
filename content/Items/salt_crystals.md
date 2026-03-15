@@ -18,6 +18,12 @@ Mineral deposits scraped from dry beds and cave seams.
 - **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (1.0%)
 - **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (0.5%)
 
+## Usage
+Mineral deposits scraped from dry beds and cave seams.
+
 ## Technical Information
+- **Item ID**: `salt_crystals`
+- **Rarity**: Common
+
 - **Asset ID**: `salt_crystals`
 - **Asset Path**: `items/salt_crystals.png`

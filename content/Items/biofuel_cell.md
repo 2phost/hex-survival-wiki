@@ -17,6 +17,14 @@ Refined high-density biofuel cell. Refills 40% town power and requires Generator
 - **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (1.9%)
 - **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (1.9%)
 
+## Usage
+Refined high-density biofuel cell. Refills 40% town power and requires Generator Operations II.
+
 ## Technical Information
+- **Item ID**: `biofuel_cell`
+- **Rarity**: Rare
+- **Category**: Fuel
+- **Requirement**: Generator Operations Level 2
+
 - **Asset ID**: `biofuel_cell`
 - **Asset Path**: `items/biofuel_cell.png`

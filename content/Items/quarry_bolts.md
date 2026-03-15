@@ -18,9 +18,12 @@ Heavy anchor bolts used to pin barricades into stone.
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/scrap_barricade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]
-- Required for <img src="../assets/builds/kill_zone_lights.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
+- Required for [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]
+- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
 
 ## Technical Information
+- **Item ID**: `quarry_bolts`
+- **Rarity**: Common
+
 - **Asset ID**: `quarry_bolts`
 - **Asset Path**: `items/quarry_bolts.png`

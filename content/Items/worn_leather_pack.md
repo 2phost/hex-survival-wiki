@@ -14,9 +14,17 @@ Decayed travel pack. Straps and buckles yield some materials.
 - **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (3.6%)
 
 ## Usage
-### Crafting
-* Used to craft <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
+
+### Used in Recipes
+* <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
+
+### Deconstruction (Salvage)
+* <img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/timber|Raw Timber]] (40%)
+* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (20%)
+* <img src="../assets/items/glowing_mushroom.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_mushroom|Glowing Mushroom]] (rare, 5%)
 
 ## Technical Information
+- **Item ID**: `worn_leather_pack`
+- **Rarity**: Common
 - **Asset ID**: `worn_leather_pack`
 - **Asset Path**: `items/worn_leather_pack.png`

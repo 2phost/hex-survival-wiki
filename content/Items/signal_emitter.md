@@ -16,9 +16,13 @@ Advanced transmission module produced by powered Electronic Labs.
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/kill_zone_lights.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
-- Required for <img src="../assets/builds/counterbattery_array.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
+- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
 
 ## Technical Information
+- **Item ID**: `signal_emitter`
+- **Rarity**: Rare
+- **Requirement**: Field Engineering Level 3
+
 - **Asset ID**: `signal_emitter`
 - **Asset Path**: `items/signal_emitter.png`

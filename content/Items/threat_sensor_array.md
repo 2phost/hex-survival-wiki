@@ -16,10 +16,14 @@ Multi-spectrum sensor package produced by powered Electronic Labs for early-hord
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/shock_fence_grid.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
-- Required for <img src="../assets/builds/sensor_jammer_grid.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
-- Required for <img src="../assets/builds/citadel_aegis.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
+- Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
+- Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
+- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
 
 ## Technical Information
+- **Item ID**: `threat_sensor_array`
+- **Rarity**: Rare
+- **Requirement**: Field Engineering Level 2
+
 - **Asset ID**: `threat_sensor_array`
 - **Asset Path**: `items/threat_sensor_array.png`

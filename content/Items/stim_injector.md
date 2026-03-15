@@ -25,6 +25,17 @@ Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Inc
 - **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (0.2%)
 - **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (0.2%)
 
+## Usage
+Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Increases hunger and thirst.
+### Consumable Effects
+- **Hunger**: 10
+- **Thirst**: 10
+- **Action Points**: 4
+
 ## Technical Information
+- **Item ID**: `stim_injector`
+- **Rarity**: Rare
+- **Requirement**: Stim Usage Level 2
+
 - **Asset ID**: `stim_injector`
 - **Asset Path**: `items/stim_injector.png`

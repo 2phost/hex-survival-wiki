@@ -17,6 +17,12 @@ Layered metal weave that absorbs impacts from charging beasts.
 - **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (0.5%)
 - **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (0.2%)
 
+## Usage
+Layered metal weave that absorbs impacts from charging beasts.
+
 ## Technical Information
+- **Item ID**: `ballistic_mesh`
+- **Rarity**: Rare
+
 - **Asset ID**: `ballistic_mesh`
 - **Asset Path**: `items/ballistic_mesh.png`

@@ -7,6 +7,12 @@ title: "Verification List"
 These are the confirmed mechanics and remaining "known unknowns" based on the latest available data.
 
 ## 1. Confirmed Mechanics
+- **Reinforced Power Pole (MK2)**: 3-tile range and 1-hex radius illumination. Requires **[[Skills/power_infrastructure|Power Infrastructure Lvl 3]]**.
+- **Eidetic Memory & Visibility**: Visibility model includes Lit, Remembered, and Dark tiles. Information is shared and day-scoped.
+- **Town Forums**: Persisted message boards for long-term coordination.
+- **Chat Linking**: Items and tiles can be linked and clicked in town chat.
+- **Recipe Book**: Dedicated UI for crafting workflows and recipe tracking.
+- **Town-Fall Reporting**: Explicit summaries of deaths and outcomes posted in chat at midnight.
 - **Cargo Drone Logistics**: Single-use drones for field-to-base transfers. Requires **[[Skills/drone_operator|Drone Operator Lvl 2]]**.
 - **Backpack Tiers**: Craftable backpacks (Salvager, Expedition, Hauler) increase inventory slot capacity.
 - **Base Defense Progression**: 10 sequential defense builds (Trench -> Citadel) with increasing defense bonuses.

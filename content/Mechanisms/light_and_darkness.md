@@ -2,7 +2,12 @@
 title: "Light and Darkness"
 ---
 
-# Mechanism: Light and Darkness
+## Visibility Model
+The world is divided into three distinct visibility states, influenced by both light sources and player skill:
+
+- **Lit Tiles**: Fully visible and safe for movement. These tiles are directly illuminated by the town's power grid or personal light sources.
+- **Remembered Tiles**: Previously explored tiles that are currently unlit. They are faintly visible in a ring around the player, allowing for basic navigation of established routes. The range of this memory is determined by the **[[Skills/eidetic_memory|Eidetic Memory]]** skill.
+- **Dark Tiles**: Unlit and unexplored (or unremembered) tiles. Hidden by default, these represent the true darkness of the wasteland and are lethal without a light source.
 
 ## [[Mechanisms/light_and_darkness|The Darkness]] Threat
 Darkness is the primary existential threat in Hex Survival.

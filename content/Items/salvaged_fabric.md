@@ -20,11 +20,15 @@ Weathered cloth strips and tarp fibers useful for patching gear.
 - **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (0.7%)
 
 ## Usage
-### Crafting
-* Used to craft <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
-* Used to craft <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/expedition_pack|Expedition Pack]]
-* Used to craft <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/hauler_pack|Hauler Pack]]
+
+### Used in Recipes
+* <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
+* <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/expedition_pack|Expedition Pack]]
+* <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/hauler_pack|Hauler Pack]]
 
 ## Technical Information
+- **Item ID**: `salvaged_fabric`
+- **Rarity**: Common
+
 - **Asset ID**: `salvaged_fabric`
 - **Asset Path**: `items/salvaged_fabric.png`

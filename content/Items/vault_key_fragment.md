@@ -14,6 +14,12 @@ Partial cipher key etched on alloy, likely tied to sealed vault systems.
 - **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (0.2%)
 - **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (0.2%)
 
+## Usage
+Partial cipher key etched on alloy, likely tied to sealed vault systems.
+
 ## Technical Information
+- **Item ID**: `vault_key_fragment`
+- **Rarity**: Mythic
+
 - **Asset ID**: `vault_key_fragment`
 - **Asset Path**: `items/vault_key_fragment.png`

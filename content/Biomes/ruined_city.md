@@ -51,7 +51,7 @@ title: "Ruined City"
 | <img src="../assets/items/thermal_coil.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/thermal_coil|Thermal Coil]] | 2.4% |
 | <img src="../assets/items/ballistic_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ballistic_mesh|Ballistic Mesh]] | 1.9% |
 | <img src="../assets/items/bio_resin.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/bio_resin|Bio Resin]] | 1.9% |
-| <img src="../assets/items/circuit_boards.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | 1.9% |
+| <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | 1.9% |
 | <img src="../assets/items/data_tape.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/data_tape|Data Tape]] | 1.9% |
 | <img src="../assets/items/micro_fuse.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/micro_fuse|Micro Fuse]] | 1.9% |
 | <img src="../assets/items/stim_injector.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/stim_injector|Stim Injector]] | 1.7% |

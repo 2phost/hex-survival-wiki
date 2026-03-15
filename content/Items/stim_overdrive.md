@@ -22,6 +22,17 @@ Experimental overdrive dose that restores 6 AP. Any AP over your max is lost. Gr
 - **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (0.5%)
 - **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (0.2%)
 
+## Usage
+Experimental overdrive dose that restores 6 AP. Any AP over your max is lost. Greatly increases hunger and thirst.
+### Consumable Effects
+- **Hunger**: 14
+- **Thirst**: 14
+- **Action Points**: 6
+
 ## Technical Information
+- **Item ID**: `stim_overdrive`
+- **Rarity**: Mythic
+- **Requirement**: Stim Usage Level 3
+
 - **Asset ID**: `stim_overdrive`
 - **Asset Path**: `items/stim_overdrive.png`

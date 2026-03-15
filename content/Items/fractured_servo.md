@@ -16,6 +16,12 @@ Damaged actuator unit with salvageable precision parts.
 - **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (0.2%)
 - **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (0.2%)
 
+## Usage
+Damaged actuator unit with salvageable precision parts.
+
 ## Technical Information
+- **Item ID**: `fractured_servo`
+- **Rarity**: Rare
+
 - **Asset ID**: `fractured_servo`
 - **Asset Path**: `items/fractured_servo.png`

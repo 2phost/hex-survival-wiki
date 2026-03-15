@@ -9,54 +9,63 @@ Skills are permanent character specializations that progress in real-time. Train
 ## 🔗 Skill Dependencies
 ```mermaid
 graph LR
-    subgraph S[Survival]
-        AP[AP Capacity]
-        SC[Stim Conditioning]
-        RR[Rest Recovery]
-    end
+ subgraph S[Survival]
+  AP[AP Capacity]
+  SC[Stim Conditioning]
+  RR[Rest Recovery]
+ end
 
-    subgraph L[Logistics]
-        SE[Scavenger's Eye]
-        PM[Pack Mule]
-        SL[Salvage]
-    end
+ subgraph L[Logistics]
+  SE[Scavenger's Eye]
+  PM[Pack Mule]
+  SL[Salvage]
+ end
 
-    subgraph C[Combat]
-        WM[Weapon Maintenance]
-        SS[Sweeping Strikes]
-        CH[Critical Hits]
-    end
+ subgraph C[Combat]
+  WM[Weapon Maintenance]
+  SS[Sweeping Strikes]
+  CH[Critical Hits]
+ end
 
-    subgraph E[Engineering]
-        FE[Field Engineering]
-        GO[Generator Operations]
-        DO[Drone Operator]
-    end
+ subgraph E[Engineering]
+  FE[Field Engineering]
+  GO[Generator Operations]
+  DO[Drone Operator]
+  PI[Power Infrastructure]
+ end
 
-    AP -->|Lvl 1| SE
-    AP -->|Lvl 1| PM
-    AP -->|Lvl 1| SC
-    AP -->|Lvl 1| WM
-    AP -->|Lvl 2| RR
-    
-    SE -->|Lvl 1| SL
-    SE -->|Lvl 2| FE
-    
-    FE -->|Lvl 1| GO
-    FE -->|Lvl 1| DO
+ subgraph EX[Exploration]
+  EI[Eidetic Memory]
+ end
 
-    click AP "/Skills/ap_capacity"
-    click RR "/Skills/rest_recovery"
-    click SC "/Skills/stim_conditioning"
-    click SE "/Skills/scavenger_eye"
-    click PM "/Skills/pack_mule"
-    click SL "/Skills/salvage"
-    click FE "/Skills/field_engineering"
-    click GO "/Skills/generator_operations"
-    click DO "/Skills/drone_operator"
-    click WM "/Skills/weapon_maintenance"
-    click SS "/Skills/sweeping_strikes"
-    click CH "/Skills/critical_hits"
+ AP -->|Lvl 1| SE
+ AP -->|Lvl 1| PM
+ AP -->|Lvl 1| SC
+ AP -->|Lvl 1| WM
+ AP -->|Lvl 1| EI
+ AP -->|Lvl 2| RR
+ 
+ SE -->|Lvl 1| SL
+ SE -->|Lvl 2| FE
+ 
+ FE -->|Lvl 1| GO
+ FE -->|Lvl 1| DO
+ FE -->|Lvl 1| PI
+
+ click AP "/Skills/ap_capacity"
+ click RR "/Skills/rest_recovery"
+ click SC "/Skills/stim_conditioning"
+ click SE "/Skills/scavenger_eye"
+ click PM "/Skills/pack_mule"
+ click SL "/Skills/salvage"
+ click FE "/Skills/field_engineering"
+ click GO "/Skills/generator_operations"
+ click DO "/Skills/drone_operator"
+ click PI "/Skills/power_infrastructure"
+ click EI "/Skills/eidetic_memory"
+ click WM "/Skills/weapon_maintenance"
+ click SS "/Skills/sweeping_strikes"
+ click CH "/Skills/critical_hits"
 ```
 
 ## 🩸 Survival Skills
@@ -67,6 +76,13 @@ Primary skills for basic existence and movement.
 | **[[Skills/ap_capacity|AP Capacity]]** | Increases max Action Points (+1 per level). |
 | **[[Skills/rest_recovery|Rest Recovery]]** | Chance for +1 extra AP per hourly rest. |
 | **[[Skills/stim_conditioning|Stim Conditioning]]** | Unlock the use of high-tier AP Stims. |
+
+## 👁️ Exploration Skills
+Skills that improve awareness and navigation.
+
+| Skill | Effect |
+| :--- | :--- |
+| **[[Skills/eidetic_memory|Eidetic Memory]]** | Retain visibility of previously explored tiles. |
 
 ## 🔍 Scavenging & Logistics
 Skills that improve resource acquisition and inventory.
@@ -94,6 +110,7 @@ Advanced skills for town maintenance and facility fabrication.
 | **[[Skills/field_engineering|Field Engineering]]** | Unlock fabrication in Industrial/Electronic biomes. |
 | **[[Skills/generator_operations|Generator Operations]]** | Safely run/refuel town generators. |
 | **[[Skills/drone_operator|Drone Operator]]** | Unlocks use of autonomous cargo drones. |
+| **[[Skills/power_infrastructure|Power Infrastructure]]** | Deploy and manage field power networks. |
 
 ## ⏳ Training Times
 Training times are fixed real-world intervals.

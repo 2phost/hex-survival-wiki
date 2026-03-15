@@ -50,7 +50,7 @@ title: "Industrial Zone"
 | <img src="../assets/items/data_tape.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/data_tape|Data Tape]] | 3.3% |
 | <img src="../assets/items/glowing_mushroom.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_mushroom|Glowing Mushroom]] | 3.3% |
 | <img src="../assets/items/ceramic_armor_tile.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ceramic_armor_tile|Ceramic Armor Tile]] | 2.9% |
-| <img src="../assets/items/circuit_boards.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | 2.9% |
+| <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | 2.9% |
 | <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]] | 2.9% |
 | <img src="../assets/items/ionized_filament.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ionized_filament|Ionized Filament]] | 2.9% |
 | <img src="../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvaged_fabric|Salvaged Fabric]] | 2.9% |

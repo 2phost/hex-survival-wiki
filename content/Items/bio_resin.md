@@ -18,6 +18,12 @@ Sticky organic resin harvested from mutated plant growth.
 - **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (1.4%)
 - **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (0.7%)
 
+## Usage
+Sticky organic resin harvested from mutated plant growth.
+
 ## Technical Information
+- **Item ID**: `bio_resin`
+- **Rarity**: Common
+
 - **Asset ID**: `bio_resin`
 - **Asset Path**: `items/bio_resin.png`

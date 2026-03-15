@@ -4,7 +4,6 @@ title: "Fear"
 
 # Mechanism: [[Vitals/fear|Fear]]
 
-![[assets/overlays/fear.png|300]]
 
 
 ## Overview

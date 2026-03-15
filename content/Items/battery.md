@@ -16,17 +16,20 @@ title: "Battery"
 - **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (1.2%)
 
 ## Usage
-### Crafting
-* Used to craft <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
-
 ### Construction
-- Required for <img src="../assets/builds/kill_zone_lights.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
+- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
 
-### Salvage Yield
-- Obtained by salvaging <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
-- Obtained by salvaging <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]
-- Obtained by salvaging <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
+### Used in Recipes
+* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
+
+### Yielded From Salvage
+* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]
+* <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]
+* <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
 
 ## Technical Information
+- **Item ID**: `battery`
+- **Rarity**: Common
+
 - **Asset ID**: `battery`
 - **Asset Path**: `items/battery.png`

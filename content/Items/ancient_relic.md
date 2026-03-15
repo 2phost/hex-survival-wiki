@@ -11,8 +11,11 @@ title: "Ancient Relic"
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/citadel_aegis.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
+- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
 
 ## Technical Information
+- **Item ID**: `ancient_relic`
+- **Rarity**: Mythic
+
 - **Asset ID**: `ancient_relic`
 - **Asset Path**: `items/ancient_relic.png`

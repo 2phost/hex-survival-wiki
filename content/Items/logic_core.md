@@ -16,9 +16,19 @@ Programmable electronics core produced by powered Electronic Labs.
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/sensor_jammer_grid.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
-- Required for <img src="../assets/builds/citadel_aegis.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
+- Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
+- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
+
+### Used in Recipes
+* <img src="../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole_mk2|Reinforced Power Pole]]
+
+### Yielded From Salvage
+* <img src="../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole_mk2|Reinforced Power Pole]]
 
 ## Technical Information
+- **Item ID**: `logic_core`
+- **Rarity**: Rare
+- **Requirement**: Field Engineering Level 2
+
 - **Asset ID**: `logic_core`
 - **Asset Path**: `items/logic_core.png`

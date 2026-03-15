@@ -23,7 +23,7 @@ title: "Hidden Vault"
 | <img src="../assets/items/cryo_flask.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cryo_flask|Cryo Flask]] | 7.1% |
 | <img src="../assets/items/reactor_dust.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/reactor_dust|Reactor Dust]] | 6.7% |
 | <img src="../assets/items/fungal_spores.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/fungal_spores|Fungal Spores]] | 6.2% |
-| <img src="../assets/items/circuit_boards.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | 5.9% |
+| <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | 5.9% |
 | <img src="../assets/items/capacitor_bank.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/capacitor_bank|Capacitor Bank]] | 5.7% |
 | <img src="../assets/items/data_tape.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/data_tape|Data Tape]] | 5.2% |
 | <img src="../assets/items/vault_key_fragment.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/vault_key_fragment|Vault Key Fragment]] | 5.2% |

@@ -16,6 +16,12 @@ Heat-resistant coil assembly from generators and lab furnaces.
 - **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (0.5%)
 - **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (0.5%)
 
+## Usage
+Heat-resistant coil assembly from generators and lab furnaces.
+
 ## Technical Information
+- **Item ID**: `thermal_coil`
+- **Rarity**: Rare
+
 - **Asset ID**: `thermal_coil`
 - **Asset Path**: `items/thermal_coil.png`

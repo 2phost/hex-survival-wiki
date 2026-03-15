@@ -18,6 +18,12 @@ Hard-shelled seed pod from post-collapse flora with unusual growth traits.
 - **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (1.0%)
 - **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (0.5%)
 
+## Usage
+Hard-shelled seed pod from post-collapse flora with unusual growth traits.
+
 ## Technical Information
+- **Item ID**: `mutant_seed_pod`
+- **Rarity**: Rare
+
 - **Asset ID**: `mutant_seed_pod`
 - **Asset Path**: `items/mutant_seed_pod.png`

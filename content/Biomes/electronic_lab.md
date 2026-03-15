@@ -16,7 +16,7 @@ title: "Electronic Store / Lab"
 ## Loot Tables (Absolute Success Probability (% per hour))
 | Item | % Per Hour |
 | :--- | :--- |
-| <img src="../assets/items/circuit_boards.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | 17.8% |
+| <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] | 17.8% |
 | <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/research_material|Research Material]] | 16.6% |
 | <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/battery|Battery]] | 14.3% |
 | <img src="../assets/items/micro_fuse.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/micro_fuse|Micro Fuse]] | 10.9% |

@@ -13,6 +13,12 @@ Highly unstable particulate recovered from collapsed energy cores.
 - **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (2.9%)
 - **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (0.5%)
 
+## Usage
+Highly unstable particulate recovered from collapsed energy cores.
+
 ## Technical Information
+- **Item ID**: `reactor_dust`
+- **Rarity**: Mythic
+
 - **Asset ID**: `reactor_dust`
 - **Asset Path**: `items/reactor_dust.png`

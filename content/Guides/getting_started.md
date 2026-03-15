@@ -10,16 +10,16 @@ Welcome to the town, survivor. You've joined a collaborative effort to keep the 
 Your survival depends on these three immediate actions:
 1. **Check Your [[Vitals/index|Vitals]]**: Look at your Hunger and Thirst. If they are low, find food or water immediately.
 2. **Start a [[Skills/index|Skill]]**: Go to the **Skills** menu and start training **[[Skills/ap_capacity|AP Capacity]] Lvl 1**. 
-    - **Cost**: **0 AP** to start.
-    - **Duration**: **1 Hour** (Real-time).
+ - **Cost**: **0 AP** to start.
+ - **Duration**: **1 Hour** (Real-time).
 3. **Scout for Resources**: Move to an adjacent hex (**1 AP**) and click **Scavenge** (**0 AP**) to start your first hourly loot roll.
 
 ## 2. Stay in the Light (The Golden Rule)
 The "Darkness" in this world is lethal.
 - **Lethal Darkness**: Moving into a dark hex without a light source increases your **[[Vitals/fear|Fear]]**. If your Fear meter reaches its **3-bar maximum**, you die instantly: **"Consumed by darkness."**
 - **[[Vitals/fear|Fear System]]**: Entering dark tiles without a lamp increases your **Fear** stat.
-    - **Penalties**: High Fear imposes massive penalties to scavenging and skill checks.
-    - **Recovery**: Fear is recovered by **Resting** on lit tiles (**[[Base/overview|Base]]** or **[[Items/power_pole|Power Pole]]**).
+ - **Penalties**: High Fear imposes massive penalties to scavenging and skill checks.
+ - **Recovery**: Fear is recovered by **Resting** on lit tiles (**[[Base/overview|Base]]** or **[[Items/power_pole|Power Pole]]**).
 - **[[Items/power_pole|Power Poles]]**: These create permanently lit areas. A powered pole illuminates only its **current tile (0-hex radius)**.
 - **The [[Mechanisms/midnight_cycle|Midnight]] Trap**: Hunger and Thirst drain by **40%** at Midnight. If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex *before* the clock hits zero.
 

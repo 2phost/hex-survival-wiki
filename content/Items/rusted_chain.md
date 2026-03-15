@@ -19,11 +19,15 @@ Corroded chain links salvaged from gates, cranes, and fences.
 - **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (1.4%)
 
 ## Usage
-### Crafting
-* Used to craft <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
-* Used to craft <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/expedition_pack|Expedition Pack]]
-* Used to craft <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/hauler_pack|Hauler Pack]]
+
+### Used in Recipes
+* <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
+* <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/expedition_pack|Expedition Pack]]
+* <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/hauler_pack|Hauler Pack]]
 
 ## Technical Information
+- **Item ID**: `rusted_chain`
+- **Rarity**: Common
+
 - **Asset ID**: `rusted_chain`
 - **Asset Path**: `items/rusted_chain.png`

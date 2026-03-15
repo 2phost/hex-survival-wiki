@@ -20,9 +20,15 @@ Bent but sturdy steel rods bundled for emergency fortifications.
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/spike_trench.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#SpikeTrench|Spike Trench]]
-- Required for <img src="../assets/builds/palisade_wall.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
+- Required for [[Base/constructions#SpikeTrench|Spike Trench]]
+- Required for [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
+
+### Used in Recipes
+* <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rebar_blade|Rebar Blade]]
 
 ## Technical Information
+- **Item ID**: `fortified_rebar`
+- **Rarity**: Common
+
 - **Asset ID**: `fortified_rebar`
 - **Asset Path**: `items/fortified_rebar.png`

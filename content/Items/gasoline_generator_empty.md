@@ -13,12 +13,16 @@ title: "Gasoline Generator (empty)"
 - **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (2.4%)
 
 ## Usage
-### Crafting
-* Used to craft <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
 
-### Salvage Yield
-- Obtained by salvaging <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
+### Used in Recipes
+* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
+
+### Yielded From Salvage
+* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
 
 ## Technical Information
+- **Item ID**: `gasoline_generator_empty`
+- **Rarity**: Common
+
 - **Asset ID**: `gasoline_generator_empty`
 - **Asset Path**: `items/gasoline_generator.png`

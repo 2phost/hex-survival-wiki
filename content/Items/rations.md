@@ -20,6 +20,14 @@ title: "Rations"
 - **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (0.5%)
 - **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (0.2%)
 
+## Usage
+### Consumable Effects
+- **Hunger**: -30
+- **Action Points**: 1
+
 ## Technical Information
+- **Item ID**: `rations`
+- **Rarity**: Common
+
 - **Asset ID**: `rations`
 - **Asset Path**: `items/rations.png`

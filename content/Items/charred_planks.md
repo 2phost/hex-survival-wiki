@@ -18,6 +18,12 @@ Half-burned construction wood that can still be repurposed.
 - **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (1.2%)
 - **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (0.5%)
 
+## Usage
+Half-burned construction wood that can still be repurposed.
+
 ## Technical Information
+- **Item ID**: `charred_planks`
+- **Rarity**: Common
+
 - **Asset ID**: `charred_planks`
 - **Asset Path**: `items/charred_planks.png`

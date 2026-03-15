@@ -19,9 +19,15 @@ Fuel for the base generators. Refills 25% town power when used at base.
 - **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (2.4%)
 
 ## Usage
-### Crafting
-* Used to craft <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
+
+### Used in Recipes
+* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
 
 ## Technical Information
+- **Item ID**: `gasoline_canister`
+- **Rarity**: Rare
+- **Category**: Fuel
+- **Requirement**: Generator Operations Level 1
+
 - **Asset ID**: `gasoline_canister`
 - **Asset Path**: `items/gasoline_canister.png`

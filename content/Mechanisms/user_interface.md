@@ -9,15 +9,19 @@ The UI of Hex Survival is designed to provide maximum information with minimal c
 ## Main Navigation (Bottom Bar)
 The primary interface for player actions is located at the bottom of the screen:
 - **Scavenge**: Accesses the map and current hex interaction tools.
-- **Inventory**: Upgraded UI for managing carried items, equipment, and recipes.
+- **Inventory & Recipes**: Upgraded UI for managing carried items and equipment. This now includes the **Recipe Book View**, a dedicated space for viewing all known crafting combinations. The panel has been redesigned with **4 rows** to accommodate larger backpack capacities.
 - **[[Skills/index|Skills]]**: Opens the permanent progression menu.
-- **Chat**: Communication with other survivors. Opens in the **bottom right** and defaults to the latest message.
+- **Chat**: Communication with other survivors. Opens in the **bottom right** and includes clickable tile and item links.
 
-## Resource & Town Management
+## Inventory & Logistics
+- **Relocated Actions**: To improve the flow of material management, the **Deposit**, **Deliver** (via drone), and **Drop-All** actions have been moved to more accessible positions within the inventory and town interaction panels.
+- **Recipe Book UX**: Each row in the Recipe Book has been enhanced with new icons and a refined layout to make identifying requirements easier at a glance.
 - **Town Resource UI**: Adjusted to display a wider variety of shared town assets and materials.
 - **Base Management UI**: Enhanced layout for managing the Town Bank and construction projects.
-- **Upgrade Readability**: The Base Upgrade menu features improved spacing, vertical resource scrolling, clearer cost labels, and explicit build-effect descriptions.
+- **Cargo Drone Panel**: A dedicated interface that allows players to select items and send them back to the base from the field.
+- **Upgrade Readability**: The Base Upgrade menu features improved spacing, vertical resource scrolling, clearer cost labels, and explicit build-effect descriptions. Upgrade rows have been redesigned with increased height and proper item names.
 - **Tooltips**: Improved base panel tooltips that remain visible and stable while moving the pointer over items.
+
 
 ## Suggestions & Feedback Panel
 Players can contribute to game development through the suggestions panel.

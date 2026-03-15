@@ -20,6 +20,14 @@ title: "Clean Water"
 - **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (2.4%)
 - **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (1.2%)
 
+## Usage
+### Consumable Effects
+- **Thirst**: -30
+- **Action Points**: 1
+
 ## Technical Information
+- **Item ID**: `water`
+- **Rarity**: Common
+
 - **Asset ID**: `water`
 - **Asset Path**: `items/water.png`

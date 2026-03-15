@@ -16,8 +16,11 @@ Clustered charge capacitors suitable for energy buffering projects.
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/counterbattery_array.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
 
 ## Technical Information
+- **Item ID**: `capacitor_bank`
+- **Rarity**: Rare
+
 - **Asset ID**: `capacitor_bank`
 - **Asset Path**: `items/capacitor_bank.png`

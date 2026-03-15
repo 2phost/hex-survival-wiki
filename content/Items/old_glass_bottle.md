@@ -18,15 +18,19 @@ title: "Old Glass Bottle"
 - **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (1.2%)
 
 ## Usage
-### Crafting
-* Used to craft <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]
-* Used to craft <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/restored_binoculars|Restored Binoculars]]
 
-### Salvage Yield
-- Obtained by salvaging <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]
-- Obtained by salvaging <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cracked_lens|Cracked Lens]]
-- Obtained by salvaging <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_binoculars|Broken Binoculars]]
+### Used in Recipes
+* <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]
+* <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/restored_binoculars|Restored Binoculars]]
+
+### Yielded From Salvage
+* <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/glowing_bottle|Glowing Bottle]]
+* <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cracked_lens|Cracked Lens]]
+* <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_binoculars|Broken Binoculars]]
 
 ## Technical Information
+- **Item ID**: `old_glass_bottle`
+- **Rarity**: Common
+
 - **Asset ID**: `old_glass_bottle`
 - **Asset Path**: `items/old_glass_bottle.png`

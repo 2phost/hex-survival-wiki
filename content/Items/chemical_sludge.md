@@ -14,12 +14,15 @@ title: "Chemical Sludge"
 
 ## Usage
 ### Construction
-- Required for <img src="../assets/builds/fuel_refinery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#FuelRefinery|Fuel Refinery]]
+- Required for [[Base/constructions#FuelRefinery|Fuel Refinery]]
 
-### Salvage Yield
-- Obtained by salvaging <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/burnt_motor|Burnt-Out Motor]]
-- Obtained by salvaging <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]
+### Yielded From Salvage
+* <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/burnt_motor|Burnt-Out Motor]]
+* <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]
 
 ## Technical Information
+- **Item ID**: `chemical_sludge`
+- **Rarity**: Rare
+
 - **Asset ID**: `chemical_sludge`
 - **Asset Path**: `items/chemical_sludge.png`

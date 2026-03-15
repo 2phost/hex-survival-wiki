@@ -17,6 +17,12 @@ Sharp volcanic glass pieces ideal for improvised cutting tools.
 - **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (0.5%)
 - **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (0.5%)
 
+## Usage
+Sharp volcanic glass pieces ideal for improvised cutting tools.
+
 ## Technical Information
+- **Item ID**: `obsidian_flake`
+- **Rarity**: Rare
+
 - **Asset ID**: `obsidian_flake`
 - **Asset Path**: `items/obsidian_flake.png`

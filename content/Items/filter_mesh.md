@@ -20,10 +20,14 @@ Fine wire mesh from masks and vents; still usable for filtration rigs.
 - **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (0.5%)
 
 ## Usage
-### Crafting
-* Used to craft <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
-* Used to craft <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/hauler_pack|Hauler Pack]]
+
+### Used in Recipes
+* <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
+* <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/hauler_pack|Hauler Pack]]
 
 ## Technical Information
+- **Item ID**: `filter_mesh`
+- **Rarity**: Common
+
 - **Asset ID**: `filter_mesh`
 - **Asset Path**: `items/filter_mesh.png`
