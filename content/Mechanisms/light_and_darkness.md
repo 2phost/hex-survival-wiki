@@ -26,5 +26,5 @@ Players must manage light to safely navigate the map.
 ## Duration and Maintenance
 - **Degradation**: Light sources like the [[Items/starter_lamp|Starter Lamp]] have a limited lifespan (e.g., "1 day of light remaining").
 - **[[Mechanisms/power_grid|Midnight]] Expiration**: Mobile light sources (lamps) degrade at the [[Mechanisms/power_grid|Midnight]] transition. 
-- **The "Day Change" Trap**: If a lamp has only "1 day remaining" and the player is standing in an unlit hex during the [[Mechanisms/midnight_cycle|Midnight]] transition, the lamp expires. Without light, the player will begin accumulating **[[Vitals/fear|Fear]]** each hour. If this meter reaches its 3-bar maximum, the player is **"Consumed by Darkness."**
+- **The "Day Change" Trap**: If a lamp has only "1 day remaining" and the player is standing in an unlit hex during the [[Mechanisms/midnight_cycle|Midnight]] transition, the lamp expires. Without light, the player will begin accumulating **[[Vitals/fear|Fear]]** each hour. If this meter reaches its maximum, the player enters **Fear Paralysis** and is unable to move further into the unknown until light is recovered.
 - **Refueling**: [[Items/index|Items]] like the "Empty Lamp" require a "Battery" to be crafted into a functional light source.

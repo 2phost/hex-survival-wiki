@@ -35,4 +35,4 @@ The Base menu also displays **"Night Use"**, which indicates the predicted town-
 
 ## 4. Town Defenses
 The Town Bank also fuels the construction of the primary defense ring. Each upgrade increases the town's **Defense Value**, reducing the severity of nightly monster breaches.
-- **Primary Ring**: Progression starts at the **[[Base/constructions#Spike Trench|Spike Trench]]** and culminates in the **[[Base/constructions#Citadel Aegis|Citadel Aegis Core]]**.
+- **Primary Ring**: Progression starts at the **[[Base/constructions#SpikeTrench|Spike Trench]]** and culminates in the **[[Base/constructions#CitadelAegisCore|Citadel Aegis Core]]**.

@@ -17,7 +17,7 @@ Hex Survival is a collaborative game where players work together within a shared
 
 ## Death and Respawn
 - **Causes of Death**: 
- - **Darkness (Fear)**: Spending too much time in unlit areas without a light source. When the **[[Vitals/fear|Fear]]** meter reaches its maximum (3 bars), the player is **"Consumed by darkness."**
+ - **Darkness (Fear)**: Spending too much time in unlit areas without a light source. When the **[[Vitals/fear|Fear]]** meter reaches its maximum, the player enters **Fear Paralysis** and cannot move until light is found.
  - **Vitals**: Starvation or dehydration (to be confirmed).
 - **Player Scoring**: A first iteration of player scoring is active, with scores currently calculated upon death.
 - **Town Cycle**: Upon death, players do not necessarily restart the same instance.
