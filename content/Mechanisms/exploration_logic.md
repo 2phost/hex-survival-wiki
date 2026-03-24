@@ -18,6 +18,13 @@ The world is initially unknown, but visibility is now categorized into three dis
 - **Darkness Risk**: Moving into an unlit tile without a **[[Items/starter_lamp|Lamp]]** results in immediate death.
 - **[[Vitals/fear|Fear]] Accumulation**: Exploration in darkness increases the player's Fear stat, imposing penalties on survival activities.
 - **Shared Intelligence**: Exploration information is shared among all town members. However, this data is **day-scoped**, meaning the collective memory of the wasteland resets or shifts with the passage of time.
+- **Map Visibility**: Survivors can utilize an expanded zoom-out range on the world map to see more of their surroundings at once.
+- **Tile Depletion**: The pacing of tile depletion has been adjusted so scavenging pressure ramps more smoothly, preventing abrupt resource exhaustion in nearby locations.
+
+## Ground Loot
+Ground loot is now easier to track and read at a glance:
+- **Loot Markers**: Map markers for dropped items now display stack counts directly on the world view.
+- **Tile Inventory**: The inventory panel displays the total number of items currently on the player's tile.
 
 ## Eidetic Memory
 The **[[Skills/eidetic_memory|Eidetic Memory]]** skill allows players to retain a mental map of unlit areas they have previously visited. Higher levels of this skill increase the radius of "Remembered Tiles" visible around the player, reducing the need for constant re-exploration of established routes.

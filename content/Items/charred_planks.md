@@ -9,15 +9,14 @@ title: "Charred Planks"
 Half-burned construction wood that can still be repurposed.
 
 ## Where to Find
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (10.0%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (5.7%)
-- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (4.8%)
-- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (2.9%)
-- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (1.9%)
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (1.4%)
-- **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (1.2%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (0.5%)
-
+- **[[Biomes/forest|Forest]]**: 42% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 24% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 20% weight
+- **[[Biomes/mountain|Mountain]]**: 12% weight
+- **[[Biomes/desert|Desert]]**: 8% weight
+- **[[Biomes/industrial|Industrial]]**: 6% weight
+- **[[Biomes/oasis|Oasis]]**: 5% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2% weight
 ## Usage
 Half-burned construction wood that can still be repurposed.
 

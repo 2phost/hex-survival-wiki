@@ -26,5 +26,5 @@ The following levels in the **[[Skills/power_infrastructure|Power Infrastructure
 
 ## Grid Maintenance
 - **Industrial Support**: Powered poles adjacent to industrial tiles (Industrial, Electronic Store - Lab) allow those tiles to be powered for production.
-- **Sustainability**: Expansion of the grid increases the total daily power drain. This must be offset by building **[[Base/upgrades|Solar Panels]]** or refueling via the **[[Skills/generator_operations|Generator Operations]]** skill.
+- **Sustainability**: Expansion of the grid increases the total daily power drain. This must be offset by building **[[Base/constructions#SolarPanels|Solar Panels]]** or refueling via the **[[Skills/generator_operations|Generator Operations]]** skill.
 - **Town Failure**: If the town's power level reaches **0%**, the town instance ends for all players.

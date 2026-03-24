@@ -9,15 +9,14 @@ title: "Rusted Chain"
 Corroded chain links salvaged from gates, cranes, and fences.
 
 ## Where to Find
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (10.7%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (7.6%)
-- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (3.3%)
-- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (2.4%)
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (2.4%)
-- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (1.9%)
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (1.4%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (1.4%)
-
+- **[[Biomes/industrial|Industrial]]**: 45% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 32% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 14% weight
+- **[[Biomes/desert|Desert]]**: 10% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 10% weight
+- **[[Biomes/mountain|Mountain]]**: 8% weight
+- **[[Biomes/forest|Forest]]**: 6% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 6% weight
 ## Usage
 
 ### Used in Recipes

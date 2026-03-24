@@ -10,7 +10,6 @@ A bottle lantern made from bio-luminescent fungus. Provides light for 2 days.
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 A bottle lantern made from bio-luminescent fungus. Provides light for 2 days.
 

@@ -6,9 +6,9 @@ title: "Expedition Objectives"
 
 ## Overview
 [[Mechanisms/expedition_objectives|Expedition Objectives]] are time-sensitive tasks that provide rewards upon completion or penalties if ignored. 
-
-### Navigation Logic
-- **Relative Positioning**: Objective headings (e.g., SW) and distances (e.g., 2 hexes away) are **always relative to the player's current position**, not the Base. This means the heading will shift as the player moves.
+- **Rebalanced Difficulty**: Early-game tasks have been adjusted to require fewer materials and rely on more common finds, ensuring a smoother progression path for new towns.
+- **[[Mechanisms/faction_system|Town Faction]] Integration**: Completing main or side tasks now grants Faction points, which contribute to long-term headquarters support and periodic supply shipments.
+- **Persistent Notifications**: New task notifications now persist through refreshes and reconnects for the current day, preventing survivors from losing track of their assignments.
 
 ## Current Objectives
 
@@ -27,7 +27,7 @@ title: "Expedition Objectives"
 ## Objective Types
 
 ### 1. Story & Infrastructure Events
-- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[Base/upgrades|Research Lab]], [[Biomes/industrial|Industrial Zone]]) to progress the narrative or gain resources.
+- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[Base/constructions#ResearchLab|Research Lab]], [[Biomes/industrial|Industrial Zone]]) to progress the narrative or gain resources.
 - **Reward**: Critical materials or navigation data.
 
 ### 2. Threat Mitigation

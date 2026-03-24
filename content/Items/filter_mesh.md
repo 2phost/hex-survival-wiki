@@ -9,16 +9,15 @@ title: "Filter Mesh"
 Fine wire mesh from masks and vents; still usable for filtration rigs.
 
 ## Where to Find
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (8.6%)
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (5.7%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (4.8%)
-- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (4.3%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (2.4%)
-- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (1.4%)
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (1.0%)
-- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (1.0%)
-- **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (0.5%)
-
+- **[[Biomes/industrial|Industrial]]**: 36% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 24% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 20% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 18% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 10% weight
+- **[[Biomes/desert|Desert]]**: 6% weight
+- **[[Biomes/forest|Forest]]**: 4% weight
+- **[[Biomes/mountain|Mountain]]**: 4% weight
+- **[[Biomes/oasis|Oasis]]**: 2% weight
 ## Usage
 
 ### Used in Recipes

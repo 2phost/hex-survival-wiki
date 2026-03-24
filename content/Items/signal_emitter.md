@@ -13,7 +13,6 @@ Advanced transmission module produced by powered Electronic Labs.
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 ### Construction
 - Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]

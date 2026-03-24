@@ -7,11 +7,10 @@ title: "Chemical Sludge"
 ![[assets/items/chemical_sludge.png|150]]
 
 ## Where to Find
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (16.6%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (4.8%)
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (3.6%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (1.2%)
-
+- **[[Biomes/industrial|Industrial]]**: 70% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 20% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 15% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 5% weight
 ## Usage
 ### Construction
 - Required for [[Base/constructions#FuelRefinery|Fuel Refinery]]

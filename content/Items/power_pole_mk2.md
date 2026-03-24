@@ -10,7 +10,6 @@ Upgraded relay pole with a stronger emitter. When connected to town power, it il
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 Upgraded relay pole with a stronger emitter. When connected to town power, it illuminates its own tile and all adjacent tiles.
 

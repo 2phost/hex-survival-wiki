@@ -7,16 +7,15 @@ title: "Old Glass Bottle"
 ![[assets/items/old_glass_bottle.png|150]]
 
 ## Where to Find
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (10.7%)
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (9.5%)
-- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (6.2%)
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (5.9%)
-- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (4.8%)
-- **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (4.8%)
-- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (3.6%)
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (2.4%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (1.2%)
-
+- **[[Biomes/ruined_city|Ruined City]]**: 45% weight
+- **[[Biomes/industrial|Industrial]]**: 40% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 26% weight
+- **[[Biomes/forest|Forest]]**: 25% weight
+- **[[Biomes/desert|Desert]]**: 20% weight
+- **[[Biomes/oasis|Oasis]]**: 20% weight
+- **[[Biomes/mountain|Mountain]]**: 15% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 10% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 5% weight
 ## Usage
 
 ### Used in Recipes

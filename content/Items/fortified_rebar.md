@@ -9,15 +9,14 @@ title: "Fortified Rebar"
 Bent but sturdy steel rods bundled for emergency fortifications.
 
 ## Where to Find
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (5.7%)
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (3.8%)
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (1.0%)
-- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (0.5%)
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (0.5%)
-- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (0.5%)
-- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (0.5%)
-- **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (0.2%)
-
+- **[[Biomes/ruined_city|Ruined City]]**: 24% weight
+- **[[Biomes/industrial|Industrial]]**: 16% weight
+- **[[Biomes/forest|Forest]]**: 4% weight
+- **[[Biomes/desert|Desert]]**: 2% weight
+- **[[Biomes/mountain|Mountain]]**: 2% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 2% weight
+- **[[Biomes/oasis|Oasis]]**: 1% weight
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SpikeTrench|Spike Trench]]

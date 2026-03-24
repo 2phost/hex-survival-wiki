@@ -9,15 +9,14 @@ title: "Copper Wiring"
 Electrical wiring for connecting solar panels to the grid.
 
 ## Where to Find
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (10.7%)
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (9.5%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (7.1%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (4.8%)
-- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (4.3%)
-- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (2.4%)
-- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (1.2%)
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (1.2%)
-
+- **[[Biomes/industrial|Industrial]]**: 45% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 40% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 30% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 20% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 18% weight
+- **[[Biomes/mountain|Mountain]]**: 10% weight
+- **[[Biomes/desert|Desert]]**: 5% weight
+- **[[Biomes/forest|Forest]]**: 5% weight
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SolarPanels|Solar Panels]]

@@ -13,7 +13,6 @@ Industrial motion driver produced by powered Industrial facilities for heavy gat
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 ### Construction
 - Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]

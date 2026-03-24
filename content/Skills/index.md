@@ -13,6 +13,8 @@ graph LR
   AP[AP Capacity]
   SC[Stim Conditioning]
   RR[Rest Recovery]
+  PR[Preparedness]
+  MF[Mental Fortitude]
  end
 
  subgraph L[Logistics]
@@ -43,6 +45,7 @@ graph LR
  AP -->|Lvl 1| SC
  AP -->|Lvl 1| WM
  AP -->|Lvl 1| EI
+ AP -->|Lvl 1| MF
  AP -->|Lvl 2| RR
  
  SE -->|Lvl 1| SL
@@ -55,6 +58,8 @@ graph LR
  click AP "/Skills/ap_capacity"
  click RR "/Skills/rest_recovery"
  click SC "/Skills/stim_conditioning"
+ click PR "/Skills/preparedness"
+ click MF "/Skills/mental_fortitude"
  click SE "/Skills/scavenger_eye"
  click PM "/Skills/pack_mule"
  click SL "/Skills/salvage"
@@ -74,6 +79,8 @@ Primary skills for basic existence and movement.
 | Skill | Effect |
 | :--- | :--- |
 | **[[Skills/ap_capacity|AP Capacity]]** | Increases max Action Points (+1 per level). |
+| **[[Skills/preparedness|Preparedness]]** | Start with gear based on level. |
+| **[[Skills/mental_fortitude|Mental Fortitude]]** | Increases maximum Fear cap. |
 | **[[Skills/rest_recovery|Rest Recovery]]** | Chance for +1 extra AP per hourly rest. |
 | **[[Skills/stim_conditioning|Stim Conditioning]]** | Unlock the use of high-tier AP Stims. |
 

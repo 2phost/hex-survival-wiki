@@ -13,7 +13,6 @@ Charge-dense capacitor produced by powered Industrial facilities for perimeter s
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]

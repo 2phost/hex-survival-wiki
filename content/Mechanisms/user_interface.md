@@ -16,11 +16,16 @@ The primary interface for player actions is located at the bottom of the screen:
 ## Inventory & Logistics
 - **Relocated Actions**: To improve the flow of material management, the **Deposit**, **Deliver** (via drone), and **Drop-All** actions have been moved to more accessible positions within the inventory and town interaction panels.
 - **Recipe Book UX**: Each row in the Recipe Book has been enhanced with new icons and a refined layout to make identifying requirements easier at a glance.
-- **Town Resource UI**: Adjusted to display a wider variety of shared town assets and materials.
+- **Town Resource Sidebar**: The sidebar layout has been expanded so that resource icons use the full available width, significantly improving scanability of base stock levels on larger side panels.
 - **Base Management UI**: Enhanced layout for managing the Town Bank and construction projects.
 - **Cargo Drone Panel**: A dedicated interface that allows players to select items and send them back to the base from the field.
 - **Upgrade Readability**: The Base Upgrade menu features improved spacing, vertical resource scrolling, clearer cost labels, and explicit build-effect descriptions. Upgrade rows have been redesigned with increased height and proper item names.
 - **Tooltips**: Improved base panel tooltips that remain visible and stable while moving the pointer over items.
+
+## Quest & Objective UX
+- **Journal**: Refreshed Journal graphics for better immersion. The panel no longer auto-opens on every login, allowing for a cleaner start to each session.
+- **Mission Objectives**: Centered layout for the mission objectives panel to improve focus.
+- **Story-Quest Indicators**: The story-quest unread indicator has been moved onto the main action button for better visibility.
 
 
 ## Suggestions & Feedback Panel

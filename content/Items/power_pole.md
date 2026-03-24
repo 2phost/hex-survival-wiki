@@ -10,7 +10,6 @@ Deployable relay pole. Needed for the Place Pole action.
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 Deployable relay pole. Needed for the Place Pole action.
 

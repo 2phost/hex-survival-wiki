@@ -13,7 +13,7 @@ These suggestions are intended for the developers to improve the player experien
 
 ## 2. [[Base/index|Infrastructure]] & Base Building
 - **Circular Battery Economy**: Instead of **Batteries** disappearing after use, allow the **[[Biomes/electronic_lab|Electronic Store - Lab]]** to have a "Charging Station." 
-- **Remote Fabrication**: Add a late-game upgrade to the **[[Base/upgrades|Research Lab]]** that allows players to start **[[Mechanisms/facility_fabrication|Fabrication]]** projects remotely from the Base menu, provided the target facility is powered.
+- **Remote Fabrication**: Add a late-game upgrade to the **[[Base/constructions#ResearchLab|Research Lab]]** that allows players to start **[[Mechanisms/facility_fabrication|Fabrication]]** projects remotely from the Base menu, provided the target facility is powered.
 - **Defense Maintenance**: Introduce a "Repair" action for base defenses that have been damaged during a siege, requiring a fraction of the original build materials.
 
 ## 3. Light & Darkness Refinement

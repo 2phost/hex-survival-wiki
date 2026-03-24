@@ -13,7 +13,6 @@ Heavy mechanical actuator produced by powered Industrial facilities.
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]

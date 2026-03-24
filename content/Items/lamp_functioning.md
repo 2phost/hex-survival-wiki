@@ -10,7 +10,6 @@ Provides illumination when carried; lights only the tile you stand on.
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 Provides illumination when carried; lights only the tile you stand on.
 

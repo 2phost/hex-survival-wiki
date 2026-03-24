@@ -7,15 +7,14 @@ title: "Scrap Metal"
 ![[assets/items/scrap_metal.png|150]]
 
 ## Where to Find
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (20.2%)
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (14.3%)
-- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (5.2%)
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (4.8%)
-- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (4.3%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (2.4%)
-- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (2.4%)
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (1.2%)
-
+- **[[Biomes/ruined_city|Ruined City]]**: 85% weight
+- **[[Biomes/industrial|Industrial]]**: 60% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 22% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 20% weight
+- **[[Biomes/desert|Desert]]**: 18% weight
+- **[[Biomes/mountain|Mountain]]**: 10% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 10% weight
+- **[[Biomes/forest|Forest]]**: 5% weight
 ## Usage
 ### Construction
 - Required for [[Base/constructions#BarbedWire|Barbed Wire Perimeter]]

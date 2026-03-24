@@ -9,13 +9,12 @@ title: "Shock Maul"
 A heavy striking maul powered by reclaimed capacitors for brutal impact.
 
 ## Where to Find
-- Forest
-- Ruined City
-- Mountain
-- Industrial
-- Electronic Lab
-- Hidden Vault
-
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 16% weight
+- **[[Biomes/industrial|Industrial]]**: 14% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 14% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 8% weight
+- **[[Biomes/mountain|Mountain]]**: 4% weight
+- **[[Biomes/forest|Forest]]**: 2% weight
 ## Usage
 ### Combat
 - **Damage**: 4

@@ -9,11 +9,10 @@ title: "Plasma Lance"
 A rare pre-collapse polearm retrofitted with a stabilized plasma channel.
 
 ## Where to Find
-- Ruined City
-- Industrial
-- Electronic Lab
-- Hidden Vault
-
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 18% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 8% weight
+- **[[Biomes/industrial|Industrial]]**: 4% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 2% weight
 ## Usage
 ### Combat
 - **Damage**: 6

@@ -3,7 +3,7 @@ title: "AP Capacity"
 ---
 
 # Skill: [[Skills/ap_capacity|AP Capacity]]
-- **Description**: Permanent upgrade to your maximum [[Vitals/action_points|Action Points]].
+- **Description**: +1 max Action Points per level. Permanent character upgrade.
 - **Max Level**: 5
 - **Effect**: +1 max AP per level.
 - **Prerequisites**: None.

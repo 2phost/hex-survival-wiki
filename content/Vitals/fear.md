@@ -12,16 +12,18 @@ Fear is a psychological status system added on March 5, 2026. it tracks the ment
 ## Accumulation & Recovery
 - **Darkness Increase**: Entering dark tiles (no [[Items/power_pole|Power Pole]] or Base light) without an active [[Items/starter_lamp|Lamp]] increases Fear.
 - **Safe Recovery**: Fear decreases over time when the player is **Resting** on a lit tile.
+- **Town Reset**: Joining a new town correctly resets Fear to 0.
 
 ## Penalties
 Fear imposes significant penalties on player efficiency:
 - **[[Mechanisms/scavenging_logic|Scavenging]] (Search)**: -10% success chance per Fear point (added to the base darkness penalty).
 - **[[Skills/index|Skill Checks]]**: -5% success chance per Fear point for all non-search skill checks.
 
-## Fear Death
-The Fear meter consists of **3 bars**.
-- **Max Fear**: Reaching 3/3 Fear results in immediate death: **"Consumed by darkness."**
-- **Mental Strain**: This represents the final collapse of the survivor's psyche when lost in the void without light.
+## Fear Paralysis
+The Fear meter default consists of **3 bars**.
+- **Expansion**: The **[[Skills/mental_fortitude|Mental Fortitude]]** skill can increase this cap by up to 3 points (total of 6).
+- **Max Fear**: Reaching maximum Fear results in **Fear Paralysis**. The player is unable to move to new tiles until Fear is recovered in a lit area or through resting.
+- **Mental Strain**: This represents the psychological block where the survivor is too terrified to step further into the unknown.
 
 ## Technical Details
 - **HUD**: Features a 3-segment Fear bar and a high-risk visual pulse near the limit.

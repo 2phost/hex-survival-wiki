@@ -7,14 +7,13 @@ title: "Battery"
 ![[assets/items/battery.png|150]]
 
 ## Where to Find
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (14.3%)
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (7.1%)
-- **<img src="../assets/tiles/farm_facility_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/farm_facility|Human Farm Facility]]** (2.9%)
-- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (2.4%)
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (2.4%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (2.4%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (1.2%)
-
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 60% weight
+- **[[Biomes/industrial|Industrial]]**: 30% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 12% weight
+- **[[Biomes/desert|Desert]]**: 10% weight
+- **[[Biomes/forest|Forest]]**: 10% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 10% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 5% weight
 ## Usage
 ### Construction
 - Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]

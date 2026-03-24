@@ -9,11 +9,10 @@ title: "Gasoline Generator"
 This gasoline generator can probably power your house for a long time.
 
 ## Where to Find
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (3.8%)
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (2.9%)
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (2.4%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (1.4%)
-
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 16% weight
+- **[[Biomes/industrial|Industrial]]**: 12% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 10% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 6% weight
 ## Usage
 This gasoline generator can probably power your house for a long time.
 

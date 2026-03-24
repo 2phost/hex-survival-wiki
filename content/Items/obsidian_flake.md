@@ -9,14 +9,13 @@ title: "Obsidian Flake"
 Sharp volcanic glass pieces ideal for improvised cutting tools.
 
 ## Where to Find
-- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (6.2%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (2.4%)
-- **<img src="../assets/tiles/desert_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/desert|Desert / Sand]]** (1.9%)
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (1.0%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (1.0%)
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (0.5%)
-- **<img src="../assets/tiles/oasis_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/oasis|Oasis]]** (0.5%)
-
+- **[[Biomes/mountain|Mountain]]**: 26% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 10% weight
+- **[[Biomes/desert|Desert]]**: 8% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 4% weight
+- **[[Biomes/industrial|Industrial]]**: 4% weight
+- **[[Biomes/forest|Forest]]**: 2% weight
+- **[[Biomes/oasis|Oasis]]**: 2% weight
 ## Usage
 Sharp volcanic glass pieces ideal for improvised cutting tools.
 

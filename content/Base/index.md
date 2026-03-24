@@ -1,8 +1,8 @@
 ---
-title: "Base Guide"
+title: "Base"
 ---
 
-# Hex Survival Base Guide
+# Hex Survival Base
 
 The Base is the heart of every town. It is the starting point for all scavengers and the central hub for the town's survival efforts.
 
@@ -14,8 +14,5 @@ A general introduction to the Base tile, its inherent properties, and its role i
 ### [[Base/management|Base Management & Bank]]
 Learn how to use the "Enter Base" menu, manage shared resources in the Bank, and refuel the town generators.
 
-### [[Base/constructions|Base Constructions]]
-A complete list of structures that can be built at the base to improve survival, defense, and resource production.
-
-### [[Base/upgrades|Advanced Upgrades]]
-Details on long-term base improvements like Solar Panels, Battery Storage, and the Research Lab.
+### [[Base/constructions|Constructions]]
+A complete list of structures that can be built at the base to improve survival, defense, and resource production, including advanced technology like Solar Panels and Research Labs.

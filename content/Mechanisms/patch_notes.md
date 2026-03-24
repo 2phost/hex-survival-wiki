@@ -4,6 +4,49 @@ title: "Patch Notes"
 
 # [[Mechanisms/patch_notes|Patch Notes]]
 
+## Tuesday, Mar 24, 2026: Journal & Quest Refinement
+* **Journal Updates**: Refreshed Journal graphics and disabled auto-opening on every login for a cleaner start.
+* **Quest & Objective UX**: 
+    * Updated quest interface and centered the mission objectives panel layout.
+    * Moved the story-quest unread indicator onto the main action button for better visibility.
+* **Morning Briefing Enhancements**: Improved reliability and detail by preferring resolved daily reports and showing the full recovered-item dataset in salvage summaries.
+* **Expanded Map Controls**: Added additional zoom-out range on the world map.
+
+---
+
+## Monday, Mar 23, 2026: Preparedness & Mental Fortitude
+* **Preparedness Skill**: Added the **[[Skills/preparedness|Preparedness]]** skill. New survivors now start with gear based on their skill level (Starter Lamp -> Rations/Water -> Stim Pack -> Shiv -> Salvager Pack).
+* **Mental Fortitude Skill**: Added the **[[Skills/mental_fortitude|Mental Fortitude]]** skill, raising a survivor's maximum fear cap by up to three points.
+* **Command Objective Balancing**: Rebalanced early-game tasks to require fewer materials and rely on more common finds.
+* **Task Notification Persistence**: Daily "new task" notifications now persist through refreshes and reconnects for the current day.
+* **Fear Reset**: Joining a new town now correctly resets Fear to 0.
+* **Multiplayer Stability**: Improved presence handoff during reconnects to reduce interference between old and active survivor states.
+* **Scavenging Pacing**: Adjusted tile depletion so scavenging pressure ramps more smoothly.
+* **Forum Enhancements**: Rebuilt composer with emoji shortcut buttons and refined picker control sizing.
+* **Visual Map Feedback**: Clicking shared map tiles from chat now gives clearer visual jump feedback.
+* **Loot Visibility**: Map loot markers now display stack counts directly, and the inventory panel shows total items on the current tile.
+
+---
+
+## Friday, Mar 20, 2026: Faction & Supply Reports
+* **Town Faction System**: Added a new **[[Mechanisms/faction_system|Town Faction]]** system tied to daily command objectives. Each completed main or side task grants faction for the town.
+* **HQ Supply Reports**: Introduced headquarters supply reports at midnight on Days 5, 10, 15, and 20. Reports grade task completion and deliver scaling rewards (Common -> Mythic).
+* **Morning Briefing Update**: Briefings now explain the faction system, showing faction gained, total standing, and HQ shipment details.
+
+---
+
+## Tuesday, Mar 17, 2026: Morning Report & Story Expansion
+* **Daily Status Loop**: Expanded Morning Report access via both the action button and a global hotkey. Wired additional GameScene/debug paths to keep report state in sync.
+* **Hardened Death Reporting**: Offline midnight deaths are now announced back to the originating town more reliably.
+* **Morning Report & Forum UX**: Refined panel behavior, improved input handling, and server-side report flow cleanup.
+* **Resource Sidebar Expansion**: Town resource sidebar icons now use the full available width, improving scanability.
+* **Power-Pole Robustness**: Fixed state preservation across server restarts and corrected transparency/rendering edge cases.
+* **Story Content Push**: Substantial update to command story data, extended task/story progression logic, and narrative event surface consistency.
+* **Internal Tooling Upgrades**: Major UI/UX improvements in the tools app (layout, styling, richer interactions) and server/tooling integration updates for faster iteration.
+* **General Upkeep**: Broad data/config upkeep across items, skill-tree touchpoints, and related server logic.
+
+---
+
 ## Sunday, Mar 15, 2026: Game Architecture & Town Reporting
 * **GameScene Refactor**: Large-scale modularization of scene logic (init, update, player state, day cycle, etc.) for better maintainability.
 * **Enhanced UI Orchestration**: Improved ownership and management of inventory, town-fallen, and base-upgrade overlays.

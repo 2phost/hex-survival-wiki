@@ -13,7 +13,6 @@ Multi-spectrum sensor package produced by powered Electronic Labs for early-hord
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]

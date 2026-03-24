@@ -13,7 +13,6 @@ Precision-forged industrial plating produced by powered Industrial facilities. W
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 ### Construction
 - Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]

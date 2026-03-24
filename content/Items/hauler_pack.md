@@ -9,9 +9,9 @@ title: "Hauler Pack"
 An uncommon pre-collapse load-bearing rig rebuilt with improvised parts. Increases carried inventory by +4 slots while carried.
 
 ## Where to Find
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (0.5%)
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (0.2%)
-
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2% weight
+- **[[Biomes/desert|Desert]]**: 1% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1% weight
 ## Usage
 An uncommon pre-collapse load-bearing rig rebuilt with improvised parts. Increases carried inventory by +4 slots while carried.
 

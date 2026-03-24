@@ -10,7 +10,6 @@ Repaired optics that improve your field awareness. Use to reveal the biome of ad
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 Repaired optics that improve your field awareness. Use to reveal the biome of adjacent hexes while moving.
 ### Consumable Effects

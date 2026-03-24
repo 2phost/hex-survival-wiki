@@ -9,11 +9,10 @@ title: "Ionized Filament"
 Conductive filament that still holds residual charge.
 
 ## Where to Find
-- **<img src="../assets/tiles/electronics_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/electronic_lab|Electronic Store / Lab]]** (6.7%)
-- **<img src="../assets/tiles/hidden_vault_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/hidden_vault|Hidden Vault]]** (4.3%)
-- **<img src="../assets/tiles/industrial_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/industrial|Industrial Zone]]** (2.9%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (1.4%)
-
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 28% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 18% weight
+- **[[Biomes/industrial|Industrial]]**: 12% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 6% weight
 ## Usage
 Conductive filament that still holds residual charge.
 

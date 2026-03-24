@@ -9,10 +9,9 @@ title: "Worn Leather Pack"
 Decayed travel pack. Straps and buckles yield some materials.
 
 ## Where to Find
-- **<img src="../assets/tiles/forest_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/forest|Forest]]** (7.1%)
-- **<img src="../assets/tiles/mountain_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/mountain|Mountain / Quarry]]** (4.8%)
-- **<img src="../assets/tiles/ruined_city_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/ruined_city|Ruined City]]** (3.6%)
-
+- **[[Biomes/forest|Forest]]**: 30% weight
+- **[[Biomes/mountain|Mountain]]**: 20% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 15% weight
 ## Usage
 
 ### Used in Recipes

@@ -21,7 +21,10 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Siege Rules**: Town overrun if **Attack Strength > Town Defense**.
 - **Combat Mechanics**: Weapon damage converts directly to kills. Weapons have a break chance.
 - **AP Costs**: 1 AP/hex movement. **0 AP** for scavenging/skills/inventory actions.
-- **Fear System**: 3-bar max; death at 3/3 Fear. Accumulates in darkness; recovers in light.
+- **Fear System**: 3-bar default; **Fear Paralysis** (no movement) at max. Can be expanded via **[[Skills/mental_fortitude|Mental Fortitude]]**.
+- **Town Faction System**: Performance-based standing with HQ. Completing objectives grants points.
+- **HQ Supply Reports**: Periodic shipments (Days 5, 10, 15, 20) with tiered rewards based on town performance.
+- **Cleanse Vial**: Consumable item that restores one corrupted tile to its base biome state.
 - **Light Radius**: Power Poles and Lamps illuminate only the **current tile (0-radius)**.
 - **Town Failure**: Town ends if power reaches **0%**.
 - **Midnight Cycle**: 40% Hunger/Thirst drain at Midnight.

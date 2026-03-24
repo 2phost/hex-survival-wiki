@@ -13,7 +13,6 @@ Precision relay produced by powered Electronic Labs for automated fire-control s
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 ### Construction
 - Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]

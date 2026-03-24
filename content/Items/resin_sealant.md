@@ -13,7 +13,6 @@ Hardened organic sealant cultivated in powered Farm facilities to weatherproof f
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]
