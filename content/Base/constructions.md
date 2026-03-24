@@ -9,7 +9,7 @@ Constructing facilities at the **[[Base/overview|Base]]** is essential for long-
 ## 📦 Resource Production & Utility
 These facilities provide a steady stream of survival vitals or tactical data to the Town Bank at **[[Mechanisms/midnight_cycle|Midnight]]**.
 
-| Facility | Requirements | Research Necessary? | Only from Production | Effect / Daily Output |
+| Facility | Requirements | Research Necessary? | Only from Production | Effect |
 | :--- | :--- | :--- | :--- | :--- |
 | **[[Base/constructions#HydroponicPatch|Hydroponic Patch]]** | <span style="white-space: nowrap;">2&nbsp;<img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/timber|Raw&nbsp;Timber]]</span><br><span style="white-space: nowrap;">1&nbsp;<img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stone|Hardened&nbsp;Stone]]</span><br><span style="white-space: nowrap;">1&nbsp;<img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_metal|Scrap&nbsp;Metal]]</span> | No | - | Produces **Rations** and **Salad** |
 | **[[Base/constructions#Well|Well]]** | <span style="white-space: nowrap;">2&nbsp;<img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/timber|Raw&nbsp;Timber]]</span><br><span style="white-space: nowrap;">3&nbsp;<img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stone|Hardened&nbsp;Stone]]</span> | No | - | Produces **10 Water** |
@@ -45,7 +45,7 @@ Individual tactical upgrades that can be built independently.
 ## ⚙️ Technology & Power
 Unlocks advanced crafting and reduces resource consumption.
 
-| Facility | Requirements | Research Necessary? | Only from Production | Effect / Daily Output |
+| Facility | Requirements | Research Necessary? | Only from Production | Effect |
 | :--- | :--- | :--- | :--- | :--- |
 | **[[Base/constructions#SolarPanels|Solar Panels]]** | <span style="white-space: nowrap;">2&nbsp;<img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/solar_cell|Solar&nbsp;Cell]]</span><br><span style="white-space: nowrap;">1&nbsp;<img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/circuit_boards|Circuit&nbsp;Boards]]</span><br><span style="white-space: nowrap;">2&nbsp;<img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/copper_wiring|Copper&nbsp;Wiring]]</span><br><span style="white-space: nowrap;">1&nbsp;<img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_metal|Scrap&nbsp;Metal]]</span> | Yes | Solar Cell | Reduces daily base power drain by **10%** |
 | **[[Base/constructions#ResearchLab|Research Lab]]** | <span style="white-space: nowrap;">4&nbsp;<img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_metal|Scrap&nbsp;Metal]]</span> | Yes | - | Enables research projects and data processing |
