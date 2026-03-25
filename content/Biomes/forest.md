@@ -13,7 +13,7 @@ title: "Forest"
 
 **Description**: Dense, mutated woodland.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/timber|Raw&nbsp;Timber]]</span> | 14.9% |

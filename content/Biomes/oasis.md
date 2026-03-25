@@ -13,7 +13,7 @@ title: "Oasis"
 
 **Description**: A rare haven of water and life.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/water.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/water|Clean&nbsp;Water]]</span> | 31.7% |

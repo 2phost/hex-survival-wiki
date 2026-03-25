@@ -14,7 +14,7 @@ title: "Corrupted Tile II"
 **Description**: A moderate-intensity zone of corruption.
 See **[[Mechanisms/monster_hordes|Monster Hordes]]** for details on spawning and movement behavior.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 ## Technical Information

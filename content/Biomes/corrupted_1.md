@@ -14,7 +14,7 @@ title: "Corrupted Tile I"
 **Description**: A low-intensity zone of corruption that serves as a primary spawning ground for monster hordes.
 See **[[Mechanisms/monster_hordes|Monster Hordes]]** for details on spawning and movement behavior.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 ## Technical Information

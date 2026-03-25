@@ -13,7 +13,7 @@ title: "Human Farm Facility"
 
 **Description**: A large-scale agricultural complex.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rations|Rations]]</span> | 18.0% |

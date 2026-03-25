@@ -13,7 +13,7 @@ title: "Mountain / Quarry"
 
 **Description**: Rocky and elevated terrain.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stone|Hardened&nbsp;Stone]]</span> | 21.1% |

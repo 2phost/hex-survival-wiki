@@ -13,7 +13,7 @@ title: "Industrial Zone"
 
 **Description**: Abandoned factories and heavy machinery centers.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/chemical_sludge|Chemical&nbsp;Sludge]]</span> | 5.8% |

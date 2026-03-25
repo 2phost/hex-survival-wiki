@@ -13,7 +13,7 @@ title: "Ruined City"
 
 **Description**: Urban remains of a pre-collapse metropolis.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_metal|Scrap&nbsp;Metal]]</span> | 8.7% |

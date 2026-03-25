@@ -13,7 +13,7 @@ title: "Electronic Store / Lab"
 
 **Description**: High-tech ruins filled with delicate components.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/circuit_boards|Circuit&nbsp;Boards]]</span> | 7.8% |

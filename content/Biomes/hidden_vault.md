@@ -13,7 +13,7 @@ title: "Hidden Vault"
 
 **Description**: A sealed pre-collapse bunker filled with experimental technology.
 
-## Loot Tables (Absolute Success Probability (% per hour))
+## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ancient_relic|Ancient&nbsp;Relic]]</span> | 12.1% |
