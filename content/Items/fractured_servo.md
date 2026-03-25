@@ -9,12 +9,12 @@ title: "Fractured Servo"
 Damaged actuator unit with salvageable precision parts.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 28% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 24% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 16% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 14% weight
-- **[[Biomes/desert|Desert]]**: 1% weight
-- **[[Biomes/mountain|Mountain]]**: 1% weight
+- **[[Biomes/industrial|Industrial]]**: 2.3%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.5%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.9%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.4%
+- **[[Biomes/desert|Desert]]**: 0.2%
+- **[[Biomes/mountain|Mountain]]**: 0.2%
 ## Usage
 Damaged actuator unit with salvageable precision parts.
 

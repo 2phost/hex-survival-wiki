@@ -9,15 +9,15 @@ title: "Salvaged Fabric"
 Weathered cloth strips and tarp fibers useful for patching gear.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 35% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 22% weight
-- **[[Biomes/forest|Forest]]**: 18% weight
-- **[[Biomes/desert|Desert]]**: 16% weight
-- **[[Biomes/industrial|Industrial]]**: 12% weight
-- **[[Biomes/mountain|Mountain]]**: 8% weight
-- **[[Biomes/oasis|Oasis]]**: 6% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 4% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 3% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 3.6%
+- **[[Biomes/farm_facility|Farm Facility]]**: 4.4%
+- **[[Biomes/forest|Forest]]**: 3.3%
+- **[[Biomes/desert|Desert]]**: 4.0%
+- **[[Biomes/industrial|Industrial]]**: 1.0%
+- **[[Biomes/mountain|Mountain]]**: 1.9%
+- **[[Biomes/oasis|Oasis]]**: 2.1%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.4%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.4%
 ## Usage
 
 ### Used in Recipes

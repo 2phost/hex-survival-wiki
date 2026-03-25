@@ -11,11 +11,11 @@ title: "Salad"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/farm_facility|Farm Facility]]**: 45% weight
-- **[[Biomes/forest|Forest]]**: 8% weight
-- **[[Biomes/oasis|Oasis]]**: 8% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 2% weight
-- **[[Biomes/industrial|Industrial]]**: 1% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 9.0%
+- **[[Biomes/forest|Forest]]**: 1.5%
+- **[[Biomes/oasis|Oasis]]**: 2.8%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.2%
+- **[[Biomes/industrial|Industrial]]**: 0.1%
 ## Usage
 ### Consumable Effects
 - **Hunger**: -20

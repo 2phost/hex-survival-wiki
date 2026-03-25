@@ -9,14 +9,14 @@ title: "Copper Wiring"
 Electrical wiring for connecting solar panels to the grid.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 45% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 40% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 30% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 20% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 18% weight
-- **[[Biomes/mountain|Mountain]]**: 10% weight
-- **[[Biomes/desert|Desert]]**: 5% weight
-- **[[Biomes/forest|Forest]]**: 5% weight
+- **[[Biomes/industrial|Industrial]]**: 3.7%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.2%
+- **[[Biomes/ruined_city|Ruined City]]**: 3.1%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.4%
+- **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
+- **[[Biomes/mountain|Mountain]]**: 2.3%
+- **[[Biomes/desert|Desert]]**: 1.2%
+- **[[Biomes/forest|Forest]]**: 0.9%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SolarPanels|Solar Panels]]

@@ -9,12 +9,12 @@ title: "Ceramic Armor Tile"
 Dense ceramic plate salvaged from military stockpiles.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 12% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 8% weight
-- **[[Biomes/mountain|Mountain]]**: 6% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 5% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 4% weight
-- **[[Biomes/desert|Desert]]**: 1% weight
+- **[[Biomes/industrial|Industrial]]**: 1.0%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.0%
+- **[[Biomes/mountain|Mountain]]**: 1.4%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.4%
+- **[[Biomes/desert|Desert]]**: 0.2%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]

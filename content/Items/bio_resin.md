@@ -9,14 +9,14 @@ title: "Bio Resin"
 Sticky organic resin harvested from mutated plant growth.
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 36% weight
-- **[[Biomes/oasis|Oasis]]**: 20% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 18% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 12% weight
-- **[[Biomes/mountain|Mountain]]**: 10% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 8% weight
-- **[[Biomes/industrial|Industrial]]**: 6% weight
-- **[[Biomes/desert|Desert]]**: 3% weight
+- **[[Biomes/forest|Forest]]**: 6.7%
+- **[[Biomes/oasis|Oasis]]**: 7.0%
+- **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.4%
+- **[[Biomes/mountain|Mountain]]**: 2.3%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.8%
+- **[[Biomes/industrial|Industrial]]**: 0.5%
+- **[[Biomes/desert|Desert]]**: 0.7%
 ## Usage
 Sticky organic resin harvested from mutated plant growth.
 

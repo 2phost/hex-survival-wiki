@@ -12,10 +12,10 @@ Refined high-density biofuel cell. Refills 40% town power and requires Generator
 - **Skill**: [[Skills/generator_operations|Generator Operations]] (Level 2)
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 16% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 10% weight
-- **[[Biomes/forest|Forest]]**: 8% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 8% weight
+- **[[Biomes/industrial|Industrial]]**: 1.3%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.0%
+- **[[Biomes/forest|Forest]]**: 1.5%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.0%
 ## Usage
 Refined high-density biofuel cell. Refills 40% town power and requires Generator Operations II.
 

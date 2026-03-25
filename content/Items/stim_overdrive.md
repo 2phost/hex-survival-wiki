@@ -17,10 +17,10 @@ Experimental overdrive dose that restores 6 AP. Any AP over your max is lost. Gr
 - **Skill**: [[Skills/stim_conditioning|Stim Conditioning]] (Level 3)
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 10% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 4% weight
-- **[[Biomes/industrial|Industrial]]**: 2% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 1% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.2%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.4%
+- **[[Biomes/industrial|Industrial]]**: 0.2%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.1%
 ## Usage
 Experimental overdrive dose that restores 6 AP. Any AP over your max is lost. Greatly increases hunger and thirst.
 ### Consumable Effects

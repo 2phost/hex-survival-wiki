@@ -9,11 +9,11 @@ title: "Micro Fuse"
 Tiny protective fuse used in sensitive control circuits.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 46% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 20% weight
-- **[[Biomes/industrial|Industrial]]**: 18% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 8% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 2% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.8%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.4%
+- **[[Biomes/industrial|Industrial]]**: 1.5%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.8%
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.4%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]

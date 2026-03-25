@@ -9,15 +9,15 @@ title: "Fungal Spores"
 Luminous spore clusters that thrive in damp and irradiated zones.
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 32% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 26% weight
-- **[[Biomes/oasis|Oasis]]**: 18% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 12% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 10% weight
-- **[[Biomes/mountain|Mountain]]**: 8% weight
-- **[[Biomes/industrial|Industrial]]**: 6% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 4% weight
-- **[[Biomes/desert|Desert]]**: 2% weight
+- **[[Biomes/forest|Forest]]**: 5.9%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.1%
+- **[[Biomes/oasis|Oasis]]**: 6.3%
+- **[[Biomes/farm_facility|Farm Facility]]**: 2.4%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.0%
+- **[[Biomes/mountain|Mountain]]**: 1.9%
+- **[[Biomes/industrial|Industrial]]**: 0.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.4%
+- **[[Biomes/desert|Desert]]**: 0.5%
 ## Usage
 Luminous spore clusters that thrive in damp and irradiated zones.
 

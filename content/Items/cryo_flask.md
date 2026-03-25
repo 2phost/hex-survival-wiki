@@ -9,11 +9,11 @@ title: "Cryo Flask"
 Sealed thermal flask once used for preserving volatile samples.
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 30% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 22% weight
-- **[[Biomes/industrial|Industrial]]**: 10% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 4% weight
-- **[[Biomes/mountain|Mountain]]**: 2% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.6%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.3%
+- **[[Biomes/industrial|Industrial]]**: 0.8%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.4%
+- **[[Biomes/mountain|Mountain]]**: 0.5%
 ## Usage
 Sealed thermal flask once used for preserving volatile samples.
 

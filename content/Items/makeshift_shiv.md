@@ -9,15 +9,15 @@ title: "Makeshift Shiv"
 A sharpened scrap spike wrapped with cloth. Basic self-defense weapon with high wear.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 35% weight
-- **[[Biomes/industrial|Industrial]]**: 28% weight
-- **[[Biomes/forest|Forest]]**: 12% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 12% weight
-- **[[Biomes/desert|Desert]]**: 10% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 10% weight
-- **[[Biomes/mountain|Mountain]]**: 8% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 5% weight
-- **[[Biomes/oasis|Oasis]]**: 4% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 3.6%
+- **[[Biomes/industrial|Industrial]]**: 2.3%
+- **[[Biomes/forest|Forest]]**: 2.2%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.2%
+- **[[Biomes/desert|Desert]]**: 2.5%
+- **[[Biomes/farm_facility|Farm Facility]]**: 2.0%
+- **[[Biomes/mountain|Mountain]]**: 1.9%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.6%
+- **[[Biomes/oasis|Oasis]]**: 1.4%
 ## Usage
 ### Combat
 - **Damage**: 1

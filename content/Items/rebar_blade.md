@@ -9,14 +9,14 @@ title: "Rebar Blade"
 A balanced blade cut from reinforced rebar and ceramic edge inserts.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 18% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 15% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 12% weight
-- **[[Biomes/mountain|Mountain]]**: 10% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 10% weight
-- **[[Biomes/forest|Forest]]**: 6% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 4% weight
-- **[[Biomes/desert|Desert]]**: 3% weight
+- **[[Biomes/industrial|Industrial]]**: 1.5%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.2%
+- **[[Biomes/mountain|Mountain]]**: 2.3%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.2%
+- **[[Biomes/forest|Forest]]**: 1.1%
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
+- **[[Biomes/desert|Desert]]**: 0.7%
 ## Usage
 ### Combat
 - **Damage**: 3

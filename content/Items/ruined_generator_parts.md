@@ -9,9 +9,9 @@ title: "Ruined Generator Parts"
 Scorched generator internals. Mixed scrap and chemicals.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 35% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 25% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 20% weight
+- **[[Biomes/industrial|Industrial]]**: 2.9%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.6%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.1%
 ## Usage
 Scorched generator internals. Mixed scrap and chemicals.
 

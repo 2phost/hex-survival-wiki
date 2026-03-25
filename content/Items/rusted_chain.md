@@ -9,14 +9,14 @@ title: "Rusted Chain"
 Corroded chain links salvaged from gates, cranes, and fences.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 45% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 32% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 14% weight
-- **[[Biomes/desert|Desert]]**: 10% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 10% weight
-- **[[Biomes/mountain|Mountain]]**: 8% weight
-- **[[Biomes/forest|Forest]]**: 6% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 6% weight
+- **[[Biomes/industrial|Industrial]]**: 3.7%
+- **[[Biomes/ruined_city|Ruined City]]**: 3.3%
+- **[[Biomes/farm_facility|Farm Facility]]**: 2.8%
+- **[[Biomes/desert|Desert]]**: 2.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.0%
+- **[[Biomes/mountain|Mountain]]**: 1.9%
+- **[[Biomes/forest|Forest]]**: 1.1%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.7%
 ## Usage
 
 ### Used in Recipes

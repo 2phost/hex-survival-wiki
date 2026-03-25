@@ -9,15 +9,15 @@ title: "Scrap Spear"
 A long haft tipped with forged scrap. Reliable reach compared to improvised knives.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 22% weight
-- **[[Biomes/industrial|Industrial]]**: 20% weight
-- **[[Biomes/forest|Forest]]**: 18% weight
-- **[[Biomes/mountain|Mountain]]**: 14% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 12% weight
-- **[[Biomes/desert|Desert]]**: 8% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 6% weight
-- **[[Biomes/oasis|Oasis]]**: 5% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 4% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 2.2%
+- **[[Biomes/industrial|Industrial]]**: 1.7%
+- **[[Biomes/forest|Forest]]**: 3.3%
+- **[[Biomes/mountain|Mountain]]**: 3.3%
+- **[[Biomes/farm_facility|Farm Facility]]**: 2.4%
+- **[[Biomes/desert|Desert]]**: 2.0%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.6%
+- **[[Biomes/oasis|Oasis]]**: 1.8%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5%
 ## Usage
 ### Combat
 - **Damage**: 2

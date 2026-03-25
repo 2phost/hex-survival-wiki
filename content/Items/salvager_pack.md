@@ -9,10 +9,10 @@ title: "Salvager Pack"
 A reinforced scav bag with extra loops and pouches. Increases carried inventory by +2 slots while carried. Rare to find, but can be assembled from field materials.
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 1% weight
-- **[[Biomes/industrial|Industrial]]**: 1% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.1%
+- **[[Biomes/industrial|Industrial]]**: 0.1%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
 ## Usage
 
 ### Crafting Recipe

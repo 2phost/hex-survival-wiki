@@ -9,9 +9,9 @@ title: "Cracked Lens"
 Optical glass from damaged equipment.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 35% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 25% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 20% weight
+- **[[Biomes/industrial|Industrial]]**: 2.9%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.6%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.0%
 ## Usage
 
 ### Used in Recipes

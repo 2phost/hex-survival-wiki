@@ -7,11 +7,11 @@ title: "Gasoline Generator (empty)"
 ![[assets/items/gasoline_generator.png|150]]
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 40% weight
-- **[[Biomes/industrial|Industrial]]**: 20% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 20% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 10% weight
-- **[[Biomes/desert|Desert]]**: 1% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 4.8%
+- **[[Biomes/industrial|Industrial]]**: 1.7%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.1%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.0%
+- **[[Biomes/desert|Desert]]**: 0.2%
 ## Usage
 
 ### Used in Recipes

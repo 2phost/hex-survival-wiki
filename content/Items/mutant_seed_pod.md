@@ -9,14 +9,14 @@ title: "Mutant Seed Pod"
 Hard-shelled seed pod from post-collapse flora with unusual growth traits.
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 24% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 20% weight
-- **[[Biomes/oasis|Oasis]]**: 18% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 10% weight
-- **[[Biomes/mountain|Mountain]]**: 8% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 6% weight
-- **[[Biomes/desert|Desert]]**: 4% weight
-- **[[Biomes/industrial|Industrial]]**: 2% weight
+- **[[Biomes/forest|Forest]]**: 4.5%
+- **[[Biomes/farm_facility|Farm Facility]]**: 4.0%
+- **[[Biomes/oasis|Oasis]]**: 6.3%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.2%
+- **[[Biomes/mountain|Mountain]]**: 1.9%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
+- **[[Biomes/desert|Desert]]**: 1.0%
+- **[[Biomes/industrial|Industrial]]**: 0.2%
 ## Usage
 Hard-shelled seed pod from post-collapse flora with unusual growth traits.
 

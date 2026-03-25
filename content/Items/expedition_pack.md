@@ -9,10 +9,10 @@ title: "Expedition Pack"
 A heavy-duty pack frame and stitched compartments built for long hauls. Increases carried inventory by +3 slots while carried.
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2% weight
-- **[[Biomes/desert|Desert]]**: 1% weight
-- **[[Biomes/industrial|Industrial]]**: 1% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2%
+- **[[Biomes/desert|Desert]]**: 0.2%
+- **[[Biomes/industrial|Industrial]]**: 0.1%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
 ## Usage
 
 ### Crafting Recipe

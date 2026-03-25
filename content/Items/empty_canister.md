@@ -9,9 +9,9 @@ title: "Empty Canister"
 Dented fuel container. Scrap metal at best.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 45% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 25% weight
-- **[[Biomes/desert|Desert]]**: 10% weight
+- **[[Biomes/industrial|Industrial]]**: 3.7%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.6%
+- **[[Biomes/desert|Desert]]**: 2.5%
 ## Usage
 Dented fuel container. Scrap metal at best.
 

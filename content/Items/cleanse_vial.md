@@ -8,7 +8,6 @@ A volatile purifier that can cleanse one corrupted tile when used on it.
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-
 ## Usage
 ### Consumption
 Used directly on a corrupted tile to return it to its base biome state.

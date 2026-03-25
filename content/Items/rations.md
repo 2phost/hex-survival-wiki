@@ -11,14 +11,14 @@ title: "Rations"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/farm_facility|Farm Facility]]**: 90% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 20% weight
-- **[[Biomes/forest|Forest]]**: 8% weight
-- **[[Biomes/industrial|Industrial]]**: 6% weight
-- **[[Biomes/oasis|Oasis]]**: 4% weight
-- **[[Biomes/desert|Desert]]**: 2% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2% weight
-- **[[Biomes/mountain|Mountain]]**: 1% weight
+- **[[Biomes/farm_facility|Farm Facility]]**: 18.0%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.0%
+- **[[Biomes/forest|Forest]]**: 1.5%
+- **[[Biomes/industrial|Industrial]]**: 0.5%
+- **[[Biomes/oasis|Oasis]]**: 1.4%
+- **[[Biomes/desert|Desert]]**: 0.5%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2%
+- **[[Biomes/mountain|Mountain]]**: 0.2%
 ## Usage
 ### Consumable Effects
 - **Hunger**: -30

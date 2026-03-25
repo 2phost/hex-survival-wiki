@@ -7,10 +7,10 @@ title: "Circuit Boards"
 ![[assets/items/circuit_board.png|150]]
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 75% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 25% weight
-- **[[Biomes/industrial|Industrial]]**: 12% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 8% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 7.8%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.0%
+- **[[Biomes/industrial|Industrial]]**: 1.0%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.8%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ScrapWorkshop|Scrap Workshop]]

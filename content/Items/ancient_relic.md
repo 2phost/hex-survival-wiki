@@ -7,8 +7,8 @@ title: "Ancient Relic"
 ![[assets/items/ancient_relic.png|150]]
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 100% weight
-- **[[Biomes/desert|Desert]]**: 1% weight
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 12.1%
+- **[[Biomes/desert|Desert]]**: 0.2%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]

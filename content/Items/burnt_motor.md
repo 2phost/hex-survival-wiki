@@ -9,9 +9,9 @@ title: "Burnt-Out Motor"
 Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster damage per use with 22% break chance.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 40% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 25% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 15% weight
+- **[[Biomes/industrial|Industrial]]**: 3.3%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.6%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.5%
 ## Usage
 Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster damage per use with 22% break chance.
 ### Weapon Stats

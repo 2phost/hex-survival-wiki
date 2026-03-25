@@ -9,14 +9,14 @@ title: "Fortified Rebar"
 Bent but sturdy steel rods bundled for emergency fortifications.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 24% weight
-- **[[Biomes/industrial|Industrial]]**: 16% weight
-- **[[Biomes/forest|Forest]]**: 4% weight
-- **[[Biomes/desert|Desert]]**: 2% weight
-- **[[Biomes/mountain|Mountain]]**: 2% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 2% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 2% weight
-- **[[Biomes/oasis|Oasis]]**: 1% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 2.5%
+- **[[Biomes/industrial|Industrial]]**: 1.3%
+- **[[Biomes/forest|Forest]]**: 0.7%
+- **[[Biomes/desert|Desert]]**: 0.5%
+- **[[Biomes/mountain|Mountain]]**: 0.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.2%
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.4%
+- **[[Biomes/oasis|Oasis]]**: 0.4%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SpikeTrench|Spike Trench]]

@@ -9,10 +9,10 @@ title: "Capacitor Bank"
 Clustered charge capacitors suitable for energy buffering projects.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 42% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 24% weight
-- **[[Biomes/industrial|Industrial]]**: 20% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 10% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.4%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.9%
+- **[[Biomes/industrial|Industrial]]**: 1.7%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.0%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]

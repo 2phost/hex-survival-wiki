@@ -7,14 +7,14 @@ title: "Lamp (empty)"
 ![[assets/items/lamp_empty.png|150]]
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 45% weight
-- **[[Biomes/industrial|Industrial]]**: 40% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 20% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 18% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 15% weight
-- **[[Biomes/forest|Forest]]**: 10% weight
-- **[[Biomes/desert|Desert]]**: 5% weight
-- **[[Biomes/mountain|Mountain]]**: 5% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 4.6%
+- **[[Biomes/industrial|Industrial]]**: 3.3%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.1%
+- **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.8%
+- **[[Biomes/forest|Forest]]**: 1.9%
+- **[[Biomes/desert|Desert]]**: 1.2%
+- **[[Biomes/mountain|Mountain]]**: 1.2%
 ## Usage
 
 ### Used in Recipes

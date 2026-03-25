@@ -9,9 +9,9 @@ title: "Broken Binoculars"
 Shattered optics. Glass and metal casing can be salvaged.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 25% weight
-- **[[Biomes/mountain|Mountain]]**: 20% weight
-- **[[Biomes/industrial|Industrial]]**: 15% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 2.6%
+- **[[Biomes/mountain|Mountain]]**: 4.7%
+- **[[Biomes/industrial|Industrial]]**: 1.2%
 ## Usage
 Shattered optics. Glass and metal casing can be salvaged.
 

@@ -12,11 +12,11 @@ Fuel for the base generators. Refills 25% town power when used at base.
 - **Skill**: [[Skills/generator_operations|Generator Operations]] (Level 1)
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 30% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 20% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 20% weight
-- **[[Biomes/desert|Desert]]**: 10% weight
-- **[[Biomes/mountain|Mountain]]**: 10% weight
+- **[[Biomes/industrial|Industrial]]**: 2.5%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.0%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.4%
+- **[[Biomes/desert|Desert]]**: 2.5%
+- **[[Biomes/mountain|Mountain]]**: 2.3%
 ## Usage
 
 ### Used in Recipes

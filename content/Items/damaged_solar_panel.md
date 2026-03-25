@@ -9,9 +9,9 @@ title: "Damaged Solar Panel"
 Cracked photovoltaic array. Some cells might still function.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 30% weight
-- **[[Biomes/desert|Desert]]**: 25% weight
-- **[[Biomes/industrial|Industrial]]**: 15% weight
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.1%
+- **[[Biomes/desert|Desert]]**: 6.2%
+- **[[Biomes/industrial|Industrial]]**: 1.2%
 ## Usage
 Cracked photovoltaic array. Some cells might still function.
 

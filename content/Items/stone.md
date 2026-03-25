@@ -7,14 +7,14 @@ title: "Hardened Stone"
 ![[assets/items/stone.png|150]]
 
 ## Where to Find
-- **[[Biomes/mountain|Mountain]]**: 90% weight
-- **[[Biomes/desert|Desert]]**: 70% weight
-- **[[Biomes/industrial|Industrial]]**: 25% weight
-- **[[Biomes/ruined_city|Ruined City]]**: 15% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 15% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 14% weight
-- **[[Biomes/forest|Forest]]**: 10% weight
-- **[[Biomes/oasis|Oasis]]**: 5% weight
+- **[[Biomes/mountain|Mountain]]**: 21.1%
+- **[[Biomes/desert|Desert]]**: 17.4%
+- **[[Biomes/industrial|Industrial]]**: 2.1%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.5%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.8%
+- **[[Biomes/farm_facility|Farm Facility]]**: 2.8%
+- **[[Biomes/forest|Forest]]**: 1.9%
+- **[[Biomes/oasis|Oasis]]**: 1.8%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ReinforcedBulkhead|Reinforced Steel Bulkhead]]

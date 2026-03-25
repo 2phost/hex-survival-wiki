@@ -17,15 +17,15 @@ Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases
 - **Skill**: [[Skills/stim_conditioning|Stim Conditioning]] (Level 1)
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 14% weight
-- **[[Biomes/industrial|Industrial]]**: 10% weight
-- **[[Biomes/forest|Forest]]**: 8% weight
-- **[[Biomes/desert|Desert]]**: 6% weight
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 6% weight
-- **[[Biomes/mountain|Mountain]]**: 4% weight
-- **[[Biomes/farm_facility|Farm Facility]]**: 4% weight
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 3% weight
-- **[[Biomes/oasis|Oasis]]**: 2% weight
+- **[[Biomes/ruined_city|Ruined City]]**: 1.4%
+- **[[Biomes/industrial|Industrial]]**: 0.8%
+- **[[Biomes/forest|Forest]]**: 1.5%
+- **[[Biomes/desert|Desert]]**: 1.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.6%
+- **[[Biomes/mountain|Mountain]]**: 0.9%
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.4%
+- **[[Biomes/oasis|Oasis]]**: 0.7%
 ## Usage
 Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases hunger and thirst slightly.
 ### Consumable Effects
