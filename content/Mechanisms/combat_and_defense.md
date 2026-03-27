@@ -17,9 +17,14 @@ Players can engage monsters by moving onto a hex containing a horde and selectin
 ### Weapon Comparison
 | Weapon | Damage | Break % | Requirement |
 | :--- | :---: | :---: | :--- |
-| <img src="../assets/items/alloy_plate.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/alloy_plate|Alloy Plate]] | **3** | **12%** | [[Skills/field_engineering|Field Eng.]] Lvl 1 |
-| <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/burnt_motor|Burnt-Out Motor]] | **2** | **22%** | None |
-| <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rusty_tool|Rusty Tool]] | **1** | **35%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/plasma_lance|Plasma&nbsp;Lance]]</span> | **6** | **8%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/shock_maul|Shock&nbsp;Maul]]</span> | **4** | **14%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/alloy_plate.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/alloy_plate|Alloy&nbsp;Plate]]</span> | **3** | **12%** | Field Engineering Lvl 1 |
+| <span style="white-space: nowrap;"><img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rebar_blade|Rebar&nbsp;Blade]]</span> | **3** | **20%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/burnt_motor|Burnt-Out&nbsp;Motor]]</span> | **2** | **22%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_spear|Scrap&nbsp;Spear]]</span> | **2** | **28%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/makeshift_shiv.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/makeshift_shiv|Makeshift&nbsp;Shiv]]</span> | **1** | **40%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rusty_tool|Rusty&nbsp;Tool]]</span> | **1** | **35%** | None |
 
 ---
 
