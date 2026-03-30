@@ -17,7 +17,7 @@ title: "Industrial Zone"
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/chemical_sludge|Chemical&nbsp;Sludge]]</span> | 5.8% |
-| <span style="white-space: nowrap;"><img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_metal|Scrap&nbsp;Metal]]</span> | 5.0% |
+| <span style="white-space: nowrap;"><img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_metal|Scrap&nbsp;Metal]]</span> | 4.9% |
 | <span style="white-space: nowrap;"><img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/copper_wiring|Copper&nbsp;Wiring]]</span> | 3.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/empty_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/empty_canister|Empty&nbsp;Canister]]</span> | 3.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/rusted_chain.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rusted_chain|Rusted&nbsp;Chain]]</span> | 3.7% |
@@ -37,10 +37,10 @@ title: "Industrial Zone"
 | <span style="white-space: nowrap;"><img src="../assets/items/thermal_coil.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/thermal_coil|Thermal&nbsp;Coil]]</span> | 2.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stone|Hardened&nbsp;Stone]]</span> | 2.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rusty_tool|Rusty&nbsp;Tool]]</span> | 2.1% |
-| <span style="white-space: nowrap;"><img src="../assets/items/gasoline_generator_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/gasoline_generator_empty|Gasoline&nbsp;Generator&nbsp;(empty)]]</span> | 1.7% |
-| <span style="white-space: nowrap;"><img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_spear|Scrap&nbsp;Spear]]</span> | 1.7% |
-| <span style="white-space: nowrap;"><img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/malfunctioning_sensor|Malfunctioning&nbsp;Sensor]]</span> | 1.7% |
-| <span style="white-space: nowrap;"><img src="../assets/items/capacitor_bank.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/capacitor_bank|Capacitor&nbsp;Bank]]</span> | 1.7% |
+| <span style="white-space: nowrap;"><img src="../assets/items/gasoline_generator_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/gasoline_generator_empty|Gasoline&nbsp;Generator&nbsp;(empty)]]</span> | 1.6% |
+| <span style="white-space: nowrap;"><img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_spear|Scrap&nbsp;Spear]]</span> | 1.6% |
+| <span style="white-space: nowrap;"><img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/malfunctioning_sensor|Malfunctioning&nbsp;Sensor]]</span> | 1.6% |
+| <span style="white-space: nowrap;"><img src="../assets/items/capacitor_bank.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/capacitor_bank|Capacitor&nbsp;Bank]]</span> | 1.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/research_material|Research&nbsp;Material]]</span> | 1.5% |
 | <span style="white-space: nowrap;"><img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rebar_blade|Rebar&nbsp;Blade]]</span> | 1.5% |
 | <span style="white-space: nowrap;"><img src="../assets/items/micro_fuse.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/micro_fuse|Micro&nbsp;Fuse]]</span> | 1.5% |
@@ -76,6 +76,7 @@ title: "Industrial Zone"
 | <span style="white-space: nowrap;"><img src="../assets/items/reactor_dust.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/reactor_dust|Reactor&nbsp;Dust]]</span> | 0.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/mutant_seed_pod.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/mutant_seed_pod|Mutant&nbsp;Seed&nbsp;Pod]]</span> | 0.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/salad.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salad|Salad]]</span> | 0.1% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ancient_relic|Ancient&nbsp;Relic]]</span> | 0.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salvager_pack|Salvager&nbsp;Pack]]</span> | 0.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/expedition_pack|Expedition&nbsp;Pack]]</span> | 0.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/vault_key_fragment.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/vault_key_fragment|Vault&nbsp;Key&nbsp;Fragment]]</span> | 0.1% |

@@ -11,7 +11,7 @@ Clustered charge capacitors suitable for energy buffering projects.
 ## Where to Find
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 4.4%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 2.9%
-- **[[Biomes/industrial|Industrial]]**: 1.7%
+- **[[Biomes/industrial|Industrial]]**: 1.6%
 - **[[Biomes/ruined_city|Ruined City]]**: 1.0%
 ## Usage
 ### Construction

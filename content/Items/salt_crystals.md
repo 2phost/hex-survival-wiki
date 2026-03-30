@@ -10,7 +10,7 @@ Mineral deposits scraped from dry beds and cave seams.
 
 ## Where to Find
 - **[[Biomes/desert|Desert]]**: 10.0%
-- **[[Biomes/oasis|Oasis]]**: 8.5%
+- **[[Biomes/oasis|Oasis]]**: 8.4%
 - **[[Biomes/mountain|Mountain]]**: 4.2%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.6%
 - **[[Biomes/farm_facility|Farm Facility]]**: 1.2%

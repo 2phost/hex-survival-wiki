@@ -9,7 +9,7 @@ title: "Fortified Rebar"
 Bent but sturdy steel rods bundled for emergency fortifications.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 2.5%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.4%
 - **[[Biomes/industrial|Industrial]]**: 1.3%
 - **[[Biomes/forest|Forest]]**: 0.7%
 - **[[Biomes/desert|Desert]]**: 0.5%

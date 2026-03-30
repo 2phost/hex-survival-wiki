@@ -8,7 +8,7 @@ title: "Gasoline Generator (empty)"
 
 ## Where to Find
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 4.8%
-- **[[Biomes/industrial|Industrial]]**: 1.7%
+- **[[Biomes/industrial|Industrial]]**: 1.6%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 2.1%
 - **[[Biomes/ruined_city|Ruined City]]**: 1.0%
 - **[[Biomes/desert|Desert]]**: 0.2%

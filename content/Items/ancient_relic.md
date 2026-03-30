@@ -9,6 +9,13 @@ title: "Ancient Relic"
 ## Where to Find
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 12.1%
 - **[[Biomes/desert|Desert]]**: 0.2%
+- **[[Biomes/forest|Forest]]**: 0.2%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.1%
+- **[[Biomes/mountain|Mountain]]**: 0.2%
+- **[[Biomes/industrial|Industrial]]**: 0.1%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.2%
+- **[[Biomes/oasis|Oasis]]**: 0.4%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]

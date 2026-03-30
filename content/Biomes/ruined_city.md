@@ -30,8 +30,8 @@ title: "Ruined City"
 | <span style="white-space: nowrap;"><img src="../assets/items/empty_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/empty_canister|Empty&nbsp;Canister]]</span> | 2.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/broken_binoculars|Broken&nbsp;Binoculars]]</span> | 2.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ruined_generator_parts|Ruined&nbsp;Generator&nbsp;Parts]]</span> | 2.6% |
-| <span style="white-space: nowrap;"><img src="../assets/items/charred_planks.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/charred_planks|Charred&nbsp;Planks]]</span> | 2.5% |
-| <span style="white-space: nowrap;"><img src="../assets/items/fortified_rebar.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fortified_rebar|Fortified&nbsp;Rebar]]</span> | 2.5% |
+| <span style="white-space: nowrap;"><img src="../assets/items/charred_planks.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/charred_planks|Charred&nbsp;Planks]]</span> | 2.4% |
+| <span style="white-space: nowrap;"><img src="../assets/items/fortified_rebar.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fortified_rebar|Fortified&nbsp;Rebar]]</span> | 2.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_spear|Scrap&nbsp;Spear]]</span> | 2.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rations|Rations]]</span> | 2.0% |
 | <span style="white-space: nowrap;"><img src="../assets/items/gasoline_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/gasoline_canister|Gasoline&nbsp;Canister]]</span> | 2.0% |
@@ -72,6 +72,7 @@ title: "Ruined City"
 | <span style="white-space: nowrap;"><img src="../assets/items/salad.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salad|Salad]]</span> | 0.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/plasma_lance|Plasma&nbsp;Lance]]</span> | 0.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/stim_overdrive.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stim_overdrive|Stim&nbsp;Overdrive]]</span> | 0.1% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ancient_relic|Ancient&nbsp;Relic]]</span> | 0.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/drone.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/drone|Cargo&nbsp;Drone]]</span> | 0.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salvager_pack|Salvager&nbsp;Pack]]</span> | 0.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/vault_key_fragment.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/vault_key_fragment|Vault&nbsp;Key&nbsp;Fragment]]</span> | 0.1% |

@@ -8,7 +8,7 @@ title: "Scrap Metal"
 
 ## Where to Find
 - **[[Biomes/ruined_city|Ruined City]]**: 8.7%
-- **[[Biomes/industrial|Industrial]]**: 5.0%
+- **[[Biomes/industrial|Industrial]]**: 4.9%
 - **[[Biomes/farm_facility|Farm Facility]]**: 4.4%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 2.1%
 - **[[Biomes/desert|Desert]]**: 4.5%

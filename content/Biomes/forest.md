@@ -16,7 +16,7 @@ title: "Forest"
 ## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
-| <span style="white-space: nowrap;"><img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/timber|Raw&nbsp;Timber]]</span> | 14.9% |
+| <span style="white-space: nowrap;"><img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/timber|Raw&nbsp;Timber]]</span> | 14.8% |
 | <span style="white-space: nowrap;"><img src="../assets/items/glowing_mushroom.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/glowing_mushroom|Glowing&nbsp;Mushroom]]</span> | 10.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/charred_planks.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/charred_planks|Charred&nbsp;Planks]]</span> | 7.8% |
 | <span style="white-space: nowrap;"><img src="../assets/items/water.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/water|Clean&nbsp;Water]]</span> | 7.4% |
@@ -50,6 +50,7 @@ title: "Forest"
 | <span style="white-space: nowrap;"><img src="../assets/items/obsidian_flake.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/obsidian_flake|Obsidian&nbsp;Flake]]</span> | 0.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/quarry_bolts.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/quarry_bolts|Quarry&nbsp;Bolts]]</span> | 0.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/ballistic_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ballistic_mesh|Ballistic&nbsp;Mesh]]</span> | 0.4% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ancient_relic|Ancient&nbsp;Relic]]</span> | 0.2% |
 ## Technical Information
 - **Asset ID**: `forest`
 - **Asset Path**: `tiles/forest_01.png`

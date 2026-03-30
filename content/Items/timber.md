@@ -7,7 +7,7 @@ title: "Raw Timber"
 ![[assets/items/timber.png|150]]
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 14.9%
+- **[[Biomes/forest|Forest]]**: 14.8%
 - **[[Biomes/farm_facility|Farm Facility]]**: 5.0%
 - **[[Biomes/desert|Desert]]**: 5.0%
 - **[[Biomes/ruined_city|Ruined City]]**: 1.5%

@@ -16,9 +16,9 @@ title: "Oasis"
 ## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
-| <span style="white-space: nowrap;"><img src="../assets/items/water.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/water|Clean&nbsp;Water]]</span> | 31.7% |
+| <span style="white-space: nowrap;"><img src="../assets/items/water.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/water|Clean&nbsp;Water]]</span> | 31.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/glowing_mushroom.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/glowing_mushroom|Glowing&nbsp;Mushroom]]</span> | 12.3% |
-| <span style="white-space: nowrap;"><img src="../assets/items/salt_crystals.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salt_crystals|Salt&nbsp;Crystals]]</span> | 8.5% |
+| <span style="white-space: nowrap;"><img src="../assets/items/salt_crystals.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salt_crystals|Salt&nbsp;Crystals]]</span> | 8.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/old_glass_bottle|Old&nbsp;Glass&nbsp;Bottle]]</span> | 7.0% |
 | <span style="white-space: nowrap;"><img src="../assets/items/bio_resin.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/bio_resin|Bio&nbsp;Resin]]</span> | 7.0% |
 | <span style="white-space: nowrap;"><img src="../assets/items/fungal_spores.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fungal_spores|Fungal&nbsp;Spores]]</span> | 6.3% |
@@ -35,6 +35,7 @@ title: "Oasis"
 | <span style="white-space: nowrap;"><img src="../assets/items/stim_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stim_pack|Stim&nbsp;Pack]]</span> | 0.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/filter_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/filter_mesh|Filter&nbsp;Mesh]]</span> | 0.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/obsidian_flake.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/obsidian_flake|Obsidian&nbsp;Flake]]</span> | 0.7% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ancient_relic|Ancient&nbsp;Relic]]</span> | 0.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/fortified_rebar.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fortified_rebar|Fortified&nbsp;Rebar]]</span> | 0.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/quarry_bolts.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/quarry_bolts|Quarry&nbsp;Bolts]]</span> | 0.4% |
 ## Technical Information

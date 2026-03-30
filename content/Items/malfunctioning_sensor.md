@@ -10,7 +10,7 @@ Faulty detection unit. Electronics inside may be recoverable.
 
 ## Where to Find
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 4.7%
-- **[[Biomes/industrial|Industrial]]**: 1.7%
+- **[[Biomes/industrial|Industrial]]**: 1.6%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 1.8%
 - **[[Biomes/desert|Desert]]**: 0.2%
 ## Usage

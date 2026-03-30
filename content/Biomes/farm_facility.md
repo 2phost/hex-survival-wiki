@@ -43,6 +43,7 @@ title: "Human Farm Facility"
 | <span style="white-space: nowrap;"><img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rebar_blade|Rebar&nbsp;Blade]]</span> | 0.8% |
 | <span style="white-space: nowrap;"><img src="../assets/items/micro_fuse.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/micro_fuse|Micro&nbsp;Fuse]]</span> | 0.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/fortified_rebar.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fortified_rebar|Fortified&nbsp;Rebar]]</span> | 0.4% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ancient_relic|Ancient&nbsp;Relic]]</span> | 0.2% |
 ## Technical Information
 - **Asset ID**: `farm_facility`
 - **Asset Path**: `tiles/farm_facility_01.png`

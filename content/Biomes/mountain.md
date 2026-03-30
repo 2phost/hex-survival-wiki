@@ -52,6 +52,7 @@ title: "Mountain / Quarry"
 | <span style="white-space: nowrap;"><img src="../assets/items/fortified_rebar.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fortified_rebar|Fortified&nbsp;Rebar]]</span> | 0.5% |
 | <span style="white-space: nowrap;"><img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rations|Rations]]</span> | 0.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/stim_injector.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stim_injector|Stim&nbsp;Injector]]</span> | 0.2% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ancient_relic|Ancient&nbsp;Relic]]</span> | 0.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/fractured_servo.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fractured_servo|Fractured&nbsp;Servo]]</span> | 0.2% |
 ## Technical Information
 - **Asset ID**: `mountain`

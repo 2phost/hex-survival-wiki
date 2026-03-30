@@ -63,6 +63,7 @@ title: "Electronic Store / Lab"
 | <span style="white-space: nowrap;"><img src="../assets/items/ceramic_armor_tile.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ceramic_armor_tile|Ceramic&nbsp;Armor&nbsp;Tile]]</span> | 0.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/drone.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/drone|Cargo&nbsp;Drone]]</span> | 0.3% |
 | <span style="white-space: nowrap;"><img src="../assets/items/fortified_rebar.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fortified_rebar|Fortified&nbsp;Rebar]]</span> | 0.2% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ancient_relic|Ancient&nbsp;Relic]]</span> | 0.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salvager_pack|Salvager&nbsp;Pack]]</span> | 0.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/expedition_pack|Expedition&nbsp;Pack]]</span> | 0.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/hauler_pack|Hauler&nbsp;Pack]]</span> | 0.1% |
