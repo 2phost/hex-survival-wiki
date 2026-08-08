@@ -9,15 +9,15 @@ title: "Ceramic Shards"
 Broken insulation and cookware fragments from pre-collapse ruins.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 3.9%
-- **[[Biomes/mountain|Mountain]]**: 4.7%
-- **[[Biomes/desert|Desert]]**: 4.5%
-- **[[Biomes/farm_facility|Farm Facility]]**: 3.2%
-- **[[Biomes/industrial|Industrial]]**: 1.2%
-- **[[Biomes/forest|Forest]]**: 1.9%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.0%
+- **[[Biomes/ruined_city|Ruined City]]**: 3.1%
+- **[[Biomes/mountain|Mountain]]**: 4.0%
+- **[[Biomes/industrial|Industrial]]**: 1.0%
+- **[[Biomes/desert|Desert]]**: 2.7%
+- **[[Biomes/forest|Forest]]**: 1.7%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.8%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.5%
-- **[[Biomes/oasis|Oasis]]**: 1.4%
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
+- **[[Biomes/oasis|Oasis]]**: 1.1%
 ## Usage
 
 ### Used in Recipes

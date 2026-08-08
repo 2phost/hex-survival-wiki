@@ -11,11 +11,11 @@ title: "Rations"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/farm_facility|Farm Facility]]**: 18.0%
-- **[[Biomes/ruined_city|Ruined City]]**: 2.0%
-- **[[Biomes/forest|Forest]]**: 1.5%
-- **[[Biomes/industrial|Industrial]]**: 0.5%
-- **[[Biomes/oasis|Oasis]]**: 1.4%
+- **[[Biomes/farm_facility|Farm Facility]]**: 14.8%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.6%
+- **[[Biomes/forest|Forest]]**: 1.7%
+- **[[Biomes/industrial|Industrial]]**: 0.4%
+- **[[Biomes/oasis|Oasis]]**: 1.1%
 - **[[Biomes/desert|Desert]]**: 0.5%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2%
 - **[[Biomes/mountain|Mountain]]**: 0.2%

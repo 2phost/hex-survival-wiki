@@ -14,7 +14,7 @@ Operate autonomous cargo drones safely. This skill allows players to use **[[Ite
 - **Level 2**: Unlocks the ability to launch **[[Items/drone|Cargo Drones]]** from the field.
 
 ## ⏱️ Training Details
-- **Max Level**: 2
+- **Max Level**: 4
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours
 

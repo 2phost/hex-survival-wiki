@@ -26,9 +26,7 @@ This skill provides a passive reduction to the break chance of all items used as
 ## ⚔️ Compatible Weapons
 - **[[Items/plasma_lance|Plasma&nbsp;Lance]]** (Base: 8% break chance)
 - **[[Items/shock_maul|Shock&nbsp;Maul]]** (Base: 14% break chance)
-- **[[Items/alloy_plate|Alloy&nbsp;Plate]]** (Base: 12% break chance)
 - **[[Items/rebar_blade|Rebar&nbsp;Blade]]** (Base: 20% break chance)
-- **[[Items/burnt_motor|Burnt-Out&nbsp;Motor]]** (Base: 22% break chance)
 - **[[Items/scrap_spear|Scrap&nbsp;Spear]]** (Base: 28% break chance)
+- **[[Items/broken_glass_bottle|Broken&nbsp;Glass&nbsp;Bottle]]** (Base: 55% break chance)
 - **[[Items/makeshift_shiv|Makeshift&nbsp;Shiv]]** (Base: 40% break chance)
-- **[[Items/rusty_tool|Rusty&nbsp;Tool]]** (Base: 35% break chance)

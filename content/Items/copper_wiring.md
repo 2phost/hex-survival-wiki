@@ -10,13 +10,13 @@ Electrical wiring for connecting solar panels to the grid.
 
 ## Where to Find
 - **[[Biomes/industrial|Industrial]]**: 3.7%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.2%
-- **[[Biomes/ruined_city|Ruined City]]**: 3.1%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.4%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.5%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.9%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.5%
 - **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
-- **[[Biomes/mountain|Mountain]]**: 2.3%
-- **[[Biomes/desert|Desert]]**: 1.2%
-- **[[Biomes/forest|Forest]]**: 0.9%
+- **[[Biomes/mountain|Mountain]]**: 2.4%
+- **[[Biomes/desert|Desert]]**: 1.9%
+- **[[Biomes/forest|Forest]]**: 1.2%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SolarPanels|Solar Panels]]

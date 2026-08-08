@@ -9,13 +9,13 @@ title: "Ballistic Mesh"
 Layered metal weave that absorbs impacts from charging beasts.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 1.2%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.8%
+- **[[Biomes/industrial|Industrial]]**: 1.0%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.6%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.7%
-- **[[Biomes/mountain|Mountain]]**: 0.9%
-- **[[Biomes/forest|Forest]]**: 0.4%
-- **[[Biomes/desert|Desert]]**: 0.2%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.6%
+- **[[Biomes/mountain|Mountain]]**: 0.8%
+- **[[Biomes/forest|Forest]]**: 0.3%
+- **[[Biomes/desert|Desert]]**: 0.3%
 ## Usage
 Layered metal weave that absorbs impacts from charging beasts.
 

@@ -9,4 +9,4 @@ title: "Stim Conditioning"
  - **Lvl 1**: [[Items/stim_pack|Stim Pack]] (+2 AP).
  - **Lvl 2**: [[Items/stim_injector|Stim Injector]] (+4 AP).
  - **Lvl 3**: [[Items/stim_overdrive|Stim Overdrive]] (+6 AP).
-- **Prerequisites**: [[Skills/ap_capacity|Ap Capacity]] Level 1
+- **Prerequisites**: [[Skills/preparedness|Preparedness]] Level 2

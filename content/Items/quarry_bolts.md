@@ -9,12 +9,12 @@ title: "Quarry Bolts"
 Heavy anchor bolts used to pin barricades into stone.
 
 ## Where to Find
-- **[[Biomes/mountain|Mountain]]**: 4.7%
+- **[[Biomes/mountain|Mountain]]**: 5.2%
 - **[[Biomes/ruined_city|Ruined City]]**: 1.0%
 - **[[Biomes/industrial|Industrial]]**: 0.7%
-- **[[Biomes/desert|Desert]]**: 1.5%
-- **[[Biomes/forest|Forest]]**: 0.4%
-- **[[Biomes/oasis|Oasis]]**: 0.4%
+- **[[Biomes/desert|Desert]]**: 1.6%
+- **[[Biomes/forest|Forest]]**: 0.5%
+- **[[Biomes/oasis|Oasis]]**: 0.6%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]

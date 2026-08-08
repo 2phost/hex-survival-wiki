@@ -9,9 +9,10 @@ title: "Damaged Solar Panel"
 Cracked photovoltaic array. Some cells might still function.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.1%
-- **[[Biomes/desert|Desert]]**: 6.2%
-- **[[Biomes/industrial|Industrial]]**: 1.2%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.2%
+- **[[Biomes/industrial|Industrial]]**: 1.1%
+- **[[Biomes/desert|Desert]]**: 2.7%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.5%
 ## Usage
 Cracked photovoltaic array. Some cells might still function.
 
@@ -23,6 +24,6 @@ Cracked photovoltaic array. Some cells might still function.
 
 ## Technical Information
 - **Item ID**: `damaged_solar_panel`
-- **Rarity**: Rare
+- **Rarity**: Uncommon
 - **Asset ID**: `damaged_solar_panel`
 - **Asset Path**: `items/damaged_solar_panel.png`

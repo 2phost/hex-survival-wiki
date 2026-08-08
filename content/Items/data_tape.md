@@ -9,10 +9,10 @@ title: "Data Tape"
 Analog storage reels containing fragmentary technical records.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.5%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.7%
-- **[[Biomes/industrial|Industrial]]**: 1.2%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.8%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.2%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.3%
+- **[[Biomes/industrial|Industrial]]**: 1.0%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
 ## Usage
 Analog storage reels containing fragmentary technical records.
 

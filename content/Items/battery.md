@@ -7,13 +7,13 @@ title: "Battery"
 ![[assets/items/battery.png|150]]
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 6.2%
-- **[[Biomes/industrial|Industrial]]**: 2.5%
-- **[[Biomes/farm_facility|Farm Facility]]**: 2.4%
-- **[[Biomes/desert|Desert]]**: 2.5%
-- **[[Biomes/forest|Forest]]**: 1.9%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.2%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 5.6%
+- **[[Biomes/industrial|Industrial]]**: 2.1%
+- **[[Biomes/farm_facility|Farm Facility]]**: 2.0%
+- **[[Biomes/desert|Desert]]**: 2.7%
+- **[[Biomes/forest|Forest]]**: 1.7%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.4%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]

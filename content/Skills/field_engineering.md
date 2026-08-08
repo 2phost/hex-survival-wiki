@@ -9,7 +9,7 @@ title: "Field Engineering"
  - **Lvl 1**: Unlocks [[Items/alloy_plate|Alloy Plate]] production.
  - **Lvl 2**: Unlocks [[Items/logic_core|Logic Core]] and [[Items/hydraulic_piston|Hydraulic Piston]] production.
  - **Lvl 3**: Unlocks [[Items/signal_emitter|Signal Emitter]] production.
-- **Prerequisites**: [[Skills/scavenger_eye|Scavenger Eye]] Level 2
+- **Prerequisites**: None.
 
 ## Unlocks
 - **At Level 1**: Enables [[Skills/generator_operations|Generator Operations]].

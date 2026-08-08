@@ -7,10 +7,11 @@ title: "Circuit Boards"
 ![[assets/items/circuit_board.png|150]]
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 7.8%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.0%
-- **[[Biomes/industrial|Industrial]]**: 1.0%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.8%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 6.7%
+- **[[Biomes/industrial|Industrial]]**: 2.7%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.6%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.4%
+- **[[Biomes/desert|Desert]]**: 1.6%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ScrapWorkshop|Scrap Workshop]]

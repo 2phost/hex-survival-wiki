@@ -9,10 +9,10 @@ title: "Malfunctioning Sensor"
 Faulty detection unit. Electronics inside may be recoverable.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.7%
-- **[[Biomes/industrial|Industrial]]**: 1.6%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.8%
-- **[[Biomes/desert|Desert]]**: 0.2%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.2%
+- **[[Biomes/industrial|Industrial]]**: 1.4%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.6%
+- **[[Biomes/desert|Desert]]**: 0.3%
 ## Usage
 Faulty detection unit. Electronics inside may be recoverable.
 

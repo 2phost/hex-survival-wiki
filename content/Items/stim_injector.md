@@ -17,12 +17,12 @@ Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Inc
 - **Skill**: [[Skills/stim_conditioning|Stim Conditioning]] (Level 2)
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.2%
-- **[[Biomes/industrial|Industrial]]**: 0.8%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.7%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.8%
-- **[[Biomes/forest|Forest]]**: 0.4%
-- **[[Biomes/desert|Desert]]**: 0.2%
+- **[[Biomes/industrial|Industrial]]**: 0.7%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.7%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.5%
+- **[[Biomes/forest|Forest]]**: 0.3%
+- **[[Biomes/desert|Desert]]**: 0.3%
 - **[[Biomes/mountain|Mountain]]**: 0.2%
 ## Usage
 Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Increases hunger and thirst.

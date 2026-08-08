@@ -9,15 +9,15 @@ title: "Filter Mesh"
 Fine wire mesh from masks and vents; still usable for filtration rigs.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 3.0%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.5%
-- **[[Biomes/ruined_city|Ruined City]]**: 2.0%
-- **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.2%
-- **[[Biomes/desert|Desert]]**: 1.5%
+- **[[Biomes/industrial|Industrial]]**: 2.6%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.2%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.6%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1%
+- **[[Biomes/desert|Desert]]**: 1.4%
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
 - **[[Biomes/forest|Forest]]**: 0.7%
-- **[[Biomes/mountain|Mountain]]**: 0.9%
-- **[[Biomes/oasis|Oasis]]**: 0.7%
+- **[[Biomes/mountain|Mountain]]**: 0.8%
+- **[[Biomes/oasis|Oasis]]**: 0.6%
 ## Usage
 
 ### Used in Recipes

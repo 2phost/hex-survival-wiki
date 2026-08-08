@@ -9,12 +9,12 @@ title: "Thermal Coil"
 Heat-resistant coil assembly from generators and lab furnaces.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.1%
-- **[[Biomes/industrial|Industrial]]**: 2.1%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.2%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.0%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.8%
+- **[[Biomes/industrial|Industrial]]**: 1.8%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.9%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.8%
 - **[[Biomes/desert|Desert]]**: 0.5%
-- **[[Biomes/mountain|Mountain]]**: 0.5%
+- **[[Biomes/mountain|Mountain]]**: 0.4%
 ## Usage
 Heat-resistant coil assembly from generators and lab furnaces.
 

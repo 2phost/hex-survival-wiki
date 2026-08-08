@@ -11,14 +11,14 @@ title: "Glowing Mushroom"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 10.2%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 5.4%
-- **[[Biomes/oasis|Oasis]]**: 12.3%
-- **[[Biomes/mountain|Mountain]]**: 4.7%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.8%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.7%
-- **[[Biomes/industrial|Industrial]]**: 1.2%
-- **[[Biomes/desert|Desert]]**: 2.0%
+- **[[Biomes/forest|Forest]]**: 9.1%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 4.8%
+- **[[Biomes/oasis|Oasis]]**: 9.7%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.5%
+- **[[Biomes/industrial|Industrial]]**: 1.0%
+- **[[Biomes/desert|Desert]]**: 2.2%
+- **[[Biomes/mountain|Mountain]]**: 1.0%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
 ## Usage
 
 ### Used in Recipes

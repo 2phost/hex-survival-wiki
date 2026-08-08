@@ -9,10 +9,10 @@ title: "Rusty Tool"
 Corroded metal tool. Can be broken down for raw materials. Weapon: deals 1 monster damage per use with 35% break chance.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 3.1%
-- **[[Biomes/industrial|Industrial]]**: 2.1%
-- **[[Biomes/desert|Desert]]**: 3.0%
-- **[[Biomes/forest|Forest]]**: 1.5%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.1%
+- **[[Biomes/industrial|Industrial]]**: 1.5%
+- **[[Biomes/desert|Desert]]**: 2.7%
+- **[[Biomes/forest|Forest]]**: 1.2%
 ## Usage
 Corroded metal tool. Can be broken down for raw materials. Weapon: deals 1 monster damage per use with 35% break chance.
 ### Weapon Stats

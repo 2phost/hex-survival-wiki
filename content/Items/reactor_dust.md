@@ -9,10 +9,10 @@ title: "Reactor Dust"
 Highly unstable particulate recovered from collapsed energy cores.
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.4%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.2%
-- **[[Biomes/industrial|Industrial]]**: 0.2%
-- **[[Biomes/desert|Desert]]**: 0.2%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.0%
+- **[[Biomes/industrial|Industrial]]**: 0.1%
+- **[[Biomes/desert|Desert]]**: 0.3%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
 ## Usage
 Highly unstable particulate recovered from collapsed energy cores.
 

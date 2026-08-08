@@ -7,14 +7,14 @@ title: "Scrap Metal"
 ![[assets/items/scrap_metal.png|150]]
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 8.7%
-- **[[Biomes/industrial|Industrial]]**: 4.9%
-- **[[Biomes/farm_facility|Farm Facility]]**: 4.4%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.1%
-- **[[Biomes/desert|Desert]]**: 4.5%
-- **[[Biomes/mountain|Mountain]]**: 2.3%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.2%
-- **[[Biomes/forest|Forest]]**: 0.9%
+- **[[Biomes/ruined_city|Ruined City]]**: 6.8%
+- **[[Biomes/industrial|Industrial]]**: 4.3%
+- **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.9%
+- **[[Biomes/desert|Desert]]**: 4.9%
+- **[[Biomes/mountain|Mountain]]**: 2.0%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1%
+- **[[Biomes/forest|Forest]]**: 0.8%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#BarbedWire|Barbed Wire Perimeter]]

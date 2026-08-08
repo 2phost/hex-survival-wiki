@@ -9,13 +9,13 @@ title: "Obsidian Flake"
 Sharp volcanic glass pieces ideal for improvised cutting tools.
 
 ## Where to Find
-- **[[Biomes/mountain|Mountain]]**: 6.1%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.2%
-- **[[Biomes/desert|Desert]]**: 2.0%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.4%
+- **[[Biomes/mountain|Mountain]]**: 5.2%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1%
+- **[[Biomes/desert|Desert]]**: 2.2%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.3%
 - **[[Biomes/industrial|Industrial]]**: 0.3%
-- **[[Biomes/forest|Forest]]**: 0.4%
-- **[[Biomes/oasis|Oasis]]**: 0.7%
+- **[[Biomes/forest|Forest]]**: 0.3%
+- **[[Biomes/oasis|Oasis]]**: 0.6%
 ## Usage
 Sharp volcanic glass pieces ideal for improvised cutting tools.
 

@@ -9,9 +9,9 @@ title: "Broken Radio"
 Salvageable electronics from a damaged broadcast unit.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.6%
-- **[[Biomes/industrial|Industrial]]**: 2.5%
-- **[[Biomes/ruined_city|Ruined City]]**: 2.6%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.3%
+- **[[Biomes/industrial|Industrial]]**: 2.1%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.0%
 ## Usage
 Salvageable electronics from a damaged broadcast unit.
 

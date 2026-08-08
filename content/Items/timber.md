@@ -7,13 +7,13 @@ title: "Raw Timber"
 ![[assets/items/timber.png|150]]
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 14.8%
-- **[[Biomes/farm_facility|Farm Facility]]**: 5.0%
-- **[[Biomes/desert|Desert]]**: 5.0%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.5%
-- **[[Biomes/mountain|Mountain]]**: 2.3%
-- **[[Biomes/oasis|Oasis]]**: 3.5%
+- **[[Biomes/forest|Forest]]**: 13.2%
+- **[[Biomes/desert|Desert]]**: 6.8%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.2%
+- **[[Biomes/mountain|Mountain]]**: 2.0%
+- **[[Biomes/oasis|Oasis]]**: 2.8%
 - **[[Biomes/industrial|Industrial]]**: 0.4%
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#Watchtower|Watchtower]]

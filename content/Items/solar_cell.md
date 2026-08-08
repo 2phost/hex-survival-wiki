@@ -9,7 +9,10 @@ title: "Solar Cell"
 Crafted photovoltaic cell for harvesting sunlight. Used to build solar panels.
 
 ## Where to Find
-- *Cannot be found in the wilderness (Crafting/Production only).*
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.7%
+- **[[Biomes/industrial|Industrial]]**: 0.7%
+- **[[Biomes/desert|Desert]]**: 1.6%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.3%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SolarPanels|Solar Panels]]

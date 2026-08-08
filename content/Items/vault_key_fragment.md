@@ -9,7 +9,7 @@ title: "Vault Key Fragment"
 Partial cipher key etched on alloy, likely tied to sealed vault systems.
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.7%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.3%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.4%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.1%
 - **[[Biomes/industrial|Industrial]]**: 0.1%

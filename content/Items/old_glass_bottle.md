@@ -7,15 +7,15 @@ title: "Old Glass Bottle"
 ![[assets/items/old_glass_bottle.png|150]]
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 4.6%
-- **[[Biomes/industrial|Industrial]]**: 3.3%
-- **[[Biomes/farm_facility|Farm Facility]]**: 5.2%
-- **[[Biomes/forest|Forest]]**: 4.6%
-- **[[Biomes/desert|Desert]]**: 5.0%
-- **[[Biomes/oasis|Oasis]]**: 7.0%
-- **[[Biomes/mountain|Mountain]]**: 3.5%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.0%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.6%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.3%
+- **[[Biomes/industrial|Industrial]]**: 1.0%
+- **[[Biomes/forest|Forest]]**: 1.7%
+- **[[Biomes/farm_facility|Farm Facility]]**: 1.6%
+- **[[Biomes/desert|Desert]]**: 2.2%
+- **[[Biomes/mountain|Mountain]]**: 1.2%
+- **[[Biomes/oasis|Oasis]]**: 1.7%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.3%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3%
 ## Usage
 
 ### Used in Recipes

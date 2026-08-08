@@ -10,9 +10,13 @@ A heavy-duty pack frame and stitched compartments built for long hauls. Increase
 
 ## Where to Find
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2%
-- **[[Biomes/desert|Desert]]**: 0.2%
+- **[[Biomes/desert|Desert]]**: 0.3%
+- **[[Biomes/forest|Forest]]**: 0.2%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.1%
+- **[[Biomes/mountain|Mountain]]**: 0.2%
 - **[[Biomes/industrial|Industrial]]**: 0.1%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
+- **[[Biomes/oasis|Oasis]]**: 0.3%
 ## Usage
 
 ### Crafting Recipe

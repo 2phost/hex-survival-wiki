@@ -9,14 +9,14 @@ title: "Car Battery"
 Heavy lead-acid battery salvaged from old vehicles. Useful for expanding town power storage.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 4.1%
-- **[[Biomes/industrial|Industrial]]**: 2.9%
-- **[[Biomes/desert|Desert]]**: 3.0%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.8%
-- **[[Biomes/farm_facility|Farm Facility]]**: 1.2%
+- **[[Biomes/ruined_city|Ruined City]]**: 3.2%
+- **[[Biomes/industrial|Industrial]]**: 2.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.7%
+- **[[Biomes/farm_facility|Farm Facility]]**: 1.0%
+- **[[Biomes/desert|Desert]]**: 1.4%
 - **[[Biomes/forest|Forest]]**: 0.7%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5%
-- **[[Biomes/mountain|Mountain]]**: 0.7%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.4%
+- **[[Biomes/mountain|Mountain]]**: 0.6%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#BatteryBank|Battery Storage]]

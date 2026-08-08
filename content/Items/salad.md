@@ -11,9 +11,9 @@ title: "Salad"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/farm_facility|Farm Facility]]**: 9.0%
-- **[[Biomes/forest|Forest]]**: 1.5%
-- **[[Biomes/oasis|Oasis]]**: 2.8%
+- **[[Biomes/farm_facility|Farm Facility]]**: 7.4%
+- **[[Biomes/forest|Forest]]**: 1.3%
+- **[[Biomes/oasis|Oasis]]**: 2.2%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.2%
 - **[[Biomes/industrial|Industrial]]**: 0.1%
 ## Usage

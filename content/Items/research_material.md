@@ -9,10 +9,10 @@ title: "Research Material"
 Recovered data drives, scientific logs, and salvageable pre-collapse notes used by the Research Lab.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 7.3%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 4.2%
-- **[[Biomes/industrial|Industrial]]**: 1.5%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 6.5%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.7%
+- **[[Biomes/industrial|Industrial]]**: 1.3%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.5%
 ## Usage
 
 ### Yielded From Salvage

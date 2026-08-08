@@ -9,14 +9,14 @@ title: "Salt Crystals"
 Mineral deposits scraped from dry beds and cave seams.
 
 ## Where to Find
-- **[[Biomes/desert|Desert]]**: 10.0%
-- **[[Biomes/oasis|Oasis]]**: 8.4%
-- **[[Biomes/mountain|Mountain]]**: 4.2%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
-- **[[Biomes/farm_facility|Farm Facility]]**: 1.2%
+- **[[Biomes/mountain|Mountain]]**: 3.6%
+- **[[Biomes/desert|Desert]]**: 4.1%
+- **[[Biomes/oasis|Oasis]]**: 2.8%
+- **[[Biomes/ruined_city|Ruined City]]**: 0.5%
+- **[[Biomes/farm_facility|Farm Facility]]**: 1.0%
 - **[[Biomes/industrial|Industrial]]**: 0.3%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5%
-- **[[Biomes/forest|Forest]]**: 0.4%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.4%
+- **[[Biomes/forest|Forest]]**: 0.3%
 ## Usage
 Mineral deposits scraped from dry beds and cave seams.
 
