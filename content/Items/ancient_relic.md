@@ -16,6 +16,10 @@ title: "Ancient Relic"
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.2%
 - **[[Biomes/oasis|Oasis]]**: 0.3%
+## Combinations
+### Used To Craft
+- 1x [[Items/water|Clean Water]] + 1x [[Items/ancient_relic|Ancient Relic]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/cleanse_vial|Cleanse Vial]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Construction
 - Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]

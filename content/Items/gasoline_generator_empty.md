@@ -12,6 +12,10 @@ title: "Gasoline Generator (empty)"
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 1.9%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.8%
 - **[[Biomes/desert|Desert]]**: 0.3%
+## Combinations
+### Used To Craft
+- 1x [[Items/gasoline_generator_empty|Gasoline Generator (empty)]] + 1x [[Items/gasoline_canister|Gasoline Canister]] → 1x [[Items/gasoline_generator|Gasoline Generator]]
+
 ## Usage
 
 ### Used in Recipes

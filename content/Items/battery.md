@@ -14,6 +14,12 @@ title: "Battery"
 - **[[Biomes/forest|Forest]]**: 1.7%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.4%
+## Combinations
+### Used To Craft
+- 1x [[Items/battery|Battery]] + 1x [[Items/lamp_empty|Lamp (empty)]] → 1x [[Items/lamp_functioning|Functioning Lamp]]
+- 1x [[Items/broken_radio|Broken Radio]] + 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/battery|Battery]] → 1x [[Items/field_radio|Field Radio]] *(Requires Assembly Bench)*
+- 1x [[Items/battery|Battery]] + 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/hauler_drone|Fabrication Hauler Drone]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Construction
 - Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]

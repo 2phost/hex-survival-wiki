@@ -17,6 +17,15 @@ Electrical wiring for connecting solar panels to the grid.
 - **[[Biomes/mountain|Mountain]]**: 2.4%
 - **[[Biomes/desert|Desert]]**: 1.9%
 - **[[Biomes/forest|Forest]]**: 1.2%
+## Combinations
+### Used To Craft
+- 2x [[Items/damaged_solar_panel|Damaged Solar Panel]] + 2x [[Items/copper_wiring|Copper Wiring]] → 1x [[Items/solar_cell|Solar Cell]] *(Requires Assembly Bench)*
+- 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/solar_cell|Solar Cell]] *(Requires Assembly Bench)*
+- 1x [[Items/broken_radio|Broken Radio]] + 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/battery|Battery]] → 1x [[Items/field_radio|Field Radio]] *(Requires Assembly Bench)*
+- 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/power_pole|Power Pole]]
+- 1x [[Items/battery|Battery]] + 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/hauler_drone|Fabrication Hauler Drone]] *(Requires Assembly Bench)*
+- 1x [[Items/filter_mesh|Filter Mesh]] + 1x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/humidity_extractor|Humidity Extractor]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SolarPanels|Solar Panels]]

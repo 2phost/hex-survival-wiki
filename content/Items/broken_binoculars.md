@@ -12,6 +12,10 @@ Shattered optics. Glass and metal casing can be salvaged.
 - **[[Biomes/ruined_city|Ruined City]]**: 2.0%
 - **[[Biomes/mountain|Mountain]]**: 4.0%
 - **[[Biomes/industrial|Industrial]]**: 1.1%
+## Combinations
+### Used To Craft
+- 1x [[Items/broken_binoculars|Broken Binoculars]] + 1x [[Items/cracked_lens|Cracked Lens]] → 1x [[Items/restored_binoculars|Restored Binoculars]] *(Requires Assembly Bench)*
+
 ## Usage
 Shattered optics. Glass and metal casing can be salvaged.
 

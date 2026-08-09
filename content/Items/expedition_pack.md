@@ -17,6 +17,12 @@ A heavy-duty pack frame and stitched compartments built for long hauls. Increase
 - **[[Biomes/industrial|Industrial]]**: 0.1%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
 - **[[Biomes/oasis|Oasis]]**: 0.3%
+## Combinations
+### Crafted From
+- 1x [[Items/salvager_pack|Salvager Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/expedition_pack|Expedition Pack]] *(Requires Assembly Bench)*
+### Used To Craft
+- 1x [[Items/expedition_pack|Expedition Pack]] + 2x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/hauler_pack|Hauler Pack]] *(Requires Assembly Bench)*
+
 ## Usage
 
 ### Crafting Recipe

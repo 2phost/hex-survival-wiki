@@ -17,6 +17,12 @@ Bent but sturdy steel rods bundled for emergency fortifications.
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.2%
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.3%
 - **[[Biomes/oasis|Oasis]]**: 0.3%
+## Combinations
+### Crafted From
+- 5x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/fortified_rebar|Fortified Rebar]]
+### Used To Craft
+- 1x [[Items/scrap_spear|Scrap Spear]] + 1x [[Items/fortified_rebar|Fortified Rebar]] + 2x [[Items/ceramic_shards|Ceramic Shards]] → 1x [[Items/rebar_blade|Rebar Blade]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SpikeTrench|Spike Trench]]

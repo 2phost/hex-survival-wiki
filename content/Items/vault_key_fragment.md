@@ -13,6 +13,10 @@ Partial cipher key etched on alloy, likely tied to sealed vault systems.
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.4%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.1%
 - **[[Biomes/industrial|Industrial]]**: 0.1%
+## Combinations
+### Used To Craft
+- 3x [[Items/vault_key_fragment|Vault Key Fragment]] → 1x [[Items/vault_access_key|Vault Access Key]] *(Requires Assembly Bench)*
+
 ## Usage
 Partial cipher key etched on alloy, likely tied to sealed vault systems.
 

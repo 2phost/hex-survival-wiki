@@ -15,6 +15,12 @@ A heavy striking maul powered by reclaimed capacitors for brutal impact.
 - **[[Biomes/ruined_city|Ruined City]]**: 0.6%
 - **[[Biomes/mountain|Mountain]]**: 0.6%
 - **[[Biomes/forest|Forest]]**: 0.3%
+## Combinations
+### Crafted From
+- 1x [[Items/rebar_blade|Rebar Blade]] + 1x [[Items/shock_capacitor|Shock Capacitor]] + 1x [[Items/hardened_actuator|Hardened Actuator]] → 1x [[Items/shock_maul|Shock Maul]] *(Requires Assembly Bench)*
+### Used To Craft
+- 1x [[Items/shock_maul|Shock Maul]] + 1x [[Items/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/targeting_relay|Targeting Relay]] → 1x [[Items/plasma_lance|Plasma Lance]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Combat
 - **Damage**: 4

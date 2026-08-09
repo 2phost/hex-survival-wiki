@@ -15,6 +15,10 @@ title: "Lamp (empty)"
 - **[[Biomes/forest|Forest]]**: 1.7%
 - **[[Biomes/desert|Desert]]**: 1.4%
 - **[[Biomes/mountain|Mountain]]**: 1.0%
+## Combinations
+### Used To Craft
+- 1x [[Items/battery|Battery]] + 1x [[Items/lamp_empty|Lamp (empty)]] → 1x [[Items/lamp_functioning|Functioning Lamp]]
+
 ## Usage
 
 ### Used in Recipes

@@ -12,6 +12,11 @@ Optical glass from damaged equipment.
 - **[[Biomes/industrial|Industrial]]**: 2.8%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 2.8%
 - **[[Biomes/ruined_city|Ruined City]]**: 2.0%
+## Combinations
+### Used To Craft
+- 1x [[Items/broken_binoculars|Broken Binoculars]] + 1x [[Items/cracked_lens|Cracked Lens]] → 1x [[Items/restored_binoculars|Restored Binoculars]] *(Requires Assembly Bench)*
+- 1x [[Items/cracked_lens|Cracked Lens]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/restored_binoculars|Restored Binoculars]] *(Requires Assembly Bench)*
+
 ## Usage
 
 ### Used in Recipes

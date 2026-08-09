@@ -11,8 +11,15 @@ Charge-dense capacitor produced by powered Industrial facilities for perimeter s
 ### Requirements
 - **Skill**: [[Skills/field_engineering|Field Engineering]] (Level 2)
 
+## Production
+Produced by Industrial facilities Biome
+
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
+## Combinations
+### Used To Craft
+- 1x [[Items/rebar_blade|Rebar Blade]] + 1x [[Items/shock_capacitor|Shock Capacitor]] + 1x [[Items/hardened_actuator|Hardened Actuator]] → 1x [[Items/shock_maul|Shock Maul]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]

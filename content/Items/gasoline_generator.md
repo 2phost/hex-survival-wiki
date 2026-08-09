@@ -13,6 +13,10 @@ This gasoline generator can probably power your house for a long time.
 - **[[Biomes/industrial|Industrial]]**: 0.9%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.9%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.5%
+## Combinations
+### Crafted From
+- 1x [[Items/gasoline_generator_empty|Gasoline Generator (empty)]] + 1x [[Items/gasoline_canister|Gasoline Canister]] → 1x [[Items/gasoline_generator|Gasoline Generator]]
+
 ## Usage
 This gasoline generator can probably power your house for a long time.
 

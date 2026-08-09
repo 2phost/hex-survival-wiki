@@ -11,6 +11,9 @@ Advanced transmission module produced by powered Electronic Labs.
 ### Requirements
 - **Skill**: [[Skills/field_engineering|Field Engineering]] (Level 3)
 
+## Production
+Produced by Electronic Labs Biome
+
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage

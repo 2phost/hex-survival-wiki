@@ -11,6 +11,9 @@ Precision-forged industrial plating produced by powered Industrial facilities. W
 ### Requirements
 - **Skill**: [[Skills/field_engineering|Field Engineering]] (Level 1)
 
+## Production
+Produced by Industrial facilities Biome
+
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage

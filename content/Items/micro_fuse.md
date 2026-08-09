@@ -14,6 +14,10 @@ Tiny protective fuse used in sensitive control circuits.
 - **[[Biomes/industrial|Industrial]]**: 1.3%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.6%
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.3%
+## Combinations
+### Used To Craft
+- 1x [[Items/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/micro_fuse|Micro Fuse]] + 1x [[Items/circuit_boards|Circuit Boards]] → 1x [[Items/calibrated_sensor|Calibrated Sensor]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]

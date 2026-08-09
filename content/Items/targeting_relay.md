@@ -11,8 +11,15 @@ Precision relay produced by powered Electronic Labs for automated fire-control s
 ### Requirements
 - **Skill**: [[Skills/field_engineering|Field Engineering]] (Level 1)
 
+## Production
+Produced by Electronic Labs Biome
+
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
+## Combinations
+### Used To Craft
+- 1x [[Items/shock_maul|Shock Maul]] + 1x [[Items/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/targeting_relay|Targeting Relay]] → 1x [[Items/plasma_lance|Plasma Lance]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Construction
 - Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]

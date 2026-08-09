@@ -18,6 +18,10 @@ Broken insulation and cookware fragments from pre-collapse ruins.
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.5%
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
 - **[[Biomes/oasis|Oasis]]**: 1.1%
+## Combinations
+### Used To Craft
+- 1x [[Items/scrap_spear|Scrap Spear]] + 1x [[Items/fortified_rebar|Fortified Rebar]] + 2x [[Items/ceramic_shards|Ceramic Shards]] → 1x [[Items/rebar_blade|Rebar Blade]] *(Requires Assembly Bench)*
+
 ## Usage
 
 ### Used in Recipes

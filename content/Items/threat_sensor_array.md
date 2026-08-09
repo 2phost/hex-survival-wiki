@@ -11,6 +11,9 @@ Multi-spectrum sensor package produced by powered Electronic Labs for early-hord
 ### Requirements
 - **Skill**: [[Skills/field_engineering|Field Engineering]] (Level 2)
 
+## Production
+Produced by Electronic Labs Biome
+
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage

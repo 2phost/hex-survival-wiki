@@ -13,6 +13,10 @@ Faulty detection unit. Electronics inside may be recoverable.
 - **[[Biomes/industrial|Industrial]]**: 1.4%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 1.6%
 - **[[Biomes/desert|Desert]]**: 0.3%
+## Combinations
+### Used To Craft
+- 1x [[Items/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/micro_fuse|Micro Fuse]] + 1x [[Items/circuit_boards|Circuit Boards]] → 1x [[Items/calibrated_sensor|Calibrated Sensor]] *(Requires Assembly Bench)*
+
 ## Usage
 Faulty detection unit. Electronics inside may be recoverable.
 

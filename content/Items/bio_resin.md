@@ -17,6 +17,10 @@ Sticky organic resin harvested from mutated plant growth.
 - **[[Biomes/ruined_city|Ruined City]]**: 0.6%
 - **[[Biomes/industrial|Industrial]]**: 0.4%
 - **[[Biomes/desert|Desert]]**: 0.8%
+## Combinations
+### Used To Craft
+- 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/bio_resin|Bio Resin]] → 1x [[Items/field_bandage|Field Bandage]]
+
 ## Usage
 Sticky organic resin harvested from mutated plant growth.
 

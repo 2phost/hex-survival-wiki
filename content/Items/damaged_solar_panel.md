@@ -13,6 +13,10 @@ Cracked photovoltaic array. Some cells might still function.
 - **[[Biomes/industrial|Industrial]]**: 1.1%
 - **[[Biomes/desert|Desert]]**: 2.7%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.5%
+## Combinations
+### Used To Craft
+- 2x [[Items/damaged_solar_panel|Damaged Solar Panel]] + 2x [[Items/copper_wiring|Copper Wiring]] → 1x [[Items/solar_cell|Solar Cell]] *(Requires Assembly Bench)*
+
 ## Usage
 Cracked photovoltaic array. Some cells might still function.
 

@@ -13,6 +13,10 @@ A rare pre-collapse polearm retrofitted with a stabilized plasma channel.
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.7%
 - **[[Biomes/industrial|Industrial]]**: 0.2%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.2%
+## Combinations
+### Crafted From
+- 1x [[Items/shock_maul|Shock Maul]] + 1x [[Items/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/targeting_relay|Targeting Relay]] → 1x [[Items/plasma_lance|Plasma Lance]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Combat
 - **Damage**: 6

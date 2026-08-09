@@ -16,6 +16,13 @@ title: "Old Glass Bottle"
 - **[[Biomes/oasis|Oasis]]**: 1.7%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.3%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3%
+## Combinations
+### Used To Craft
+- 1x [[Items/old_glass_bottle|Old Glass Bottle]] + 1x [[Items/glowing_mushroom|Glowing Mushroom]] → 1x [[Items/glowing_bottle|Glowing Bottle]]
+- 1x [[Items/cracked_lens|Cracked Lens]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/restored_binoculars|Restored Binoculars]] *(Requires Assembly Bench)*
+- 1x [[Items/water|Clean Water]] + 1x [[Items/ancient_relic|Ancient Relic]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/cleanse_vial|Cleanse Vial]] *(Requires Assembly Bench)*
+- 1x [[Items/filter_mesh|Filter Mesh]] + 1x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/humidity_extractor|Humidity Extractor]] *(Requires Assembly Bench)*
+
 ## Usage
 
 ### Used in Recipes

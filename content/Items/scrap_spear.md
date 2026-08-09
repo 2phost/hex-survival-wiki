@@ -18,6 +18,12 @@ A long haft tipped with forged scrap. Reliable reach compared to improvised kniv
 - **[[Biomes/desert|Desert]]**: 1.1%
 - **[[Biomes/oasis|Oasis]]**: 1.1%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3%
+## Combinations
+### Crafted From
+- 1x [[Items/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/scrap_spear|Scrap Spear]] *(Requires Assembly Bench)*
+### Used To Craft
+- 1x [[Items/scrap_spear|Scrap Spear]] + 1x [[Items/fortified_rebar|Fortified Rebar]] + 2x [[Items/ceramic_shards|Ceramic Shards]] → 1x [[Items/rebar_blade|Rebar Blade]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Combat
 - **Damage**: 2

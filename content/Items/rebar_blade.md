@@ -17,6 +17,12 @@ A balanced blade cut from reinforced rebar and ceramic edge inserts.
 - **[[Biomes/forest|Forest]]**: 0.8%
 - **[[Biomes/desert|Desert]]**: 0.8%
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.5%
+## Combinations
+### Crafted From
+- 1x [[Items/scrap_spear|Scrap Spear]] + 1x [[Items/fortified_rebar|Fortified Rebar]] + 2x [[Items/ceramic_shards|Ceramic Shards]] → 1x [[Items/rebar_blade|Rebar Blade]] *(Requires Assembly Bench)*
+### Used To Craft
+- 1x [[Items/rebar_blade|Rebar Blade]] + 1x [[Items/shock_capacitor|Shock Capacitor]] + 1x [[Items/hardened_actuator|Hardened Actuator]] → 1x [[Items/shock_maul|Shock Maul]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Combat
 - **Damage**: 3

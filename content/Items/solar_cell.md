@@ -13,6 +13,11 @@ Crafted photovoltaic cell for harvesting sunlight. Used to build solar panels.
 - **[[Biomes/industrial|Industrial]]**: 0.7%
 - **[[Biomes/desert|Desert]]**: 1.6%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.3%
+## Combinations
+### Crafted From
+- 2x [[Items/damaged_solar_panel|Damaged Solar Panel]] + 2x [[Items/copper_wiring|Copper Wiring]] → 1x [[Items/solar_cell|Solar Cell]] *(Requires Assembly Bench)*
+- 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/solar_cell|Solar Cell]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SolarPanels|Solar Panels]]

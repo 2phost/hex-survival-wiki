@@ -11,6 +11,9 @@ Heavy mechanical actuator produced by powered Industrial facilities.
 ### Requirements
 - **Skill**: [[Skills/field_engineering|Field Engineering]] (Level 2)
 
+## Production
+Produced by Industrial facilities Biome
+
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage

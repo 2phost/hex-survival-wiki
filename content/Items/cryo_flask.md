@@ -14,6 +14,10 @@ Sealed thermal flask once used for preserving volatile samples.
 - **[[Biomes/industrial|Industrial]]**: 0.7%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.3%
 - **[[Biomes/mountain|Mountain]]**: 0.4%
+## Combinations
+### Used To Craft
+- 1x [[Items/stim_injector|Stim Injector]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/cryo_flask|Cryo Flask]] → 1x [[Items/stim_overdrive|Stim Overdrive]] *(Requires Assembly Bench)*
+
 ## Usage
 Sealed thermal flask once used for preserving volatile samples.
 

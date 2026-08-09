@@ -18,6 +18,10 @@ Luminous spore clusters that thrive in damp and irradiated zones.
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5%
 - **[[Biomes/desert|Desert]]**: 0.3%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
+## Combinations
+### Used To Craft
+- 1x [[Items/water|Clean Water]] + 1x [[Items/fungal_spores|Fungal Spores]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_pack|Stim Pack]]
+
 ## Usage
 Luminous spore clusters that thrive in damp and irradiated zones.
 

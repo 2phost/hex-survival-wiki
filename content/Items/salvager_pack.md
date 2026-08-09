@@ -18,6 +18,12 @@ A reinforced scav bag with extra loops and pouches. Increases carried inventory 
 - **[[Biomes/industrial|Industrial]]**: 0.1%
 - **[[Biomes/mountain|Mountain]]**: 0.2%
 - **[[Biomes/oasis|Oasis]]**: 0.3%
+## Combinations
+### Crafted From
+- 1x [[Items/worn_leather_pack|Worn Leather Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/salvager_pack|Salvager Pack]] *(Requires Assembly Bench)*
+### Used To Craft
+- 1x [[Items/salvager_pack|Salvager Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/expedition_pack|Expedition Pack]] *(Requires Assembly Bench)*
+
 ## Usage
 
 ### Crafting Recipe

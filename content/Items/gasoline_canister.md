@@ -17,6 +17,12 @@ Fuel for the base generators. Refills 25% town power when used at base.
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 2.1%
 - **[[Biomes/desert|Desert]]**: 2.7%
 - **[[Biomes/mountain|Mountain]]**: 2.0%
+## Combinations
+### Crafted From
+- 2x [[Items/empty_canister|Empty Canister]] + 1x [[Items/chemical_sludge|Chemical Sludge]] → 1x [[Items/gasoline_canister|Gasoline Canister]] *(Requires Assembly Bench)*
+### Used To Craft
+- 1x [[Items/gasoline_generator_empty|Gasoline Generator (empty)]] + 1x [[Items/gasoline_canister|Gasoline Canister]] → 1x [[Items/gasoline_generator|Gasoline Generator]]
+
 ## Usage
 
 ### Used in Recipes

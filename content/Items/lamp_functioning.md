@@ -10,6 +10,10 @@ Provides illumination when carried; lights only the tile you stand on.
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
+## Combinations
+### Crafted From
+- 1x [[Items/battery|Battery]] + 1x [[Items/lamp_empty|Lamp (empty)]] → 1x [[Items/lamp_functioning|Functioning Lamp]]
+
 ## Usage
 Provides illumination when carried; lights only the tile you stand on.
 

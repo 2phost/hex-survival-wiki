@@ -14,6 +14,12 @@ title: "Raw Timber"
 - **[[Biomes/oasis|Oasis]]**: 2.8%
 - **[[Biomes/industrial|Industrial]]**: 0.4%
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
+## Combinations
+### Crafted From
+- 1x [[Items/charred_planks|Charred Planks]] → 1x [[Items/timber|Raw Timber]] *(Requires Assembly Bench)*
+### Used To Craft
+- 1x [[Items/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/scrap_spear|Scrap Spear]] *(Requires Assembly Bench)*
+
 ## Usage
 ### Construction
 - Required for [[Base/constructions#Watchtower|Watchtower]]

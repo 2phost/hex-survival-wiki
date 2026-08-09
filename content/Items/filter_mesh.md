@@ -18,6 +18,12 @@ Fine wire mesh from masks and vents; still usable for filtration rigs.
 - **[[Biomes/forest|Forest]]**: 0.7%
 - **[[Biomes/mountain|Mountain]]**: 0.8%
 - **[[Biomes/oasis|Oasis]]**: 0.6%
+## Combinations
+### Used To Craft
+- 1x [[Items/first_aid_kit|First Aid Kit]] + 1x [[Items/sterile_syringe|Sterile Syringe]] + 1x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/trauma_stabilizer|Trauma Stabilizer]] *(Requires Assembly Bench)*
+- 1x [[Items/expedition_pack|Expedition Pack]] + 2x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/hauler_pack|Hauler Pack]] *(Requires Assembly Bench)*
+- 1x [[Items/filter_mesh|Filter Mesh]] + 1x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/humidity_extractor|Humidity Extractor]] *(Requires Assembly Bench)*
+
 ## Usage
 
 ### Used in Recipes
