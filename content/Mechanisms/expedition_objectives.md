@@ -19,7 +19,7 @@ title: "Expedition Objectives"
 
 ### 2. Threat: Corrupted Relay (Lvl 1) (High)
 - **Goal**: Reach the relay hex and spend **2 [[Vitals/action_points|AP]]** to disable it.
-- **Location**: Use the **[[Base/constructions|Watchtower]]** to reveal. (Example: Heading SW, Distance 2 hexes away).
+- **Location**: Use the **[[Builds/watchtower|Watchtower]]** to reveal. (Example: Heading SW, Distance 2 hexes away).
 - **Penalty if Ignored**: 
  - **Immediate**: -12% Search Chance town-wide.
  - **Escalation**: -16% Search Chance at next [[Mechanisms/power_grid|Midnight]].
@@ -27,12 +27,12 @@ title: "Expedition Objectives"
 ## Objective Types
 
 ### 1. Story & Infrastructure Events
-- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[Base/constructions#ResearchLab|Research Lab]], [[Biomes/industrial|Industrial Zone]]) to progress the narrative or gain resources.
+- **Goal**: Perform specific base actions or use specialized facilities (e.g., [[Builds/research_lab|Research Lab]], [[Biomes/industrial|Industrial Zone]]) to progress the narrative or gain resources.
 - **Reward**: Critical materials or navigation data.
 
 ### 2. Threat Mitigation
 - **Goal**: Neutralize a specific threat on the map (e.g., Relays, Corrupted Nodes).
 - **Penalty if Ignored**: Global negative effects that scale over time.
 - **Requirements**:
- - **Navigation**: **Requires [[Base/constructions|Watchtower]] to reveal headings.**
+ - **Navigation**: **Requires [[Builds/watchtower|Watchtower]] to reveal headings.**
  - **Action**: Spend [[Vitals/action_points|Action Points]] ([[Vitals/action_points|AP]]) to perform a specific task (e.g., "Disable").

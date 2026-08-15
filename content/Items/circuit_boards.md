@@ -22,11 +22,11 @@ title: "Circuit Boards"
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ScrapWorkshop|Scrap Workshop]]
-- Required for [[Base/constructions#SignalBooster|Signal Booster (Radar)]]
-- Required for [[Base/constructions#SentryTurret|Automated Sentry]]
-- Required for [[Base/constructions#SolarPanels|Solar Panels]]
-- Required for [[Base/constructions#BeaconAmplifier|Beacon Amplifier]]
+- Required for [[Builds/scrap_workshop|Scrap Workshop]]
+- Required for [[Builds/signal_booster|Signal Booster (Radar)]]
+- Required for [[Builds/sentry_turret|Automated Sentry]]
+- Required for [[Builds/solar_panels|Solar Panels]]
+- Required for [[Builds/beacon_amplifier|Beacon Amplifier]]
 
 ### Used in Recipes
 * <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]

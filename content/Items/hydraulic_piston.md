@@ -18,7 +18,7 @@ Produced by Industrial facilities Biome
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
+- Required for [[Builds/armor_plated_gate|Armor-Plated Gate]]
 
 ## Required For
 ### Base Facilities

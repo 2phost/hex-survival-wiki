@@ -15,7 +15,7 @@ Clustered charge capacitors suitable for energy buffering projects.
 - **[[Biomes/ruined_city|Ruined City]]**: 0.8% drop chance
 ## Usage
 ### Construction
-- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+- Required for [[Builds/counterbattery_array|Counterbattery Array]]
 
 ## Required For
 ### Base Facilities

@@ -17,7 +17,7 @@ Dense ceramic plate salvaged from military stockpiles.
 - **[[Biomes/desert|Desert]]**: 0.3% drop chance
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
+- Required for [[Builds/armor_plated_gate|Armor-Plated Gate]]
 
 ## Required For
 ### Base Facilities

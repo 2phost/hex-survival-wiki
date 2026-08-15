@@ -21,7 +21,7 @@ title: "Chemical Sludge"
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#FuelRefinery|Fuel Refinery]]
+- Required for [[Builds/fuel_refinery|Fuel Refinery]]
 
 ### Yielded From Salvage
 * <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/burnt_motor|Burnt-Out Motor]]

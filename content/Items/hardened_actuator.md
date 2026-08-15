@@ -24,9 +24,9 @@ Produced by Industrial facilities Biome
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
-- Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
-- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+- Required for [[Builds/auto_bolt_nest|Auto-Bolt Nest]]
+- Required for [[Builds/armor_plated_gate|Armor-Plated Gate]]
+- Required for [[Builds/counterbattery_array|Counterbattery Array]]
 
 ### Used in Recipes
 * <img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/shock_maul|Shock Maul]]

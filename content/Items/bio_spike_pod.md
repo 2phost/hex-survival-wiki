@@ -15,7 +15,7 @@ Aggressive thorn pod cultivated in powered Farm facilities and used in living tr
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
+- Required for [[Builds/shock_fence_grid|Shock Fence Grid]]
 
 ## Required For
 ### Base Facilities

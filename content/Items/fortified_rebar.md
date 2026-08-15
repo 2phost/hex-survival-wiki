@@ -29,8 +29,8 @@ Bent but sturdy steel rods bundled for emergency fortifications.
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#SpikeTrench|Spike Trench]]
-- Required for [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
+- Required for [[Builds/spike_trench|Spike Trench]]
+- Required for [[Builds/palisade_wall|Timber Palisade Wall]]
 
 ### Used in Recipes
 * <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rebar_blade|Rebar Blade]]

@@ -18,9 +18,9 @@ Produced by Electronic Labs Biome
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
-- Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
-- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
+- Required for [[Builds/shock_fence_grid|Shock Fence Grid]]
+- Required for [[Builds/sensor_jammer_grid|Sensor Jammer Grid]]
+- Required for [[Builds/citadel_aegis|Citadel Aegis Core]]
 
 ## Required For
 ### Base Facilities

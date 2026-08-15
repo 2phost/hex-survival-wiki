@@ -22,7 +22,7 @@ Tiny protective fuse used in sensitive control circuits.
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
+- Required for [[Builds/sensor_jammer_grid|Sensor Jammer Grid]]
 
 ## Required For
 ### Base Facilities

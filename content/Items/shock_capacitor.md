@@ -24,9 +24,9 @@ Produced by Industrial facilities Biome
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
-- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
-- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
+- Required for [[Builds/shock_fence_grid|Shock Fence Grid]]
+- Required for [[Builds/counterbattery_array|Counterbattery Array]]
+- Required for [[Builds/citadel_aegis|Citadel Aegis Core]]
 
 ### Used in Recipes
 * <img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/shock_maul|Shock Maul]]

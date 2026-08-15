@@ -18,8 +18,8 @@ Produced by Industrial facilities Biome
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
-- Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
+- Required for [[Builds/auto_bolt_nest|Auto-Bolt Nest]]
+- Required for [[Builds/armor_plated_gate|Armor-Plated Gate]]
 
 ## Required For
 ### Base Facilities

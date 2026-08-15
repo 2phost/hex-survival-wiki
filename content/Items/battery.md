@@ -26,7 +26,7 @@ title: "Battery"
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
+- Required for [[Builds/kill_zone_lights|Kill-Zone Floodlights]]
 
 ### Used in Recipes
 * <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/lamp_functioning|Functioning Lamp]]

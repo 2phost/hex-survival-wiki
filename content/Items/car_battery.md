@@ -19,7 +19,7 @@ Heavy lead-acid battery salvaged from old vehicles. Useful for expanding town po
 - **[[Biomes/mountain|Mountain]]**: 0.6% drop chance
 ## Usage
 ### Construction
-- Required for [[Base/constructions#BatteryBank|Battery Storage]]
+- Required for [[Builds/battery_bank|Battery Storage]]
 
 ## Required For
 ### Base Facilities

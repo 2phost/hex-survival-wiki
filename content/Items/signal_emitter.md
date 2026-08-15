@@ -18,8 +18,8 @@ Produced by Electronic Labs Biome
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
-- Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
+- Required for [[Builds/kill_zone_lights|Kill-Zone Floodlights]]
+- Required for [[Builds/counterbattery_array|Counterbattery Array]]
 
 ## Required For
 ### Base Facilities

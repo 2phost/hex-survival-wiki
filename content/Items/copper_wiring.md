@@ -33,12 +33,12 @@ Electrical wiring for connecting solar panels to the grid.
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#SolarPanels|Solar Panels]]
-- Required for [[Base/constructions#BatteryBank|Battery Storage]]
-- Required for [[Base/constructions#BeaconAmplifier|Beacon Amplifier]]
+- Required for [[Builds/solar_panels|Solar Panels]]
+- Required for [[Builds/battery_bank|Battery Storage]]
+- Required for [[Builds/beacon_amplifier|Beacon Amplifier]]
 - Required for <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#PowerPole|Power Pole]]
-- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
-- Required for [[Base/constructions#ShockFenceGrid|Shock Fence Grid]]
+- Required for [[Builds/kill_zone_lights|Kill-Zone Floodlights]]
+- Required for [[Builds/shock_fence_grid|Shock Fence Grid]]
 
 ### Used in Recipes
 * <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/solar_cell|Solar Cell]]

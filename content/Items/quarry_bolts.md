@@ -17,8 +17,8 @@ Heavy anchor bolts used to pin barricades into stone.
 - **[[Biomes/oasis|Oasis]]**: 0.5% drop chance
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]
-- Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
+- Required for [[Builds/scrap_barricade|Scrap Barricade Wall]]
+- Required for [[Builds/kill_zone_lights|Kill-Zone Floodlights]]
 
 ## Required For
 ### Base Facilities

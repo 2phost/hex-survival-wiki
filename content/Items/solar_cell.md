@@ -22,7 +22,7 @@ Crafted photovoltaic cell for harvesting sunlight. Used to build solar panels.
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#SolarPanels|Solar Panels]]
+- Required for [[Builds/solar_panels|Solar Panels]]
 
 ### Crafting Recipe
 * <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] (x1)

@@ -20,7 +20,7 @@ Based on the current understanding of Hex Survival, these strategies focus on ef
 ## 3. Infrastructure: The "Loot Highway"
 - **Strategic Grid**: Do not build [[Items/power_pole|Power Poles]] randomly. Focus on creating a straight-line "highway" from the **Base** to the nearest **[[Biomes/oasis|Oasis]]** and **[[Biomes/electronic_lab|Electronic Store - Lab]]**.
 - **0-Hex Radius Precision**: Since poles only light their **current hex**, you must build a pole on **every single hex** of a highway to walk it safely without a lamp. 
-- **Watchtower First**: The town's first major construction should be the **[[Base/constructions|Watchtower]]**. This reveals the headings of world objectives, saving materials on blind "Highways."
+- **Watchtower First**: The town's first major construction should be the **[[Builds/watchtower|Watchtower]]**. This reveals the headings of world objectives, saving materials on blind "Highways."
 
 ## 4. The [[Mechanisms/facility_fabrication|Fabrication]] Loop
 - **Guaranteed Progression**: Use **[[Mechanisms/facility_fabrication|Fabrication]]** to bypass bad RNG when searching for **Alloy Plates** or **Logic Cores**.
@@ -30,7 +30,7 @@ Based on the current understanding of Hex Survival, these strategies focus on ef
 ## 5. [[Mechanisms/midnight_cycle|Midnight]] Preparation (The "Survival Check")
 - **The 40% Toll**: Both Hunger and Thirst drain by **40% (4 bars)** at [[Mechanisms/midnight_cycle|Midnight]]. Ensure your bars are above 40% before the clock hits zero.
 - **Fear Management**: Return to a lit tile to **Rest** and recover **Fear**. Reaching the 3-bar limit results in death.
-- **Defense Strength**: Check the **[[Base/management|Base Menu]]** to ensure **Town Defense > Monster Attack Strength**. If not, prioritize building defense upgrades like the **[[Base/constructions#Spike Trench|Spike Trench]]** or **[[Base/constructions#Scrap Barricade|Scrap Barricade]]**.
+- **Defense Strength**: Check the **[[Base/management|Base Menu]]** to ensure **Town Defense > Monster Attack Strength**. If not, prioritize building defense upgrades like the **[[Builds/spike_trench|Spike Trench]]** or **[[Builds/scrap_barricade|Scrap Barricade]]**.
 
 ## 6. Threat Response: "Relay First"
 - **Zero Tolerance**: Never let a **Corrupted Relay** reach its second stage. The search penalty makes finding resources significantly harder.

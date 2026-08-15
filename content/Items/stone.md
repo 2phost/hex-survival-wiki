@@ -17,13 +17,13 @@ title: "Hardened Stone"
 - **[[Biomes/ruined_city|Ruined City]]**: 0.4% drop chance
 ## Usage
 ### Construction
-- Required for [[Base/constructions#ReinforcedBulkhead|Reinforced Steel Bulkhead]]
-- Required for [[Base/constructions#Watchtower|Watchtower]]
-- Required for [[Base/constructions#HydroponicPatch|Hydroponic Patch]]
-- Required for [[Base/constructions#Well|Well]]
-- Required for [[Base/constructions#FuelRefinery|Fuel Refinery]]
-- Required for [[Base/constructions#SpikeTrench|Spike Trench]]
-- Required for [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
+- Required for [[Builds/reinforced_bulkhead|Reinforced Steel Bulkhead]]
+- Required for [[Builds/watchtower|Watchtower]]
+- Required for [[Builds/hydroponic_patch|Hydroponic Patch]]
+- Required for [[Builds/well|Well]]
+- Required for [[Builds/fuel_refinery|Fuel Refinery]]
+- Required for [[Builds/spike_trench|Spike Trench]]
+- Required for [[Builds/palisade_wall|Timber Palisade Wall]]
 
 ### Yielded From Salvage
 * <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rusty_tool|Rusty Tool]]

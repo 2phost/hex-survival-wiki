@@ -16,7 +16,7 @@ The Bank is a shared inventory system that allows all survivors in a town to con
 - **Depositing**: Clicking items in your personal inventory while in the Base menu moves them to the Bank.
 - **Withdrawing**: Players can withdraw items from the Bank into their limited **[[Mechanisms/inventory_management|Personal Inventory]]**.
 - **Town Resource Log**: All resource changes—including deposits, construction costs, and refueling—are recorded here for transparency, accessible directly within the base menu.
-- **Collaboration**: Banking materials like **Timber**, **Stone**, and **Scrap Metal** is essential for building critical infrastructure like the **[[Base/constructions|Watchtower]]**.
+- **Collaboration**: Banking materials like **Timber**, **Stone**, and **Scrap Metal** is essential for building critical infrastructure like the **[[Builds/watchtower|Watchtower]]**.
 
 ## 2. Town Status & Refueling
 The top of the Base menu displays the town's current survival status via the **Light & Survival Bar**.
@@ -35,4 +35,4 @@ The Base menu also displays **"Night Use"**, which indicates the predicted town-
 
 ## 4. Town Defenses
 The Town Bank also fuels the construction of the primary defense ring. Each upgrade increases the town's **Defense Value**, reducing the severity of nightly monster breaches.
-- **Primary Ring**: Progression starts at the **[[Base/constructions#SpikeTrench|Spike Trench]]** and culminates in the **[[Base/constructions#CitadelAegisCore|Citadel Aegis Core]]**.
+- **Primary Ring**: Progression starts at the **[[Builds/spike_trench|Spike Trench]]** and culminates in the **[[Builds/citadel_aegis|Citadel Aegis Core]]**.

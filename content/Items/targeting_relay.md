@@ -24,9 +24,9 @@ Produced by Electronic Labs Biome
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
-- Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
-- Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
+- Required for [[Builds/auto_bolt_nest|Auto-Bolt Nest]]
+- Required for [[Builds/sensor_jammer_grid|Sensor Jammer Grid]]
+- Required for [[Builds/citadel_aegis|Citadel Aegis Core]]
 
 ### Used in Recipes
 * <img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/plasma_lance|Plasma Lance]]

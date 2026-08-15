@@ -29,11 +29,11 @@ title: "Raw Timber"
 
 ## Usage
 ### Construction
-- Required for [[Base/constructions#Watchtower|Watchtower]]
-- Required for [[Base/constructions#HydroponicPatch|Hydroponic Patch]]
-- Required for [[Base/constructions#Well|Well]]
-- Required for [[Base/constructions#SpikeTrench|Spike Trench]]
-- Required for [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
+- Required for [[Builds/watchtower|Watchtower]]
+- Required for [[Builds/hydroponic_patch|Hydroponic Patch]]
+- Required for [[Builds/well|Well]]
+- Required for [[Builds/spike_trench|Spike Trench]]
+- Required for [[Builds/palisade_wall|Timber Palisade Wall]]
 
 ### Used in Recipes
 * <img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_spear|Scrap Spear]]
