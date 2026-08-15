@@ -8,11 +8,11 @@ title: "Open the Assembly Line"
 > The workshop needs a true assembly bench so kits, tools, and field gear stop being one-off miracles.
 
 ## Requirements
-- Build **assembly_bench** (Build Assembly Bench)
+- Build **Assembly Bench** (Build Assembly Bench)
 
 ## Rewards
-- 2x **research_material**
-- 1x **rations**
+- 2x **[[Items/research_material|Research Material]]**
+- 1x **[[Items/rations|Rations]]**
 
 ## Failure Penalty
 Fabrication stays stuck at hand-tools. (Defense: -1)

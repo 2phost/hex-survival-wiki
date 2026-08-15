@@ -8,13 +8,13 @@ title: "Specimen Harvest"
 > High Command wants fresh threat anatomy. Deposit common monster bone and chitin so labs can calibrate armor models.
 
 ## Requirements
-- Deposit 4x **monster_bone_common** (Deposit common monster bone)
-- Deposit 3x **monster_chitin_common** (Deposit common monster chitin)
+- Deposit 4x **[[Items/monster_bone_common|Common Monster Bone]]** (Deposit common monster bone)
+- Deposit 3x **[[Items/monster_chitin_common|Common Monster Chitin]]** (Deposit common monster chitin)
 
 ## Rewards
-- 1x **research_material**
-- 2x **rations**
-- 2x **water**
+- 1x **[[Items/research_material|Research Material]]**
+- 2x **[[Items/rations|Rations]]**
+- 2x **[[Items/water|Clean Water]]**
 
 ## Failure Penalty
 Specimen quotas slip and armor modeling stalls. (Defense: -1)

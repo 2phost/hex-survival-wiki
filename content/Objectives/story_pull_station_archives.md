@@ -8,11 +8,11 @@ title: "Pull Station Archives"
 > Survivors forget procedures under stress. Recover data tapes and optics so the outpost keeps institutional memory instead of reinventing every drill.
 
 ## Requirements
-- Deposit 2x **data_tape** (Deposit data tapes)
-- Deposit 1x **broken_binoculars** (Deposit broken binoculars)
+- Deposit 2x **[[Items/data_tape|Data Tape]]** (Deposit data tapes)
+- Deposit 1x **[[Items/broken_binoculars|Broken Binoculars]]** (Deposit broken binoculars)
 
 ## Rewards
-- 2x **research_material**
+- 2x **[[Items/research_material|Research Material]]**
 
 ## Failure Penalty
 Missing records mean slower, bloodier decisions. (Defense: -1)

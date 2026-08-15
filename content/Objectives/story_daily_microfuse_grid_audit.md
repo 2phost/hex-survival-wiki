@@ -8,12 +8,12 @@ title: "Microfuse Grid Audit"
 > Cascading fuse blows are masking real faults. Stage micro fuses and copper so Electric can hard-audit the bus.
 
 ## Requirements
-- Deposit 2x **micro_fuse** (Deposit micro fuses)
-- Deposit 2x **copper_wiring** (Deposit copper wiring)
+- Deposit 2x **[[Items/micro_fuse|Micro Fuse]]** (Deposit micro fuses)
+- Deposit 2x **[[Items/copper_wiring|Copper Wiring]]** (Deposit copper wiring)
 
 ## Rewards
-- 1x **battery**
-- 1x **shock_capacitor**
+- 1x **[[Items/battery|Battery]]**
+- 1x **[[Items/shock_capacitor|Shock Capacitor]]**
 
 ## Failure Penalty
 Intermittent trips sap confidence in the grid. (Defense: -1)

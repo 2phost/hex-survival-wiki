@@ -8,12 +8,12 @@ title: "Quarantine Hot Samples"
 > Recovery containment: isolate what you can with filter mesh and obsidian barriers while full protocols rebuild.
 
 ## Requirements
-- Deposit 2x **obsidian_flake** (Deposit obsidian flakes)
-- Deposit 2x **filter_mesh** (Deposit filter mesh)
+- Deposit 2x **[[Items/obsidian_flake|Obsidian Flake]]** (Deposit obsidian flakes)
+- Deposit 2x **[[Items/filter_mesh|Filter Mesh]]** (Deposit filter mesh)
 
 ## Rewards
-- 2x **water**
-- 1x **research_material**
+- 2x **[[Items/water|Clean Water]]**
+- 1x **[[Items/research_material|Research Material]]**
 
 ## Failure Penalty
 Hot samples remain loose in camp. (Defense: -2)

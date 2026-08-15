@@ -8,8 +8,8 @@ title: "Purge Team Staging"
 > Protocol Purge teams need a threat scanner and sensor jammer grid online before relay teams deploy.
 
 ## Requirements
-- Build **threat_scanner** (Build Threat Scanner)
-- Build **sensor_jammer_grid** (Build Sensor Jammer Grid)
+- Build **Threat Scanner Beacon** (Build Threat Scanner)
+- Build **Sensor Jammer Grid** (Build Sensor Jammer Grid)
 
 ## Rewards
 None

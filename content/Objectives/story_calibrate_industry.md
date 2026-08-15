@@ -9,12 +9,12 @@ title: "Calibrate Industry"
 
 ## Requirements
 - Queue Industrial Facility production
-- Deposit 2x **fractured_servo** (Deposit fractured servos)
+- Deposit 2x **[[Items/fractured_servo|Fractured Servo]]** (Deposit fractured servos)
 
 ## Rewards
-- 1x **research_material**
-- 1x **hardened_actuator**
-- 2x **scrap_metal**
+- 1x **[[Items/research_material|Research Material]]**
+- 1x **[[Items/hardened_actuator|Hardened Actuator]]**
+- 2x **[[Items/scrap_metal|Scrap Metal]]**
 
 ## Failure Penalty
 Quality collapse continues on the floor. (Defense: -1)

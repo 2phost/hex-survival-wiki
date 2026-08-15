@@ -9,12 +9,12 @@ title: "Electronics Recovery Contract"
 
 ## Requirements
 - Set any Electronic Lab production
-- Deposit 2x **malfunctioning_sensor** (Deposit malfunctioning sensors)
+- Deposit 2x **[[Items/malfunctioning_sensor|Malfunctioning Sensor]]** (Deposit malfunctioning sensors)
 
 ## Rewards
-- 1x **battery**
-- 2x **research_material**
-- 1x **targeting_relay**
+- 1x **[[Items/battery|Battery]]**
+- 2x **[[Items/research_material|Research Material]]**
+- 1x **[[Items/targeting_relay|Targeting Relay]]**
 
 ## Failure Penalty
 Signal quality drifts and outage risk climbs. (Defense: -1)

@@ -8,13 +8,13 @@ title: "Last-Chance Fortify"
 > Last chance protocol: if the barricade is not up, at least stage rebar, bolts, and sealant so a hard wall can rise before the next test.
 
 ## Requirements
-- Deposit 2x **fortified_rebar** (Deposit fortified rebar)
-- Deposit 3x **quarry_bolts** (Deposit quarry bolts)
-- Deposit 1x **resin_sealant** (Deposit resin sealant)
+- Deposit 2x **[[Items/fortified_rebar|Fortified Rebar]]** (Deposit fortified rebar)
+- Deposit 3x **[[Items/quarry_bolts|Quarry Bolts]]** (Deposit quarry bolts)
+- Deposit 1x **[[Items/resin_sealant|Resin Sealant]]** (Deposit resin sealant)
 
 ## Rewards
-- 2x **scrap_metal**
-- 1x **rations**
+- 2x **[[Items/scrap_metal|Scrap Metal]]**
+- 1x **[[Items/rations|Rations]]**
 
 ## Failure Penalty
 Final fortify stock still missing. Restrictions remain. (Defense: -2)

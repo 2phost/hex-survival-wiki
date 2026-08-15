@@ -8,13 +8,13 @@ title: "Interdiction Samples"
 > Command wants sinew and gland samples for strike doctrine. Stage uncommon specimens at base before midnight audit.
 
 ## Requirements
-- Deposit 2x **monster_sinew_uncommon** (Deposit uncommon monster sinew)
-- Deposit 1x **monster_gland_uncommon** (Deposit uncommon monster gland)
+- Deposit 2x **[[Items/monster_sinew_uncommon|Uncommon Monster Sinew]]** (Deposit uncommon monster sinew)
+- Deposit 1x **[[Items/monster_gland_uncommon|Uncommon Monster Gland]]** (Deposit uncommon monster gland)
 
 ## Rewards
-- 2x **research_material**
-- 1x **stim_pack**
-- 3x **scrap_metal**
+- 2x **[[Items/research_material|Research Material]]**
+- 1x **[[Items/stim_pack|Stim Pack]]**
+- 3x **[[Items/scrap_metal|Scrap Metal]]**
 
 ## Failure Penalty
 Interdiction labs idle without fresh samples. (Defense: -1)

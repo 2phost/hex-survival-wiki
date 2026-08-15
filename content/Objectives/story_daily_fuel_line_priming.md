@@ -8,11 +8,11 @@ title: "Fuel Line Priming"
 > Generators are stalling during peak load windows.
 
 ## Requirements
-- Deposit 2x **gasoline_canister** (Deposit gasoline canisters)
-- Deposit 2x **biofuel_cell** (Deposit biofuel cells)
+- Deposit 2x **[[Items/gasoline_canister|Gasoline Canister]]** (Deposit gasoline canisters)
+- Deposit 2x **[[Items/biofuel_cell|Biofuel Cell]]** (Deposit biofuel cells)
 
 ## Rewards
-- 1x **shock_capacitor**
+- 1x **[[Items/shock_capacitor|Shock Capacitor]]**
 
 ## Failure Penalty
 Fuel instability forces command to tighten operating windows. (Defense: 0)

@@ -8,10 +8,10 @@ title: "Install Solar Array"
 > Fuel will run out. Raise solar panels so daylight charge covers more of the night drain and Command stops treating power as a daily crisis.
 
 ## Requirements
-- Build **solar_panels** (Build Solar Panels)
+- Build **Solar Panels** (Build Solar Panels)
 
 ## Rewards
-- 1x **battery**
+- 1x **[[Items/battery|Battery]]**
 
 ## Failure Penalty
 The outpost stays fuel-hostage without solar. (Defense: 0)

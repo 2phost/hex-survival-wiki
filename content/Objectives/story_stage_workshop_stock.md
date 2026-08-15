@@ -8,12 +8,12 @@ title: "Stage Workshop Stock"
 > Recovery industrial order: get scrap and charred planks into base storage so a workshop can go up without another scavenging loop.
 
 ## Requirements
-- Deposit 2x **scrap_metal** (Deposit scrap metal)
-- Deposit 1x **charred_planks** (Deposit charred planks)
+- Deposit 2x **[[Items/scrap_metal|Scrap Metal]]** (Deposit scrap metal)
+- Deposit 1x **[[Items/charred_planks|Charred Planks]]** (Deposit charred planks)
 
 ## Rewards
-- 1x **scrap_metal**
-- 1x **rations**
+- 1x **[[Items/scrap_metal|Scrap Metal]]**
+- 1x **[[Items/rations|Rations]]**
 
 ## Failure Penalty
 Industrial baseline still missing. (Defense: -1)

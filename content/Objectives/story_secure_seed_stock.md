@@ -8,12 +8,12 @@ title: "Secure Seed Stock"
 > Recovery agri order: stage mutant seed pods and spare water so a hydroponic cycle can start the moment beds are ready.
 
 ## Requirements
-- Deposit 2x **mutant_seed_pod** (Deposit mutant seed pods)
-- Deposit 3x **water** (Deposit water)
+- Deposit 2x **[[Items/mutant_seed_pod|Mutant Seed Pod]]** (Deposit mutant seed pods)
+- Deposit 3x **[[Items/water|Clean Water]]** (Deposit water)
 
 ## Rewards
-- 1x **rations**
-- 2x **water**
+- 1x **[[Items/rations|Rations]]**
+- 2x **[[Items/water|Clean Water]]**
 
 ## Failure Penalty
 Crop inputs remain unsecured. (Defense: -1)

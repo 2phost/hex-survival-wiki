@@ -8,11 +8,11 @@ title: "Lock the Outpost In"
 > Final fortify order before Phase 2: raise a scrap barricade wall so Outpost Alpha can hold while Command opens the endgame board.
 
 ## Requirements
-- Build **scrap_barricade** (Build Scrap Barricade Wall)
+- Build **Scrap Barricade Wall** (Build Scrap Barricade Wall)
 
 ## Rewards
-- 1x **alloy_plate**
-- 2x **rations**
+- 1x **[[Items/alloy_plate|Alloy Plate]]**
+- 2x **[[Items/rations|Rations]]**
 
 ## Failure Penalty
 The outpost is not sealed. Command withholds Phase 2 confidence. (Defense: -3)

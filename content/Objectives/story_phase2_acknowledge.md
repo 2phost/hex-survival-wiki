@@ -8,7 +8,7 @@ title: "Phase 2 Readiness Check"
 > Command wants proof the outpost can spare attention for a final operation. Deposit research materials so logistics can stage endgame packages.
 
 ## Requirements
-- Deposit 2x **research_material** (Deposit research materials)
+- Deposit 2x **[[Items/research_material|Research Material]]** (Deposit research materials)
 
 ## Rewards
 None

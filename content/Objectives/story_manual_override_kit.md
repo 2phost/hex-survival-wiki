@@ -8,12 +8,12 @@ title: "Assemble Manual Override Kit"
 > Recovery control drill: stage sensors and boards so operators can seize manual control when automation lies.
 
 ## Requirements
-- Deposit 1x **malfunctioning_sensor** (Deposit malfunctioning sensor)
-- Deposit 1x **circuit_boards** (Deposit circuit boards)
+- Deposit 1x **[[Items/malfunctioning_sensor|Malfunctioning Sensor]]** (Deposit malfunctioning sensor)
+- Deposit 1x **[[Items/circuit_boards|Circuit Boards]]** (Deposit circuit boards)
 
 ## Rewards
-- 1x **battery**
-- 1x **research_material**
+- 1x **[[Items/battery|Battery]]**
+- 1x **[[Items/research_material|Research Material]]**
 
 ## Failure Penalty
 Override kit still incomplete. (Defense: -1)

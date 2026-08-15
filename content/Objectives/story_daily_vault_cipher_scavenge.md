@@ -8,12 +8,12 @@ title: "Vault Cipher Scavenge"
 > Cryptographers need keyed fragments and data tape before they can reconstruct vault handshake sequences.
 
 ## Requirements
-- Deposit 2x **vault_key_fragment** (Deposit vault key fragments)
-- Deposit 2x **data_tape** (Deposit data tapes)
+- Deposit 2x **[[Items/vault_key_fragment|Vault Key Fragment]]** (Deposit vault key fragments)
+- Deposit 2x **[[Items/data_tape|Data Tape]]** (Deposit data tapes)
 
 ## Rewards
-- 2x **research_material**
-- 2x **water**
+- 2x **[[Items/research_material|Research Material]]**
+- 2x **[[Items/water|Clean Water]]**
 
 ## Failure Penalty
 Cipher work stalls and vault access plans slip. (Defense: -1)

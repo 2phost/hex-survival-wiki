@@ -8,13 +8,13 @@ title: "Field Radio Revival"
 > Patrol nets are dead air. Command will issue a working set once you turn in broken radios and charged cells.
 
 ## Requirements
-- Deposit 2x **broken_radio** (Deposit broken radios)
-- Deposit 2x **battery** (Deposit batteries)
+- Deposit 2x **[[Items/broken_radio|Broken Radio]]** (Deposit broken radios)
+- Deposit 2x **[[Items/battery|Battery]]** (Deposit batteries)
 
 ## Rewards
-- 1x **field_radio**
-- 1x **research_material**
-- 1x **rations**
+- 1x **[[Items/field_radio|Field Radio]]**
+- 1x **[[Items/research_material|Research Material]]**
+- 1x **[[Items/rations|Rations]]**
 
 ## Failure Penalty
 Comms blackout risk climbs as patrols go silent. (Defense: -1)

@@ -8,7 +8,7 @@ title: "Recover Beacon Components"
 > Scavenge corrupted high-tier wastes and sealed vault sites for beacon assemblies. Command needs three intact components deposited at base.
 
 ## Requirements
-- Deposit 3x **beacon_component** (Deposit beacon components)
+- Deposit 3x **[[Items/beacon_component|Beacon Component]]** (Deposit beacon components)
 
 ## Rewards
 None

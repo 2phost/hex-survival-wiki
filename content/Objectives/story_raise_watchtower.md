@@ -8,10 +8,10 @@ title: "Raise a Watchtower"
 > If wire is not up yet, give the camp eyes. A watchtower buys warning time when the dark moves.
 
 ## Requirements
-- Build **watchtower** (Build a Watchtower)
+- Build **Watchtower** (Build a Watchtower)
 
 ## Rewards
-- 1x **rations**
+- 1x **[[Items/rations|Rations]]**
 
 ## Failure Penalty
 Blind approaches remain. Command marks the outpost as exposed. (Defense: -2)

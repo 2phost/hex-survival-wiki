@@ -8,11 +8,11 @@ title: "Emergency Lighting Network"
 > Night operations are failing without consistent perimeter light.
 
 ## Requirements
-- Deposit 2x **lamp_functioning** (Deposit functioning lamps)
-- Deposit 2x **cracked_lens** (Deposit cracked lenses)
+- Deposit 2x **[[Items/lamp_functioning|Functioning Lamp]]** (Deposit functioning lamps)
+- Deposit 2x **[[Items/cracked_lens|Cracked Lens]]** (Deposit cracked lenses)
 
 ## Rewards
-- 1x **signal_emitter**
+- 1x **[[Items/signal_emitter|Signal Emitter]]**
 
 ## Failure Penalty
 Blind perimeter sectors remain vulnerable overnight. (Defense: -1)

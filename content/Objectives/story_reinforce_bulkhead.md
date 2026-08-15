@@ -8,11 +8,11 @@ title: "Reinforce the Bulkhead"
 > Wire alone will not hold. Raise a reinforced bulkhead so the perimeter has a hard stop when pressure peaks.
 
 ## Requirements
-- Build **reinforced_bulkhead** (Build Reinforced Steel Bulkhead)
+- Build **Reinforced Steel Bulkhead** (Build Reinforced Steel Bulkhead)
 
 ## Rewards
-- 1x **alloy_plate**
-- 1x **rations**
+- 1x **[[Items/alloy_plate|Alloy Plate]]**
+- 1x **[[Items/rations|Rations]]**
 
 ## Failure Penalty
 Soft sectors stay soft. Expect heavier night losses. (Defense: -3)

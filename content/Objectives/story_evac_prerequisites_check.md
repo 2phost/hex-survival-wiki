@@ -8,8 +8,8 @@ title: "Evac Infrastructure Audit"
 > Protocol Evac requires a logistics uplink, Citadel Aegis Core, and completed Citadel Systems Integration research before the beacon can be raised.
 
 ## Requirements
-- Build **logistics_uplink** (Build Logistics Uplink)
-- Build **citadel_aegis** (Build Citadel Aegis Core)
+- Build **Logistics Uplink** (Build Logistics Uplink)
+- Build **Citadel Aegis Core** (Build Citadel Aegis Core)
 - Complete Citadel Systems Integration
 
 ## Rewards

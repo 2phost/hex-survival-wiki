@@ -8,10 +8,10 @@ title: "Buffer the Grid"
 > Spikes are cooking motors and truncating night ops. Install battery storage so surplus daylight survives until midnight demand.
 
 ## Requirements
-- Build **battery_bank** (Build Battery Storage)
+- Build **Battery Storage** (Build Battery Storage)
 
 ## Rewards
-- 1x **shock_capacitor**
+- 1x **[[Items/shock_capacitor|Shock Capacitor]]**
 
 ## Failure Penalty
 Unbuffered spikes keep punishing the station. (Defense: 0)

@@ -8,11 +8,11 @@ title: "Stage Sentry Parts"
 > Recovery weapons order: get scrap and a burnt motor into storage for turret assembly.
 
 ## Requirements
-- Deposit 2x **scrap_metal** (Deposit scrap metal)
-- Deposit 1x **burnt_motor** (Deposit burnt-out motor)
+- Deposit 2x **[[Items/scrap_metal|Scrap Metal]]** (Deposit scrap metal)
+- Deposit 1x **[[Items/burnt_motor|Burnt-Out Motor]]** (Deposit burnt-out motor)
 
 ## Rewards
-- 1x **scrap_metal**
+- 1x **[[Items/scrap_metal|Scrap Metal]]**
 
 ## Failure Penalty
 Sentry kit remains incomplete. (Defense: -2)

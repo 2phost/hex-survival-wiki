@@ -8,11 +8,11 @@ title: "Stabilize the Generators"
 > Recovery power drill: recover canisters and scavenged generator guts so Engineering can keep something spinning through midnight.
 
 ## Requirements
-- Deposit 2x **empty_canister** (Deposit empty canisters)
-- Deposit 2x **ruined_generator_parts** (Deposit ruined generator parts)
+- Deposit 2x **[[Items/empty_canister|Empty Canister]]** (Deposit empty canisters)
+- Deposit 2x **[[Items/ruined_generator_parts|Ruined Generator Parts]]** (Deposit ruined generator parts)
 
 ## Rewards
-- 1x **battery**
+- 1x **[[Items/battery|Battery]]**
 
 ## Failure Penalty
 Generators remain unreliable under peak load. (Defense: 0)

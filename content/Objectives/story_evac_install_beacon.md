@@ -8,7 +8,7 @@ title: "Install Extraction Beacon"
 > Raise the extraction beacon at Outpost Alpha. Once installed, Command begins the three-night activation window — keep power and defenses up each midnight.
 
 ## Requirements
-- Build **extraction_beacon** (Build Extraction Beacon)
+- Build **Extraction Beacon** (Build Extraction Beacon)
 
 ## Rewards
 None
