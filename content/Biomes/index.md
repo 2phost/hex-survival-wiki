@@ -42,3 +42,15 @@ Lethal zones of darkness that serve as spawn points for **Monster Hordes**.
 - <img src="../assets/tiles/corrupted_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/corrupted_3|Corrupted Tile III]]
 - <img src="../assets/tiles/corrupted_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/corrupted_4|Corrupted Tile IV]]
 - <img src="../assets/tiles/corrupted_01.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Biomes/corrupted_5|Corrupted Tile V]]
+
+## Uncharted Biomes
+
+### [[Biomes/wasteland|Wasteland]]
+Newly discovered zone.
+
+### <img src="../assets/tiles/ancient_temple_01.png" width="30" style="vertical-align: middle; margin-right: 8px;"> [[Biomes/ancient_temple|Ancient Temple]]
+Newly discovered zone.
+
+### [[Biomes/swamp|Swamp]]
+Newly discovered zone.
+
