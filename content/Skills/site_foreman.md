@@ -12,6 +12,7 @@ title: "Site Foreman"
 - **Prerequisites**: [[Skills/construction_brief|Construction Brief]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

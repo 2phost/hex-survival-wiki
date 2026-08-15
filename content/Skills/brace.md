@@ -12,6 +12,7 @@ title: "Brace"
 - **Prerequisites**: [[Skills/monster_composure|Monster Composure]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

@@ -9,6 +9,7 @@ title: "Mental Fortitude"
 - **Prerequisites**: [[Skills/eidetic_memory|Eidetic Memory]] Level 2
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

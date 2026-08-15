@@ -12,6 +12,7 @@ title: "Structural Repair"
 - **Prerequisites**: [[Skills/preventive_maintenance|Preventive Maintenance]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

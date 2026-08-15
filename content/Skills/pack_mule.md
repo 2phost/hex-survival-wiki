@@ -20,6 +20,7 @@ title: "Pack Mule"
 - +1 carried inventory slot per level.
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

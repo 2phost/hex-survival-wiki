@@ -12,6 +12,7 @@ title: "Vitality Training"
 - **Prerequisites**: [[Skills/pack_mule|Inventory Capacity]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

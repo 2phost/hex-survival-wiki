@@ -12,6 +12,7 @@ title: "Field Pull"
 - **Prerequisites**: [[Skills/escort_leadership|Escort Leadership]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

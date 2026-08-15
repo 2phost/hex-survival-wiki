@@ -12,6 +12,7 @@ title: "Escort Leadership"
 - **Prerequisites**: [[Skills/town_stewardship|Town Stewardship]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

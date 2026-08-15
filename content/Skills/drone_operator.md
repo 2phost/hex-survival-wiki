@@ -25,6 +25,7 @@ Operate autonomous cargo drones safely. This skill allows players to use **[[Ite
 - **Level 2 Unlock**: Allows the "Launch Drone" action for **[[Items/drone|Cargo Drones]]**.
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

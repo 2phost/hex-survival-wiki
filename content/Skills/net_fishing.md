@@ -12,6 +12,7 @@ title: "Net Fishing"
 - **Prerequisites**: [[Skills/basic_angling|Basic Angling]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

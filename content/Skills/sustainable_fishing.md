@@ -12,6 +12,7 @@ title: "Sustainable Fishing"
 - **Prerequisites**: [[Skills/water_reading|Water Reading]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

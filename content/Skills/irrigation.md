@@ -12,6 +12,7 @@ title: "Irrigation"
 - **Prerequisites**: [[Skills/cultivation|Cultivation]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

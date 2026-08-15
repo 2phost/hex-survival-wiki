@@ -12,4 +12,3 @@ title: "Corrupted 1"
 
 ## Loot Tables
 *No items can be scavenged here.*
-(Will be updated by script)

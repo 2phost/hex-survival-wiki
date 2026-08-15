@@ -16,6 +16,7 @@ title: "Preparedness"
 - **Level 5**: Adds [[Items/salvager_pack|Salvager Pack]].
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

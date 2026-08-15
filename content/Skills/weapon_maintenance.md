@@ -32,6 +32,7 @@ This skill provides a passive reduction to the break chance of all items used as
 - **[[Items/makeshift_shiv|Makeshift&nbsp;Shiv]]** (Base: 40% break chance)
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

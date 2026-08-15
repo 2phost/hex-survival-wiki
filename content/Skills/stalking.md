@@ -12,6 +12,7 @@ title: "Stalking"
 - **Prerequisites**: [[Skills/track_signs|Track Signs]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

@@ -12,6 +12,7 @@ title: "Monster Composure"
 - **Prerequisites**: [[Skills/field_medicine|Field Medicine]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

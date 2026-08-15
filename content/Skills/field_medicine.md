@@ -12,6 +12,7 @@ title: "Field Medicine"
 - **Prerequisites**: [[Skills/stim_conditioning|Stim Usage]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

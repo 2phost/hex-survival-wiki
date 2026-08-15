@@ -13,6 +13,7 @@ title: "AP Capacity"
 - **At Level 2**: Enables [[Skills/rest_recovery|Rest Recovery]].
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

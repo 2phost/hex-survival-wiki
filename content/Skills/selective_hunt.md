@@ -12,6 +12,7 @@ title: "Selective Hunt"
 - **Prerequisites**: [[Skills/field_dressing|Field Dressing]] Level 1
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours
