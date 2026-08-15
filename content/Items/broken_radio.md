@@ -14,7 +14,9 @@ Salvageable electronics from a damaged broadcast unit.
 - **[[Biomes/ruined_city|Ruined City]]**: 2.0%
 ## Combinations
 ### Used To Craft
-- 1x [[Items/broken_radio|Broken Radio]] + 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/battery|Battery]] → 1x [[Items/field_radio|Field Radio]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/broken_radio|Broken Radio]] + 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/battery|Battery]] → 1x [[Items/field_radio|Field Radio]]
+
 
 ## Usage
 Salvageable electronics from a damaged broadcast unit.

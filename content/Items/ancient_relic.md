@@ -18,7 +18,9 @@ title: "Ancient Relic"
 - **[[Biomes/oasis|Oasis]]**: 0.3%
 ## Combinations
 ### Used To Craft
-- 1x [[Items/water|Clean Water]] + 1x [[Items/ancient_relic|Ancient Relic]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/cleanse_vial|Cleanse Vial]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/water|Clean Water]] + 1x [[Items/ancient_relic|Ancient Relic]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/cleanse_vial|Cleanse Vial]]
+
 
 ## Usage
 ### Construction

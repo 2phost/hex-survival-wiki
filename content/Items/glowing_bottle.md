@@ -12,7 +12,9 @@ A bottle lantern made from bio-luminescent fungus. Provides light for 2 days.
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
+**Field Crafting (Any Tile)**
 - 1x [[Items/old_glass_bottle|Old Glass Bottle]] + 1x [[Items/glowing_mushroom|Glowing Mushroom]] → 1x [[Items/glowing_bottle|Glowing Bottle]]
+
 
 ## Usage
 A bottle lantern made from bio-luminescent fungus. Provides light for 2 days.

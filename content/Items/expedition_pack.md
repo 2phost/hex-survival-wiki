@@ -19,9 +19,13 @@ A heavy-duty pack frame and stitched compartments built for long hauls. Increase
 - **[[Biomes/oasis|Oasis]]**: 0.3%
 ## Combinations
 ### Crafted From
-- 1x [[Items/salvager_pack|Salvager Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/expedition_pack|Expedition Pack]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/salvager_pack|Salvager Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/expedition_pack|Expedition Pack]]
+
 ### Used To Craft
-- 1x [[Items/expedition_pack|Expedition Pack]] + 2x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/hauler_pack|Hauler Pack]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/expedition_pack|Expedition Pack]] + 2x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/hauler_pack|Hauler Pack]]
+
 
 ## Usage
 

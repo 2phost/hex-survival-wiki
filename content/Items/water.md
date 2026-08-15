@@ -21,9 +21,13 @@ title: "Clean Water"
 - **[[Biomes/industrial|Industrial]]**: 0.4%
 ## Combinations
 ### Used To Craft
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/field_bandage|Field Bandage]] + 1x [[Items/med_gauze|Medical Gauze]] + 1x [[Items/water|Clean Water]] → 1x [[Items/first_aid_kit|First Aid Kit]]
+- 1x [[Items/water|Clean Water]] + 1x [[Items/ancient_relic|Ancient Relic]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/cleanse_vial|Cleanse Vial]]
+
+**Field Crafting (Any Tile)**
 - 1x [[Items/water|Clean Water]] + 1x [[Items/fungal_spores|Fungal Spores]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_pack|Stim Pack]]
-- 1x [[Items/field_bandage|Field Bandage]] + 1x [[Items/med_gauze|Medical Gauze]] + 1x [[Items/water|Clean Water]] → 1x [[Items/first_aid_kit|First Aid Kit]] *(Requires Assembly Bench)*
-- 1x [[Items/water|Clean Water]] + 1x [[Items/ancient_relic|Ancient Relic]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/cleanse_vial|Cleanse Vial]] *(Requires Assembly Bench)*
+
 
 ## Usage
 ### Consumable Effects

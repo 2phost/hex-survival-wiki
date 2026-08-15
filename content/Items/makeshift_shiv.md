@@ -20,7 +20,9 @@ A sharpened scrap spike wrapped with cloth. Basic self-defense weapon with high 
 - **[[Biomes/oasis|Oasis]]**: 0.8%
 ## Combinations
 ### Used To Craft
-- 1x [[Items/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/scrap_spear|Scrap Spear]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/scrap_spear|Scrap Spear]]
+
 
 ## Usage
 ### Combat

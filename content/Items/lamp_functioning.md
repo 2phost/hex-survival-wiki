@@ -12,7 +12,9 @@ Provides illumination when carried; lights only the tile you stand on.
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
+**Field Crafting (Any Tile)**
 - 1x [[Items/battery|Battery]] + 1x [[Items/lamp_empty|Lamp (empty)]] → 1x [[Items/lamp_functioning|Functioning Lamp]]
+
 
 ## Usage
 Provides illumination when carried; lights only the tile you stand on.

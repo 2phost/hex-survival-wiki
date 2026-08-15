@@ -14,7 +14,9 @@ Dented fuel container. Scrap metal at best.
 - **[[Biomes/desert|Desert]]**: 2.7%
 ## Combinations
 ### Used To Craft
-- 2x [[Items/empty_canister|Empty Canister]] + 1x [[Items/chemical_sludge|Chemical Sludge]] → 1x [[Items/gasoline_canister|Gasoline Canister]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 2x [[Items/empty_canister|Empty Canister]] + 1x [[Items/chemical_sludge|Chemical Sludge]] → 1x [[Items/gasoline_canister|Gasoline Canister]]
+
 
 ## Usage
 Dented fuel container. Scrap metal at best.

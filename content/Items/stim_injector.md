@@ -26,9 +26,13 @@ Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Inc
 - **[[Biomes/mountain|Mountain]]**: 0.2%
 ## Combinations
 ### Crafted From
-- 1x [[Items/stim_pack|Stim Pack]] + 1x [[Items/stimulant_reagent|Stimulant Reagent]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_injector|Stim Injector]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/stim_pack|Stim Pack]] + 1x [[Items/stimulant_reagent|Stimulant Reagent]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_injector|Stim Injector]]
+
 ### Used To Craft
-- 1x [[Items/stim_injector|Stim Injector]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/cryo_flask|Cryo Flask]] → 1x [[Items/stim_overdrive|Stim Overdrive]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/stim_injector|Stim Injector]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/cryo_flask|Cryo Flask]] → 1x [[Items/stim_overdrive|Stim Overdrive]]
+
 
 ## Usage
 Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Increases hunger and thirst.

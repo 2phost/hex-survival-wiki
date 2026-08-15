@@ -28,9 +28,13 @@ Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases
 - **[[Biomes/oasis|Oasis]]**: 0.5%
 ## Combinations
 ### Crafted From
+**Field Crafting (Any Tile)**
 - 1x [[Items/water|Clean Water]] + 1x [[Items/fungal_spores|Fungal Spores]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_pack|Stim Pack]]
+
 ### Used To Craft
-- 1x [[Items/stim_pack|Stim Pack]] + 1x [[Items/stimulant_reagent|Stimulant Reagent]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_injector|Stim Injector]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/stim_pack|Stim Pack]] + 1x [[Items/stimulant_reagent|Stimulant Reagent]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_injector|Stim Injector]]
+
 
 ## Usage
 Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases hunger and thirst slightly.

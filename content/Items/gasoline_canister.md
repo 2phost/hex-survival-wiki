@@ -19,9 +19,13 @@ Fuel for the base generators. Refills 25% town power when used at base.
 - **[[Biomes/mountain|Mountain]]**: 2.0%
 ## Combinations
 ### Crafted From
-- 2x [[Items/empty_canister|Empty Canister]] + 1x [[Items/chemical_sludge|Chemical Sludge]] → 1x [[Items/gasoline_canister|Gasoline Canister]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 2x [[Items/empty_canister|Empty Canister]] + 1x [[Items/chemical_sludge|Chemical Sludge]] → 1x [[Items/gasoline_canister|Gasoline Canister]]
+
 ### Used To Craft
+**Field Crafting (Any Tile)**
 - 1x [[Items/gasoline_generator_empty|Gasoline Generator (empty)]] + 1x [[Items/gasoline_canister|Gasoline Canister]] → 1x [[Items/gasoline_generator|Gasoline Generator]]
+
 
 ## Usage
 

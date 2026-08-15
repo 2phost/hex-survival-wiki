@@ -16,10 +16,16 @@ title: "Raw Timber"
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
 ## Combinations
 ### Crafted From
-- 1x [[Items/charred_planks|Charred Planks]] → 1x [[Items/timber|Raw Timber]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/charred_planks|Charred Planks]] → 1x [[Items/timber|Raw Timber]]
+
 ### Used To Craft
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/scrap_spear|Scrap Spear]]
+
+**Field Crafting (Any Tile)**
 - 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/fishing_line|Fishing Line]] → 1x [[Items/makeshift_rod|Makeshift Rod]]
-- 1x [[Items/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/scrap_spear|Scrap Spear]] *(Requires Assembly Bench)*
+
 
 ## Usage
 ### Construction

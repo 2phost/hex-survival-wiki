@@ -19,7 +19,9 @@ Half-burned construction wood that can still be repurposed.
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2%
 ## Combinations
 ### Used To Craft
-- 1x [[Items/charred_planks|Charred Planks]] → 1x [[Items/timber|Raw Timber]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/charred_planks|Charred Planks]] → 1x [[Items/timber|Raw Timber]]
+
 
 ## Usage
 Half-burned construction wood that can still be repurposed.

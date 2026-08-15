@@ -11,7 +11,9 @@ title: "Trauma Stabilizer"
 
 ## Combinations
 ### Crafted From
-- 1x [[Items/first_aid_kit|First Aid Kit]] + 1x [[Items/sterile_syringe|Sterile Syringe]] + 1x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/trauma_stabilizer|Trauma Stabilizer]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/first_aid_kit|First Aid Kit]] + 1x [[Items/sterile_syringe|Sterile Syringe]] + 1x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/trauma_stabilizer|Trauma Stabilizer]]
+
 
 ## Technical Information
 - **Item ID**: `trauma_stabilizer`

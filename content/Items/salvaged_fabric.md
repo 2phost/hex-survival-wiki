@@ -20,11 +20,15 @@ Weathered cloth strips and tarp fibers useful for patching gear.
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3%
 ## Combinations
 ### Used To Craft
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/worn_leather_pack|Worn Leather Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/salvager_pack|Salvager Pack]]
+- 1x [[Items/salvager_pack|Salvager Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/expedition_pack|Expedition Pack]]
+- 1x [[Items/expedition_pack|Expedition Pack]] + 2x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/hauler_pack|Hauler Pack]]
+
+**Field Crafting (Any Tile)**
 - 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/bio_resin|Bio Resin]] → 1x [[Items/field_bandage|Field Bandage]]
 - 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/bottle_of_alcohol|Bottle of Alcohol]] → 1x [[Items/field_bandage|Field Bandage]]
-- 1x [[Items/worn_leather_pack|Worn Leather Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/salvager_pack|Salvager Pack]] *(Requires Assembly Bench)*
-- 1x [[Items/salvager_pack|Salvager Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/expedition_pack|Expedition Pack]] *(Requires Assembly Bench)*
-- 1x [[Items/expedition_pack|Expedition Pack]] + 2x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/hauler_pack|Hauler Pack]] *(Requires Assembly Bench)*
+
 
 ## Usage
 

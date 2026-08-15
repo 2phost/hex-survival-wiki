@@ -19,9 +19,13 @@ Bent but sturdy steel rods bundled for emergency fortifications.
 - **[[Biomes/oasis|Oasis]]**: 0.3%
 ## Combinations
 ### Crafted From
+**Field Crafting (Any Tile)**
 - 5x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/fortified_rebar|Fortified Rebar]]
+
 ### Used To Craft
-- 1x [[Items/scrap_spear|Scrap Spear]] + 1x [[Items/fortified_rebar|Fortified Rebar]] + 2x [[Items/ceramic_shards|Ceramic Shards]] → 1x [[Items/rebar_blade|Rebar Blade]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/scrap_spear|Scrap Spear]] + 1x [[Items/fortified_rebar|Fortified Rebar]] + 2x [[Items/ceramic_shards|Ceramic Shards]] → 1x [[Items/rebar_blade|Rebar Blade]]
+
 
 ## Usage
 ### Construction

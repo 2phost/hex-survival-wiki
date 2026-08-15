@@ -15,7 +15,9 @@ Faulty detection unit. Electronics inside may be recoverable.
 - **[[Biomes/desert|Desert]]**: 0.3%
 ## Combinations
 ### Used To Craft
-- 1x [[Items/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/micro_fuse|Micro Fuse]] + 1x [[Items/circuit_boards|Circuit Boards]] → 1x [[Items/calibrated_sensor|Calibrated Sensor]] *(Requires Assembly Bench)*
+**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+- 1x [[Items/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/micro_fuse|Micro Fuse]] + 1x [[Items/circuit_boards|Circuit Boards]] → 1x [[Items/calibrated_sensor|Calibrated Sensor]]
+
 
 ## Usage
 Faulty detection unit. Electronics inside may be recoverable.

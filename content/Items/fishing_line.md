@@ -11,7 +11,9 @@ title: "Fishing Line"
 
 ## Combinations
 ### Used To Craft
+**Field Crafting (Any Tile)**
 - 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/fishing_line|Fishing Line]] → 1x [[Items/makeshift_rod|Makeshift Rod]]
+
 
 ## Technical Information
 - **Item ID**: `fishing_line`

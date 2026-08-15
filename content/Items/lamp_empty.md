@@ -17,8 +17,10 @@ title: "Lamp (empty)"
 - **[[Biomes/mountain|Mountain]]**: 1.0%
 ## Combinations
 ### Used To Craft
+**Field Crafting (Any Tile)**
 - 1x [[Items/battery|Battery]] + 1x [[Items/lamp_empty|Lamp (empty)]] → 1x [[Items/lamp_functioning|Functioning Lamp]]
 - 1x [[Items/lamp_empty|Lamp (empty)]] + 1x [[Items/copper_wiring|Copper Wiring]] → 1x [[Items/pole_upgrade_kit|Pole Upgrade Kit]]
+
 
 ## Usage
 

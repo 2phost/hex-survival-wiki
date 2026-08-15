@@ -21,7 +21,9 @@ title: "Glowing Mushroom"
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
 ## Combinations
 ### Used To Craft
+**Field Crafting (Any Tile)**
 - 1x [[Items/old_glass_bottle|Old Glass Bottle]] + 1x [[Items/glowing_mushroom|Glowing Mushroom]] → 1x [[Items/glowing_bottle|Glowing Bottle]]
+
 
 ## Usage
 

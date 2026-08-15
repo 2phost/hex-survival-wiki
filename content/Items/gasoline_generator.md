@@ -15,7 +15,9 @@ This gasoline generator can probably power your house for a long time.
 - **[[Biomes/ruined_city|Ruined City]]**: 0.5%
 ## Combinations
 ### Crafted From
+**Field Crafting (Any Tile)**
 - 1x [[Items/gasoline_generator_empty|Gasoline Generator (empty)]] + 1x [[Items/gasoline_canister|Gasoline Canister]] → 1x [[Items/gasoline_generator|Gasoline Generator]]
+
 
 ## Usage
 This gasoline generator can probably power your house for a long time.
