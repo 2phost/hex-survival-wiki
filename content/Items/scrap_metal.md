@@ -43,7 +43,7 @@ title: "Scrap Metal"
 - Required for [[Builds/battery_bank|Battery Storage]]
 - Required for [[Builds/beacon_amplifier|Beacon Amplifier]]
 - Required for [[Builds/fuel_refinery|Fuel Refinery]]
-- Required for <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#PowerPole|Power Pole]]
+- Required for <img src="../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole|Power Pole]]
 - Required for [[Builds/scrap_barricade|Scrap Barricade Wall]]
 - Required for [[Builds/auto_bolt_nest|Auto-Bolt Nest]]
 

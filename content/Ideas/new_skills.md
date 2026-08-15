@@ -18,7 +18,7 @@ Proposed skill trees to further specialize player roles in the late game.
  - **Effect**: Level 5 Perk. [[Items/power_pole|Power Poles]] placed by this player illuminate a 1-hex radius instead of 0.
  - **Prerequisite**: [[Skills/field_engineering|Field Engineering]] Level 3.
 - **Structural Integrity**:
- - **Effect**: Increases the HP of [[Base/constructions|Base Constructions]] built by this player by 10% per level.
+ - **Effect**: Increases the HP of [[Builds/index|Base Constructions]] built by this player by 10% per level.
 
 ## 3. Logistics Tree
 - **Quartermaster**:

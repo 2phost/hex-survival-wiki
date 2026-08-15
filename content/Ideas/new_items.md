@@ -24,6 +24,6 @@ This document tracks proposed item additions to expand the tactical depth of Hex
 
 ## 3. Specialized Tools
 - **Magnetic Wrench**:
- - **Usage**: Passive (Carried). Reduces the time required for [[Base/constructions|Base Constructions]] by 10%.
+ - **Usage**: Passive (Carried). Reduces the time required for [[Builds/index|Base Constructions]] by 10%.
 - **Biometric Scanner**:
  - **Usage**: One-time use. Reveals the biome type and any active facilities of all 6 adjacent tiles without moving.

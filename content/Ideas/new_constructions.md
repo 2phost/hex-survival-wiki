@@ -4,7 +4,7 @@ title: "New Constructions"
 
 # Ideas: [[Ideas/new_constructions|New Constructions]]
 
-Proposed additions to the [[Base/constructions|Base Constructions]] list to improve town-wide utility.
+Proposed additions to the [[Builds/index|Base Constructions]] list to improve town-wide utility.
 
 ## 1. Advanced Infrastructure
 - **Reinforced Power Relay**:

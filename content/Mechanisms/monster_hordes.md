@@ -35,7 +35,7 @@ Players can engage hordes by moving onto their hex and selecting the **Attack Mo
 ### Town Sieges
 If a horde reaches the **[[Base/overview|Base]]** tile, it contributes its total count to the nightly **Attack Strength**.
 - **The Defense Check**: If **Attack Strength > Town Defense**, the town is overrun and the instance ends.
-- **Defense Bonuses**: Town defense is increased by building upgrades like **[[Builds/barbed_wire|Barbed Wire]]**, **[[Base/constructions|Reinforced Bulkheads]]**, and **[[Base/constructions|Sentry Turrets]]**.
+- **Defense Bonuses**: Town defense is increased by building upgrades like **[[Builds/barbed_wire|Barbed Wire]]**, **[[Builds/reinforced_bulkhead|Reinforced Bulkheads]]**, and **[[Builds/sentry_turret|Sentry Turrets]]**.
 
 ## 4. Escalation
 The threat level is not static. A global **Spawn Bonus** increases every night, meaning that hordes spawned later in the game will be significantly larger than those encountered in the early days.

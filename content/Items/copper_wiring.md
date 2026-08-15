@@ -36,7 +36,7 @@ Electrical wiring for connecting solar panels to the grid.
 - Required for [[Builds/solar_panels|Solar Panels]]
 - Required for [[Builds/battery_bank|Battery Storage]]
 - Required for [[Builds/beacon_amplifier|Beacon Amplifier]]
-- Required for <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Base/constructions#PowerPole|Power Pole]]
+- Required for <img src="../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole|Power Pole]]
 - Required for [[Builds/kill_zone_lights|Kill-Zone Floodlights]]
 - Required for [[Builds/shock_fence_grid|Shock Fence Grid]]
 
