@@ -12,5 +12,4 @@ title: "Endurance Trekkers"
 - **Min Reward Day**: 10
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Ap Max Bonus**: 2

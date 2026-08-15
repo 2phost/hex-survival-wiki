@@ -244,9 +244,4 @@ graph LR
 | **[[Skills/careful_harvest|Careful Harvest]]** | Improve usable yield when harvesting. |
 
 ## ⏳ Training Times
-Training times are fixed real-world intervals.
-- **Level 1**: 1 Hour
-- **Level 2**: 24 Hours
-- **Level 3**: 7 Days
-- **Level 4**: 14 Days
-- **Level 5**: 30 Days
+Training times are fixed real-world intervals. See individual skill pages for specific level requirements.

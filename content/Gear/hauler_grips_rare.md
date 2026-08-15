@@ -12,5 +12,4 @@ title: "Pack Rat Gauntlets"
 - **Min Reward Day**: 10
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Carry Slots Bonus**: 2

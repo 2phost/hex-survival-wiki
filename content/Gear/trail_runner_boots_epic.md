@@ -12,5 +12,5 @@ title: "Storm Pace Boots"
 - **Min Reward Day**: 14
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Ap Max Bonus**: 2
+- **Fear Penalty Reduction Pct**: 5

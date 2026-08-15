@@ -22,3 +22,10 @@ This skill provides a chance for a "bonus kill" on every attack action.
 
 ## 🔓 Prerequisites
 - **[[Skills/weapon_maintenance|Weapon Maintenance]]**: Level 2
+
+## Training Times
+- **Level 1**: 1 Hour
+- **Level 2**: 24 Hours
+- **Level 3**: 7 Days
+- **Level 4**: 14 Days
+- **Level 5**: 30 Days

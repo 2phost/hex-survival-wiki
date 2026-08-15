@@ -12,5 +12,5 @@ title: "Bravery Harness"
 - **Min Reward Day**: 10
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Fear Max Bonus**: 2
+- **Fear Penalty Reduction Pct**: 5

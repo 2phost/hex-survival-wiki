@@ -13,4 +13,4 @@ title: "Tempered Guard Bracers"
 
 ## Modifiers
 - **Armor Bonus**: 2
-- **Max Health Bonus**: 2
+- **Health Max Bonus**: 2

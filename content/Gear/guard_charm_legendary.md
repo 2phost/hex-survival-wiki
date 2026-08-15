@@ -13,4 +13,4 @@ title: "Aegis Guard Token"
 
 ## Modifiers
 - **Armor Bonus**: 3
-- **Max Health Bonus**: 5
+- **Health Max Bonus**: 5

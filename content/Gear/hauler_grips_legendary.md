@@ -12,5 +12,4 @@ title: "Titan Grip Harness"
 - **Min Reward Day**: 20
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Carry Slots Bonus**: 3

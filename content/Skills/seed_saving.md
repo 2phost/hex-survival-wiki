@@ -10,3 +10,8 @@ title: "Seed Saving"
 - **Description**: Chance to recover a Mutant Seed Pod when harvesting ripe crops.
 - **Max Level**: 3
 - **Prerequisites**: None.
+
+## Training Times
+- **Level 1**: 1 Hour
+- **Level 2**: 24 Hours
+- **Level 3**: 7 Days

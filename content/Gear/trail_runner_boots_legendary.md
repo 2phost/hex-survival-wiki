@@ -12,5 +12,5 @@ title: "Windstrider Solos"
 - **Min Reward Day**: 20
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Ap Max Bonus**: 3
+- **Fear Penalty Reduction Pct**: 8

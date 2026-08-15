@@ -12,5 +12,4 @@ title: "Hearthbound Trousers"
 - **Min Reward Day**: 14
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Rest Extra Ap Chance Bonus Pct**: 14

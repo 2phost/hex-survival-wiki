@@ -13,3 +13,8 @@ title: "Generator Operations"
 
 ## Unlocks
 - *None (End of specialization tree)*
+
+## Training Times
+- **Level 1**: 1 Hour
+- **Level 2**: 24 Hours
+- **Level 3**: 7 Days

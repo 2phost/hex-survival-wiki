@@ -12,5 +12,4 @@ title: "Relic Hunter Helm"
 - **Min Reward Day**: 14
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Search Bonus Pct**: 10

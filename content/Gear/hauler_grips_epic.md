@@ -12,5 +12,4 @@ title: "Freight Handler Mitts"
 - **Min Reward Day**: 14
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Carry Slots Bonus**: 2

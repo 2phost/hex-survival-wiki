@@ -12,5 +12,4 @@ title: "Field Analyst Visor"
 - **Min Reward Day**: 10
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Search Bonus Pct**: 7

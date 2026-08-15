@@ -13,4 +13,4 @@ title: "Wardplate Guard Cuirass"
 
 ## Modifiers
 - **Armor Bonus**: 2
-- **Max Health Bonus**: 4
+- **Health Max Bonus**: 4

@@ -12,5 +12,4 @@ title: "Trail Runner Boots"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Armor Bonus**: 0
-- **Max Health Bonus**: 0
+- **Ap Max Bonus**: 1

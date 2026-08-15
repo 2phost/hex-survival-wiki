@@ -13,4 +13,3 @@ title: "Dented Guard Tassets"
 
 ## Modifiers
 - **Armor Bonus**: 1
-- **Max Health Bonus**: 0

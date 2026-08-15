@@ -13,4 +13,3 @@ title: "Dented Guard Helm"
 
 ## Modifiers
 - **Armor Bonus**: 1
-- **Max Health Bonus**: 0

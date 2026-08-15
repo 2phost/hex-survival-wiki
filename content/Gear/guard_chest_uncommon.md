@@ -13,4 +13,4 @@ title: "Patched Guard Vest"
 
 ## Modifiers
 - **Armor Bonus**: 1
-- **Max Health Bonus**: 2
+- **Health Max Bonus**: 2
