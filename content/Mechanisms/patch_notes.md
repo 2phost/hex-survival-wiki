@@ -324,6 +324,67 @@ title: "Patch Notes"
 * **Inventory Panel**: The Inventory panel has a cleaner header with the redundant “Gear and Resources” subtitle removed.
 
 ---
+
+## Sunday, Aug 9, 2026: Inventory Workflow
+* **Item Dropping**: Double-click an item in your inventory or a follower's pack to drop it on the ground, and double-click a ground item in the inventory panel to pick it up.
+* **Ground Transfers**: Drag items directly between the ground list and escort group inventories without moving them through your own pack first.
+* **Item Swapping**: Dropping an item onto another survivor's occupied inventory slot swaps the two items, including between group members even when packs are full.
+* **Tutorial UI**: Onboarding tutorial tips now match the look of the game's other tooltips.
+* **Selection Feedback**: Selecting items in your inventory no longer jiggles — selection feedback matches the group inventory panel.
+
+---
+
+## Monday, Aug 10, 2026: Specimen Research & Monster Loot
+* **Monster Drops**: Monsters can drop specimen parts onto the ground when killed — chitin, sinew, glands, bone, and cores across common through mythic rarities. Pick them up like other loot and deposit them into town stores.
+* **Specimen Analysis Bay**: Build the Specimen Analysis Bay (after the Research Lab) to unlock High Command donations. From the Donate tab, move monster parts from the stockpile into a donation pile; Command returns a random reward crate into town stores based on what you offered.
+* **Specimen Research**: New specimen research projects spend those monster parts (not research material) for town-wide combat benefits: stronger weapon damage against monsters, better part drop rates, and related defensive doctrines. Open Base Upgrades → Research to start them once the lab is built.
+* **Command Objectives**: High Command side objectives can now require harvested specimens, so scavenging parts also feeds daily Command progress.
+
+---
+
+## Tuesday, Aug 11, 2026: Performance & Mobile UX
+* **Drone Reliability**: Cargo drones sent to town or another survivor are much more likely to survive server restarts and deploys — in-flight cargo should no longer vanish mid-route when the world comes back up.
+* **Load Times**: The game loads lighter and faster: map tiles and marketing art use smaller WebP images, and item, build, skill, and objective icons load when you need them instead of all at once.
+* **Mobile Fullscreen**: On phones, inventory and escort group sheets lock to a true fullscreen layout and fill the screen edge-to-edge, including over safe areas, without leaving gaps or bleed.
+* **Mobile Tooltips**: Mobile map and inventory interactions are cleaner — fewer accidental tooltip pop-ups while you tap and drag.
+* **Journal Accuracy**: Command Journal effect text now matches the actual rewards and penalties for each outcome.
+* **Mission HUD**: Mission and directive HUD rows show the correct building icons again when a task asks you to construct or power a facility.
+
+---
+
+## Wednesday, Aug 12, 2026: Balance, Vault Survival, & Power
+* **Power Pole Nerf**: We're sorry about the nerf — standard power poles now illuminate only their own tile and the six neighbors around them, instead of reaching two rings out. Reinforced power poles still cast a wider glow, and you can craft a Pole Upgrade Kit to reinforce an existing pole in place.
+* **Vault Survival**: When your town falls, survivors who are still alive keep playing — you are no longer wiped with the hub. Fallen towns enter vault survival, and you can reconnect and continue the run from the lobby.
+* **Achievements UI**: The Achievements panel is easier to browse: unlocked feats are grouped by category (Crafting, Exploration, Combat, and more), each with its own icon, unlock count, and the date you earned it.
+* **Town Rankings**: Town Rankings uses the same draggable panel style as Achievements and Friends, with cleaner player and town leaderboard rows.
+* **Pole Upgrade Kit**: Craft a Pole Upgrade Kit at town (Power Infrastructure Lv 3) and install it on a standard pole to upgrade it to a Reinforced Power Pole with longer cable reach and a wider light radius.
+* **Vault Map Icons**: Activated evacuation vaults show a green status light on the map so you can spot your fallback base at a glance.
+* **Monster Health & Previews**: Monsters on the map now show health pips, and Command Journal mission outcomes preview rewards as item slots with tooltips.
+* **Connection Resilience**: Lost connections automatically retry for up to a minute before giving up, so brief Wi-Fi drops are less likely to boot you from town.
+* **Construction Costs**: All town building construction costs are roughly doubled to slow early expansion and stretch the mid-game.
+* **Storage Sorting**: Monster parts in town stores are grouped in their own category instead of mixed with general supplies.
+* **UI Layering Fixes**: Fixed town chat, group panel, and modal layering so open panels stack correctly and chat chrome renders again.
+* **Tooltip Fix**: Dragging a panel no longer leaves tooltips stuck on screen underneath your cursor.
+* **Lamp Durability**: Portable lamps on the ground now burn out over time as their durability ticks down each midnight, including while you are offline.
+
+---
+
+## Thursday, Aug 13, 2026: Construction Brief Skill & HUD
+* **Construction Brief Skill**: New Construction Brief skill (Field Pull Lv 3): pin one unfinished town build's material checklist to everyone's HUD below mission objectives so the crew knows what to deposit.
+* **Pinning Builds**: Open Construction and right-click a build node to pin or unpin it; pinned builds show a green PIN badge on the tree.
+* **Collapsible HUD**: Mission and Construction HUD sections can be collapsed — click a section title (▼/▶) to hide or show its detail rows. Your preference is remembered between sessions.
+* **HUD Fixes**: The pinned construction list no longer overlaps the left action buttons, and collapsing sections correctly hides item icons instead of leaving stray sprites on screen.
+
+---
+
+## Friday, Aug 14, 2026: Map Interaction & UI Polish
+* **Map Clicks**: Map clicks and tile tooltips work across the full playfield again, including under HUD chrome and at the screen edges.
+* **Mission HUD Artwork**: Mission HUD facility-queue rows (farm and similar) now use the same objective artwork as the tooltip instead of the map tile.
+* **Command Journal Bonus**: Command Journal shows today's daily bonus beside the morning report, and missing daily objective icons are filled in.
+* **Research UI**: Research cards drop the extra duration block and status badges — in-progress work uses a time bar with total and remaining, and "what it does" is the description only.
+* **Power Bar & Logs**: Base power's current/max percent is centered on the bar, and the town resource log packs more entries on screen with search sitting in the table header.
+
+---
 ## Tuesday, Mar 24, 2026: Journal & Quest Refinement
 * **Journal Updates**: Refreshed Journal graphics and disabled auto-opening on every login for a cleaner start.
 * **Quest & Objective UX**: 
