@@ -8,7 +8,9 @@ title: "Mental Fortitude"
 - **Effect**: Increases maximum [[Vitals/fear|Fear]] cap by +1 per level (max +3).
 - **Prerequisites**: [[Skills/eidetic_memory|Eidetic Memory]] Level 2
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours
 - **Level 3**: 7 Days
+

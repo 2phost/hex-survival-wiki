@@ -11,7 +11,9 @@ title: "Careful Harvest"
 - **Max Level**: 3
 - **Prerequisites**: [[Skills/seed_saving|Seed Saving]] Level 1
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours
 - **Level 3**: 7 Days
+

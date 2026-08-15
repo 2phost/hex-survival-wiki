@@ -9,9 +9,11 @@ title: "Field Medicine"
 ## Overview
 - **Description**: Learn proper wound care for medical supplies. Level 1/2/3 unlocks common/rare/mythic healing items.
 - **Max Level**: 3
-- **Prerequisites**: [[Skills/stim_usage|Stim Usage]] Level 1
+- **Prerequisites**: [[Skills/stim_conditioning|Stim Usage]] Level 1
+
 
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours
 - **Level 3**: 7 Days
+

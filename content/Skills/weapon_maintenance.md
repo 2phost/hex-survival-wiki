@@ -31,9 +31,11 @@ This skill provides a passive reduction to the break chance of all items used as
 - **[[Items/broken_glass_bottle|Broken&nbsp;Glass&nbsp;Bottle]]** (Base: 55% break chance)
 - **[[Items/makeshift_shiv|Makeshift&nbsp;Shiv]]** (Base: 40% break chance)
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours
 - **Level 3**: 7 Days
 - **Level 4**: 14 Days
 - **Level 5**: 30 Days
+

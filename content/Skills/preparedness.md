@@ -15,9 +15,11 @@ title: "Preparedness"
 - **Level 4**: Adds [[Items/makeshift_shiv|Makeshift Shiv]].
 - **Level 5**: Adds [[Items/salvager_pack|Salvager Pack]].
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours
 - **Level 3**: 7 Days
 - **Level 4**: 14 Days
 - **Level 5**: 30 Days
+

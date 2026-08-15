@@ -19,7 +19,9 @@ Install and recover field relay poles. Level 1 allows placing power poles. Level
 ## Effects
 - Unlocks placing and dismantling power poles, and Reinforced Power Poles at higher levels.
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours
 - **Level 3**: 7 Days
+

@@ -11,5 +11,7 @@ title: "Construction Brief"
 - **Max Level**: 1
 - **Prerequisites**: [[Skills/surveying|Surveying]] Level 1
 
+
 ## Training Times
 - **Level 1**: 1 Hour
+
