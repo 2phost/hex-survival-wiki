@@ -1,0 +1,12 @@
+---
+title: "Field Dressing"
+---
+
+# Skill: [[Skills/field_dressing|Field Dressing]]
+
+![[assets/skills/field_dressing.png|150]]
+
+## Overview
+- **Description**: When a hunt succeeds, chance to recover Hide Scrap for crafting in addition to meat.
+- **Max Level**: 3
+- **Prerequisites**: None.

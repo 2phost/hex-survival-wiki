@@ -1,0 +1,18 @@
+---
+title: "Rare Monster Chitin"
+---
+
+# Item: [[Items/monster_chitin_rare|Rare Monster Chitin]]
+
+![[assets/items/monster_chitin_rare.png|150]]
+
+## Where to Find
+(Will be updated by script)
+
+## Technical Information
+- **Item ID**: `monster_chitin_rare`
+- **Rarity**: Rare
+- **Category**: Monster Parts
+
+- **Asset ID**: `monster_chitin_rare`
+- **Asset Path**: `items/monster_chitin_rare.png`

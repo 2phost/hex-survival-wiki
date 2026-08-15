@@ -1,0 +1,12 @@
+---
+title: "Threat Assessment"
+---
+
+# Skill: [[Skills/threat_assessment|Threat Assessment]]
+
+![[assets/skills/threat_assessment.png|150]]
+
+## Overview
+- **Description**: Preview expected monster retaliation and weapon break risk before you commit to an attack.
+- **Max Level**: 3
+- **Prerequisites**: [[Skills/brace|Brace]] Level 1
