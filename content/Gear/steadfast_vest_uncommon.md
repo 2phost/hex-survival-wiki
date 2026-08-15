@@ -12,5 +12,5 @@ title: "Calm Liner"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Fear Max Bonus**: 1
-- **Fear Penalty Reduction Pct**: 3
+- **Fear Max Bonus**: +1
+- **Fear Penalty Reduction**: +3%

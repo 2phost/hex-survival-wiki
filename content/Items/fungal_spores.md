@@ -9,18 +9,18 @@ title: "Fungal Spores"
 Luminous spore clusters that thrive in damp and irradiated zones.
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 3.9%
-- **[[Biomes/oasis|Oasis]]**: 3.8%
-- **[[Biomes/farm_facility|Farm Facility]]**: 1.5%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
-- **[[Biomes/mountain|Mountain]]**: 1.2%
-- **[[Biomes/industrial|Industrial]]**: 0.4%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5%
-- **[[Biomes/desert|Desert]]**: 0.3%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
+- **[[Biomes/forest|Forest]]**: 3.9% drop chance
+- **[[Biomes/oasis|Oasis]]**: 3.8% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 1.5% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.6% drop chance
+- **[[Biomes/mountain|Mountain]]**: 1.2% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.4% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5% drop chance
+- **[[Biomes/desert|Desert]]**: 0.3% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1% drop chance
 ## Combinations
 ### Used To Craft
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/water|Clean Water]] + 1x [[Items/fungal_spores|Fungal Spores]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_pack|Stim Pack]]
 
 

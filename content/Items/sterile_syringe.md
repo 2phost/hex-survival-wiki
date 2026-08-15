@@ -10,7 +10,7 @@ title: "Sterile Syringe"
 (Will be updated by script)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_gauze_stockpile_drive|Gauze Stockpile Drive]] (2x)
 
 ## Technical Information

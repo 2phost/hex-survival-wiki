@@ -12,4 +12,4 @@ title: "Predator's Token"
 - **Min Reward Day**: 10
 
 ## Modifiers
-- **Weapon Damage Bonus**: 3
+- **Weapon Damage Bonus**: +3

@@ -10,7 +10,7 @@ title: "Rare Monster Chitin"
 (Will be updated by script)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_core_containment|Core Containment Sweep]] (1x)
 
 ## Technical Information

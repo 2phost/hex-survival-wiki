@@ -9,13 +9,13 @@ title: "Damaged Solar Panel"
 Cracked photovoltaic array. Some cells might still function.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.2%
-- **[[Biomes/industrial|Industrial]]**: 1.1%
-- **[[Biomes/desert|Desert]]**: 2.7%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.2% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.1% drop chance
+- **[[Biomes/desert|Desert]]**: 2.7% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.5% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 2x [[Items/damaged_solar_panel|Damaged Solar Panel]] + 2x [[Items/copper_wiring|Copper Wiring]] → 1x [[Items/solar_cell|Solar Cell]]
 
 
@@ -29,7 +29,7 @@ Cracked photovoltaic array. Some cells might still function.
 * <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] (rare, 8%)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_solar_panel_reclaim|Solar Panel Reclaim]] (2x)
 - [[Objectives/story_salvage_solar_parts|Salvage Solar Parts]] (2x)
 - [[Objectives/story_extend_power_reach|Extend Power Reach]] (1x)

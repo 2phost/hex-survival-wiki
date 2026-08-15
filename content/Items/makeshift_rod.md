@@ -11,7 +11,7 @@ title: "Makeshift Rod"
 
 ## Combinations
 ### Crafted From
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/fishing_line|Fishing Line]] → 1x [[Items/makeshift_rod|Makeshift Rod]]
 
 

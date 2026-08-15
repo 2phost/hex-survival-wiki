@@ -11,7 +11,7 @@ title: "Bottle of Alcohol"
 
 ## Combinations
 ### Used To Craft
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/bottle_of_alcohol|Bottle of Alcohol]] → 1x [[Items/field_bandage|Field Bandage]]
 
 

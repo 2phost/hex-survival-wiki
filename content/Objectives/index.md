@@ -1,10 +1,11 @@
 ---
-title: "Command Objectives"
+title: "Objectives"
 ---
 
-# High Command Objectives
+# Objectives
 
-Missions assigned by High Command.
+Main Objectives and Side Objectives assigned by High Command.
+
 
 | Objective | Description |
 | :--- | :--- |

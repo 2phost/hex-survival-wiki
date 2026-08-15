@@ -12,4 +12,4 @@ title: "Striker Sigil"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Weapon Damage Bonus**: 1
+- **Weapon Damage Bonus**: +1

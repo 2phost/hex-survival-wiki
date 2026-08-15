@@ -12,4 +12,4 @@ title: "Endurance Trekkers"
 - **Min Reward Day**: 10
 
 ## Modifiers
-- **Ap Max Bonus**: 2
+- **Ap Max Bonus**: +2

@@ -9,13 +9,13 @@ title: "Malfunctioning Sensor"
 Faulty detection unit. Electronics inside may be recoverable.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.2%
-- **[[Biomes/industrial|Industrial]]**: 1.4%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.6%
-- **[[Biomes/desert|Desert]]**: 0.3%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.2% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.4% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.6% drop chance
+- **[[Biomes/desert|Desert]]**: 0.3% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/micro_fuse|Micro Fuse]] + 1x [[Items/circuit_boards|Circuit Boards]] → 1x [[Items/calibrated_sensor|Calibrated Sensor]]
 
 
@@ -28,7 +28,7 @@ Faulty detection unit. Electronics inside may be recoverable.
 * <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/research_material|Research Material]] (rare, 10%)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_relay_sensor_sweep|Relay Sensor Sweep]] (2x)
 - [[Objectives/story_daily_electronics_recovery_contract|Electronics Recovery Contract]] (2x)
 - [[Objectives/story_restore_command_channel|Restore the Command Channel]] (1x)

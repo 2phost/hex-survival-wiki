@@ -9,17 +9,17 @@ title: "Thermal Coil"
 Heat-resistant coil assembly from generators and lab furnaces.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.8%
-- **[[Biomes/industrial|Industrial]]**: 1.8%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.9%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.8%
-- **[[Biomes/desert|Desert]]**: 0.5%
-- **[[Biomes/mountain|Mountain]]**: 0.4%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.8% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.8% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.9% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.8% drop chance
+- **[[Biomes/desert|Desert]]**: 0.5% drop chance
+- **[[Biomes/mountain|Mountain]]**: 0.4% drop chance
 ## Usage
 Heat-resistant coil assembly from generators and lab furnaces.
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_thermal_loop_flush|Thermal Loop Flush]] (2x)
 - [[Objectives/story_stabilize_thermals|Stabilize Thermal Systems]] (2x)
 - [[Objectives/story_cool_the_core|Cool the Core]] (1x)

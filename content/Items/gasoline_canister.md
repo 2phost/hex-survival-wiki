@@ -12,18 +12,18 @@ Fuel for the base generators. Refills 25% town power when used at base.
 - **Skill**: [[Skills/generator_operations|Generator Operations]] (Level 1)
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 2.1%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.6%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.1%
-- **[[Biomes/desert|Desert]]**: 2.7%
-- **[[Biomes/mountain|Mountain]]**: 2.0%
+- **[[Biomes/industrial|Industrial]]**: 2.1% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 1.6% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.1% drop chance
+- **[[Biomes/desert|Desert]]**: 2.7% drop chance
+- **[[Biomes/mountain|Mountain]]**: 2.0% drop chance
 ## Combinations
 ### Crafted From
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 2x [[Items/empty_canister|Empty Canister]] + 1x [[Items/chemical_sludge|Chemical Sludge]] → 1x [[Items/gasoline_canister|Gasoline Canister]]
 
 ### Used To Craft
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/gasoline_generator_empty|Gasoline Generator (empty)]] + 1x [[Items/gasoline_canister|Gasoline Canister]] → 1x [[Items/gasoline_generator|Gasoline Generator]]
 
 
@@ -33,7 +33,7 @@ Fuel for the base generators. Refills 25% town power when used at base.
 * <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_fuel_line_priming|Fuel Line Priming]] (2x)
 - [[Objectives/story_prime_station_power|Prime Station Power]] (2x)
 

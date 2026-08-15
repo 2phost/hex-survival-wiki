@@ -18,7 +18,7 @@ Produced by Industrial facilities Biome
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/rebar_blade|Rebar Blade]] + 1x [[Items/shock_capacitor|Shock Capacitor]] + 1x [[Items/hardened_actuator|Hardened Actuator]] → 1x [[Items/shock_maul|Shock Maul]]
 
 

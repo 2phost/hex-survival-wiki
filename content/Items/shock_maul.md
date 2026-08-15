@@ -9,19 +9,19 @@ title: "Shock Maul"
 A heavy striking maul powered by reclaimed capacitors for brutal impact.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.3%
-- **[[Biomes/industrial|Industrial]]**: 0.8%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.3%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
-- **[[Biomes/mountain|Mountain]]**: 0.6%
-- **[[Biomes/forest|Forest]]**: 0.3%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.3% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.8% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.3% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.6% drop chance
+- **[[Biomes/mountain|Mountain]]**: 0.6% drop chance
+- **[[Biomes/forest|Forest]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/rebar_blade|Rebar Blade]] + 1x [[Items/shock_capacitor|Shock Capacitor]] + 1x [[Items/hardened_actuator|Hardened Actuator]] → 1x [[Items/shock_maul|Shock Maul]]
 
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/shock_maul|Shock Maul]] + 1x [[Items/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/targeting_relay|Targeting Relay]] → 1x [[Items/plasma_lance|Plasma Lance]]
 
 

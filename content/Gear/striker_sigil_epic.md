@@ -12,4 +12,4 @@ title: "Reaper's Mark"
 - **Min Reward Day**: 14
 
 ## Modifiers
-- **Weapon Damage Bonus**: 4
+- **Weapon Damage Bonus**: +4

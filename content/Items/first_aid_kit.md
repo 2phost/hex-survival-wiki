@@ -11,11 +11,11 @@ title: "First Aid Kit"
 
 ## Combinations
 ### Crafted From
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/field_bandage|Field Bandage]] + 1x [[Items/med_gauze|Medical Gauze]] + 1x [[Items/water|Clean Water]] → 1x [[Items/first_aid_kit|First Aid Kit]]
 
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/first_aid_kit|First Aid Kit]] + 1x [[Items/sterile_syringe|Sterile Syringe]] + 1x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/trauma_stabilizer|Trauma Stabilizer]]
 
 

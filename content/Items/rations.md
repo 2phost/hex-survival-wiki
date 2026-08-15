@@ -11,14 +11,14 @@ title: "Rations"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/farm_facility|Farm Facility]]**: 14.7%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.6%
-- **[[Biomes/forest|Forest]]**: 1.6%
-- **[[Biomes/industrial|Industrial]]**: 0.4%
-- **[[Biomes/oasis|Oasis]]**: 1.1%
-- **[[Biomes/desert|Desert]]**: 0.5%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2%
-- **[[Biomes/mountain|Mountain]]**: 0.2%
+- **[[Biomes/farm_facility|Farm Facility]]**: 14.7% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 1.6% drop chance
+- **[[Biomes/forest|Forest]]**: 1.6% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.4% drop chance
+- **[[Biomes/oasis|Oasis]]**: 1.1% drop chance
+- **[[Biomes/desert|Desert]]**: 0.5% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2% drop chance
+- **[[Biomes/mountain|Mountain]]**: 0.2% drop chance
 ## Usage
 ### Consumable Effects
 - **Hunger**: -30

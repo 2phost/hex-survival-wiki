@@ -10,7 +10,7 @@ title: "Common Monster Chitin"
 (Will be updated by script)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_specimen_harvest|Specimen Harvest]] (3x)
 
 ## Technical Information

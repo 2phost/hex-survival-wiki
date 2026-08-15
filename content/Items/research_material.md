@@ -9,10 +9,10 @@ title: "Research Material"
 Recovered data drives, scientific logs, and salvageable pre-collapse notes used by the Research Lab.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 6.5%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.7%
-- **[[Biomes/industrial|Industrial]]**: 1.3%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.5%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 6.5% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.7% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.3% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.5% drop chance
 ## Usage
 
 ### Yielded From Salvage
@@ -22,7 +22,7 @@ Recovered data drives, scientific logs, and salvageable pre-collapse notes used 
 * <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_phase2_acknowledge|Phase 2 Readiness Check]] (2x)
 - [[Objectives/story_fund_research_push|Fund a Research Push]] (2x)
 

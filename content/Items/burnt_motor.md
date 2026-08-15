@@ -9,9 +9,9 @@ title: "Burnt-Out Motor"
 Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster damage per use with 22% break chance.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 2.8%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.3%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.2%
+- **[[Biomes/industrial|Industrial]]**: 2.8% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.3% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 1.2% drop chance
 ## Usage
 Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster damage per use with 22% break chance.
 ### Weapon Stats
@@ -26,7 +26,7 @@ Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster da
 ## Required For
 ### Base Facilities
 - [[Builds/sentry_turret|Automated Sentry]] (2x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_capacitor_surge_buffer|Capacitor Surge Buffer]] (2x)
 - [[Objectives/story_stage_sentry_parts|Stage Sentry Parts]] (1x)
 

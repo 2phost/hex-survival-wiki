@@ -12,4 +12,4 @@ title: "Field Analyst Visor"
 - **Min Reward Day**: 10
 
 ## Modifiers
-- **Search Bonus Pct**: 7
+- **Search Bonus**: +7%

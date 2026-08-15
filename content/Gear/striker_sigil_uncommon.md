@@ -12,4 +12,4 @@ title: "Bloodstone Charm"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Weapon Damage Bonus**: 2
+- **Weapon Damage Bonus**: +2

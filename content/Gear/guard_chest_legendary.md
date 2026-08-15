@@ -12,5 +12,5 @@ title: "Aegis Guard Cuirass"
 - **Min Reward Day**: 20
 
 ## Modifiers
-- **Armor Bonus**: 3
-- **Health Max Bonus**: 5
+- **Armor Bonus**: +3
+- **Health Max Bonus**: +5

@@ -10,7 +10,7 @@ title: "Calibrated Sensor"
 (Will be updated by script)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_harden_control_logic|Harden Control Logic]] (1x)
 
 ## Technical Information

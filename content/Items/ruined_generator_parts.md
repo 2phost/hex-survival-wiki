@@ -9,9 +9,9 @@ title: "Ruined Generator Parts"
 Scorched generator internals. Mixed scrap and chemicals.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 2.8%
-- **[[Biomes/ruined_city|Ruined City]]**: 2.4%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.3%
+- **[[Biomes/industrial|Industrial]]**: 2.8% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 2.4% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 2.3% drop chance
 ## Usage
 Scorched generator internals. Mixed scrap and chemicals.
 
@@ -22,7 +22,7 @@ Scorched generator internals. Mixed scrap and chemicals.
 * <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] (rare, 6%)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_stabilize_generators|Stabilize the Generators]] (2x)
 
 ## Technical Information

@@ -12,4 +12,4 @@ title: "Scavenger Mask"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Search Bonus Pct**: 2
+- **Search Bonus**: +2%

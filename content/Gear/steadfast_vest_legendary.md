@@ -12,5 +12,5 @@ title: "Unshaken Aegis"
 - **Min Reward Day**: 20
 
 ## Modifiers
-- **Fear Max Bonus**: 3
-- **Fear Penalty Reduction Pct**: 12
+- **Fear Max Bonus**: +3
+- **Fear Penalty Reduction**: +12%

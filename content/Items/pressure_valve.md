@@ -9,13 +9,13 @@ title: "Pressure Valve"
 Industrial-grade valve body from old steam and fuel networks.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 3.0%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.5%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.0%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.3%
-- **[[Biomes/farm_facility|Farm Facility]]**: 1.3%
-- **[[Biomes/desert|Desert]]**: 0.5%
-- **[[Biomes/mountain|Mountain]]**: 0.4%
+- **[[Biomes/industrial|Industrial]]**: 3.0% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.5% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 1.0% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.3% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 1.3% drop chance
+- **[[Biomes/desert|Desert]]**: 0.5% drop chance
+- **[[Biomes/mountain|Mountain]]**: 0.4% drop chance
 ## Usage
 Industrial-grade valve body from old steam and fuel networks.
 
@@ -23,7 +23,7 @@ Industrial-grade valve body from old steam and fuel networks.
 ### Base Facilities
 - [[Builds/threat_scanner|Threat Scanner Beacon]] (2x)
 - [[Builds/fuel_refinery|Fuel Refinery]] (2x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_thermal_loop_flush|Thermal Loop Flush]] (2x)
 - [[Objectives/story_stabilize_thermals|Stabilize Thermal Systems]] (1x)
 

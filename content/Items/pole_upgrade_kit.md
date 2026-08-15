@@ -11,7 +11,7 @@ title: "Pole Upgrade Kit"
 
 ## Combinations
 ### Crafted From
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/lamp_empty|Lamp (empty)]] + 1x [[Items/copper_wiring|Copper Wiring]] → 1x [[Items/pole_upgrade_kit|Pole Upgrade Kit]]
 
 

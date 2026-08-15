@@ -9,12 +9,12 @@ title: "Broken Binoculars"
 Shattered optics. Glass and metal casing can be salvaged.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 2.0%
-- **[[Biomes/mountain|Mountain]]**: 4.0%
-- **[[Biomes/industrial|Industrial]]**: 1.1%
+- **[[Biomes/ruined_city|Ruined City]]**: 2.0% drop chance
+- **[[Biomes/mountain|Mountain]]**: 4.0% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.1% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/broken_binoculars|Broken Binoculars]] + 1x [[Items/cracked_lens|Cracked Lens]] → 1x [[Items/restored_binoculars|Restored Binoculars]]
 
 
@@ -27,7 +27,7 @@ Shattered optics. Glass and metal casing can be salvaged.
 * <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/research_material|Research Material]] (rare, 4%)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_pull_station_archives|Pull Station Archives]] (1x)
 
 ## Technical Information

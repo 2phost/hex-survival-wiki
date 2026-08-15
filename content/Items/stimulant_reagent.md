@@ -11,7 +11,7 @@ title: "Stimulant Reagent"
 
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/stim_pack|Stim Pack]] + 1x [[Items/stimulant_reagent|Stimulant Reagent]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_injector|Stim Injector]]
 
 

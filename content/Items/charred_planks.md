@@ -9,17 +9,17 @@ title: "Charred Planks"
 Half-burned construction wood that can still be repurposed.
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 6.8%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.9%
-- **[[Biomes/mountain|Mountain]]**: 2.4%
-- **[[Biomes/desert|Desert]]**: 2.2%
-- **[[Biomes/industrial|Industrial]]**: 0.4%
-- **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
-- **[[Biomes/oasis|Oasis]]**: 1.4%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2%
+- **[[Biomes/forest|Forest]]**: 6.8% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 1.9% drop chance
+- **[[Biomes/mountain|Mountain]]**: 2.4% drop chance
+- **[[Biomes/desert|Desert]]**: 2.2% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.4% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.8% drop chance
+- **[[Biomes/oasis|Oasis]]**: 1.4% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/charred_planks|Charred Planks]] → 1x [[Items/timber|Raw Timber]]
 
 
@@ -29,7 +29,7 @@ Half-burned construction wood that can still be repurposed.
 ## Required For
 ### Base Facilities
 - [[Builds/scrap_workshop|Scrap Workshop]] (2x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_stage_workshop_stock|Stage Workshop Stock]] (1x)
 
 ## Technical Information

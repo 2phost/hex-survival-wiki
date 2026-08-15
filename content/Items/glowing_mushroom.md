@@ -11,17 +11,17 @@ title: "Glowing Mushroom"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 9.0%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 4.8%
-- **[[Biomes/oasis|Oasis]]**: 9.5%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.4%
-- **[[Biomes/industrial|Industrial]]**: 1.0%
-- **[[Biomes/desert|Desert]]**: 2.2%
-- **[[Biomes/mountain|Mountain]]**: 1.0%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
+- **[[Biomes/forest|Forest]]**: 9.0% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 4.8% drop chance
+- **[[Biomes/oasis|Oasis]]**: 9.5% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 1.4% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.0% drop chance
+- **[[Biomes/desert|Desert]]**: 2.2% drop chance
+- **[[Biomes/mountain|Mountain]]**: 1.0% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1% drop chance
 ## Combinations
 ### Used To Craft
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/old_glass_bottle|Old Glass Bottle]] + 1x [[Items/glowing_mushroom|Glowing Mushroom]] → 1x [[Items/glowing_bottle|Glowing Bottle]]
 
 

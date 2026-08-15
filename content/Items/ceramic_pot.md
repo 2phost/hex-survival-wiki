@@ -10,7 +10,7 @@ title: "Ceramic Pot"
 (Will be updated by script)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_salt_preservation_run|Salt Preservation Run]] (2x)
 
 ## Technical Information

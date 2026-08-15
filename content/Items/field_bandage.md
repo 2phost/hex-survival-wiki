@@ -11,12 +11,12 @@ title: "Field Bandage"
 
 ## Combinations
 ### Crafted From
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/bio_resin|Bio Resin]] → 1x [[Items/field_bandage|Field Bandage]]
 - 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/bottle_of_alcohol|Bottle of Alcohol]] → 1x [[Items/field_bandage|Field Bandage]]
 
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/field_bandage|Field Bandage]] + 1x [[Items/med_gauze|Medical Gauze]] + 1x [[Items/water|Clean Water]] → 1x [[Items/first_aid_kit|First Aid Kit]]
 
 

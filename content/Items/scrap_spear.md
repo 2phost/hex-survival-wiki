@@ -9,22 +9,22 @@ title: "Scrap Spear"
 A long haft tipped with forged scrap. Reliable reach compared to improvised knives.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 1.5%
-- **[[Biomes/industrial|Industrial]]**: 1.2%
-- **[[Biomes/forest|Forest]]**: 2.4%
-- **[[Biomes/mountain|Mountain]]**: 2.4%
-- **[[Biomes/farm_facility|Farm Facility]]**: 1.6%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.5%
-- **[[Biomes/desert|Desert]]**: 1.1%
-- **[[Biomes/oasis|Oasis]]**: 1.1%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.5% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.2% drop chance
+- **[[Biomes/forest|Forest]]**: 2.4% drop chance
+- **[[Biomes/mountain|Mountain]]**: 2.4% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 1.6% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.5% drop chance
+- **[[Biomes/desert|Desert]]**: 1.1% drop chance
+- **[[Biomes/oasis|Oasis]]**: 1.1% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/scrap_spear|Scrap Spear]]
 
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/scrap_spear|Scrap Spear]] + 1x [[Items/fortified_rebar|Fortified Rebar]] + 2x [[Items/ceramic_shards|Ceramic Shards]] → 1x [[Items/rebar_blade|Rebar Blade]]
 
 

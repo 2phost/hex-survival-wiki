@@ -7,23 +7,23 @@ title: "Scrap Metal"
 ![[assets/items/scrap_metal.png|150]]
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 6.8%
-- **[[Biomes/industrial|Industrial]]**: 4.2%
-- **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.9%
-- **[[Biomes/desert|Desert]]**: 4.9%
-- **[[Biomes/mountain|Mountain]]**: 2.0%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1%
-- **[[Biomes/forest|Forest]]**: 0.8%
+- **[[Biomes/ruined_city|Ruined City]]**: 6.8% drop chance
+- **[[Biomes/industrial|Industrial]]**: 4.2% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 3.6% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.9% drop chance
+- **[[Biomes/desert|Desert]]**: 4.9% drop chance
+- **[[Biomes/mountain|Mountain]]**: 2.0% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1% drop chance
+- **[[Biomes/forest|Forest]]**: 0.8% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/solar_cell|Solar Cell]]
 - 1x [[Items/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/scrap_spear|Scrap Spear]]
 - 1x [[Items/battery|Battery]] + 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/hauler_drone|Fabrication Hauler Drone]]
 - 1x [[Items/filter_mesh|Filter Mesh]] + 1x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/humidity_extractor|Humidity Extractor]]
 
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/fishing_line|Fishing Line]] → 1x [[Items/makeshift_rod|Makeshift Rod]]
 - 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/power_pole|Power Pole]]
 - 5x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/fortified_rebar|Fortified Rebar]]
@@ -87,7 +87,7 @@ title: "Scrap Metal"
 - [[Builds/fuel_refinery|Fuel Refinery]] (6x)
 - [[Builds/scrap_barricade|Scrap Barricade Wall]] (8x)
 - [[Builds/auto_bolt_nest|Auto-Bolt Nest]] (6x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_stage_workshop_stock|Stage Workshop Stock]] (2x)
 - [[Objectives/story_stage_battery_cells|Stage Battery Cells]] (2x)
 - [[Objectives/story_brace_the_line|Brace the Line]] (2x)

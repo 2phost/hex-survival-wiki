@@ -9,21 +9,21 @@ title: "Fortified Rebar"
 Bent but sturdy steel rods bundled for emergency fortifications.
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 1.9%
-- **[[Biomes/industrial|Industrial]]**: 1.1%
-- **[[Biomes/forest|Forest]]**: 0.7%
-- **[[Biomes/desert|Desert]]**: 0.5%
-- **[[Biomes/mountain|Mountain]]**: 0.4%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.2%
-- **[[Biomes/farm_facility|Farm Facility]]**: 0.3%
-- **[[Biomes/oasis|Oasis]]**: 0.3%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.9% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.1% drop chance
+- **[[Biomes/forest|Forest]]**: 0.7% drop chance
+- **[[Biomes/desert|Desert]]**: 0.5% drop chance
+- **[[Biomes/mountain|Mountain]]**: 0.4% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.2% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.3% drop chance
+- **[[Biomes/oasis|Oasis]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Field Crafting (Any Tile)**
+**Field**
 - 5x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/fortified_rebar|Fortified Rebar]]
 
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/scrap_spear|Scrap Spear]] + 1x [[Items/fortified_rebar|Fortified Rebar]] + 2x [[Items/ceramic_shards|Ceramic Shards]] → 1x [[Items/rebar_blade|Rebar Blade]]
 
 
@@ -39,7 +39,7 @@ Bent but sturdy steel rods bundled for emergency fortifications.
 ### Base Facilities
 - [[Builds/spike_trench|Spike Trench]] (4x)
 - [[Builds/palisade_wall|Timber Palisade Wall]] (6x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_last_chance_fortify|Last-Chance Fortify]] (2x)
 
 ## Technical Information

@@ -12,4 +12,4 @@ title: "Annihilator Core"
 - **Min Reward Day**: 20
 
 ## Modifiers
-- **Weapon Damage Bonus**: 5
+- **Weapon Damage Bonus**: +5

@@ -12,4 +12,4 @@ title: "Dented Guard Token"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Armor Bonus**: 1
+- **Armor Bonus**: +1

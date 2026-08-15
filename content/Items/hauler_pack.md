@@ -12,7 +12,7 @@ An uncommon pre-collapse load-bearing rig rebuilt with improvised parts. Increas
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/expedition_pack|Expedition Pack]] + 2x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/hauler_pack|Hauler Pack]]
 
 

@@ -10,7 +10,7 @@ title: "Uncommon Monster Gland"
 (Will be updated by script)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_interdiction_samples|Interdiction Samples]] (1x)
 
 ## Technical Information

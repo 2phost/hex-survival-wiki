@@ -12,5 +12,5 @@ title: "Wardplate Guard Tassets"
 - **Min Reward Day**: 14
 
 ## Modifiers
-- **Armor Bonus**: 2
-- **Health Max Bonus**: 4
+- **Armor Bonus**: +2
+- **Health Max Bonus**: +4

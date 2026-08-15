@@ -12,5 +12,5 @@ title: "Swift March Boots"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Ap Max Bonus**: 1
-- **Fear Penalty Reduction Pct**: 3
+- **Ap Max Bonus**: +1
+- **Fear Penalty Reduction**: +3%

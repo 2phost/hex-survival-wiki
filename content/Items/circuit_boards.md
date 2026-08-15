@@ -7,14 +7,14 @@ title: "Circuit Boards"
 ![[assets/items/circuit_board.png|150]]
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 6.7%
-- **[[Biomes/industrial|Industrial]]**: 2.7%
-- **[[Biomes/ruined_city|Ruined City]]**: 2.6%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.4%
-- **[[Biomes/desert|Desert]]**: 1.6%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 6.7% drop chance
+- **[[Biomes/industrial|Industrial]]**: 2.7% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 2.6% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 3.4% drop chance
+- **[[Biomes/desert|Desert]]**: 1.6% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/solar_cell|Solar Cell]]
 - 1x [[Items/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/micro_fuse|Micro Fuse]] + 1x [[Items/circuit_boards|Circuit Boards]] → 1x [[Items/calibrated_sensor|Calibrated Sensor]]
 - 1x [[Items/battery|Battery]] + 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/hauler_drone|Fabrication Hauler Drone]]
@@ -47,7 +47,7 @@ title: "Circuit Boards"
 - [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (4x)
 - [[Builds/beacon_amplifier|Beacon Amplifier]] (6x)
 - [[Builds/threat_scanner|Threat Scanner Beacon]] (2x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_harden_control_logic|Harden Control Logic]] (1x)
 - [[Objectives/story_manual_override_kit|Assemble Manual Override Kit]] (1x)
 

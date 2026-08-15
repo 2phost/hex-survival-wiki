@@ -12,7 +12,7 @@ Deployable relay pole. Needed for the Place Pole action.
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/power_pole|Power Pole]]
 
 

@@ -9,24 +9,24 @@ title: "Copper Wiring"
 Electrical wiring for connecting solar panels to the grid.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 3.7%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.5%
-- **[[Biomes/ruined_city|Ruined City]]**: 2.9%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.5%
-- **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
-- **[[Biomes/mountain|Mountain]]**: 2.4%
-- **[[Biomes/desert|Desert]]**: 1.9%
-- **[[Biomes/forest|Forest]]**: 1.1%
+- **[[Biomes/industrial|Industrial]]**: 3.7% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.5% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 2.9% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.5% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 3.6% drop chance
+- **[[Biomes/mountain|Mountain]]**: 2.4% drop chance
+- **[[Biomes/desert|Desert]]**: 1.9% drop chance
+- **[[Biomes/forest|Forest]]**: 1.1% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 2x [[Items/damaged_solar_panel|Damaged Solar Panel]] + 2x [[Items/copper_wiring|Copper Wiring]] → 1x [[Items/solar_cell|Solar Cell]]
 - 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/solar_cell|Solar Cell]]
 - 1x [[Items/broken_radio|Broken Radio]] + 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/battery|Battery]] → 1x [[Items/field_radio|Field Radio]]
 - 1x [[Items/battery|Battery]] + 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/hauler_drone|Fabrication Hauler Drone]]
 - 1x [[Items/filter_mesh|Filter Mesh]] + 1x [[Items/copper_wiring|Copper Wiring]] + 2x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/humidity_extractor|Humidity Extractor]]
 
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/power_pole|Power Pole]]
 - 1x [[Items/lamp_empty|Lamp (empty)]] + 1x [[Items/copper_wiring|Copper Wiring]] → 1x [[Items/pole_upgrade_kit|Pole Upgrade Kit]]
 
@@ -67,7 +67,7 @@ Electrical wiring for connecting solar panels to the grid.
 - [[Builds/threat_scanner|Threat Scanner Beacon]] (4x)
 - [[Builds/kill_zone_lights|Kill-Zone Floodlights]] (6x)
 - [[Builds/shock_fence_grid|Shock Fence Grid]] (12x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_solar_panel_reclaim|Solar Panel Reclaim]] (3x)
 - [[Objectives/story_daily_microfuse_grid_audit|Microfuse Grid Audit]] (2x)
 - [[Objectives/story_patch_field_comms|Patch Field Comms]] (2x)

@@ -9,13 +9,13 @@ title: "Plasma Lance"
 A rare pre-collapse polearm retrofitted with a stabilized plasma channel.
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.6%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.7%
-- **[[Biomes/industrial|Industrial]]**: 0.2%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.2%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.6% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.7% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.2% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.2% drop chance
 ## Combinations
 ### Crafted From
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/shock_maul|Shock Maul]] + 1x [[Items/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/targeting_relay|Targeting Relay]] → 1x [[Items/plasma_lance|Plasma Lance]]
 
 

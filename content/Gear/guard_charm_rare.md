@@ -12,5 +12,5 @@ title: "Tempered Guard Token"
 - **Min Reward Day**: 10
 
 ## Modifiers
-- **Armor Bonus**: 2
-- **Health Max Bonus**: 2
+- **Armor Bonus**: +2
+- **Health Max Bonus**: +2

@@ -22,7 +22,7 @@ Hardened organic sealant cultivated in powered Farm facilities to weatherproof f
 ### Base Facilities
 - [[Builds/scrap_barricade|Scrap Barricade Wall]] (2x)
 - [[Builds/palisade_wall|Timber Palisade Wall]] (4x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_last_chance_fortify|Last-Chance Fortify]] (1x)
 
 ## Technical Information

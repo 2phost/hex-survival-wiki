@@ -17,22 +17,22 @@ Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases
 - **Skill**: [[Skills/stim_conditioning|Stim Conditioning]] (Level 1)
 
 ## Where to Find
-- **[[Biomes/ruined_city|Ruined City]]**: 1.1%
-- **[[Biomes/industrial|Industrial]]**: 0.7%
-- **[[Biomes/forest|Forest]]**: 1.3%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.6%
-- **[[Biomes/desert|Desert]]**: 1.4%
-- **[[Biomes/mountain|Mountain]]**: 0.8%
-- **[[Biomes/farm_facility|Farm Facility]]**: 0.7%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3%
-- **[[Biomes/oasis|Oasis]]**: 0.5%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.1% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.7% drop chance
+- **[[Biomes/forest|Forest]]**: 1.3% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.6% drop chance
+- **[[Biomes/desert|Desert]]**: 1.4% drop chance
+- **[[Biomes/mountain|Mountain]]**: 0.8% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.7% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3% drop chance
+- **[[Biomes/oasis|Oasis]]**: 0.5% drop chance
 ## Combinations
 ### Crafted From
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/water|Clean Water]] + 1x [[Items/fungal_spores|Fungal Spores]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_pack|Stim Pack]]
 
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/stim_pack|Stim Pack]] + 1x [[Items/stimulant_reagent|Stimulant Reagent]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_injector|Stim Injector]]
 
 
@@ -44,7 +44,7 @@ Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases
 - **Action Points**: 2
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_field_triage_drill|Field Triage Drill]] (3x)
 
 ## Technical Information

@@ -12,5 +12,5 @@ title: "Iron Will Carapace"
 - **Min Reward Day**: 14
 
 ## Modifiers
-- **Fear Max Bonus**: 2
-- **Fear Penalty Reduction Pct**: 8
+- **Fear Max Bonus**: +2
+- **Fear Penalty Reduction**: +8%

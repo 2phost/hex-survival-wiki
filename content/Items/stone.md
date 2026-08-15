@@ -7,14 +7,14 @@ title: "Hardened Stone"
 ![[assets/items/stone.png|150]]
 
 ## Where to Find
-- **[[Biomes/mountain|Mountain]]**: 16.0%
-- **[[Biomes/desert|Desert]]**: 6.8%
-- **[[Biomes/forest|Forest]]**: 2.4%
-- **[[Biomes/industrial|Industrial]]**: 0.7%
-- **[[Biomes/farm_facility|Farm Facility]]**: 1.1%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5%
-- **[[Biomes/oasis|Oasis]]**: 1.4%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.4%
+- **[[Biomes/mountain|Mountain]]**: 16.0% drop chance
+- **[[Biomes/desert|Desert]]**: 6.8% drop chance
+- **[[Biomes/forest|Forest]]**: 2.4% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.7% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 1.1% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5% drop chance
+- **[[Biomes/oasis|Oasis]]**: 1.4% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.4% drop chance
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ReinforcedBulkhead|Reinforced Steel Bulkhead]]
@@ -38,7 +38,7 @@ title: "Hardened Stone"
 - [[Builds/fuel_refinery|Fuel Refinery]] (4x)
 - [[Builds/spike_trench|Spike Trench]] (4x)
 - [[Builds/palisade_wall|Timber Palisade Wall]] (8x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_stage_well_materials|Stage Well Materials]] (3x)
 - [[Objectives/story_brace_the_line|Brace the Line]] (3x)
 

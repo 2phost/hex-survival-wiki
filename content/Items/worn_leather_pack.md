@@ -9,12 +9,12 @@ title: "Worn Leather Pack"
 Decayed travel pack. Straps and buckles yield some materials.
 
 ## Where to Find
-- **[[Biomes/mountain|Mountain]]**: 4.0%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.2%
-- **[[Biomes/forest|Forest]]**: 1.6%
+- **[[Biomes/mountain|Mountain]]**: 4.0% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 1.2% drop chance
+- **[[Biomes/forest|Forest]]**: 1.6% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/worn_leather_pack|Worn Leather Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/salvager_pack|Salvager Pack]]
 
 

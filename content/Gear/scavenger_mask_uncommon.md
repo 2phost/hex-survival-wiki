@@ -12,4 +12,4 @@ title: "Scavenger Goggles"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Search Bonus Pct**: 4
+- **Search Bonus**: +4%

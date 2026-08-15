@@ -10,7 +10,7 @@ title: "Uncommon Monster Sinew"
 (Will be updated by script)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_interdiction_samples|Interdiction Samples]] (2x)
 
 ## Technical Information

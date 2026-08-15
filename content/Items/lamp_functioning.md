@@ -12,7 +12,7 @@ Provides illumination when carried; lights only the tile you stand on.
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
-**Field Crafting (Any Tile)**
+**Field**
 - 1x [[Items/battery|Battery]] + 1x [[Items/lamp_empty|Lamp (empty)]] → 1x [[Items/lamp_functioning|Functioning Lamp]]
 
 
@@ -29,7 +29,7 @@ Provides illumination when carried; lights only the tile you stand on.
 * <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/copper_wiring|Copper Wiring]] (rare, 5%)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_emergency_lighting_network|Emergency Lighting Network]] (2x)
 
 ## Technical Information

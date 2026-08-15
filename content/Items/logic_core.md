@@ -32,7 +32,7 @@ Produced by Electronic Labs Biome
 - [[Builds/sensor_jammer_grid|Sensor Jammer Grid]] (4x)
 - [[Builds/citadel_aegis|Citadel Aegis Core]] (4x)
 - [[Builds/extraction_beacon|Extraction Beacon]] (4x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_purge_seal_relay|Seal Corruption Relay]] (1x)
 
 ## Technical Information

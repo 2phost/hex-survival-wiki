@@ -9,15 +9,15 @@ title: "Data Tape"
 Analog storage reels containing fragmentary technical records.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.2%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.3%
-- **[[Biomes/industrial|Industrial]]**: 1.0%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.2% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.3% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.0% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.6% drop chance
 ## Usage
 Analog storage reels containing fragmentary technical records.
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_vault_cipher_scavenge|Vault Cipher Scavenge]] (2x)
 - [[Objectives/story_vault_cipher_reassembly|Vault Cipher Reassembly]] (1x)
 - [[Objectives/story_pull_station_archives|Pull Station Archives]] (2x)

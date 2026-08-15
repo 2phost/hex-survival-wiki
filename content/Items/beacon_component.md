@@ -12,7 +12,7 @@ title: "Beacon Component"
 ## Required For
 ### Base Facilities
 - [[Builds/extraction_beacon|Extraction Beacon]] (6x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_evac_gather_components|Recover Beacon Components]] (3x)
 
 ## Technical Information

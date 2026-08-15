@@ -12,15 +12,15 @@ Refined high-density biofuel cell. Refills 40% town power and requires Generator
 - **Skill**: [[Skills/generator_operations|Generator Operations]] (Level 2)
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 1.1%
-- **[[Biomes/forest|Forest]]**: 1.3%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.8%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.5%
+- **[[Biomes/industrial|Industrial]]**: 1.1% drop chance
+- **[[Biomes/forest|Forest]]**: 1.3% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.8% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.5% drop chance
 ## Usage
 Refined high-density biofuel cell. Refills 40% town power and requires Generator Operations II.
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_fuel_line_priming|Fuel Line Priming]] (2x)
 
 ## Technical Information

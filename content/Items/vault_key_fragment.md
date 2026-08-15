@@ -9,13 +9,13 @@ title: "Vault Key Fragment"
 Partial cipher key etched on alloy, likely tied to sealed vault systems.
 
 ## Where to Find
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.3%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.4%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.1%
-- **[[Biomes/industrial|Industrial]]**: 0.1%
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.3% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.4% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.1% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.1% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 3x [[Items/vault_key_fragment|Vault Key Fragment]] → 1x [[Items/vault_access_key|Vault Access Key]]
 
 
@@ -23,7 +23,7 @@ Partial cipher key etched on alloy, likely tied to sealed vault systems.
 Partial cipher key etched on alloy, likely tied to sealed vault systems.
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_vault_cipher_scavenge|Vault Cipher Scavenge]] (2x)
 - [[Objectives/story_vault_cipher_reassembly|Vault Cipher Reassembly]] (2x)
 

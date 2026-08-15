@@ -12,4 +12,4 @@ title: "Oracle Lens Crown"
 - **Min Reward Day**: 20
 
 ## Modifiers
-- **Search Bonus Pct**: 15
+- **Search Bonus**: +15%

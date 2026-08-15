@@ -10,7 +10,7 @@ title: "Medical Gauze"
 (Will be updated by script)
 
 ## Required For
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_gauze_stockpile_drive|Gauze Stockpile Drive]] (3x)
 
 ## Technical Information

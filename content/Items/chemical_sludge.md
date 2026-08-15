@@ -7,13 +7,13 @@ title: "Chemical Sludge"
 ![[assets/items/chemical_sludge.png|150]]
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 5.0%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.1%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.4%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.4%
+- **[[Biomes/industrial|Industrial]]**: 5.0% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.1% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.4% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.4% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/stim_injector|Stim Injector]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/cryo_flask|Cryo Flask]] → 1x [[Items/stim_overdrive|Stim Overdrive]]
 - 2x [[Items/empty_canister|Empty Canister]] + 1x [[Items/chemical_sludge|Chemical Sludge]] → 1x [[Items/gasoline_canister|Gasoline Canister]]
 - 1x [[Items/water|Clean Water]] + 1x [[Items/ancient_relic|Ancient Relic]] + 1x [[Items/chemical_sludge|Chemical Sludge]] + 1x [[Items/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/cleanse_vial|Cleanse Vial]]
@@ -30,7 +30,7 @@ title: "Chemical Sludge"
 ## Required For
 ### Base Facilities
 - [[Builds/fuel_refinery|Fuel Refinery]] (6x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_chemical_spill_containment|Chemical Spill Containment]] (2x)
 
 ## Technical Information

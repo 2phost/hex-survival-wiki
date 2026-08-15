@@ -9,12 +9,12 @@ title: "Broken Radio"
 Salvageable electronics from a damaged broadcast unit.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.3%
-- **[[Biomes/industrial|Industrial]]**: 2.1%
-- **[[Biomes/ruined_city|Ruined City]]**: 2.0%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.3% drop chance
+- **[[Biomes/industrial|Industrial]]**: 2.1% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 2.0% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/broken_radio|Broken Radio]] + 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/battery|Battery]] → 1x [[Items/field_radio|Field Radio]]
 
 
@@ -30,7 +30,7 @@ Salvageable electronics from a damaged broadcast unit.
 ## Required For
 ### Base Facilities
 - [[Builds/signal_booster|Signal Booster (Radar)]] (2x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_field_radio_revival|Field Radio Revival]] (2x)
 - [[Objectives/story_restore_command_channel|Restore the Command Channel]] (1x)
 - [[Objectives/story_patch_field_comms|Patch Field Comms]] (1x)

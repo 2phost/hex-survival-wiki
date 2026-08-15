@@ -12,7 +12,7 @@ title: "Common Monster Bone"
 ## Required For
 ### Base Facilities
 - [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (6x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_specimen_harvest|Specimen Harvest]] (4x)
 
 ## Technical Information

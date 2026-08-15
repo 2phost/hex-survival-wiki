@@ -12,4 +12,4 @@ title: "Steadfast Vest"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Fear Max Bonus**: 1
+- **Fear Max Bonus**: +1

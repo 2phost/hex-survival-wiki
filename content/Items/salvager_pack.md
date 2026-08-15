@@ -9,22 +9,22 @@ title: "Salvager Pack"
 A reinforced scav bag with extra loops and pouches. Increases carried inventory by +2 slots while carried. Rare to find, but can be assembled from field materials.
 
 ## Where to Find
-- **[[Biomes/desert|Desert]]**: 1.4%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.4%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2%
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1%
-- **[[Biomes/farm_facility|Farm Facility]]**: 0.2%
-- **[[Biomes/forest|Forest]]**: 0.2%
-- **[[Biomes/industrial|Industrial]]**: 0.1%
-- **[[Biomes/mountain|Mountain]]**: 0.2%
-- **[[Biomes/oasis|Oasis]]**: 0.3%
+- **[[Biomes/desert|Desert]]**: 1.4% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.4% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.2% drop chance
+- **[[Biomes/forest|Forest]]**: 0.2% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.1% drop chance
+- **[[Biomes/mountain|Mountain]]**: 0.2% drop chance
+- **[[Biomes/oasis|Oasis]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/worn_leather_pack|Worn Leather Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/salvager_pack|Salvager Pack]]
 
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/salvager_pack|Salvager Pack]] + 1x [[Items/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/rusted_chain|Rusted Chain]] → 1x [[Items/expedition_pack|Expedition Pack]]
 
 

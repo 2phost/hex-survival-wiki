@@ -12,5 +12,5 @@ title: "Patched Guard Bracers"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Armor Bonus**: 1
-- **Health Max Bonus**: 2
+- **Armor Bonus**: +1
+- **Health Max Bonus**: +2

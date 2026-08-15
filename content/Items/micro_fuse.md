@@ -9,14 +9,14 @@ title: "Micro Fuse"
 Tiny protective fuse used in sensitive control circuits.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.3%
-- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.1%
-- **[[Biomes/industrial|Industrial]]**: 1.3%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.6%
-- **[[Biomes/farm_facility|Farm Facility]]**: 0.3%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 4.3% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.1% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.3% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.6% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.3% drop chance
 ## Combinations
 ### Used To Craft
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 1x [[Items/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/micro_fuse|Micro Fuse]] + 1x [[Items/circuit_boards|Circuit Boards]] → 1x [[Items/calibrated_sensor|Calibrated Sensor]]
 
 
@@ -27,7 +27,7 @@ Tiny protective fuse used in sensitive control circuits.
 ## Required For
 ### Base Facilities
 - [[Builds/sensor_jammer_grid|Sensor Jammer Grid]] (6x)
-### Command Objectives
+### Objectives
 - [[Objectives/story_daily_microfuse_grid_audit|Microfuse Grid Audit]] (2x)
 
 ## Technical Information

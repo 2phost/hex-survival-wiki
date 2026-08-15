@@ -9,13 +9,13 @@ title: "Solar Cell"
 Crafted photovoltaic cell for harvesting sunlight. Used to build solar panels.
 
 ## Where to Find
-- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.7%
-- **[[Biomes/industrial|Industrial]]**: 0.7%
-- **[[Biomes/desert|Desert]]**: 1.6%
-- **[[Biomes/ruined_city|Ruined City]]**: 0.3%
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 1.7% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.7% drop chance
+- **[[Biomes/desert|Desert]]**: 1.6% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Base Facility ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
 - 2x [[Items/damaged_solar_panel|Damaged Solar Panel]] + 2x [[Items/copper_wiring|Copper Wiring]] → 1x [[Items/solar_cell|Solar Cell]]
 - 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/solar_cell|Solar Cell]]
 

@@ -12,4 +12,4 @@ title: "Hauler Grips"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Carry Slots Bonus**: 1
+- **Carry Slots Bonus**: +1
