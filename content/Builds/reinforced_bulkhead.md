@@ -1,0 +1,18 @@
+---
+title: "Reinforced Steel Bulkhead"
+---
+
+# Build: [[Builds/reinforced_bulkhead|Reinforced Steel Bulkhead]]
+
+<div align="center">
+
+![[builds/reinforced_bulkhead.png|250]]
+
+</div>
+
+## Overview
+> Adds +12 town defense.
+
+## Construction Cost
+- 2x [[Items/scrap_metal|Scrap Metal]]
+- 6x [[Items/stone|Hardened Stone]]

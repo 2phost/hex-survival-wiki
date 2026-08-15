@@ -1,0 +1,19 @@
+---
+title: "Battery Storage"
+---
+
+# Build: [[Builds/battery_bank|Battery Storage]]
+
+<div align="center">
+
+![[builds/battery_bank.png|250]]
+
+</div>
+
+## Overview
+> Increases maximum town power capacity by +20% permanently and allows batteries to refuel town power.
+
+## Construction Cost
+- 6x [[Items/car_battery|Car Battery]]
+- 8x [[Items/ceramic_shards|Ceramic Shards]]
+- 4x [[Items/scrap_metal|Scrap Metal]]
