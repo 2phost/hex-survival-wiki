@@ -17,3 +17,6 @@ title: "Hydroponic Patch"
 - 4x [[Items/timber|Raw Timber]]
 - 2x [[Items/stone|Hardened Stone]]
 - 2x [[Items/scrap_metal|Scrap Metal]]
+
+## Required For Objectives
+- [[Objectives/story_stand_up_hydroponics|Stand Up Hydroponics]]

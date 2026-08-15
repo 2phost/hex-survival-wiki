@@ -30,6 +30,13 @@ Fine wire mesh from masks and vents; still usable for filtration rigs.
 * <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/salvager_pack|Salvager Pack]]
 * <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/hauler_pack|Hauler Pack]]
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_water_purification_push|Water Purification Push]] (2x)
+- [[Objectives/story_lock_down_artifacts|Lock Down Artifacts]] (2x)
+- [[Objectives/story_quarantine_hot_samples|Quarantine Hot Samples]] (2x)
+- [[Objectives/story_cool_the_core|Cool the Core]] (2x)
+
 ## Technical Information
 - **Item ID**: `filter_mesh`
 - **Rarity**: Common

@@ -26,6 +26,12 @@ Cracked photovoltaic array. Some cells might still function.
 * <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (30%)
 * <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] (rare, 8%)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_solar_panel_reclaim|Solar Panel Reclaim]] (2x)
+- [[Objectives/story_salvage_solar_parts|Salvage Solar Parts]] (2x)
+- [[Objectives/story_extend_power_reach|Extend Power Reach]] (1x)
+
 ## Technical Information
 - **Item ID**: `damaged_solar_panel`
 - **Rarity**: Uncommon

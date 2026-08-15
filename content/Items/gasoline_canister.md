@@ -28,6 +28,11 @@ Fuel for the base generators. Refills 25% town power when used at base.
 ### Used in Recipes
 * <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/gasoline_generator|Gasoline Generator]]
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_fuel_line_priming|Fuel Line Priming]] (2x)
+- [[Objectives/story_prime_station_power|Prime Station Power]] (2x)
+
 ## Technical Information
 - **Item ID**: `gasoline_canister`
 - **Rarity**: Rare

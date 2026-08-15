@@ -20,6 +20,14 @@ Heavy anchor bolts used to pin barricades into stone.
 - Required for [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]
 - Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
 
+## Required For
+### Base Facilities
+- [[Builds/scrap_barricade|Scrap Barricade Wall]] (6x)
+- [[Builds/kill_zone_lights|Kill-Zone Floodlights]] (4x)
+### Command Objectives
+- [[Objectives/story_stage_floodlight_kit|Stage Floodlight Kit]] (2x)
+- [[Objectives/story_last_chance_fortify|Last-Chance Fortify]] (3x)
+
 ## Technical Information
 - **Item ID**: `quarry_bolts`
 - **Rarity**: Common

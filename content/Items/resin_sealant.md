@@ -18,6 +18,13 @@ Hardened organic sealant cultivated in powered Farm facilities to weatherproof f
 - Required for [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]
 - Required for [[Base/constructions#PalisadeWall|Timber Palisade Wall]]
 
+## Required For
+### Base Facilities
+- [[Builds/scrap_barricade|Scrap Barricade Wall]] (2x)
+- [[Builds/palisade_wall|Timber Palisade Wall]] (4x)
+### Command Objectives
+- [[Objectives/story_last_chance_fortify|Last-Chance Fortify]] (1x)
+
 ## Technical Information
 - **Item ID**: `resin_sealant`
 - **Rarity**: Common

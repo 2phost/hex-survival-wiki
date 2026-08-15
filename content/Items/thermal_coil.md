@@ -18,6 +18,12 @@ Heat-resistant coil assembly from generators and lab furnaces.
 ## Usage
 Heat-resistant coil assembly from generators and lab furnaces.
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_thermal_loop_flush|Thermal Loop Flush]] (2x)
+- [[Objectives/story_stabilize_thermals|Stabilize Thermal Systems]] (2x)
+- [[Objectives/story_cool_the_core|Cool the Core]] (1x)
+
 ## Technical Information
 - **Item ID**: `thermal_coil`
 - **Rarity**: Rare

@@ -17,3 +17,6 @@ title: "Battery Storage"
 - 6x [[Items/car_battery|Car Battery]]
 - 8x [[Items/ceramic_shards|Ceramic Shards]]
 - 4x [[Items/scrap_metal|Scrap Metal]]
+
+## Required For Objectives
+- [[Objectives/story_buffer_the_grid|Buffer the Grid]]

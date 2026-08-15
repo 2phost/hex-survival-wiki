@@ -54,6 +54,24 @@ Electrical wiring for connecting solar panels to the grid.
 * <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]
 * <img src="../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole_mk2|Reinforced Power Pole]]
 
+## Required For
+### Base Facilities
+- [[Builds/logistics_uplink|Logistics Uplink]] (6x)
+- [[Builds/solar_panels|Solar Panels]] (4x)
+- [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (4x)
+- [[Builds/beacon_amplifier|Beacon Amplifier]] (6x)
+- [[Builds/threat_scanner|Threat Scanner Beacon]] (4x)
+- [[Builds/kill_zone_lights|Kill-Zone Floodlights]] (6x)
+- [[Builds/shock_fence_grid|Shock Fence Grid]] (12x)
+### Command Objectives
+- [[Objectives/story_daily_solar_panel_reclaim|Solar Panel Reclaim]] (3x)
+- [[Objectives/story_daily_microfuse_grid_audit|Microfuse Grid Audit]] (2x)
+- [[Objectives/story_patch_field_comms|Patch Field Comms]] (2x)
+- [[Objectives/story_salvage_solar_parts|Salvage Solar Parts]] (2x)
+- [[Objectives/story_stage_floodlight_kit|Stage Floodlight Kit]] (3x)
+- [[Objectives/story_extend_power_reach|Extend Power Reach]] (4x)
+- [[Objectives/story_audit_dead_zones|Audit Dead Zones]] (2x)
+
 ## Technical Information
 - **Item ID**: `copper_wiring`
 - **Rarity**: Common

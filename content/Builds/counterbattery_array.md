@@ -18,3 +18,4 @@ title: "Counterbattery Array"
 - 6x [[Items/shock_capacitor|Shock Capacitor]]
 - 4x [[Items/hardened_actuator|Hardened Actuator]]
 - 4x [[Items/capacitor_bank|Capacitor Bank]]
+

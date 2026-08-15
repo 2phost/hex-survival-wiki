@@ -17,3 +17,4 @@ title: "Spike Trench"
 - 6x [[Items/timber|Raw Timber]]
 - 4x [[Items/stone|Hardened Stone]]
 - 4x [[Items/fortified_rebar|Fortified Rebar]]
+

@@ -20,6 +20,10 @@ Produced by Industrial facilities Biome
 ### Construction
 - Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
 
+## Required For
+### Base Facilities
+- [[Builds/armor_plated_gate|Armor-Plated Gate]] (4x)
+
 ## Technical Information
 - **Item ID**: `hydraulic_piston`
 - **Rarity**: Rare

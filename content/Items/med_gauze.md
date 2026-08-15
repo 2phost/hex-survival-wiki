@@ -9,9 +9,9 @@ title: "Medical Gauze"
 ## Where to Find
 (Will be updated by script)
 
-## Combinations
-### Used To Craft
-- 1x [[Items/field_bandage|Field Bandage]] + 1x [[Items/med_gauze|Medical Gauze]] + 1x [[Items/water|Clean Water]] → 1x [[Items/first_aid_kit|First Aid Kit]] *(Requires Assembly Bench)*
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_gauze_stockpile_drive|Gauze Stockpile Drive]] (3x)
 
 ## Technical Information
 - **Item ID**: `med_gauze`

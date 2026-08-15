@@ -9,6 +9,10 @@ title: "Common Monster Chitin"
 ## Where to Find
 (Will be updated by script)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_specimen_harvest|Specimen Harvest]] (3x)
+
 ## Technical Information
 - **Item ID**: `monster_chitin_common`
 - **Rarity**: Common

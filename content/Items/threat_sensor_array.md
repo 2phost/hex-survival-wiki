@@ -22,6 +22,12 @@ Produced by Electronic Labs Biome
 - Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
 - Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
 
+## Required For
+### Base Facilities
+- [[Builds/shock_fence_grid|Shock Fence Grid]] (2x)
+- [[Builds/sensor_jammer_grid|Sensor Jammer Grid]] (4x)
+- [[Builds/citadel_aegis|Citadel Aegis Core]] (6x)
+
 ## Technical Information
 - **Item ID**: `threat_sensor_array`
 - **Rarity**: Rare

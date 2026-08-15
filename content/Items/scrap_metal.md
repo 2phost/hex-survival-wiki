@@ -63,6 +63,33 @@ title: "Scrap Metal"
 * <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]
 * <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]
 
+## Required For
+### Base Facilities
+- [[Builds/barbed_wire|Barbed Wire Perimeter]] (4x)
+- [[Builds/reinforced_bulkhead|Reinforced Steel Bulkhead]] (2x)
+- [[Builds/scrap_workshop|Scrap Workshop]] (4x)
+- [[Builds/assembly_bench|Assembly Bench]] (4x)
+- [[Builds/signal_booster|Signal Booster (Radar)]] (2x)
+- [[Builds/logistics_uplink|Logistics Uplink]] (4x)
+- [[Builds/hydroponic_patch|Hydroponic Patch]] (2x)
+- [[Builds/sentry_turret|Automated Sentry]] (4x)
+- [[Builds/solar_panels|Solar Panels]] (2x)
+- [[Builds/research_lab|Research Lab]] (8x)
+- [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (16x)
+- [[Builds/research_lab_ii|Research Lab II]] (120x)
+- [[Builds/battery_bank|Battery Storage]] (4x)
+- [[Builds/beacon_amplifier|Beacon Amplifier]] (4x)
+- [[Builds/threat_scanner|Threat Scanner Beacon]] (4x)
+- [[Builds/fuel_refinery|Fuel Refinery]] (6x)
+- [[Builds/scrap_barricade|Scrap Barricade Wall]] (8x)
+- [[Builds/auto_bolt_nest|Auto-Bolt Nest]] (6x)
+### Command Objectives
+- [[Objectives/story_stage_workshop_stock|Stage Workshop Stock]] (2x)
+- [[Objectives/story_stage_battery_cells|Stage Battery Cells]] (2x)
+- [[Objectives/story_brace_the_line|Brace the Line]] (2x)
+- [[Objectives/story_stage_sentry_parts|Stage Sentry Parts]] (2x)
+- [[Objectives/story_fund_research_push|Fund a Research Push]] (2x)
+
 ## Technical Information
 - **Item ID**: `scrap_metal`
 - **Rarity**: Common

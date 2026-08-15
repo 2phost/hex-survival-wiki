@@ -16,3 +16,4 @@ title: "Signal Booster (Radar)"
 ## Construction Cost
 - 2x [[Items/scrap_metal|Scrap Metal]]
 - 2x [[Items/broken_radio|Broken Radio]]
+

@@ -9,6 +9,10 @@ title: "Uncommon Monster Gland"
 ## Where to Find
 (Will be updated by script)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_interdiction_samples|Interdiction Samples]] (1x)
+
 ## Technical Information
 - **Item ID**: `monster_gland_uncommon`
 - **Rarity**: Uncommon

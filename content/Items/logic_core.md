@@ -27,6 +27,14 @@ Produced by Electronic Labs Biome
 ### Yielded From Salvage
 * <img src="../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/power_pole_mk2|Reinforced Power Pole]]
 
+## Required For
+### Base Facilities
+- [[Builds/sensor_jammer_grid|Sensor Jammer Grid]] (4x)
+- [[Builds/citadel_aegis|Citadel Aegis Core]] (4x)
+- [[Builds/extraction_beacon|Extraction Beacon]] (4x)
+### Command Objectives
+- [[Objectives/story_purge_seal_relay|Seal Corruption Relay]] (1x)
+
 ## Technical Information
 - **Item ID**: `logic_core`
 - **Rarity**: Rare

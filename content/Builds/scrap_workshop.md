@@ -16,3 +16,6 @@ title: "Scrap Workshop"
 ## Construction Cost
 - 4x [[Items/scrap_metal|Scrap Metal]]
 - 2x [[Items/charred_planks|Charred Planks]]
+
+## Required For Objectives
+- [[Objectives/story_open_workshop|Open the Scrap Workshop]]

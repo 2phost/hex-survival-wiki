@@ -19,3 +19,6 @@ title: "Sensor Jammer Grid"
 - 4x [[Items/targeting_relay|Targeting Relay]]
 - 6x [[Items/micro_fuse|Micro Fuse]]
 - 4x [[Items/ionized_filament|Ionized Filament]]
+
+## Required For Objectives
+- [[Objectives/story_purge_prerequisites_check|Purge Team Staging]]

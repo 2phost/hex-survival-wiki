@@ -21,6 +21,12 @@ Produced by Industrial facilities Biome
 - Required for [[Base/constructions#AutoBoltNest|Auto-Bolt Nest]]
 - Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
 
+## Required For
+### Base Facilities
+- [[Builds/auto_bolt_nest|Auto-Bolt Nest]] (4x)
+- [[Builds/armor_plated_gate|Armor-Plated Gate]] (10x)
+- [[Builds/extraction_beacon|Extraction Beacon]] (4x)
+
 ## Technical Information
 - **Item ID**: `alloy_plate`
 - **Rarity**: Rare

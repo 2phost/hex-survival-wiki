@@ -29,6 +29,12 @@ Produced by Industrial facilities Biome
 ### Used in Recipes
 * <img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/shock_maul|Shock Maul]]
 
+## Required For
+### Base Facilities
+- [[Builds/auto_bolt_nest|Auto-Bolt Nest]] (2x)
+- [[Builds/armor_plated_gate|Armor-Plated Gate]] (4x)
+- [[Builds/counterbattery_array|Counterbattery Array]] (4x)
+
 ## Technical Information
 - **Item ID**: `hardened_actuator`
 - **Rarity**: Rare

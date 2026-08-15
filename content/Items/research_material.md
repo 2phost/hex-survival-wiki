@@ -21,6 +21,11 @@ Recovered data drives, scientific logs, and salvageable pre-collapse notes used 
 * <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_binoculars|Broken Binoculars]]
 * <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
 
+## Required For
+### Command Objectives
+- [[Objectives/story_phase2_acknowledge|Phase 2 Readiness Check]] (2x)
+- [[Objectives/story_fund_research_push|Fund a Research Push]] (2x)
+
 ## Technical Information
 - **Item ID**: `research_material`
 - **Rarity**: Rare

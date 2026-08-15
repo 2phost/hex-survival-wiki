@@ -18,3 +18,4 @@ title: "Shock Fence Grid"
 - 4x [[Items/shock_capacitor|Shock Capacitor]]
 - 2x [[Items/threat_sensor_array|Threat Sensor Array]]
 - 4x [[Items/bio_spike_pod|Bio Spike Pod]]
+

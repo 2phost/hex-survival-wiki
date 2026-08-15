@@ -29,6 +29,12 @@ Produced by Industrial facilities Biome
 ### Used in Recipes
 * <img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/shock_maul|Shock Maul]]
 
+## Required For
+### Base Facilities
+- [[Builds/shock_fence_grid|Shock Fence Grid]] (4x)
+- [[Builds/counterbattery_array|Counterbattery Array]] (6x)
+- [[Builds/citadel_aegis|Citadel Aegis Core]] (6x)
+
 ## Technical Information
 - **Item ID**: `shock_capacitor`
 - **Rarity**: Rare

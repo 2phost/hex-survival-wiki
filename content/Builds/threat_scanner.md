@@ -18,3 +18,6 @@ title: "Threat Scanner Beacon"
 - 2x [[Items/circuit_boards|Circuit Boards]]
 - 4x [[Items/copper_wiring|Copper Wiring]]
 - 2x [[Items/pressure_valve|Pressure Valve]]
+
+## Required For Objectives
+- [[Objectives/story_purge_prerequisites_check|Purge Team Staging]]

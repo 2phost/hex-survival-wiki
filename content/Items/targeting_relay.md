@@ -29,6 +29,12 @@ Produced by Electronic Labs Biome
 ### Used in Recipes
 * <img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/plasma_lance|Plasma Lance]]
 
+## Required For
+### Base Facilities
+- [[Builds/auto_bolt_nest|Auto-Bolt Nest]] (4x)
+- [[Builds/sensor_jammer_grid|Sensor Jammer Grid]] (4x)
+- [[Builds/citadel_aegis|Citadel Aegis Core]] (6x)
+
 ## Technical Information
 - **Item ID**: `targeting_relay`
 - **Rarity**: Rare

@@ -19,6 +19,12 @@ Dense ceramic plate salvaged from military stockpiles.
 ### Construction
 - Required for [[Base/constructions#ArmorPlatedGate|Armor-Plated Gate]]
 
+## Required For
+### Base Facilities
+- [[Builds/armor_plated_gate|Armor-Plated Gate]] (6x)
+### Command Objectives
+- [[Objectives/story_daily_ballistic_mesh_refit|Ballistic Mesh Refit]] (2x)
+
 ## Technical Information
 - **Item ID**: `ceramic_armor_tile`
 - **Rarity**: Rare

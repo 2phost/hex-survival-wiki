@@ -9,6 +9,10 @@ title: "Common Monster Gland"
 ## Where to Find
 (Will be updated by script)
 
+## Required For
+### Base Facilities
+- [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (4x)
+
 ## Technical Information
 - **Item ID**: `monster_gland_common`
 - **Rarity**: Common

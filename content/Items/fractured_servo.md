@@ -18,6 +18,13 @@ Damaged actuator unit with salvageable precision parts.
 ## Usage
 Damaged actuator unit with salvageable precision parts.
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_industrial_calibration_order|Industrial Calibration Order]] (2x)
+- [[Objectives/story_run_industrial_queue|Run Industrial Queue]] (1x)
+- [[Objectives/story_calibrate_industry|Calibrate Industry]] (2x)
+- [[Objectives/story_replace_failed_actuators|Replace Failed Actuators]] (1x)
+
 ## Technical Information
 - **Item ID**: `fractured_servo`
 - **Rarity**: Rare

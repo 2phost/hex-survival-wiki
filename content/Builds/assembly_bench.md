@@ -17,3 +17,6 @@ title: "Assembly Bench"
 - 4x [[Items/scrap_metal|Scrap Metal]]
 - 4x [[Items/rusty_tool|Rusty Tool]]
 - 2x [[Items/timber|Raw Timber]]
+
+## Required For Objectives
+- [[Objectives/story_open_assembly_line|Open the Assembly Line]]

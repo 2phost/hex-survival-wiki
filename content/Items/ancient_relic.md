@@ -24,6 +24,10 @@ title: "Ancient Relic"
 ### Construction
 - Required for [[Base/constructions#CitadelAegis|Citadel Aegis Core]]
 
+## Required For
+### Base Facilities
+- [[Builds/citadel_aegis|Citadel Aegis Core]] (2x)
+
 ## Technical Information
 - **Item ID**: `ancient_relic`
 - **Rarity**: Mythic

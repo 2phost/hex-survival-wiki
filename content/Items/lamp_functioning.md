@@ -26,6 +26,10 @@ Provides illumination when carried; lights only the tile you stand on.
 * <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/battery|Battery]] (30%)
 * <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/copper_wiring|Copper Wiring]] (rare, 5%)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_emergency_lighting_network|Emergency Lighting Network]] (2x)
+
 ## Technical Information
 - **Item ID**: `lamp_functioning`
 - **Rarity**: Rare

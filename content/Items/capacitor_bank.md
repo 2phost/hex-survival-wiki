@@ -17,6 +17,12 @@ Clustered charge capacitors suitable for energy buffering projects.
 ### Construction
 - Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
 
+## Required For
+### Base Facilities
+- [[Builds/counterbattery_array|Counterbattery Array]] (4x)
+### Command Objectives
+- [[Objectives/story_daily_capacitor_surge_buffer|Capacitor Surge Buffer]] (2x)
+
 ## Technical Information
 - **Item ID**: `capacitor_bank`
 - **Rarity**: Rare

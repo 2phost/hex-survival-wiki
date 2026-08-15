@@ -20,6 +20,11 @@ Hard-shelled seed pod from post-collapse flora with unusual growth traits.
 ## Usage
 Hard-shelled seed pod from post-collapse flora with unusual growth traits.
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_agricultural_baseline|Agricultural Baseline]] (2x)
+- [[Objectives/story_secure_seed_stock|Secure Seed Stock]] (2x)
+
 ## Technical Information
 - **Item ID**: `mutant_seed_pod`
 - **Rarity**: Rare

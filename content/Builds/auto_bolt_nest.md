@@ -18,3 +18,4 @@ title: "Auto-Bolt Nest"
 - 4x [[Items/targeting_relay|Targeting Relay]]
 - 2x [[Items/hardened_actuator|Hardened Actuator]]
 - 6x [[Items/scrap_metal|Scrap Metal]]
+

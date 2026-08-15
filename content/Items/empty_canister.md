@@ -22,6 +22,11 @@ Dented fuel container. Scrap metal at best.
 ### Deconstruction (Salvage)
 * <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (50%)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_chemical_spill_containment|Chemical Spill Containment]] (2x)
+- [[Objectives/story_stabilize_generators|Stabilize the Generators]] (2x)
+
 ## Technical Information
 - **Item ID**: `empty_canister`
 - **Rarity**: Common

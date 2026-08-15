@@ -20,6 +20,12 @@ Mineral deposits scraped from dry beds and cave seams.
 ## Usage
 Mineral deposits scraped from dry beds and cave seams.
 
+## Required For
+### Base Facilities
+- [[Builds/preservation_rack|Preservation Rack]] (6x)
+### Command Objectives
+- [[Objectives/story_daily_salt_preservation_run|Salt Preservation Run]] (3x)
+
 ## Technical Information
 - **Item ID**: `salt_crystals`
 - **Rarity**: Common

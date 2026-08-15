@@ -9,6 +9,10 @@ title: "Rare Monster Chitin"
 ## Where to Find
 (Will be updated by script)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_core_containment|Core Containment Sweep]] (1x)
+
 ## Technical Information
 - **Item ID**: `monster_chitin_rare`
 - **Rarity**: Rare

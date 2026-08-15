@@ -19,3 +19,6 @@ title: "Extraction Beacon"
 - 4x [[Items/logic_core|Logic Core]]
 - 4x [[Items/alloy_plate|Alloy Plate]]
 - 2x [[Items/vault_access_key|Vault Access Key]]
+
+## Required For Objectives
+- [[Objectives/story_evac_install_beacon|Install Extraction Beacon]]

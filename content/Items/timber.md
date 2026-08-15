@@ -35,6 +35,20 @@ title: "Raw Timber"
 ### Yielded From Salvage
 * <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/worn_leather_pack|Worn Leather Pack]]
 
+## Required For
+### Base Facilities
+- [[Builds/watchtower|Watchtower]] (4x)
+- [[Builds/assembly_bench|Assembly Bench]] (2x)
+- [[Builds/logistics_uplink|Logistics Uplink]] (4x)
+- [[Builds/forge|Forge]] (6x)
+- [[Builds/hydroponic_patch|Hydroponic Patch]] (4x)
+- [[Builds/preservation_rack|Preservation Rack]] (4x)
+- [[Builds/well|Well]] (4x)
+- [[Builds/spike_trench|Spike Trench]] (6x)
+- [[Builds/palisade_wall|Timber Palisade Wall]] (12x)
+### Command Objectives
+- [[Objectives/story_stage_well_materials|Stage Well Materials]] (2x)
+
 ## Technical Information
 - **Item ID**: `timber`
 - **Rarity**: Common

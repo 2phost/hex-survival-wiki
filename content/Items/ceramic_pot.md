@@ -9,6 +9,10 @@ title: "Ceramic Pot"
 ## Where to Find
 (Will be updated by script)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_salt_preservation_run|Salt Preservation Run]] (2x)
+
 ## Technical Information
 - **Item ID**: `ceramic_pot`
 - **Rarity**: Common

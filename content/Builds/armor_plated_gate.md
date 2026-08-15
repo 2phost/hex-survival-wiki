@@ -19,3 +19,4 @@ title: "Armor-Plated Gate"
 - 4x [[Items/ballistic_mesh|Ballistic Mesh]]
 - 4x [[Items/hardened_actuator|Hardened Actuator]]
 - 4x [[Items/hydraulic_piston|Hydraulic Piston]]
+

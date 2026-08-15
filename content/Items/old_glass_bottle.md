@@ -34,6 +34,10 @@ title: "Old Glass Bottle"
 * <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/cracked_lens|Cracked Lens]]
 * <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_binoculars|Broken Binoculars]]
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_water_purification_push|Water Purification Push]] (2x)
+
 ## Technical Information
 - **Item ID**: `old_glass_bottle`
 - **Rarity**: Common

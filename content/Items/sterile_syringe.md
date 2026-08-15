@@ -9,11 +9,9 @@ title: "Sterile Syringe"
 ## Where to Find
 (Will be updated by script)
 
-## Combinations
-### Used To Craft
-- 1x [[Items/water|Clean Water]] + 1x [[Items/fungal_spores|Fungal Spores]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_pack|Stim Pack]]
-- 1x [[Items/first_aid_kit|First Aid Kit]] + 1x [[Items/sterile_syringe|Sterile Syringe]] + 1x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/trauma_stabilizer|Trauma Stabilizer]] *(Requires Assembly Bench)*
-- 1x [[Items/stim_pack|Stim Pack]] + 1x [[Items/stimulant_reagent|Stimulant Reagent]] + 1x [[Items/sterile_syringe|Sterile Syringe]] → 1x [[Items/stim_injector|Stim Injector]] *(Requires Assembly Bench)*
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_gauze_stockpile_drive|Gauze Stockpile Drive]] (2x)
 
 ## Technical Information
 - **Item ID**: `sterile_syringe`

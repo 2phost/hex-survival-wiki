@@ -30,6 +30,10 @@ title: "Clean Water"
 - **Thirst**: -30
 - **Action Points**: 1
 
+## Required For
+### Command Objectives
+- [[Objectives/story_secure_seed_stock|Secure Seed Stock]] (3x)
+
 ## Technical Information
 - **Item ID**: `water`
 - **Rarity**: Common

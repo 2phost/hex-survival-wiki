@@ -16,6 +16,14 @@ Analog storage reels containing fragmentary technical records.
 ## Usage
 Analog storage reels containing fragmentary technical records.
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_vault_cipher_scavenge|Vault Cipher Scavenge]] (2x)
+- [[Objectives/story_vault_cipher_reassembly|Vault Cipher Reassembly]] (1x)
+- [[Objectives/story_pull_station_archives|Pull Station Archives]] (2x)
+- [[Objectives/story_recover_field_intel|Recover Field Intel]] (1x)
+- [[Objectives/story_harden_control_logic|Harden Control Logic]] (1x)
+
 ## Technical Information
 - **Item ID**: `data_tape`
 - **Rarity**: Rare

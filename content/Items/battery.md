@@ -32,6 +32,15 @@ title: "Battery"
 * <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/broken_radio|Broken Radio]]
 * <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/malfunctioning_sensor|Malfunctioning Sensor]]
 
+## Required For
+### Base Facilities
+- [[Builds/kill_zone_lights|Kill-Zone Floodlights]] (4x)
+### Command Objectives
+- [[Objectives/story_daily_field_radio_revival|Field Radio Revival]] (2x)
+- [[Objectives/story_prime_station_power|Prime Station Power]] (2x)
+- [[Objectives/story_restore_command_channel|Restore the Command Channel]] (2x)
+- [[Objectives/story_stage_floodlight_kit|Stage Floodlight Kit]] (2x)
+
 ## Technical Information
 - **Item ID**: `battery`
 - **Rarity**: Common

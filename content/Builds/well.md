@@ -16,3 +16,6 @@ title: "Well"
 ## Construction Cost
 - 4x [[Items/timber|Raw Timber]]
 - 6x [[Items/stone|Hardened Stone]]
+
+## Required For Objectives
+- [[Objectives/story_establish_well|Establish the Well]]

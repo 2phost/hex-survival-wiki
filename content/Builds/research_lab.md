@@ -15,3 +15,6 @@ title: "Research Lab"
 
 ## Construction Cost
 - 8x [[Items/scrap_metal|Scrap Metal]]
+
+## Required For Objectives
+- [[Objectives/story_open_research_lab|Open the Research Lab]]

@@ -33,6 +33,10 @@ Weathered cloth strips and tarp fibers useful for patching gear.
 * <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/expedition_pack|Expedition Pack]]
 * <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/hauler_pack|Hauler Pack]]
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_field_triage_drill|Field Triage Drill]] (2x)
+
 ## Technical Information
 - **Item ID**: `salvaged_fabric`
 - **Rarity**: Common

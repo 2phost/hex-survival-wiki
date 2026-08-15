@@ -19,6 +19,10 @@ Refined high-density biofuel cell. Refills 40% town power and requires Generator
 ## Usage
 Refined high-density biofuel cell. Refills 40% town power and requires Generator Operations II.
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_fuel_line_priming|Fuel Line Priming]] (2x)
+
 ## Technical Information
 - **Item ID**: `biofuel_cell`
 - **Rarity**: Rare

@@ -21,6 +21,12 @@ Heavy lead-acid battery salvaged from old vehicles. Useful for expanding town po
 ### Construction
 - Required for [[Base/constructions#BatteryBank|Battery Storage]]
 
+## Required For
+### Base Facilities
+- [[Builds/battery_bank|Battery Storage]] (6x)
+### Command Objectives
+- [[Objectives/story_stage_battery_cells|Stage Battery Cells]] (3x)
+
 ## Technical Information
 - **Item ID**: `car_battery`
 - **Rarity**: Common

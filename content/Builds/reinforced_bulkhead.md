@@ -16,3 +16,6 @@ title: "Reinforced Steel Bulkhead"
 ## Construction Cost
 - 2x [[Items/scrap_metal|Scrap Metal]]
 - 6x [[Items/stone|Hardened Stone]]
+
+## Required For Objectives
+- [[Objectives/story_reinforce_bulkhead|Reinforce the Bulkhead]]

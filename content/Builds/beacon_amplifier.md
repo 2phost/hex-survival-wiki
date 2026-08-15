@@ -17,3 +17,4 @@ title: "Beacon Amplifier"
 - 6x [[Items/circuit_boards|Circuit Boards]]
 - 6x [[Items/copper_wiring|Copper Wiring]]
 - 4x [[Items/scrap_metal|Scrap Metal]]
+

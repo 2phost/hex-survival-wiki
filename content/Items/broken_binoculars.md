@@ -24,6 +24,10 @@ Shattered optics. Glass and metal casing can be salvaged.
 * <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (40%)
 * <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/research_material|Research Material]] (rare, 4%)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_pull_station_archives|Pull Station Archives]] (1x)
+
 ## Technical Information
 - **Item ID**: `broken_binoculars`
 - **Rarity**: Common

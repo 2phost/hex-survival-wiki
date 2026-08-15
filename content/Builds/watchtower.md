@@ -16,3 +16,6 @@ title: "Watchtower"
 ## Construction Cost
 - 4x [[Items/timber|Raw Timber]]
 - 4x [[Items/stone|Hardened Stone]]
+
+## Required For Objectives
+- [[Objectives/story_raise_watchtower|Raise a Watchtower]]

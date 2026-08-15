@@ -16,3 +16,6 @@ title: "Automated Sentry"
 ## Construction Cost
 - 4x [[Items/scrap_metal|Scrap Metal]]
 - 2x [[Items/burnt_motor|Burnt-Out Motor]]
+
+## Required For Objectives
+- [[Objectives/story_mount_sentry|Mount Automated Sentry]]

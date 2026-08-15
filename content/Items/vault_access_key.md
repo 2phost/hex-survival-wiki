@@ -9,9 +9,9 @@ title: "Vault Access Key"
 ## Where to Find
 (Will be updated by script)
 
-## Combinations
-### Crafted From
-- 3x [[Items/vault_key_fragment|Vault Key Fragment]] → 1x [[Items/vault_access_key|Vault Access Key]] *(Requires Assembly Bench)*
+## Required For
+### Base Facilities
+- [[Builds/extraction_beacon|Extraction Beacon]] (2x)
 
 ## Technical Information
 - **Item ID**: `vault_access_key`

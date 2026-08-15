@@ -23,6 +23,13 @@ Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster da
 * <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/copper_wiring|Copper Wiring]] (40%)
 * <img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/chemical_sludge|Chemical Sludge]] (rare, 8%)
 
+## Required For
+### Base Facilities
+- [[Builds/sentry_turret|Automated Sentry]] (2x)
+### Command Objectives
+- [[Objectives/story_daily_capacitor_surge_buffer|Capacitor Surge Buffer]] (2x)
+- [[Objectives/story_stage_sentry_parts|Stage Sentry Parts]] (1x)
+
 ## Technical Information
 - **Item ID**: `burnt_motor`
 - **Rarity**: Common

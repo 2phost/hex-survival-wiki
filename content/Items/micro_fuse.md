@@ -22,6 +22,12 @@ Tiny protective fuse used in sensitive control circuits.
 ### Construction
 - Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]
 
+## Required For
+### Base Facilities
+- [[Builds/sensor_jammer_grid|Sensor Jammer Grid]] (6x)
+### Command Objectives
+- [[Objectives/story_daily_microfuse_grid_audit|Microfuse Grid Audit]] (2x)
+
 ## Technical Information
 - **Item ID**: `micro_fuse`
 - **Rarity**: Rare

@@ -31,6 +31,13 @@ Bent but sturdy steel rods bundled for emergency fortifications.
 ### Used in Recipes
 * <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rebar_blade|Rebar Blade]]
 
+## Required For
+### Base Facilities
+- [[Builds/spike_trench|Spike Trench]] (4x)
+- [[Builds/palisade_wall|Timber Palisade Wall]] (6x)
+### Command Objectives
+- [[Objectives/story_last_chance_fortify|Last-Chance Fortify]] (2x)
+
 ## Technical Information
 - **Item ID**: `fortified_rebar`
 - **Rarity**: Common

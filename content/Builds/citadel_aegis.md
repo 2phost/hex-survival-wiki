@@ -19,3 +19,6 @@ title: "Citadel Aegis Core"
 - 6x [[Items/targeting_relay|Targeting Relay]]
 - 4x [[Items/logic_core|Logic Core]]
 - 2x [[Items/ancient_relic|Ancient Relic]]
+
+## Required For Objectives
+- [[Objectives/story_evac_prerequisites_check|Evac Infrastructure Audit]]

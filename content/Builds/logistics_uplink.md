@@ -18,3 +18,6 @@ title: "Logistics Uplink"
 - 4x [[Items/circuit_boards|Circuit Boards]]
 - 6x [[Items/copper_wiring|Copper Wiring]]
 - 4x [[Items/scrap_metal|Scrap Metal]]
+
+## Required For Objectives
+- [[Objectives/story_evac_prerequisites_check|Evac Infrastructure Audit]]

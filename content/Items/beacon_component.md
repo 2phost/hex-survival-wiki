@@ -9,6 +9,12 @@ title: "Beacon Component"
 ## Where to Find
 (Will be updated by script)
 
+## Required For
+### Base Facilities
+- [[Builds/extraction_beacon|Extraction Beacon]] (6x)
+### Command Objectives
+- [[Objectives/story_evac_gather_components|Recover Beacon Components]] (3x)
+
 ## Technical Information
 - **Item ID**: `beacon_component`
 - **Rarity**: Mythic

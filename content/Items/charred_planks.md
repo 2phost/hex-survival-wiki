@@ -24,6 +24,12 @@ Half-burned construction wood that can still be repurposed.
 ## Usage
 Half-burned construction wood that can still be repurposed.
 
+## Required For
+### Base Facilities
+- [[Builds/scrap_workshop|Scrap Workshop]] (2x)
+### Command Objectives
+- [[Objectives/story_stage_workshop_stock|Stage Workshop Stock]] (1x)
+
 ## Technical Information
 - **Item ID**: `charred_planks`
 - **Rarity**: Common

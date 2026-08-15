@@ -19,6 +19,14 @@ Industrial-grade valve body from old steam and fuel networks.
 ## Usage
 Industrial-grade valve body from old steam and fuel networks.
 
+## Required For
+### Base Facilities
+- [[Builds/threat_scanner|Threat Scanner Beacon]] (2x)
+- [[Builds/fuel_refinery|Fuel Refinery]] (2x)
+### Command Objectives
+- [[Objectives/story_daily_thermal_loop_flush|Thermal Loop Flush]] (2x)
+- [[Objectives/story_stabilize_thermals|Stabilize Thermal Systems]] (1x)
+
 ## Technical Information
 - **Item ID**: `pressure_valve`
 - **Rarity**: Rare

@@ -20,6 +20,11 @@ Highly unstable particulate recovered from collapsed energy cores.
 ## Usage
 Highly unstable particulate recovered from collapsed energy cores.
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_artifact_containment_protocol|Artifact Containment Protocol]] (2x)
+- [[Objectives/story_lock_down_artifacts|Lock Down Artifacts]] (1x)
+
 ## Technical Information
 - **Item ID**: `reactor_dust`
 - **Rarity**: Mythic

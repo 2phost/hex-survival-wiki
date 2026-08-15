@@ -18,3 +18,6 @@ title: "Kill-Zone Floodlights"
 - 6x [[Items/copper_wiring|Copper Wiring]]
 - 4x [[Items/quarry_bolts|Quarry Bolts]]
 - 2x [[Items/signal_emitter|Signal Emitter]]
+
+## Required For Objectives
+- [[Objectives/story_light_the_kill_zone|Light the Kill Zone]]

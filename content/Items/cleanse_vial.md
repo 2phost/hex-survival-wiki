@@ -19,6 +19,10 @@ Used directly on a corrupted tile to return it to its base biome state.
 ### Crafting
 - Can be brewed using an [[Items/ancient_relic|Ancient Relic]], [[Items/chemical_sludge|Chemical Sludge]], and [[Items/water|Water]].
 
+## Required For
+### Command Objectives
+- [[Objectives/story_purge_seal_relay|Seal Corruption Relay]] (1x)
+
 ## Technical Information
 - **Item ID**: `cleanse_vial`
 - **Rarity**: Rare

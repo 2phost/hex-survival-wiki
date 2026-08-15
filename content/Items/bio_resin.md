@@ -24,6 +24,10 @@ Sticky organic resin harvested from mutated plant growth.
 ## Usage
 Sticky organic resin harvested from mutated plant growth.
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_scrap_to_steel_initiative|Scrap-to-Steel Initiative]] (3x)
+
 ## Technical Information
 - **Item ID**: `bio_resin`
 - **Rarity**: Common

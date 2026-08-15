@@ -19,6 +19,12 @@ Layered metal weave that absorbs impacts from charging beasts.
 ## Usage
 Layered metal weave that absorbs impacts from charging beasts.
 
+## Required For
+### Base Facilities
+- [[Builds/armor_plated_gate|Armor-Plated Gate]] (4x)
+### Command Objectives
+- [[Objectives/story_daily_ballistic_mesh_refit|Ballistic Mesh Refit]] (2x)
+
 ## Technical Information
 - **Item ID**: `ballistic_mesh`
 - **Rarity**: Rare

@@ -27,6 +27,13 @@ Optical glass from damaged equipment.
 * <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/scrap_metal|Scrap Metal]] (30%)
 * <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/research_material|Research Material]] (rare, 3%)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_relay_sensor_sweep|Relay Sensor Sweep]] (2x)
+- [[Objectives/story_daily_emergency_lighting_network|Emergency Lighting Network]] (2x)
+- [[Objectives/story_extend_power_reach|Extend Power Reach]] (2x)
+- [[Objectives/story_audit_dead_zones|Audit Dead Zones]] (2x)
+
 ## Technical Information
 - **Item ID**: `cracked_lens`
 - **Rarity**: Common

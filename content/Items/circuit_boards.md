@@ -38,6 +38,17 @@ title: "Circuit Boards"
 * <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]
 * <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/damaged_solar_panel|Damaged Solar Panel]]
 
+## Required For
+### Base Facilities
+- [[Builds/logistics_uplink|Logistics Uplink]] (4x)
+- [[Builds/solar_panels|Solar Panels]] (2x)
+- [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (4x)
+- [[Builds/beacon_amplifier|Beacon Amplifier]] (6x)
+- [[Builds/threat_scanner|Threat Scanner Beacon]] (2x)
+### Command Objectives
+- [[Objectives/story_harden_control_logic|Harden Control Logic]] (1x)
+- [[Objectives/story_manual_override_kit|Assemble Manual Override Kit]] (1x)
+
 ## Technical Information
 - **Item ID**: `circuit_boards`
 - **Rarity**: Rare

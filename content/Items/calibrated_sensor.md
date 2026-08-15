@@ -9,9 +9,9 @@ title: "Calibrated Sensor"
 ## Where to Find
 (Will be updated by script)
 
-## Combinations
-### Crafted From
-- 1x [[Items/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/micro_fuse|Micro Fuse]] + 1x [[Items/circuit_boards|Circuit Boards]] → 1x [[Items/calibrated_sensor|Calibrated Sensor]] *(Requires Assembly Bench)*
+## Required For
+### Command Objectives
+- [[Objectives/story_harden_control_logic|Harden Control Logic]] (1x)
 
 ## Technical Information
 - **Item ID**: `calibrated_sensor`

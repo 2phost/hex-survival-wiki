@@ -15,3 +15,6 @@ title: "Barbed Wire Perimeter"
 
 ## Construction Cost
 - 4x [[Items/scrap_metal|Scrap Metal]]
+
+## Required For Objectives
+- [[Objectives/story_harden_perimeter|Harden the Perimeter]]

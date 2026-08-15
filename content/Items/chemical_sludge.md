@@ -25,6 +25,12 @@ title: "Chemical Sludge"
 * <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/burnt_motor|Burnt-Out Motor]]
 * <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/ruined_generator_parts|Ruined Generator Parts]]
 
+## Required For
+### Base Facilities
+- [[Builds/fuel_refinery|Fuel Refinery]] (6x)
+### Command Objectives
+- [[Objectives/story_daily_chemical_spill_containment|Chemical Spill Containment]] (2x)
+
 ## Technical Information
 - **Item ID**: `chemical_sludge`
 - **Rarity**: Rare

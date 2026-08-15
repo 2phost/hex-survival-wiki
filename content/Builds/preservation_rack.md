@@ -16,3 +16,4 @@ title: "Preservation Rack"
 ## Construction Cost
 - 4x [[Items/timber|Raw Timber]]
 - 6x [[Items/salt_crystals|Salt Crystals]]
+

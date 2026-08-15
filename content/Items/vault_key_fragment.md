@@ -20,6 +20,11 @@ Partial cipher key etched on alloy, likely tied to sealed vault systems.
 ## Usage
 Partial cipher key etched on alloy, likely tied to sealed vault systems.
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_vault_cipher_scavenge|Vault Cipher Scavenge]] (2x)
+- [[Objectives/story_vault_cipher_reassembly|Vault Cipher Reassembly]] (2x)
+
 ## Technical Information
 - **Item ID**: `vault_key_fragment`
 - **Rarity**: Mythic

@@ -18,3 +18,4 @@ title: "Timber Palisade Wall"
 - 8x [[Items/stone|Hardened Stone]]
 - 6x [[Items/fortified_rebar|Fortified Rebar]]
 - 4x [[Items/resin_sealant|Resin Sealant]]
+

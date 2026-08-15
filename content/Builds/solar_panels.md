@@ -18,3 +18,6 @@ title: "Solar Panels"
 - 2x [[Items/circuit_boards|Circuit Boards]]
 - 4x [[Items/copper_wiring|Copper Wiring]]
 - 2x [[Items/scrap_metal|Scrap Metal]]
+
+## Required For Objectives
+- [[Objectives/story_install_solar_array|Install Solar Array]]

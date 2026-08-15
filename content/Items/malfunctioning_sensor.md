@@ -25,6 +25,14 @@ Faulty detection unit. Electronics inside may be recoverable.
 * <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/battery|Battery]] (30%)
 * <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/research_material|Research Material]] (rare, 10%)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_relay_sensor_sweep|Relay Sensor Sweep]] (2x)
+- [[Objectives/story_daily_electronics_recovery_contract|Electronics Recovery Contract]] (2x)
+- [[Objectives/story_restore_command_channel|Restore the Command Channel]] (1x)
+- [[Objectives/story_recover_field_intel|Recover Field Intel]] (1x)
+- [[Objectives/story_manual_override_kit|Assemble Manual Override Kit]] (1x)
+
 ## Technical Information
 - **Item ID**: `malfunctioning_sensor`
 - **Rarity**: Rare

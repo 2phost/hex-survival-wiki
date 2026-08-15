@@ -21,6 +21,12 @@ Produced by Electronic Labs Biome
 - Required for [[Base/constructions#KillZoneLights|Kill-Zone Floodlights]]
 - Required for [[Base/constructions#CounterbatteryArray|Counterbattery Array]]
 
+## Required For
+### Base Facilities
+- [[Builds/kill_zone_lights|Kill-Zone Floodlights]] (2x)
+- [[Builds/counterbattery_array|Counterbattery Array]] (6x)
+- [[Builds/extraction_beacon|Extraction Beacon]] (4x)
+
 ## Technical Information
 - **Item ID**: `signal_emitter`
 - **Rarity**: Rare

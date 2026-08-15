@@ -17,3 +17,4 @@ title: "Forge"
 - 8x [[Items/stone|Hardened Stone]]
 - 6x [[Items/timber|Raw Timber]]
 - 4x [[Items/obsidian_flake|Obsidian Flake]]
+

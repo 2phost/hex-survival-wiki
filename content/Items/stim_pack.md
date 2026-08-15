@@ -39,6 +39,10 @@ Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases
 - **Thirst**: 6
 - **Action Points**: 2
 
+## Required For
+### Command Objectives
+- [[Objectives/story_daily_field_triage_drill|Field Triage Drill]] (3x)
+
 ## Technical Information
 - **Item ID**: `stim_pack`
 - **Rarity**: Common

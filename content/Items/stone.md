@@ -28,6 +28,20 @@ title: "Hardened Stone"
 ### Yielded From Salvage
 * <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/rusty_tool|Rusty Tool]]
 
+## Required For
+### Base Facilities
+- [[Builds/reinforced_bulkhead|Reinforced Steel Bulkhead]] (6x)
+- [[Builds/watchtower|Watchtower]] (4x)
+- [[Builds/forge|Forge]] (8x)
+- [[Builds/hydroponic_patch|Hydroponic Patch]] (2x)
+- [[Builds/well|Well]] (6x)
+- [[Builds/fuel_refinery|Fuel Refinery]] (4x)
+- [[Builds/spike_trench|Spike Trench]] (4x)
+- [[Builds/palisade_wall|Timber Palisade Wall]] (8x)
+### Command Objectives
+- [[Objectives/story_stage_well_materials|Stage Well Materials]] (3x)
+- [[Objectives/story_brace_the_line|Brace the Line]] (3x)
+
 ## Technical Information
 - **Item ID**: `stone`
 - **Rarity**: Common

@@ -25,6 +25,14 @@ Salvageable electronics from a damaged broadcast unit.
 * <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/battery|Battery]] (20%)
 * <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] (rare, 5%)
 
+## Required For
+### Base Facilities
+- [[Builds/signal_booster|Signal Booster (Radar)]] (2x)
+### Command Objectives
+- [[Objectives/story_daily_field_radio_revival|Field Radio Revival]] (2x)
+- [[Objectives/story_restore_command_channel|Restore the Command Channel]] (1x)
+- [[Objectives/story_patch_field_comms|Patch Field Comms]] (1x)
+
 ## Technical Information
 - **Item ID**: `broken_radio`
 - **Rarity**: Common

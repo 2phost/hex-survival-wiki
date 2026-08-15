@@ -21,6 +21,10 @@ Scorched generator internals. Mixed scrap and chemicals.
 * <img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/chemical_sludge|Chemical Sludge]] (20%)
 * <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/circuit_boards|Circuit Boards]] (rare, 6%)
 
+## Required For
+### Command Objectives
+- [[Objectives/story_stabilize_generators|Stabilize the Generators]] (2x)
+
 ## Technical Information
 - **Item ID**: `ruined_generator_parts`
 - **Rarity**: Common

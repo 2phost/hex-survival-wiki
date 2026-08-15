@@ -15,3 +15,4 @@ title: "Research Lab II"
 
 ## Construction Cost
 - 120x [[Items/scrap_metal|Scrap Metal]]
+
