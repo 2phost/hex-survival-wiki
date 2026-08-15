@@ -6,7 +6,7 @@ title: "Extraction Beacon"
 
 <div align="center">
 
-![[builds/extraction_beacon.png|250]]
+![[assets/builds/extraction_beacon.png|250]]
 
 </div>
 

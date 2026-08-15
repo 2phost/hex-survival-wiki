@@ -6,7 +6,7 @@ title: "Fuel Refinery"
 
 <div align="center">
 
-![[builds/fuel_refinery.png|250]]
+![[assets/builds/fuel_refinery.png|250]]
 
 </div>
 

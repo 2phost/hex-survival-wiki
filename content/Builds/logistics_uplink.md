@@ -6,7 +6,7 @@ title: "Logistics Uplink"
 
 <div align="center">
 
-![[builds/logistics_uplink.png|250]]
+![[assets/builds/logistics_uplink.png|250]]
 
 </div>
 

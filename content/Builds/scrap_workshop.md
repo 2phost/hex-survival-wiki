@@ -6,7 +6,7 @@ title: "Scrap Workshop"
 
 <div align="center">
 
-![[builds/scrap_workshop.png|250]]
+![[assets/builds/scrap_workshop.png|250]]
 
 </div>
 

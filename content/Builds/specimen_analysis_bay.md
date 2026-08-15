@@ -6,7 +6,7 @@ title: "Specimen Analysis Bay"
 
 <div align="center">
 
-![[builds/research_lab.png|250]]
+![[assets/builds/research_lab.png|250]]
 
 </div>
 

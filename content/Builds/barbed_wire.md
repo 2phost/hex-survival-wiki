@@ -6,7 +6,7 @@ title: "Barbed Wire Perimeter"
 
 <div align="center">
 
-![[builds/barbed_wire.png|250]]
+![[assets/builds/barbed_wire.png|250]]
 
 </div>
 

@@ -6,7 +6,7 @@ title: "Automated Sentry"
 
 <div align="center">
 
-![[builds/sentry_turret.png|250]]
+![[assets/builds/sentry_turret.png|250]]
 
 </div>
 

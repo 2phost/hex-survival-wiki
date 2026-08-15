@@ -6,7 +6,7 @@ title: "Preservation Rack"
 
 <div align="center">
 
-![[builds/preservation_rack.png|250]]
+![[assets/builds/preservation_rack.png|250]]
 
 </div>
 

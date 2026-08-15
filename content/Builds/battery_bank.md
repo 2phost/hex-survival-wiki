@@ -6,7 +6,7 @@ title: "Battery Storage"
 
 <div align="center">
 
-![[builds/battery_bank.png|250]]
+![[assets/builds/battery_bank.png|250]]
 
 </div>
 

@@ -6,7 +6,7 @@ title: "Citadel Aegis Core"
 
 <div align="center">
 
-![[builds/citadel_aegis.png|250]]
+![[assets/builds/citadel_aegis.png|250]]
 
 </div>
 

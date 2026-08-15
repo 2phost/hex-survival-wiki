@@ -6,7 +6,7 @@ title: "Research Lab II"
 
 <div align="center">
 
-![[builds/research_lab_ii.png|250]]
+![[assets/builds/research_lab_ii.png|250]]
 
 </div>
 

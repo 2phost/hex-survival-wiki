@@ -6,7 +6,7 @@ title: "Beacon Amplifier"
 
 <div align="center">
 
-![[builds/beacon_amplifier.png|250]]
+![[assets/builds/beacon_amplifier.png|250]]
 
 </div>
 

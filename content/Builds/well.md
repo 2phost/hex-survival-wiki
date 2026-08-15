@@ -6,7 +6,7 @@ title: "Well"
 
 <div align="center">
 
-![[builds/well.png|250]]
+![[assets/builds/well.png|250]]
 
 </div>
 

@@ -6,7 +6,7 @@ title: "Kill-Zone Floodlights"
 
 <div align="center">
 
-![[builds/kill_zone_lights.png|250]]
+![[assets/builds/kill_zone_lights.png|250]]
 
 </div>
 

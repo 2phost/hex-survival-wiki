@@ -6,7 +6,7 @@ title: "Spike Trench"
 
 <div align="center">
 
-![[builds/spike_trench.png|250]]
+![[assets/builds/spike_trench.png|250]]
 
 </div>
 

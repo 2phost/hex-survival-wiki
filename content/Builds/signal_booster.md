@@ -6,7 +6,7 @@ title: "Signal Booster (Radar)"
 
 <div align="center">
 
-![[builds/signal_booster.png|250]]
+![[assets/builds/signal_booster.png|250]]
 
 </div>
 

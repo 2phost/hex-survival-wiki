@@ -6,7 +6,7 @@ title: "Counterbattery Array"
 
 <div align="center">
 
-![[builds/counterbattery_array.png|250]]
+![[assets/builds/counterbattery_array.png|250]]
 
 </div>
 

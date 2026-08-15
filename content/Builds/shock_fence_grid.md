@@ -6,7 +6,7 @@ title: "Shock Fence Grid"
 
 <div align="center">
 
-![[builds/shock_fence_grid.png|250]]
+![[assets/builds/shock_fence_grid.png|250]]
 
 </div>
 

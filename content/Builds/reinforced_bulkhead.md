@@ -6,7 +6,7 @@ title: "Reinforced Steel Bulkhead"
 
 <div align="center">
 
-![[builds/reinforced_bulkhead.png|250]]
+![[assets/builds/reinforced_bulkhead.png|250]]
 
 </div>
 

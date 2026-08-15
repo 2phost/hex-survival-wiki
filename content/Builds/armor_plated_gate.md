@@ -6,7 +6,7 @@ title: "Armor-Plated Gate"
 
 <div align="center">
 
-![[builds/armor_plated_gate.png|250]]
+![[assets/builds/armor_plated_gate.png|250]]
 
 </div>
 

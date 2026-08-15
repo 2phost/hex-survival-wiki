@@ -6,7 +6,7 @@ title: "Sensor Jammer Grid"
 
 <div align="center">
 
-![[builds/sensor_jammer_grid.png|250]]
+![[assets/builds/sensor_jammer_grid.png|250]]
 
 </div>
 

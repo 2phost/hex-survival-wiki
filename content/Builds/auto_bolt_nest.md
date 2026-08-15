@@ -6,7 +6,7 @@ title: "Auto-Bolt Nest"
 
 <div align="center">
 
-![[builds/auto_bolt_nest.png|250]]
+![[assets/builds/auto_bolt_nest.png|250]]
 
 </div>
 

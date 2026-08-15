@@ -6,7 +6,7 @@ title: "Forge"
 
 <div align="center">
 
-![[builds/forge.png|250]]
+![[assets/builds/forge.png|250]]
 
 </div>
 

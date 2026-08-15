@@ -6,7 +6,7 @@ title: "Solar Panels"
 
 <div align="center">
 
-![[builds/solar_panels.png|250]]
+![[assets/builds/solar_panels.png|250]]
 
 </div>
 

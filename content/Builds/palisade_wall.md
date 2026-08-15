@@ -6,7 +6,7 @@ title: "Timber Palisade Wall"
 
 <div align="center">
 
-![[builds/palisade_wall.png|250]]
+![[assets/builds/palisade_wall.png|250]]
 
 </div>
 

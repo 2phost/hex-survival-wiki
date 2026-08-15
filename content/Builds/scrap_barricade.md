@@ -6,7 +6,7 @@ title: "Scrap Barricade Wall"
 
 <div align="center">
 
-![[builds/scrap_barricade.png|250]]
+![[assets/builds/scrap_barricade.png|250]]
 
 </div>
 

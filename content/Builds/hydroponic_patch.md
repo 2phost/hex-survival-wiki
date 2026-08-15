@@ -6,7 +6,7 @@ title: "Hydroponic Patch"
 
 <div align="center">
 
-![[builds/hydroponic_patch.png|250]]
+![[assets/builds/hydroponic_patch.png|250]]
 
 </div>
 

@@ -6,7 +6,7 @@ title: "Watchtower"
 
 <div align="center">
 
-![[builds/watchtower.png|250]]
+![[assets/builds/watchtower.png|250]]
 
 </div>
 
