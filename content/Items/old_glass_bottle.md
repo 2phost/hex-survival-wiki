@@ -9,11 +9,11 @@ title: "Old Glass Bottle"
 ## Where to Find
 - **[[Biomes/ruined_city|Ruined City]]**: 1.3%
 - **[[Biomes/industrial|Industrial]]**: 1.0%
-- **[[Biomes/forest|Forest]]**: 1.7%
+- **[[Biomes/forest|Forest]]**: 1.6%
 - **[[Biomes/farm_facility|Farm Facility]]**: 1.6%
 - **[[Biomes/desert|Desert]]**: 2.2%
 - **[[Biomes/mountain|Mountain]]**: 1.2%
-- **[[Biomes/oasis|Oasis]]**: 1.7%
+- **[[Biomes/oasis|Oasis]]**: 1.6%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.3%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3%
 ## Combinations

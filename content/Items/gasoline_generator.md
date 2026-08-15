@@ -10,7 +10,7 @@ This gasoline generator can probably power your house for a long time.
 
 ## Where to Find
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 1.7%
-- **[[Biomes/industrial|Industrial]]**: 0.9%
+- **[[Biomes/industrial|Industrial]]**: 0.8%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.9%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.5%
 ## Combinations

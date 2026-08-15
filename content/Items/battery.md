@@ -11,7 +11,7 @@ title: "Battery"
 - **[[Biomes/industrial|Industrial]]**: 2.1%
 - **[[Biomes/farm_facility|Farm Facility]]**: 2.0%
 - **[[Biomes/desert|Desert]]**: 2.7%
-- **[[Biomes/forest|Forest]]**: 1.7%
+- **[[Biomes/forest|Forest]]**: 1.6%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.4%
 ## Combinations

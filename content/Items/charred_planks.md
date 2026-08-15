@@ -9,7 +9,7 @@ title: "Charred Planks"
 Half-burned construction wood that can still be repurposed.
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 6.9%
+- **[[Biomes/forest|Forest]]**: 6.8%
 - **[[Biomes/ruined_city|Ruined City]]**: 1.9%
 - **[[Biomes/mountain|Mountain]]**: 2.4%
 - **[[Biomes/desert|Desert]]**: 2.2%

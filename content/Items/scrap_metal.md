@@ -8,7 +8,7 @@ title: "Scrap Metal"
 
 ## Where to Find
 - **[[Biomes/ruined_city|Ruined City]]**: 6.8%
-- **[[Biomes/industrial|Industrial]]**: 4.3%
+- **[[Biomes/industrial|Industrial]]**: 4.2%
 - **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 1.9%
 - **[[Biomes/desert|Desert]]**: 4.9%
@@ -17,6 +17,7 @@ title: "Scrap Metal"
 - **[[Biomes/forest|Forest]]**: 0.8%
 ## Combinations
 ### Used To Craft
+- 1x [[Items/timber|Raw Timber]] + 1x [[Items/scrap_metal|Scrap Metal]] + 1x [[Items/fishing_line|Fishing Line]] → 1x [[Items/makeshift_rod|Makeshift Rod]]
 - 1x [[Items/circuit_boards|Circuit Boards]] + 2x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/solar_cell|Solar Cell]] *(Requires Assembly Bench)*
 - 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/power_pole|Power Pole]]
 - 5x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/fortified_rebar|Fortified Rebar]]

@@ -9,9 +9,9 @@ title: "Hardened Stone"
 ## Where to Find
 - **[[Biomes/mountain|Mountain]]**: 16.0%
 - **[[Biomes/desert|Desert]]**: 6.8%
-- **[[Biomes/forest|Forest]]**: 2.5%
+- **[[Biomes/forest|Forest]]**: 2.4%
 - **[[Biomes/industrial|Industrial]]**: 0.7%
-- **[[Biomes/farm_facility|Farm Facility]]**: 1.2%
+- **[[Biomes/farm_facility|Farm Facility]]**: 1.1%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5%
 - **[[Biomes/oasis|Oasis]]**: 1.4%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.4%

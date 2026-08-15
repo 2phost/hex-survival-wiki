@@ -12,10 +12,10 @@ Weathered cloth strips and tarp fibers useful for patching gear.
 - **[[Biomes/ruined_city|Ruined City]]**: 2.8%
 - **[[Biomes/farm_facility|Farm Facility]]**: 3.6%
 - **[[Biomes/desert|Desert]]**: 4.4%
-- **[[Biomes/industrial|Industrial]]**: 0.9%
-- **[[Biomes/forest|Forest]]**: 1.7%
+- **[[Biomes/industrial|Industrial]]**: 0.8%
+- **[[Biomes/forest|Forest]]**: 1.6%
 - **[[Biomes/mountain|Mountain]]**: 1.6%
-- **[[Biomes/oasis|Oasis]]**: 1.7%
+- **[[Biomes/oasis|Oasis]]**: 1.6%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.4%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3%
 ## Combinations

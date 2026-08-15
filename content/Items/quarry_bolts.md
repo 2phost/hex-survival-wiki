@@ -14,7 +14,7 @@ Heavy anchor bolts used to pin barricades into stone.
 - **[[Biomes/industrial|Industrial]]**: 0.7%
 - **[[Biomes/desert|Desert]]**: 1.6%
 - **[[Biomes/forest|Forest]]**: 0.5%
-- **[[Biomes/oasis|Oasis]]**: 0.6%
+- **[[Biomes/oasis|Oasis]]**: 0.5%
 ## Usage
 ### Construction
 - Required for [[Base/constructions#ScrapBarricade|Scrap Barricade Wall]]

@@ -11,9 +11,9 @@ title: "Clean Water"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/oasis|Oasis]]**: 25.0%
-- **[[Biomes/forest|Forest]]**: 6.6%
-- **[[Biomes/farm_facility|Farm Facility]]**: 5.8%
+- **[[Biomes/oasis|Oasis]]**: 24.3%
+- **[[Biomes/forest|Forest]]**: 6.5%
+- **[[Biomes/farm_facility|Farm Facility]]**: 5.7%
 - **[[Biomes/ruined_city|Ruined City]]**: 1.2%
 - **[[Biomes/mountain|Mountain]]**: 2.0%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1%

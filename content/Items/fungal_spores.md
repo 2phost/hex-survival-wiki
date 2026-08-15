@@ -9,8 +9,8 @@ title: "Fungal Spores"
 Luminous spore clusters that thrive in damp and irradiated zones.
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 4.0%
-- **[[Biomes/oasis|Oasis]]**: 3.9%
+- **[[Biomes/forest|Forest]]**: 3.9%
+- **[[Biomes/oasis|Oasis]]**: 3.8%
 - **[[Biomes/farm_facility|Farm Facility]]**: 1.5%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.6%
 - **[[Biomes/mountain|Mountain]]**: 1.2%

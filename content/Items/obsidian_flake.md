@@ -15,7 +15,7 @@ Sharp volcanic glass pieces ideal for improvised cutting tools.
 - **[[Biomes/ruined_city|Ruined City]]**: 0.3%
 - **[[Biomes/industrial|Industrial]]**: 0.3%
 - **[[Biomes/forest|Forest]]**: 0.3%
-- **[[Biomes/oasis|Oasis]]**: 0.6%
+- **[[Biomes/oasis|Oasis]]**: 0.5%
 ## Usage
 Sharp volcanic glass pieces ideal for improvised cutting tools.
 

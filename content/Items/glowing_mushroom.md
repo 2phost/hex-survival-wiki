@@ -11,10 +11,10 @@ title: "Glowing Mushroom"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/forest|Forest]]**: 9.1%
+- **[[Biomes/forest|Forest]]**: 9.0%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 4.8%
-- **[[Biomes/oasis|Oasis]]**: 9.7%
-- **[[Biomes/ruined_city|Ruined City]]**: 1.5%
+- **[[Biomes/oasis|Oasis]]**: 9.5%
+- **[[Biomes/ruined_city|Ruined City]]**: 1.4%
 - **[[Biomes/industrial|Industrial]]**: 1.0%
 - **[[Biomes/desert|Desert]]**: 2.2%
 - **[[Biomes/mountain|Mountain]]**: 1.0%

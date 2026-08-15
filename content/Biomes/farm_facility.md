@@ -16,17 +16,17 @@ title: "Human Farm Facility"
 ## Loot Tables
 | Item | % Per Hour |
 | :--- | :--- |
-| <span style="white-space: nowrap;"><img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rations|Rations]]</span> | 14.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rations|Rations]]</span> | 14.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/salad.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salad|Salad]]</span> | 7.4% |
-| <span style="white-space: nowrap;"><img src="../assets/items/water.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/water|Clean&nbsp;Water]]</span> | 5.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/water.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/water|Clean&nbsp;Water]]</span> | 5.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_metal|Scrap&nbsp;Metal]]</span> | 3.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/med_gauze.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/med_gauze|Medical&nbsp;Gauze]]</span> | 3.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/copper_wiring|Copper&nbsp;Wiring]]</span> | 3.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salvaged_fabric|Salvaged&nbsp;Fabric]]</span> | 3.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/mutant_seed_pod.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/mutant_seed_pod|Mutant&nbsp;Seed&nbsp;Pod]]</span> | 3.3% |
-| <span style="white-space: nowrap;"><img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/lamp_empty|Lamp&nbsp;(empty)]]</span> | 3.0% |
-| <span style="white-space: nowrap;"><img src="../assets/items/ceramic_pot.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ceramic_pot|Ceramic&nbsp;Pot]]</span> | 3.0% |
-| <span style="white-space: nowrap;"><img src="../assets/items/bio_resin.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/bio_resin|Bio&nbsp;Resin]]</span> | 3.0% |
+| <span style="white-space: nowrap;"><img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/lamp_empty|Lamp&nbsp;(empty)]]</span> | 2.9% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ceramic_pot.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ceramic_pot|Ceramic&nbsp;Pot]]</span> | 2.9% |
+| <span style="white-space: nowrap;"><img src="../assets/items/bio_resin.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/bio_resin|Bio&nbsp;Resin]]</span> | 2.9% |
 | <span style="white-space: nowrap;"><img src="../assets/items/field_bandage.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/field_bandage|Field&nbsp;Bandage]]</span> | 2.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/fermented_cider.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fermented_cider|Fermented&nbsp;Cider]]</span> | 2.3% |
 | <span style="white-space: nowrap;"><img src="../assets/items/first_aid_kit.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/first_aid_kit|First&nbsp;Aid&nbsp;Kit]]</span> | 2.3% |
@@ -46,13 +46,14 @@ title: "Human Farm Facility"
 | <span style="white-space: nowrap;"><img src="../assets/items/soup_can.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/soup_can|Soup&nbsp;Can]]</span> | 1.3% |
 | <span style="white-space: nowrap;"><img src="../assets/items/herbal_tea.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/herbal_tea|Herbal&nbsp;Tea]]</span> | 1.3% |
 | <span style="white-space: nowrap;"><img src="../assets/items/pressure_valve.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/pressure_valve|Pressure&nbsp;Valve]]</span> | 1.3% |
-| <span style="white-space: nowrap;"><img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stone|Hardened&nbsp;Stone]]</span> | 1.2% |
+| <span style="white-space: nowrap;"><img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stone|Hardened&nbsp;Stone]]</span> | 1.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/car_battery.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/car_battery|Car&nbsp;Battery]]</span> | 1.0% |
 | <span style="white-space: nowrap;"><img src="../assets/items/salt_crystals.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salt_crystals|Salt&nbsp;Crystals]]</span> | 1.0% |
 | <span style="white-space: nowrap;"><img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/timber|Raw&nbsp;Timber]]</span> | 0.8% |
 | <span style="white-space: nowrap;"><img src="../assets/items/charred_planks.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/charred_planks|Charred&nbsp;Planks]]</span> | 0.8% |
 | <span style="white-space: nowrap;"><img src="../assets/items/ceramic_shards.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ceramic_shards|Ceramic&nbsp;Shards]]</span> | 0.8% |
 | <span style="white-space: nowrap;"><img src="../assets/items/filter_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/filter_mesh|Filter&nbsp;Mesh]]</span> | 0.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/fishing_line.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fishing_line|Fishing&nbsp;Line]]</span> | 0.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/stim_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stim_pack|Stim&nbsp;Pack]]</span> | 0.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/protein_bar.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/protein_bar|Protein&nbsp;Bar]]</span> | 0.5% |
 | <span style="white-space: nowrap;"><img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rebar_blade|Rebar&nbsp;Blade]]</span> | 0.5% |

@@ -33,6 +33,7 @@ This page visualizes the hierarchical relationship between base constructions an
 
 - **[[Base/constructions#SolarPanels|Solar Panels]]**
   - **[[Base/constructions#ResearchLab|Research Lab]]**
-    - **[[Base/constructions#ResearchLabII|Research Lab II]]**
+    - **[[Base/constructions#SpecimenAnalysisBay|Specimen Analysis Bay]]**
+      - **[[Base/constructions#ResearchLabII|Research Lab II]]**
   - **[[Base/constructions#BatteryStorage|Battery Storage]]**
     - **[[Base/constructions#FuelRefinery|Fuel Refinery]]**

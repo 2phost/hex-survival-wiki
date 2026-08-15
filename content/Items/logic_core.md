@@ -16,10 +16,6 @@ Produced by Electronic Labs Biome
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
-## Combinations
-### Used To Craft
-- 1x [[Items/power_pole|Power Pole]] + 1x [[Items/logic_core|Logic Core]] + 1x [[Items/ionized_filament|Ionized Filament]] → 1x [[Items/power_pole_mk2|Reinforced Power Pole]]
-
 ## Usage
 ### Construction
 - Required for [[Base/constructions#SensorJammerGrid|Sensor Jammer Grid]]

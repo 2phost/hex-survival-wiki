@@ -12,7 +12,7 @@ Corroded metal tool. Can be broken down for raw materials. Weapon: deals 1 monst
 - **[[Biomes/ruined_city|Ruined City]]**: 2.1%
 - **[[Biomes/industrial|Industrial]]**: 1.5%
 - **[[Biomes/desert|Desert]]**: 2.7%
-- **[[Biomes/forest|Forest]]**: 1.2%
+- **[[Biomes/forest|Forest]]**: 1.1%
 ## Usage
 Corroded metal tool. Can be broken down for raw materials. Weapon: deals 1 monster damage per use with 35% break chance.
 ### Weapon Stats

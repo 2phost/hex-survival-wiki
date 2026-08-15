@@ -10,7 +10,7 @@ A heavy striking maul powered by reclaimed capacitors for brutal impact.
 
 ## Where to Find
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 1.3%
-- **[[Biomes/industrial|Industrial]]**: 0.9%
+- **[[Biomes/industrial|Industrial]]**: 0.8%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 1.3%
 - **[[Biomes/ruined_city|Ruined City]]**: 0.6%
 - **[[Biomes/mountain|Mountain]]**: 0.6%

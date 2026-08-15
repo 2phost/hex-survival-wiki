@@ -11,7 +11,7 @@ A long haft tipped with forged scrap. Reliable reach compared to improvised kniv
 ## Where to Find
 - **[[Biomes/ruined_city|Ruined City]]**: 1.5%
 - **[[Biomes/industrial|Industrial]]**: 1.2%
-- **[[Biomes/forest|Forest]]**: 2.5%
+- **[[Biomes/forest|Forest]]**: 2.4%
 - **[[Biomes/mountain|Mountain]]**: 2.4%
 - **[[Biomes/farm_facility|Farm Facility]]**: 1.6%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.5%

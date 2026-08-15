@@ -11,9 +11,9 @@ title: "Rations"
 - **AP**: 1
 
 ## Where to Find
-- **[[Biomes/farm_facility|Farm Facility]]**: 14.8%
+- **[[Biomes/farm_facility|Farm Facility]]**: 14.7%
 - **[[Biomes/ruined_city|Ruined City]]**: 1.6%
-- **[[Biomes/forest|Forest]]**: 1.7%
+- **[[Biomes/forest|Forest]]**: 1.6%
 - **[[Biomes/industrial|Industrial]]**: 0.4%
 - **[[Biomes/oasis|Oasis]]**: 1.1%
 - **[[Biomes/desert|Desert]]**: 0.5%

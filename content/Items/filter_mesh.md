@@ -9,7 +9,7 @@ title: "Filter Mesh"
 Fine wire mesh from masks and vents; still usable for filtration rigs.
 
 ## Where to Find
-- **[[Biomes/industrial|Industrial]]**: 2.6%
+- **[[Biomes/industrial|Industrial]]**: 2.5%
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 2.2%
 - **[[Biomes/ruined_city|Ruined City]]**: 1.6%
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 1.1%
@@ -17,7 +17,7 @@ Fine wire mesh from masks and vents; still usable for filtration rigs.
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.8%
 - **[[Biomes/forest|Forest]]**: 0.7%
 - **[[Biomes/mountain|Mountain]]**: 0.8%
-- **[[Biomes/oasis|Oasis]]**: 0.6%
+- **[[Biomes/oasis|Oasis]]**: 0.5%
 ## Combinations
 ### Used To Craft
 - 1x [[Items/first_aid_kit|First Aid Kit]] + 1x [[Items/sterile_syringe|Sterile Syringe]] + 1x [[Items/filter_mesh|Filter Mesh]] → 1x [[Items/trauma_stabilizer|Trauma Stabilizer]] *(Requires Assembly Bench)*

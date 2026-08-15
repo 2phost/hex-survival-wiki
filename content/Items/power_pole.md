@@ -13,8 +13,6 @@ Deployable relay pole. Needed for the Place Pole action.
 ## Combinations
 ### Crafted From
 - 1x [[Items/copper_wiring|Copper Wiring]] + 1x [[Items/scrap_metal|Scrap Metal]] → 1x [[Items/power_pole|Power Pole]]
-### Used To Craft
-- 1x [[Items/power_pole|Power Pole]] + 1x [[Items/logic_core|Logic Core]] + 1x [[Items/ionized_filament|Ionized Filament]] → 1x [[Items/power_pole_mk2|Reinforced Power Pole]]
 
 ## Usage
 Deployable relay pole. Needed for the Place Pole action.

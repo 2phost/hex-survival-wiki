@@ -17,7 +17,7 @@ title: "Industrial Zone"
 | Item | % Per Hour |
 | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/chemical_sludge|Chemical&nbsp;Sludge]]</span> | 5.0% |
-| <span style="white-space: nowrap;"><img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_metal|Scrap&nbsp;Metal]]</span> | 4.3% |
+| <span style="white-space: nowrap;"><img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_metal|Scrap&nbsp;Metal]]</span> | 4.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/copper_wiring|Copper&nbsp;Wiring]]</span> | 3.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/empty_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/empty_canister|Empty&nbsp;Canister]]</span> | 3.2% |
 | <span style="white-space: nowrap;"><img src="../assets/items/rusted_chain.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rusted_chain|Rusted&nbsp;Chain]]</span> | 3.2% |
@@ -27,7 +27,7 @@ title: "Industrial Zone"
 | <span style="white-space: nowrap;"><img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/burnt_motor|Burnt-Out&nbsp;Motor]]</span> | 2.8% |
 | <span style="white-space: nowrap;"><img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ruined_generator_parts|Ruined&nbsp;Generator&nbsp;Parts]]</span> | 2.8% |
 | <span style="white-space: nowrap;"><img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/circuit_boards|Circuit&nbsp;Boards]]</span> | 2.7% |
-| <span style="white-space: nowrap;"><img src="../assets/items/filter_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/filter_mesh|Filter&nbsp;Mesh]]</span> | 2.6% |
+| <span style="white-space: nowrap;"><img src="../assets/items/filter_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/filter_mesh|Filter&nbsp;Mesh]]</span> | 2.5% |
 | <span style="white-space: nowrap;"><img src="../assets/items/car_battery.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/car_battery|Car&nbsp;Battery]]</span> | 2.5% |
 | <span style="white-space: nowrap;"><img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/battery|Battery]]</span> | 2.1% |
 | <span style="white-space: nowrap;"><img src="../assets/items/gasoline_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/gasoline_canister|Gasoline&nbsp;Canister]]</span> | 2.1% |
@@ -56,15 +56,15 @@ title: "Industrial Zone"
 | <span style="white-space: nowrap;"><img src="../assets/items/ceramic_shards.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ceramic_shards|Ceramic&nbsp;Shards]]</span> | 1.0% |
 | <span style="white-space: nowrap;"><img src="../assets/items/data_tape.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/data_tape|Data&nbsp;Tape]]</span> | 1.0% |
 | <span style="white-space: nowrap;"><img src="../assets/items/ballistic_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ballistic_mesh|Ballistic&nbsp;Mesh]]</span> | 1.0% |
-| <span style="white-space: nowrap;"><img src="../assets/items/canned_beans.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/canned_beans|Canned&nbsp;Beans]]</span> | 0.9% |
-| <span style="white-space: nowrap;"><img src="../assets/items/energy_soda.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/energy_soda|Energy&nbsp;Soda]]</span> | 0.9% |
-| <span style="white-space: nowrap;"><img src="../assets/items/field_bandage.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/field_bandage|Field&nbsp;Bandage]]</span> | 0.9% |
-| <span style="white-space: nowrap;"><img src="../assets/items/first_aid_kit.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/first_aid_kit|First&nbsp;Aid&nbsp;Kit]]</span> | 0.9% |
-| <span style="white-space: nowrap;"><img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/gasoline_generator|Gasoline&nbsp;Generator]]</span> | 0.9% |
-| <span style="white-space: nowrap;"><img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/shock_maul|Shock&nbsp;Maul]]</span> | 0.9% |
-| <span style="white-space: nowrap;"><img src="../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salvaged_fabric|Salvaged&nbsp;Fabric]]</span> | 0.9% |
-| <span style="white-space: nowrap;"><img src="../assets/items/ionized_filament.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ionized_filament|Ionized&nbsp;Filament]]</span> | 0.9% |
-| <span style="white-space: nowrap;"><img src="../assets/items/ceramic_armor_tile.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ceramic_armor_tile|Ceramic&nbsp;Armor&nbsp;Tile]]</span> | 0.9% |
+| <span style="white-space: nowrap;"><img src="../assets/items/canned_beans.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/canned_beans|Canned&nbsp;Beans]]</span> | 0.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/energy_soda.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/energy_soda|Energy&nbsp;Soda]]</span> | 0.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/field_bandage.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/field_bandage|Field&nbsp;Bandage]]</span> | 0.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/first_aid_kit.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/first_aid_kit|First&nbsp;Aid&nbsp;Kit]]</span> | 0.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/gasoline_generator|Gasoline&nbsp;Generator]]</span> | 0.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/shock_maul|Shock&nbsp;Maul]]</span> | 0.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/salvaged_fabric|Salvaged&nbsp;Fabric]]</span> | 0.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ionized_filament.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ionized_filament|Ionized&nbsp;Filament]]</span> | 0.8% |
+| <span style="white-space: nowrap;"><img src="../assets/items/ceramic_armor_tile.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ceramic_armor_tile|Ceramic&nbsp;Armor&nbsp;Tile]]</span> | 0.8% |
 | <span style="white-space: nowrap;"><img src="../assets/items/stim_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stim_pack|Stim&nbsp;Pack]]</span> | 0.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/stim_injector.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stim_injector|Stim&nbsp;Injector]]</span> | 0.7% |
 | <span style="white-space: nowrap;"><img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/stone|Hardened&nbsp;Stone]]</span> | 0.7% |
@@ -75,6 +75,7 @@ title: "Industrial Zone"
 | <span style="white-space: nowrap;"><img src="../assets/items/soup_can.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/soup_can|Soup&nbsp;Can]]</span> | 0.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/protein_bar.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/protein_bar|Protein&nbsp;Bar]]</span> | 0.6% |
 | <span style="white-space: nowrap;"><img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rations|Rations]]</span> | 0.4% |
+| <span style="white-space: nowrap;"><img src="../assets/items/fishing_line.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/fishing_line|Fishing&nbsp;Line]]</span> | 0.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/mace_spray_common.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/mace_spray_common|Irritant&nbsp;Mace]]</span> | 0.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/charred_planks.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/charred_planks|Charred&nbsp;Planks]]</span> | 0.4% |
 | <span style="white-space: nowrap;"><img src="../assets/items/ceramic_pot.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/ceramic_pot|Ceramic&nbsp;Pot]]</span> | 0.4% |
