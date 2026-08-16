@@ -19,3 +19,7 @@ title: "Counterbattery Array"
 - 4x [[Items/Unknown/hardened_actuator|Hardened Actuator]]
 - 4x [[Items/Unknown/capacitor_bank|Capacitor Bank]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/sensor_jammer_grid|Sensor Jammer Grid]]
+- **Unlocks**: [[Base/Constructions/citadel_aegis|Citadel Aegis Core]]

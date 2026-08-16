@@ -19,3 +19,7 @@ title: "Automated Sentry"
 
 ## Required For Objectives
 - [[Objectives/story_mount_sentry|Mount Automated Sentry]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/barbed_wire|Barbed Wire Perimeter]]
+- **Unlocks**: [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]]

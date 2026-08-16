@@ -21,3 +21,7 @@ title: "Logistics Uplink"
 
 ## Required For Objectives
 - [[Objectives/story_evac_prerequisites_check|Evac Infrastructure Audit]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/assembly_bench|Assembly Bench]]
+- **Unlocks**: [[Base/Constructions/forge|Forge]]

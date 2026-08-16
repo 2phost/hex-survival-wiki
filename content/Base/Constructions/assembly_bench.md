@@ -20,3 +20,7 @@ title: "Assembly Bench"
 
 ## Required For Objectives
 - [[Objectives/story_open_assembly_line|Open the Assembly Line]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/scrap_workshop|Scrap Workshop]]
+- **Unlocks**: [[Base/Constructions/logistics_uplink|Logistics Uplink]]

@@ -21,3 +21,7 @@ title: "Specimen Analysis Bay"
 - 6x [[Items/Monster_Parts/monster_bone_common|Common Monster Bone]]
 - 4x [[Items/Monster_Parts/monster_gland_common|Common Monster Gland]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/research_lab|Research Lab]]
+- **Unlocks**: [[Base/Constructions/research_lab_ii|Research Lab II]]

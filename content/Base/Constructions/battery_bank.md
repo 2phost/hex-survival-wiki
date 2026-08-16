@@ -20,3 +20,7 @@ title: "Battery Storage"
 
 ## Required For Objectives
 - [[Objectives/story_buffer_the_grid|Buffer the Grid]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/solar_panels|Solar Panels]]
+- **Unlocks**: [[Base/Constructions/fuel_refinery|Fuel Refinery]]

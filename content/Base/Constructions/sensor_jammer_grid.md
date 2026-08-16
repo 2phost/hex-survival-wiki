@@ -22,3 +22,7 @@ title: "Sensor Jammer Grid"
 
 ## Required For Objectives
 - [[Objectives/story_purge_prerequisites_check|Purge Team Staging]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/shock_fence_grid|Shock Fence Grid]]
+- **Unlocks**: [[Base/Constructions/counterbattery_array|Counterbattery Array]]

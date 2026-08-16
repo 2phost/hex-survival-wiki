@@ -20,3 +20,7 @@ title: "Armor-Plated Gate"
 - 4x [[Items/Unknown/hardened_actuator|Hardened Actuator]]
 - 4x [[Items/Unknown/hydraulic_piston|Hydraulic Piston]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/palisade_wall|Timber Palisade Wall]]
+- **Unlocks**: None

@@ -20,3 +20,7 @@ title: "Hydroponic Patch"
 
 ## Required For Objectives
 - [[Objectives/story_stand_up_hydroponics|Stand Up Hydroponics]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/well|Well]]
+- **Unlocks**: [[Base/Constructions/preservation_rack|Preservation Rack]]

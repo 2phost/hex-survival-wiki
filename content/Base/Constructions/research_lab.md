@@ -18,3 +18,7 @@ title: "Research Lab"
 
 ## Required For Objectives
 - [[Objectives/story_open_research_lab|Open the Research Lab]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/solar_panels|Solar Panels]]
+- **Unlocks**: [[Base/Constructions/specimen_analysis_bay|Specimen Analysis Bay]]

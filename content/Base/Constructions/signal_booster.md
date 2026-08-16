@@ -17,3 +17,7 @@ title: "Signal Booster (Radar)"
 - 2x [[Items/Unknown/scrap_metal|Scrap Metal]]
 - 2x [[Items/Unknown/broken_radio|Broken Radio]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/watchtower|Watchtower]]
+- **Unlocks**: [[Base/Constructions/beacon_amplifier|Beacon Amplifier]], [[Base/Constructions/threat_scanner|Threat Scanner Beacon]]

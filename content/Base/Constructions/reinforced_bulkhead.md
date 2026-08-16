@@ -19,3 +19,7 @@ title: "Reinforced Steel Bulkhead"
 
 ## Required For Objectives
 - [[Objectives/story_reinforce_bulkhead|Reinforce the Bulkhead]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/barbed_wire|Barbed Wire Perimeter]]
+- **Unlocks**: [[Base/Constructions/spike_trench|Spike Trench]]

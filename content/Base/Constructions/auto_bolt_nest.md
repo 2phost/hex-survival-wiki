@@ -19,3 +19,7 @@ title: "Auto-Bolt Nest"
 - 2x [[Items/Unknown/hardened_actuator|Hardened Actuator]]
 - 6x [[Items/Unknown/scrap_metal|Scrap Metal]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]]
+- **Unlocks**: [[Base/Constructions/shock_fence_grid|Shock Fence Grid]]

@@ -19,3 +19,7 @@ title: "Watchtower"
 
 ## Required For Objectives
 - [[Objectives/story_raise_watchtower|Raise a Watchtower]]
+
+## Tech Tree
+- **Prerequisite**: None
+- **Unlocks**: [[Base/Constructions/signal_booster|Signal Booster (Radar)]]

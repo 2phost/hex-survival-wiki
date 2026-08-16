@@ -21,3 +21,7 @@ title: "Threat Scanner Beacon"
 
 ## Required For Objectives
 - [[Objectives/story_purge_prerequisites_check|Purge Team Staging]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/signal_booster|Signal Booster (Radar)]]
+- **Unlocks**: None

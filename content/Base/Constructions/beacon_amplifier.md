@@ -18,3 +18,7 @@ title: "Beacon Amplifier"
 - 6x [[Items/Unknown/copper_wiring|Copper Wiring]]
 - 4x [[Items/Unknown/scrap_metal|Scrap Metal]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/signal_booster|Signal Booster (Radar)]]
+- **Unlocks**: None

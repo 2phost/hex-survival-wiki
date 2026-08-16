@@ -20,3 +20,7 @@ title: "Scrap Barricade Wall"
 
 ## Required For Objectives
 - [[Objectives/story_lock_the_outpost|Lock the Outpost In]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/spike_trench|Spike Trench]]
+- **Unlocks**: [[Base/Constructions/palisade_wall|Timber Palisade Wall]]

@@ -22,3 +22,7 @@ title: "Citadel Aegis Core"
 
 ## Required For Objectives
 - [[Objectives/story_evac_prerequisites_check|Evac Infrastructure Audit]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/counterbattery_array|Counterbattery Array]]
+- **Unlocks**: [[Base/Constructions/extraction_beacon|Extraction Beacon]]

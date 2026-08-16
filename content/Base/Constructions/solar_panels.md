@@ -21,3 +21,7 @@ title: "Solar Panels"
 
 ## Required For Objectives
 - [[Objectives/story_install_solar_array|Install Solar Array]]
+
+## Tech Tree
+- **Prerequisite**: None
+- **Unlocks**: [[Base/Constructions/research_lab|Research Lab]], [[Base/Constructions/battery_bank|Battery Storage]]

@@ -19,3 +19,7 @@ title: "Timber Palisade Wall"
 - 6x [[Items/Unknown/fortified_rebar|Fortified Rebar]]
 - 4x [[Items/Unknown/resin_sealant|Resin Sealant]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/scrap_barricade|Scrap Barricade Wall]]
+- **Unlocks**: [[Base/Constructions/armor_plated_gate|Armor-Plated Gate]]

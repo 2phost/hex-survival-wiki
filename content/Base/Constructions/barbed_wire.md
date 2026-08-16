@@ -18,3 +18,7 @@ title: "Barbed Wire Perimeter"
 
 ## Required For Objectives
 - [[Objectives/story_harden_perimeter|Harden the Perimeter]]
+
+## Tech Tree
+- **Prerequisite**: None
+- **Unlocks**: [[Base/Constructions/reinforced_bulkhead|Reinforced Steel Bulkhead]], [[Base/Constructions/sentry_turret|Automated Sentry]]

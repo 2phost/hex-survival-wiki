@@ -19,3 +19,7 @@ title: "Shock Fence Grid"
 - 2x [[Items/Unknown/threat_sensor_array|Threat Sensor Array]]
 - 4x [[Items/Unknown/bio_spike_pod|Bio Spike Pod]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/auto_bolt_nest|Auto-Bolt Nest]]
+- **Unlocks**: [[Base/Constructions/sensor_jammer_grid|Sensor Jammer Grid]]

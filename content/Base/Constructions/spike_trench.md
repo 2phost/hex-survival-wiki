@@ -18,3 +18,7 @@ title: "Spike Trench"
 - 4x [[Items/Unknown/stone|Hardened Stone]]
 - 4x [[Items/Unknown/fortified_rebar|Fortified Rebar]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/reinforced_bulkhead|Reinforced Steel Bulkhead]]
+- **Unlocks**: [[Base/Constructions/scrap_barricade|Scrap Barricade Wall]]

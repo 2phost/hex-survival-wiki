@@ -19,3 +19,7 @@ title: "Fuel Refinery"
 - 4x [[Items/Unknown/stone|Hardened Stone]]
 - 2x [[Items/Unknown/pressure_valve|Pressure Valve]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/battery_bank|Battery Storage]]
+- **Unlocks**: None

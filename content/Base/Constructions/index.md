@@ -8,8 +8,8 @@ Constructing facilities at the base is essential for long-term survival. These b
 
 ## 🏗️ All Facilities
 
-| Facility | Requirements | Research Necessary? | Only from Production | Description |
-| :--- | :--- | :--- | :--- | :--- |
+| Facility | Requirements | Research Necessary? | Only from Production | Prerequisite | Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | <span style="white-space: nowrap;"><img src="../../assets/builds/barbed_wire.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Base/Constructions/barbed_wire|Barbed&nbsp;Wire&nbsp;Perimeter]]</span> | 4x [[Items/Unknown/scrap_metal|Scrap Metal]] | No | - | Adds +6 town defense and reduces midnight attack strength by 8%. |
 | <span style="white-space: nowrap;"><img src="../../assets/builds/reinforced_bulkhead.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Base/Constructions/reinforced_bulkhead|Reinforced&nbsp;Steel&nbsp;Bulkhead]]</span> | 2x [[Items/Unknown/scrap_metal|Scrap Metal]]<br>6x [[Items/Unknown/stone|Hardened Stone]] | No | - | Adds +12 town defense. |
 | <span style="white-space: nowrap;"><img src="../../assets/builds/watchtower.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Base/Constructions/watchtower|Watchtower]]</span> | 4x [[Items/Unknown/timber|Raw Timber]]<br>4x [[Items/Unknown/stone|Hardened Stone]] | No | - | Adds +4 town defense. |

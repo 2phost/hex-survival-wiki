@@ -22,3 +22,7 @@ title: "Extraction Beacon"
 
 ## Required For Objectives
 - [[Objectives/story_evac_install_beacon|Install Extraction Beacon]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/citadel_aegis|Citadel Aegis Core]]
+- **Unlocks**: None

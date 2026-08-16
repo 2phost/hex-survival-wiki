@@ -19,3 +19,7 @@ title: "Well"
 
 ## Required For Objectives
 - [[Objectives/story_establish_well|Establish the Well]]
+
+## Tech Tree
+- **Prerequisite**: None
+- **Unlocks**: [[Base/Constructions/hydroponic_patch|Hydroponic Patch]]

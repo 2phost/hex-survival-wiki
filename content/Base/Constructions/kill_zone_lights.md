@@ -21,3 +21,7 @@ title: "Kill-Zone Floodlights"
 
 ## Required For Objectives
 - [[Objectives/story_light_the_kill_zone|Light the Kill Zone]]
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/sentry_turret|Automated Sentry]]
+- **Unlocks**: [[Base/Constructions/auto_bolt_nest|Auto-Bolt Nest]]

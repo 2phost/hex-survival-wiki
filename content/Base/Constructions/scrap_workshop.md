@@ -19,3 +19,7 @@ title: "Scrap Workshop"
 
 ## Required For Objectives
 - [[Objectives/story_open_workshop|Open the Scrap Workshop]]
+
+## Tech Tree
+- **Prerequisite**: None
+- **Unlocks**: [[Base/Constructions/assembly_bench|Assembly Bench]]

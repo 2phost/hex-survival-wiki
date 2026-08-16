@@ -16,3 +16,7 @@ title: "Research Lab II"
 ## Construction Cost
 - 120x [[Items/Unknown/scrap_metal|Scrap Metal]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/specimen_analysis_bay|Specimen Analysis Bay]]
+- **Unlocks**: None

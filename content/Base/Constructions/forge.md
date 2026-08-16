@@ -18,3 +18,7 @@ title: "Forge"
 - 6x [[Items/Unknown/timber|Raw Timber]]
 - 4x [[Items/Unknown/obsidian_flake|Obsidian Flake]]
 
+
+## Tech Tree
+- **Prerequisite**: [[Base/Constructions/logistics_uplink|Logistics Uplink]]
+- **Unlocks**: None

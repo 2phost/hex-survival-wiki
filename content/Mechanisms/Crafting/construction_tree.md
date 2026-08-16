@@ -1,3 +1,7 @@
+---
+title: "Construction Tree"
+---
+
 # Mechanism: [[Mechanisms/Crafting/construction_tree|Construction Tree]]
 
 This page visualizes the hierarchical relationship between base constructions and their prerequisites.
@@ -37,3 +41,4 @@ This page visualizes the hierarchical relationship between base constructions an
       - **[[Base/Constructions/research_lab_ii|Research Lab II]]**
   - **[[Base/Constructions/battery_bank|Battery Storage]]**
     - **[[Base/Constructions/fuel_refinery|Fuel Refinery]]**
+
