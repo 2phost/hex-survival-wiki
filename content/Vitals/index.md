@@ -4,9 +4,12 @@ title: "Vitals"
 
 # Hex Survival Vitals
 
-Survival in Hex Survival depends on managing four primary status bars. Failing to maintain these will lead to penalties, panic, or death.
+Survival in Hex Survival depends on managing five primary status bars. Failing to maintain these will lead to penalties, panic, or death.
 
 ## Vitals Directory
+
+### [[Vitals/health|Health]]
+Your physical well-being. Reduced by monster attacks and restored by medical supplies.
 
 ### [[Vitals/hunger|Hunger]]
 Replenished by food. Drains significantly at [[Mechanisms/midnight_cycle|Midnight]].
