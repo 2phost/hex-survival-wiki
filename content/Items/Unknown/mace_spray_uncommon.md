@@ -4,7 +4,7 @@ title: "Concentrated Mace"
 
 # Item: [[Items/Unknown/mace_spray_uncommon|Concentrated Mace]]
 
-![[assets/items/mace_spray_uncommon.png|150]]
+![[assets/items/concentrated_mace.png|150]]
 
 ## Where to Find
 - **[[Biomes/ruined_city|Ruined City]]**: 0.5% drop chance
@@ -17,4 +17,4 @@ title: "Concentrated Mace"
 - **Category**: Unknown
 
 - **Asset ID**: `mace_spray_uncommon`
-- **Asset Path**: `items/mace_spray_uncommon.png`
+- **Asset Path**: `assets/items/concentrated_mace.png`

@@ -30,4 +30,4 @@ Dense ceramic plate salvaged from military stockpiles.
 - **Rarity**: Rare
 
 - **Asset ID**: `ceramic_armor_tile`
-- **Asset Path**: `items/ceramic_armor_tile.png`
+- **Asset Path**: `assets/items/ceramic_armor_tile.png`

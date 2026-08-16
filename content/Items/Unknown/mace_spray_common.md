@@ -4,7 +4,7 @@ title: "Irritant Mace"
 
 # Item: [[Items/Unknown/mace_spray_common|Irritant Mace]]
 
-![[assets/items/mace_spray_common.png|150]]
+![[assets/items/irritant_mace.png|150]]
 
 ## Where to Find
 - **[[Biomes/ruined_city|Ruined City]]**: 0.6% drop chance
@@ -17,4 +17,4 @@ title: "Irritant Mace"
 - **Category**: Unknown
 
 - **Asset ID**: `mace_spray_common`
-- **Asset Path**: `items/mace_spray_common.png`
+- **Asset Path**: `assets/items/irritant_mace.png`

@@ -26,4 +26,4 @@ title: "Stimulant Reagent"
 - **Category**: Unknown
 
 - **Asset ID**: `stimulant_reagent`
-- **Asset Path**: `items/stimulant_reagent.png`
+- **Asset Path**: `assets/items/stimulant_reagent.png`

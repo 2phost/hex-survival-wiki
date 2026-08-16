@@ -99,4 +99,4 @@ title: "Scrap Metal"
 - **Rarity**: Common
 
 - **Asset ID**: `scrap_metal`
-- **Asset Path**: `items/scrap_metal.png`
+- **Asset Path**: `assets/items/scrap_metal.png`

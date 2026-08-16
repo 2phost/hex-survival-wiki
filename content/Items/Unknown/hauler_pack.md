@@ -4,7 +4,7 @@ title: "Hauler Pack"
 
 # Item: [[Items/Unknown/hauler_pack|Hauler Pack]]
 
-![[assets/items/worn_leather_pack.png|150]]
+![[assets/items/hauler_pack.png|150]]
 
 An uncommon pre-collapse load-bearing rig rebuilt with improvised parts. Increases carried inventory by +4 slots while carried.
 
@@ -32,4 +32,4 @@ An uncommon pre-collapse load-bearing rig rebuilt with improvised parts. Increas
 - **Rarity**: Mythic
 
 - **Asset ID**: `hauler_pack`
-- **Asset Path**: `items/worn_leather_pack.png`
+- **Asset Path**: `assets/items/hauler_pack.png`

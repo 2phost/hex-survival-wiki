@@ -22,4 +22,4 @@ title: "Protein Bar"
 - **Category**: Unknown
 
 - **Asset ID**: `protein_bar`
-- **Asset Path**: `items/protein_bar.png`
+- **Asset Path**: `assets/items/protein_bar.png`

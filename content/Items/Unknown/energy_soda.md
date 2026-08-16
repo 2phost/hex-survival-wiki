@@ -22,4 +22,4 @@ title: "Energy Soda"
 - **Category**: Unknown
 
 - **Asset ID**: `energy_soda`
-- **Asset Path**: `items/energy_soda.png`
+- **Asset Path**: `assets/items/energy_soda.png`

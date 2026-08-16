@@ -23,4 +23,4 @@ title: "Sterile Syringe"
 - **Category**: Unknown
 
 - **Asset ID**: `sterile_syringe`
-- **Asset Path**: `items/sterile_syringe.png`
+- **Asset Path**: `assets/items/sterile_syringe.png`

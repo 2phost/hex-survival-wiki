@@ -47,4 +47,4 @@ Bent but sturdy steel rods bundled for emergency fortifications.
 - **Rarity**: Common
 
 - **Asset ID**: `fortified_rebar`
-- **Asset Path**: `items/fortified_rebar.png`
+- **Asset Path**: `assets/items/fortified_rebar.png`

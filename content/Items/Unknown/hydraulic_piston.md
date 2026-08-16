@@ -31,4 +31,4 @@ Produced by Industrial facilities Biome
 - **Requirement**: Field Engineering Level 2
 
 - **Asset ID**: `hydraulic_piston`
-- **Asset Path**: `items/hydraulic_piston.png`
+- **Asset Path**: `assets/items/hydraulic_piston.png`

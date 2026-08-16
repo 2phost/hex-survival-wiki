@@ -32,4 +32,4 @@ Decayed travel pack. Straps and buckles yield some materials.
 - **Item ID**: `worn_leather_pack`
 - **Rarity**: Common
 - **Asset ID**: `worn_leather_pack`
-- **Asset Path**: `items/worn_leather_pack.png`
+- **Asset Path**: `assets/items/worn_leather_pack.png`

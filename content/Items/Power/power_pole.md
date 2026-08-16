@@ -38,4 +38,4 @@ Deployable relay pole. Needed for the Place Pole action.
 - **Rarity**: Common
 - **Category**: Power
 - **Asset ID**: `power_pole`
-- **Asset Path**: `items/power_pole.png`
+- **Asset Path**: `assets/builds/power_pole.png`

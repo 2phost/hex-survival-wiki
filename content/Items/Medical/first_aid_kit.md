@@ -33,4 +33,4 @@ title: "First Aid Kit"
 - **Category**: Medical
 
 - **Asset ID**: `first_aid_kit`
-- **Asset Path**: `items/first_aid_kit.png`
+- **Asset Path**: `assets/items/first_aid_kit.png`

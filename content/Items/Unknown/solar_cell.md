@@ -46,4 +46,4 @@ Crafted photovoltaic cell for harvesting sunlight. Used to build solar panels.
 - **Item ID**: `solar_cell`
 - **Rarity**: Rare
 - **Asset ID**: `solar_cell`
-- **Asset Path**: `items/solar_cell.png`
+- **Asset Path**: `assets/items/solar_cell.png`

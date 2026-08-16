@@ -4,7 +4,7 @@ title: "Military Mace"
 
 # Item: [[Items/Unknown/mace_spray_rare|Military Mace]]
 
-![[assets/items/mace_spray_rare.png|150]]
+![[assets/items/military_mace.png|150]]
 
 ## Where to Find
 - **[[Biomes/ruined_city|Ruined City]]**: 0.2% drop chance
@@ -17,4 +17,4 @@ title: "Military Mace"
 - **Category**: Unknown
 
 - **Asset ID**: `mace_spray_rare`
-- **Asset Path**: `items/mace_spray_rare.png`
+- **Asset Path**: `assets/items/military_mace.png`

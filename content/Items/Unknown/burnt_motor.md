@@ -35,4 +35,4 @@ Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster da
 - **Rarity**: Common
 - **Category**: Weapon
 - **Asset ID**: `burnt_motor`
-- **Asset Path**: `items/burnt_motor.png`
+- **Asset Path**: `assets/items/burnt_motor.png`

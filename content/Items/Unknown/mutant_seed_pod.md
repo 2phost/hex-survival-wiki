@@ -30,4 +30,4 @@ Hard-shelled seed pod from post-collapse flora with unusual growth traits.
 - **Rarity**: Rare
 
 - **Asset ID**: `mutant_seed_pod`
-- **Asset Path**: `items/mutant_seed_pod.png`
+- **Asset Path**: `assets/items/mutant_seed_pod.png`

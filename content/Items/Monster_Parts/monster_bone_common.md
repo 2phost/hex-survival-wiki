@@ -20,4 +20,4 @@ title: "Common Monster Bone"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_bone_common`
-- **Asset Path**: `items/monster_bone_common.png`
+- **Asset Path**: `assets/items/monster_bone_common.png`

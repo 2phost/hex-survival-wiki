@@ -16,4 +16,4 @@ title: "Crimson Flare"
 - **Category**: Light
 
 - **Asset ID**: `crimson_flare`
-- **Asset Path**: `items/crimson_flare.png`
+- **Asset Path**: `assets/items/crimson_flare.png`

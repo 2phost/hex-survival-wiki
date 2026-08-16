@@ -32,4 +32,4 @@ A bottle lantern made from bio-luminescent fungus. Provides light for 2 days.
 - **Rarity**: Common
 - **Category**: Light
 - **Asset ID**: `glowing_bottle`
-- **Asset Path**: `items/glowing_bottle.png`
+- **Asset Path**: `assets/items/glowing_bottle.png`

@@ -28,4 +28,4 @@ Sealed thermal flask once used for preserving volatile samples.
 - **Rarity**: Rare
 
 - **Asset ID**: `cryo_flask`
-- **Asset Path**: `items/cryo_flask.png`
+- **Asset Path**: `assets/items/cryo_flask.png`

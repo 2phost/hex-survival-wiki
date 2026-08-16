@@ -4,7 +4,7 @@ title: "Expedition Pack"
 
 # Item: [[Items/Unknown/expedition_pack|Expedition Pack]]
 
-![[assets/items/worn_leather_pack.png|150]]
+![[assets/items/expedition_pack.png|150]]
 
 A heavy-duty pack frame and stitched compartments built for long hauls. Increases carried inventory by +3 slots while carried.
 
@@ -44,4 +44,4 @@ A heavy-duty pack frame and stitched compartments built for long hauls. Increase
 - **Rarity**: Rare
 
 - **Asset ID**: `expedition_pack`
-- **Asset Path**: `items/worn_leather_pack.png`
+- **Asset Path**: `assets/items/expedition_pack.png`

@@ -14,4 +14,4 @@ title: "Alien Vegetable"
 - **Category**: Unknown
 
 - **Asset ID**: `alien_vegetable`
-- **Asset Path**: `items/alien_vegetable.png`
+- **Asset Path**: `assets/items/alien_vegetable.png`

@@ -20,4 +20,4 @@ title: "Wild Berries"
 - **Category**: Unknown
 
 - **Asset ID**: `wild_berries`
-- **Asset Path**: `items/wild_berries.png`
+- **Asset Path**: `assets/items/wild_berries.png`

@@ -20,4 +20,4 @@ title: "Humidity Extractor"
 - **Category**: Tool
 
 - **Asset ID**: `humidity_extractor`
-- **Asset Path**: `items/humidity_extractor.png`
+- **Asset Path**: `assets/items/humidity_extractor.png`

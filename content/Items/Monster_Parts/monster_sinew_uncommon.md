@@ -18,4 +18,4 @@ title: "Uncommon Monster Sinew"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_sinew_uncommon`
-- **Asset Path**: `items/monster_sinew_uncommon.png`
+- **Asset Path**: `assets/items/monster_sinew_uncommon.png`

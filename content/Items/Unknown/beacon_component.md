@@ -24,4 +24,4 @@ title: "Beacon Component"
 - **Category**: Unknown
 
 - **Asset ID**: `beacon_component`
-- **Asset Path**: `items/beacon_component.png`
+- **Asset Path**: `assets/items/beacon_component.png`

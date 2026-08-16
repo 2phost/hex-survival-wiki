@@ -32,4 +32,4 @@ Partial cipher key etched on alloy, likely tied to sealed vault systems.
 - **Rarity**: Mythic
 
 - **Asset ID**: `vault_key_fragment`
-- **Asset Path**: `items/vault_key_fragment.png`
+- **Asset Path**: `assets/items/vault_key_fragment.png`

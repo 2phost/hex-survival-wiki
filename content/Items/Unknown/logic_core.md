@@ -42,4 +42,4 @@ Produced by Electronic Labs Biome
 - **Requirement**: Field Engineering Level 2
 
 - **Asset ID**: `logic_core`
-- **Asset Path**: `items/logic_core.png`
+- **Asset Path**: `assets/items/logic_core.png`

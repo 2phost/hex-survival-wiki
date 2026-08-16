@@ -18,4 +18,4 @@ title: "Rare Monster Chitin"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_chitin_rare`
-- **Asset Path**: `items/monster_chitin_rare.png`
+- **Asset Path**: `assets/items/monster_chitin_rare.png`

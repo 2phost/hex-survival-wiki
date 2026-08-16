@@ -32,4 +32,4 @@ Heavy lead-acid battery salvaged from old vehicles. Useful for expanding town po
 - **Rarity**: Common
 
 - **Asset ID**: `car_battery`
-- **Asset Path**: `items/car_battery.png`
+- **Asset Path**: `assets/items/car_battery.png`

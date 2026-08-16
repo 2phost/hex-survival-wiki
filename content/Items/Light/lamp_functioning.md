@@ -37,4 +37,4 @@ Provides illumination when carried; lights only the tile you stand on.
 - **Rarity**: Rare
 - **Category**: Light
 - **Asset ID**: `lamp_functioning`
-- **Asset Path**: `items/lamp_functioning.png`
+- **Asset Path**: `assets/items/lamp_functioning.png`

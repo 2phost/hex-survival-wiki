@@ -38,4 +38,4 @@ title: "Lamp (empty)"
 - **Item ID**: `lamp_empty`
 - **Rarity**: Common
 - **Asset ID**: `lamp_empty`
-- **Asset Path**: `items/lamp_empty.png`
+- **Asset Path**: `assets/items/lamp_empty.png`

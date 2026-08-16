@@ -28,4 +28,4 @@ title: "Bottle of Alcohol"
 - **Category**: Medical
 
 - **Asset ID**: `bottle_of_alcohol`
-- **Asset Path**: `items/bottle_of_alcohol.png`
+- **Asset Path**: `assets/items/bottle_of_alcohol.png`

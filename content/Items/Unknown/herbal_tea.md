@@ -21,4 +21,4 @@ title: "Herbal Tea"
 - **Category**: Unknown
 
 - **Asset ID**: `herbal_tea`
-- **Asset Path**: `items/herbal_tea.png`
+- **Asset Path**: `assets/items/herbal_tea.png`

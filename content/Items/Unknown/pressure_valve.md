@@ -32,4 +32,4 @@ Industrial-grade valve body from old steam and fuel networks.
 - **Rarity**: Rare
 
 - **Asset ID**: `pressure_valve`
-- **Asset Path**: `items/pressure_valve.png`
+- **Asset Path**: `assets/items/pressure_valve.png`

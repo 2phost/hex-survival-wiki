@@ -21,4 +21,4 @@ title: "Fermented Cider"
 - **Category**: Unknown
 
 - **Asset ID**: `fermented_cider`
-- **Asset Path**: `items/fermented_cider.png`
+- **Asset Path**: `assets/items/fermented_cider.png`

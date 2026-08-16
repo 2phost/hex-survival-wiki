@@ -14,4 +14,4 @@ title: "Mythic Monster Bone"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_bone_mythic`
-- **Asset Path**: `items/monster_bone_mythic.png`
+- **Asset Path**: `assets/items/monster_bone_mythic.png`

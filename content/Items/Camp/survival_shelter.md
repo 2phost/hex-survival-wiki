@@ -19,4 +19,4 @@ title: "Survival Shelter"
 - **Category**: Camp
 
 - **Asset ID**: `survival_shelter`
-- **Asset Path**: `items/survival_shelter.png`
+- **Asset Path**: `assets/items/survival_shelter.png`

@@ -46,4 +46,4 @@ Weathered cloth strips and tarp fibers useful for patching gear.
 - **Rarity**: Common
 
 - **Asset ID**: `salvaged_fabric`
-- **Asset Path**: `items/salvaged_fabric.png`
+- **Asset Path**: `assets/items/salvaged_fabric.png`

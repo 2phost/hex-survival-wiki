@@ -14,4 +14,4 @@ title: "Mythic Monster Gland"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_gland_mythic`
-- **Asset Path**: `items/monster_gland_mythic.png`
+- **Asset Path**: `assets/items/monster_gland_mythic.png`

@@ -40,4 +40,4 @@ Broken insulation and cookware fragments from pre-collapse ruins.
 - **Rarity**: Common
 
 - **Asset ID**: `ceramic_shards`
-- **Asset Path**: `items/ceramic_shards.png`
+- **Asset Path**: `assets/items/ceramic_shards.png`

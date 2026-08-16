@@ -15,4 +15,4 @@ title: "Nova Flare"
 - **Category**: Light
 
 - **Asset ID**: `nova_flare`
-- **Asset Path**: `items/nova_flare.png`
+- **Asset Path**: `assets/items/nova_flare.png`

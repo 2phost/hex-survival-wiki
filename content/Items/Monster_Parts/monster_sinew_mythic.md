@@ -14,4 +14,4 @@ title: "Mythic Monster Sinew"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_sinew_mythic`
-- **Asset Path**: `items/monster_sinew_mythic.png`
+- **Asset Path**: `assets/items/monster_sinew_mythic.png`

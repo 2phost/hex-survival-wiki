@@ -46,4 +46,4 @@ A balanced blade cut from reinforced rebar and ceramic edge inserts.
 - **Category**: Weapon
 
 - **Asset ID**: `rebar_blade`
-- **Asset Path**: `items/rebar_blade.png`
+- **Asset Path**: `assets/items/rebar_blade.png`

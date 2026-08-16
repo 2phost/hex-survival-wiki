@@ -33,4 +33,4 @@ title: "Field Bandage"
 - **Category**: Medical
 
 - **Asset ID**: `field_bandage`
-- **Asset Path**: `items/field_bandage.png`
+- **Asset Path**: `assets/items/field_bandage.png`

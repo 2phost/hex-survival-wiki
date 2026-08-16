@@ -54,4 +54,4 @@ Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases
 - **Requirement**: Stim Usage Level 1
 
 - **Asset ID**: `stim_pack`
-- **Asset Path**: `items/stim_pack.png`
+- **Asset Path**: `assets/items/stim_pack.png`

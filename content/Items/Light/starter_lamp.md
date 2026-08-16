@@ -19,4 +19,4 @@ A basic starter lamp for new scavengers. Provides light for 2 days.
 - **Category**: Light
 
 - **Asset ID**: `starter_lamp`
-- **Asset Path**: `items/starter_lamp.png`
+- **Asset Path**: `assets/items/starter_lamp.png`

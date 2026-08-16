@@ -40,4 +40,4 @@ Experimental pre-collapse fuel rod. Refills 60% town power and requires Generato
 - **Requirement**: Generator Operations Level 3
 
 - **Asset ID**: `plasma_fuel_rod`
-- **Asset Path**: `items/plasma_fuel_rod.png`
+- **Asset Path**: `assets/items/plasma_fuel_rod.png`

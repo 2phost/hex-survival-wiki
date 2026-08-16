@@ -33,4 +33,4 @@ Sharp volcanic glass pieces ideal for improvised cutting tools.
 - **Rarity**: Rare
 
 - **Asset ID**: `obsidian_flake`
-- **Asset Path**: `items/obsidian_flake.png`
+- **Asset Path**: `assets/items/obsidian_flake.png`

@@ -31,4 +31,4 @@ Recovered data drives, scientific logs, and salvageable pre-collapse notes used 
 - **Rarity**: Rare
 
 - **Asset ID**: `research_material`
-- **Asset Path**: `items/research_material.png`
+- **Asset Path**: `assets/items/research_material.png`

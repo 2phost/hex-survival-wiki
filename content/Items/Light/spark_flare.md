@@ -17,4 +17,4 @@ title: "Spark Flare"
 - **Category**: Light
 
 - **Asset ID**: `spark_flare`
-- **Asset Path**: `items/spark_flare.png`
+- **Asset Path**: `assets/items/spark_flare.png`

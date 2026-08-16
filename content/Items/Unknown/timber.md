@@ -60,4 +60,4 @@ title: "Raw Timber"
 - **Rarity**: Common
 
 - **Asset ID**: `timber`
-- **Asset Path**: `items/timber.png`
+- **Asset Path**: `assets/items/timber.png`

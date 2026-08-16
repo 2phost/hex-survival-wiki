@@ -38,4 +38,4 @@ Cracked photovoltaic array. Some cells might still function.
 - **Item ID**: `damaged_solar_panel`
 - **Rarity**: Uncommon
 - **Asset ID**: `damaged_solar_panel`
-- **Asset Path**: `items/damaged_solar_panel.png`
+- **Asset Path**: `assets/items/damaged_solar_panel.png`

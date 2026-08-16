@@ -56,4 +56,4 @@ title: "Circuit Boards"
 - **Rarity**: Rare
 
 - **Asset ID**: `circuit_boards`
-- **Asset Path**: `items/circuit_board.png`
+- **Asset Path**: `assets/items/circuit_board.png`

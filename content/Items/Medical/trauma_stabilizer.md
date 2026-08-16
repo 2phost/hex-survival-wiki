@@ -26,4 +26,4 @@ title: "Trauma Stabilizer"
 - **Category**: Medical
 
 - **Asset ID**: `trauma_stabilizer`
-- **Asset Path**: `items/trauma_stabilizer.png`
+- **Asset Path**: `assets/items/trauma_stabilizer.png`

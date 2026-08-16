@@ -44,4 +44,4 @@ A heavy striking maul powered by reclaimed capacitors for brutal impact.
 - **Category**: Weapon
 
 - **Asset ID**: `shock_maul`
-- **Asset Path**: `items/shock_maul.png`
+- **Asset Path**: `assets/items/shock_maul.png`

@@ -40,4 +40,4 @@ Corroded chain links salvaged from gates, cranes, and fences.
 - **Rarity**: Common
 
 - **Asset ID**: `rusted_chain`
-- **Asset Path**: `items/rusted_chain.png`
+- **Asset Path**: `assets/items/rusted_chain.png`

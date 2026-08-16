@@ -29,4 +29,4 @@ Scorched generator internals. Mixed scrap and chemicals.
 - **Item ID**: `ruined_generator_parts`
 - **Rarity**: Common
 - **Asset ID**: `ruined_generator_parts`
-- **Asset Path**: `items/ruined_generator_parts.png`
+- **Asset Path**: `assets/items/ruined_generator_parts.png`

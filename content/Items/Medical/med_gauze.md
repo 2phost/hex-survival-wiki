@@ -26,4 +26,4 @@ title: "Medical Gauze"
 - **Category**: Medical
 
 - **Asset ID**: `med_gauze`
-- **Asset Path**: `items/med_gauze.png`
+- **Asset Path**: `assets/items/med_gauze.png`

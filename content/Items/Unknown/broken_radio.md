@@ -39,4 +39,4 @@ Salvageable electronics from a damaged broadcast unit.
 - **Item ID**: `broken_radio`
 - **Rarity**: Common
 - **Asset ID**: `broken_radio`
-- **Asset Path**: `items/broken_radio.png`
+- **Asset Path**: `assets/items/broken_radio.png`

@@ -31,4 +31,4 @@ Refined high-density biofuel cell. Refills 40% town power and requires Generator
 - **Requirement**: Generator Operations Level 2
 
 - **Asset ID**: `biofuel_cell`
-- **Asset Path**: `items/biofuel_cell.png`
+- **Asset Path**: `assets/items/biofuel_cell.png`

@@ -30,4 +30,4 @@ Layered metal weave that absorbs impacts from charging beasts.
 - **Rarity**: Rare
 
 - **Asset ID**: `ballistic_mesh`
-- **Asset Path**: `items/ballistic_mesh.png`
+- **Asset Path**: `assets/items/ballistic_mesh.png`

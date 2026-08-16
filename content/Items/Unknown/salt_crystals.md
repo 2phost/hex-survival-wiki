@@ -31,4 +31,4 @@ Mineral deposits scraped from dry beds and cave seams.
 - **Rarity**: Common
 
 - **Asset ID**: `salt_crystals`
-- **Asset Path**: `items/salt_crystals.png`
+- **Asset Path**: `assets/items/salt_crystals.png`

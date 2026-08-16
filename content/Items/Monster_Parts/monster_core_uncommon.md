@@ -14,4 +14,4 @@ title: "Uncommon Monster Core"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_core_uncommon`
-- **Asset Path**: `items/monster_core_uncommon.png`
+- **Asset Path**: `assets/items/monster_core_uncommon.png`

@@ -47,4 +47,4 @@ title: "Old Glass Bottle"
 - **Rarity**: Common
 
 - **Asset ID**: `old_glass_bottle`
-- **Asset Path**: `items/old_glass_bottle.png`
+- **Asset Path**: `assets/items/old_glass_bottle.png`

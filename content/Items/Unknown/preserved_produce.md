@@ -14,4 +14,4 @@ title: "Preserved Produce"
 - **Category**: Unknown
 
 - **Asset ID**: `preserved_produce`
-- **Asset Path**: `items/preserved_produce.png`
+- **Asset Path**: `assets/items/preserved_produce.png`

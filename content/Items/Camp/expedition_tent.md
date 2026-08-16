@@ -17,4 +17,4 @@ title: "Expedition Tent"
 - **Category**: Camp
 
 - **Asset ID**: `expedition_tent`
-- **Asset Path**: `items/expedition_tent.png`
+- **Asset Path**: `assets/items/expedition_tent.png`

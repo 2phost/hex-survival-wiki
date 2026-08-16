@@ -25,4 +25,4 @@ Conductive filament that still holds residual charge.
 - **Rarity**: Rare
 
 - **Asset ID**: `ionized_filament`
-- **Asset Path**: `items/ionized_filament.png`
+- **Asset Path**: `assets/items/ionized_filament.png`

@@ -16,4 +16,4 @@ title: "Signal Flare"
 - **Category**: Light
 
 - **Asset ID**: `signal_flare`
-- **Asset Path**: `items/signal_flare.png`
+- **Asset Path**: `assets/items/signal_flare.png`

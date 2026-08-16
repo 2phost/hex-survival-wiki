@@ -33,4 +33,4 @@ Heavy anchor bolts used to pin barricades into stone.
 - **Rarity**: Common
 
 - **Asset ID**: `quarry_bolts`
-- **Asset Path**: `items/quarry_bolts.png`
+- **Asset Path**: `assets/items/quarry_bolts.png`

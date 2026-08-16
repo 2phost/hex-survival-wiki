@@ -43,4 +43,4 @@ title: "Clean Water"
 - **Rarity**: Common
 
 - **Asset ID**: `water`
-- **Asset Path**: `items/water.png`
+- **Asset Path**: `assets/items/water.png`

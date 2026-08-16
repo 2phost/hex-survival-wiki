@@ -29,4 +29,4 @@ Heat-resistant coil assembly from generators and lab furnaces.
 - **Rarity**: Rare
 
 - **Asset ID**: `thermal_coil`
-- **Asset Path**: `items/thermal_coil.png`
+- **Asset Path**: `assets/items/thermal_coil.png`

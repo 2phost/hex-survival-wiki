@@ -14,4 +14,4 @@ title: "Rare Monster Bone"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_bone_rare`
-- **Asset Path**: `items/monster_bone_rare.png`
+- **Asset Path**: `assets/items/monster_bone_rare.png`

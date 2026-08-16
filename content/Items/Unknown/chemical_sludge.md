@@ -38,4 +38,4 @@ title: "Chemical Sludge"
 - **Rarity**: Rare
 
 - **Asset ID**: `chemical_sludge`
-- **Asset Path**: `items/chemical_sludge.png`
+- **Asset Path**: `assets/items/chemical_sludge.png`

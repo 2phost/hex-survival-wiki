@@ -32,4 +32,4 @@ Luminous spore clusters that thrive in damp and irradiated zones.
 - **Rarity**: Common
 
 - **Asset ID**: `fungal_spores`
-- **Asset Path**: `items/fungal_spores.png`
+- **Asset Path**: `assets/items/fungal_spores.png`

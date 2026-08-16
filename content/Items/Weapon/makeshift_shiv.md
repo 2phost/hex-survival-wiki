@@ -38,4 +38,4 @@ A sharpened scrap spike wrapped with cloth. Basic self-defense weapon with high 
 - **Category**: Weapon
 
 - **Asset ID**: `makeshift_shiv`
-- **Asset Path**: `items/makeshift_shiv.png`
+- **Asset Path**: `assets/items/makeshift_shiv.png`

@@ -14,4 +14,4 @@ title: "Mythic Monster Chitin"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_chitin_mythic`
-- **Asset Path**: `items/monster_chitin_mythic.png`
+- **Asset Path**: `assets/items/monster_chitin_mythic.png`

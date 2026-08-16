@@ -44,4 +44,4 @@ Produced by Industrial facilities Biome
 - **Requirement**: Field Engineering Level 2
 
 - **Asset ID**: `shock_capacitor`
-- **Asset Path**: `items/shock_capacitor.png`
+- **Asset Path**: `assets/items/shock_capacitor.png`

@@ -32,4 +32,4 @@ Highly unstable particulate recovered from collapsed energy cores.
 - **Rarity**: Mythic
 
 - **Asset ID**: `reactor_dust`
-- **Asset Path**: `items/reactor_dust.png`
+- **Asset Path**: `assets/items/reactor_dust.png`

@@ -14,4 +14,4 @@ title: "Raw Fish"
 - **Category**: Unknown
 
 - **Asset ID**: `raw_fish`
-- **Asset Path**: `items/raw_fish.png`
+- **Asset Path**: `assets/items/raw_fish.png`

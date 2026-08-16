@@ -39,4 +39,4 @@ title: "Glowing Mushroom"
 - **Rarity**: Common
 
 - **Asset ID**: `glowing_mushroom`
-- **Asset Path**: `items/glowing_mushroom.png`
+- **Asset Path**: `assets/items/glowing_mushroom.png`

@@ -34,4 +34,4 @@ Produced by Electronic Labs Biome
 - **Requirement**: Field Engineering Level 3
 
 - **Asset ID**: `signal_emitter`
-- **Asset Path**: `items/signal_emitter.png`
+- **Asset Path**: `assets/items/signal_emitter.png`

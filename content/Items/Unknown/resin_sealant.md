@@ -32,4 +32,4 @@ Hardened organic sealant cultivated in powered Farm facilities to weatherproof f
 - **Requirement**: Field Engineering Level 1
 
 - **Asset ID**: `resin_sealant`
-- **Asset Path**: `items/resin_sealant.png`
+- **Asset Path**: `assets/items/resin_sealant.png`

@@ -33,4 +33,4 @@ Dented fuel container. Scrap metal at best.
 - **Item ID**: `empty_canister`
 - **Rarity**: Common
 - **Asset ID**: `empty_canister`
-- **Asset Path**: `items/empty_canister.png`
+- **Asset Path**: `assets/items/empty_canister.png`

@@ -47,4 +47,4 @@ title: "Hardened Stone"
 - **Rarity**: Common
 
 - **Asset ID**: `stone`
-- **Asset Path**: `items/stone.png`
+- **Asset Path**: `assets/items/stone.png`

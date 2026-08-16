@@ -32,4 +32,4 @@ Corroded metal tool. Can be broken down for raw materials. Weapon: deals 1 monst
 - **Rarity**: Common
 - **Category**: Weapon
 - **Asset ID**: `rusty_tool`
-- **Asset Path**: `items/rusty_tool.png`
+- **Asset Path**: `assets/items/rusty_tool.png`

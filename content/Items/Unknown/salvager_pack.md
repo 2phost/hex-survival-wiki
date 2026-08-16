@@ -4,7 +4,7 @@ title: "Salvager Pack"
 
 # Item: [[Items/Unknown/salvager_pack|Salvager Pack]]
 
-![[assets/items/worn_leather_pack.png|150]]
+![[assets/items/salvager_pack.png|150]]
 
 A reinforced scav bag with extra loops and pouches. Increases carried inventory by +2 slots while carried. Rare to find, but can be assembled from field materials.
 
@@ -44,4 +44,4 @@ A reinforced scav bag with extra loops and pouches. Increases carried inventory 
 - **Rarity**: Rare
 
 - **Asset ID**: `salvager_pack`
-- **Asset Path**: `items/worn_leather_pack.png`
+- **Asset Path**: `assets/items/salvager_pack.png`

@@ -20,4 +20,4 @@ title: "Fabrication Hauler Drone"
 - **Category**: Unknown
 
 - **Asset ID**: `hauler_drone`
-- **Asset Path**: `items/hauler_drone.png`
+- **Asset Path**: `assets/items/hauler_drone.png`

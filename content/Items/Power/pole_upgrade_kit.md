@@ -21,4 +21,4 @@ title: "Pole Upgrade Kit"
 - **Category**: Power
 
 - **Asset ID**: `pole_upgrade_kit`
-- **Asset Path**: `items/pole_upgrade_kit.png`
+- **Asset Path**: `assets/items/pole_upgrade_kit.png`

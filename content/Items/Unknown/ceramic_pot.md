@@ -26,4 +26,4 @@ title: "Ceramic Pot"
 - **Category**: Unknown
 
 - **Asset ID**: `ceramic_pot`
-- **Asset Path**: `items/ceramic_pot.png`
+- **Asset Path**: `assets/items/ceramic_pot.png`

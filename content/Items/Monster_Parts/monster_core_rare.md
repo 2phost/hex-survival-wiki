@@ -18,4 +18,4 @@ title: "Rare Monster Core"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_core_rare`
-- **Asset Path**: `items/monster_core_rare.png`
+- **Asset Path**: `assets/items/monster_core_rare.png`

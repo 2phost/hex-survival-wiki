@@ -4,7 +4,7 @@ title: "Neurotoxin Mace"
 
 # Item: [[Items/Unknown/mace_spray_mythic|Neurotoxin Mace]]
 
-![[assets/items/mace_spray_mythic.png|150]]
+![[assets/items/neurotoxin_mace.png|150]]
 
 ## Where to Find
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.4% drop chance
@@ -17,4 +17,4 @@ title: "Neurotoxin Mace"
 - **Category**: Unknown
 
 - **Asset ID**: `mace_spray_mythic`
-- **Asset Path**: `items/mace_spray_mythic.png`
+- **Asset Path**: `assets/items/neurotoxin_mace.png`

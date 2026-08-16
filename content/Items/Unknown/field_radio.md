@@ -4,7 +4,7 @@ title: "Field Radio"
 
 # Item: [[Items/Unknown/field_radio|Field Radio]]
 
-![[assets/items/field_radio.png|150]]
+![[assets/items/broken_radio.png|150]]
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
@@ -20,4 +20,4 @@ title: "Field Radio"
 - **Category**: Unknown
 
 - **Asset ID**: `field_radio`
-- **Asset Path**: `items/field_radio.png`
+- **Asset Path**: `assets/items/broken_radio.png`

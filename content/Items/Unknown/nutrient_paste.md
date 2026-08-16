@@ -18,4 +18,4 @@ title: "Nutrient Paste"
 - **Category**: Unknown
 
 - **Asset ID**: `nutrient_paste`
-- **Asset Path**: `items/nutrient_paste.png`
+- **Asset Path**: `assets/items/nutrient_paste.png`

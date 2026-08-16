@@ -33,4 +33,4 @@ Repaired optics that improve your field awareness. Use to reveal the biome of ad
 ### Consumable Stats
 
 - **Asset ID**: `restored_binoculars`
-- **Asset Path**: `items/broken_binoculars.png`
+- **Asset Path**: `assets/items/broken_binoculars.png`

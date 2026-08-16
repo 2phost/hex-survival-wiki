@@ -37,4 +37,4 @@ This gasoline generator can probably power your house for a long time.
 - **Rarity**: Rare
 - **Category**: Power
 - **Asset ID**: `gasoline_generator`
-- **Asset Path**: `items/gasoline_generator.png`
+- **Asset Path**: `assets/items/gasoline_generator.png`

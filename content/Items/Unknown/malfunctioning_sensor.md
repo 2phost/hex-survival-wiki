@@ -39,4 +39,4 @@ Faulty detection unit. Electronics inside may be recoverable.
 - **Item ID**: `malfunctioning_sensor`
 - **Rarity**: Rare
 - **Asset ID**: `malfunctioning_sensor`
-- **Asset Path**: `items/malfunctioning_sensor.png`
+- **Asset Path**: `assets/items/malfunctioning_sensor.png`

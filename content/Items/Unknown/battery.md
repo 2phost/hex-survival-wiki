@@ -50,4 +50,4 @@ title: "Battery"
 - **Rarity**: Common
 
 - **Asset ID**: `battery`
-- **Asset Path**: `items/battery.png`
+- **Asset Path**: `assets/items/battery.png`

@@ -14,4 +14,4 @@ title: "Mythic Monster Core"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_core_mythic`
-- **Asset Path**: `items/monster_core_mythic.png`
+- **Asset Path**: `assets/items/monster_core_mythic.png`

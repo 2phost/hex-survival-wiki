@@ -30,4 +30,4 @@ Damaged actuator unit with salvageable precision parts.
 - **Rarity**: Rare
 
 - **Asset ID**: `fractured_servo`
-- **Asset Path**: `items/fractured_servo.png`
+- **Asset Path**: `assets/items/fractured_servo.png`

@@ -40,4 +40,4 @@ Optical glass from damaged equipment.
 - **Item ID**: `cracked_lens`
 - **Rarity**: Common
 - **Asset ID**: `cracked_lens`
-- **Asset Path**: `items/cracked_lens.png`
+- **Asset Path**: `assets/items/cracked_lens.png`

@@ -22,4 +22,4 @@ title: "Canned Beans"
 - **Category**: Unknown
 
 - **Asset ID**: `canned_beans`
-- **Asset Path**: `items/canned_beans.png`
+- **Asset Path**: `assets/items/canned_beans.png`

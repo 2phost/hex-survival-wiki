@@ -47,4 +47,4 @@ A long haft tipped with forged scrap. Reliable reach compared to improvised kniv
 - **Category**: Weapon
 
 - **Asset ID**: `scrap_spear`
-- **Asset Path**: `items/scrap_spear.png`
+- **Asset Path**: `assets/items/scrap_spear.png`

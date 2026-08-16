@@ -4,7 +4,7 @@ title: "Calibrated Sensor"
 
 # Item: [[Items/Unknown/calibrated_sensor|Calibrated Sensor]]
 
-![[assets/items/calibrated_sensor.png|150]]
+![[assets/items/malfunctioning_sensor.png|150]]
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
@@ -18,4 +18,4 @@ title: "Calibrated Sensor"
 - **Category**: Unknown
 
 - **Asset ID**: `calibrated_sensor`
-- **Asset Path**: `items/calibrated_sensor.png`
+- **Asset Path**: `assets/items/malfunctioning_sensor.png`

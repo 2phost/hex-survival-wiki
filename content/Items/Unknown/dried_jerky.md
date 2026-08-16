@@ -21,4 +21,4 @@ title: "Dried Jerky"
 - **Category**: Unknown
 
 - **Asset ID**: `dried_jerky`
-- **Asset Path**: `items/dried_jerky.png`
+- **Asset Path**: `assets/items/dried_jerky.png`

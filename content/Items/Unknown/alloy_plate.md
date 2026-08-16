@@ -35,4 +35,4 @@ Produced by Industrial facilities Biome
 - **Requirement**: Field Engineering Level 1
 
 - **Asset ID**: `alloy_plate`
-- **Asset Path**: `items/alloy_plate.png`
+- **Asset Path**: `assets/items/alloy_plate.png`

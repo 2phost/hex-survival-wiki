@@ -26,4 +26,4 @@ title: "Salad"
 - **Rarity**: Common
 
 - **Asset ID**: `salad`
-- **Asset Path**: `items/salad.png`
+- **Asset Path**: `assets/items/salad.png`

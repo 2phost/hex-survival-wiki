@@ -14,4 +14,4 @@ title: "Rare Monster Sinew"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_sinew_rare`
-- **Asset Path**: `items/monster_sinew_rare.png`
+- **Asset Path**: `assets/items/monster_sinew_rare.png`

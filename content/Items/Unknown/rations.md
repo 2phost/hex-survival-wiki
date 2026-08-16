@@ -29,4 +29,4 @@ title: "Rations"
 - **Rarity**: Common
 
 - **Asset ID**: `rations`
-- **Asset Path**: `items/rations.png`
+- **Asset Path**: `assets/items/rations.png`

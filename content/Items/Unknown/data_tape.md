@@ -29,4 +29,4 @@ Analog storage reels containing fragmentary technical records.
 - **Rarity**: Rare
 
 - **Asset ID**: `data_tape`
-- **Asset Path**: `items/data_tape.png`
+- **Asset Path**: `assets/items/data_tape.png`

@@ -35,4 +35,4 @@ Produced by Electronic Labs Biome
 - **Requirement**: Field Engineering Level 2
 
 - **Asset ID**: `threat_sensor_array`
-- **Asset Path**: `items/threat_sensor_array.png`
+- **Asset Path**: `assets/items/threat_sensor_array.png`

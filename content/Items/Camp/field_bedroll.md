@@ -19,4 +19,4 @@ title: "Field Bedroll"
 - **Category**: Camp
 
 - **Asset ID**: `field_bedroll`
-- **Asset Path**: `items/field_bedroll.png`
+- **Asset Path**: `assets/items/field_bedroll.png`

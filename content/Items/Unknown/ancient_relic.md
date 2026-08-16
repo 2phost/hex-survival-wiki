@@ -35,4 +35,4 @@ title: "Ancient Relic"
 - **Rarity**: Mythic
 
 - **Asset ID**: `ancient_relic`
-- **Asset Path**: `items/ancient_relic.png`
+- **Asset Path**: `assets/items/ancient_relic.png`

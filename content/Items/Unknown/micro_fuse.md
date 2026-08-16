@@ -35,4 +35,4 @@ Tiny protective fuse used in sensitive control circuits.
 - **Rarity**: Rare
 
 - **Asset ID**: `micro_fuse`
-- **Asset Path**: `items/micro_fuse.png`
+- **Asset Path**: `assets/items/micro_fuse.png`

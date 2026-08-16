@@ -81,4 +81,4 @@ Electrical wiring for connecting solar panels to the grid.
 - **Rarity**: Common
 
 - **Asset ID**: `copper_wiring`
-- **Asset Path**: `items/copper_wiring.png`
+- **Asset Path**: `assets/items/copper_wiring.png`

@@ -44,4 +44,4 @@ Produced by Industrial facilities Biome
 - **Requirement**: Field Engineering Level 1
 
 - **Asset ID**: `hardened_actuator`
-- **Asset Path**: `items/hardened_actuator.png`
+- **Asset Path**: `assets/items/hardened_actuator.png`

@@ -34,4 +34,4 @@ Shattered optics. Glass and metal casing can be salvaged.
 - **Item ID**: `broken_binoculars`
 - **Rarity**: Common
 - **Asset ID**: `broken_binoculars`
-- **Asset Path**: `items/broken_binoculars.png`
+- **Asset Path**: `assets/items/broken_binoculars.png`

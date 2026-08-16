@@ -35,4 +35,4 @@ A rare pre-collapse polearm retrofitted with a stabilized plasma channel.
 - **Category**: Weapon
 
 - **Asset ID**: `plasma_lance`
-- **Asset Path**: `items/plasma_lance.png`
+- **Asset Path**: `assets/items/plasma_lance.png`

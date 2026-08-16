@@ -14,4 +14,4 @@ title: "Bottle of Water"
 - **Category**: Unknown
 
 - **Asset ID**: `water_bottle`
-- **Asset Path**: `items/water_bottle.png`
+- **Asset Path**: `assets/items/water_bottle.png`

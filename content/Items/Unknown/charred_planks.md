@@ -37,4 +37,4 @@ Half-burned construction wood that can still be repurposed.
 - **Rarity**: Common
 
 - **Asset ID**: `charred_planks`
-- **Asset Path**: `items/charred_planks.png`
+- **Asset Path**: `assets/items/charred_planks.png`

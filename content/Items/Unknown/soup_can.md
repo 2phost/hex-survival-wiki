@@ -22,4 +22,4 @@ title: "Soup Can"
 - **Category**: Unknown
 
 - **Asset ID**: `soup_can`
-- **Asset Path**: `items/soup_can.png`
+- **Asset Path**: `assets/items/soup_can.png`

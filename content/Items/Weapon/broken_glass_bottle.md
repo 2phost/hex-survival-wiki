@@ -14,4 +14,4 @@ title: "Broken Glass Bottle"
 - **Category**: Weapon
 
 - **Asset ID**: `broken_glass_bottle`
-- **Asset Path**: `items/broken_glass_bottle.png`
+- **Asset Path**: `assets/items/broken_glass_bottle.png`

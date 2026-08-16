@@ -31,4 +31,4 @@ title: "Gasoline Generator (empty)"
 - **Rarity**: Common
 
 - **Asset ID**: `gasoline_generator_empty`
-- **Asset Path**: `items/gasoline_generator.png`
+- **Asset Path**: `assets/items/gasoline_generator.png`

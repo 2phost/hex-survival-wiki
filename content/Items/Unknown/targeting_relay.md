@@ -44,4 +44,4 @@ Produced by Electronic Labs Biome
 - **Requirement**: Field Engineering Level 1
 
 - **Asset ID**: `targeting_relay`
-- **Asset Path**: `items/targeting_relay.png`
+- **Asset Path**: `assets/items/targeting_relay.png`

@@ -14,4 +14,4 @@ title: "Hide Scrap"
 - **Category**: Unknown
 
 - **Asset ID**: `hide_scrap`
-- **Asset Path**: `items/hide_scrap.png`
+- **Asset Path**: `assets/items/hide_scrap.png`

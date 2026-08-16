@@ -31,4 +31,4 @@ Used directly on a corrupted tile to return it to its base biome state.
 - **Category**: Consumable
 
 - **Asset ID**: `cleanse_vial`
-- **Asset Path**: `items/cleanse_vial.png`
+- **Asset Path**: `assets/items/cleanse_vial.png`

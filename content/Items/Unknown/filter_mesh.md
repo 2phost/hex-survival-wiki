@@ -44,4 +44,4 @@ Fine wire mesh from masks and vents; still usable for filtration rigs.
 - **Rarity**: Common
 
 - **Asset ID**: `filter_mesh`
-- **Asset Path**: `items/filter_mesh.png`
+- **Asset Path**: `assets/items/filter_mesh.png`

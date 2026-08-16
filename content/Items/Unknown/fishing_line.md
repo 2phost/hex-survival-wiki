@@ -24,4 +24,4 @@ title: "Fishing Line"
 - **Category**: Unknown
 
 - **Asset ID**: `fishing_line`
-- **Asset Path**: `items/fishing_line.png`
+- **Asset Path**: `assets/items/fishing_line.png`

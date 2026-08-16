@@ -28,4 +28,4 @@ Clustered charge capacitors suitable for energy buffering projects.
 - **Rarity**: Rare
 
 - **Asset ID**: `capacitor_bank`
-- **Asset Path**: `items/capacitor_bank.png`
+- **Asset Path**: `assets/items/capacitor_bank.png`

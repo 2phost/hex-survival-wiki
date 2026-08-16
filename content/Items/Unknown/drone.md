@@ -28,4 +28,4 @@ A single-use autonomous courier drone. Load up to 4 items, then send it back to 
 - **Requirement**: Drone Operator Level 2
 
 - **Asset ID**: `drone`
-- **Asset Path**: `items/drone.png`
+- **Asset Path**: `assets/items/drone.png`

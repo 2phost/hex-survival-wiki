@@ -14,4 +14,4 @@ title: "Rare Monster Gland"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_gland_rare`
-- **Asset Path**: `items/monster_gland_rare.png`
+- **Asset Path**: `assets/items/monster_gland_rare.png`

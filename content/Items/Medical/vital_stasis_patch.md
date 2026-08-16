@@ -19,4 +19,4 @@ title: "Vital Stasis Patch"
 - **Category**: Medical
 
 - **Asset ID**: `vital_stasis_patch`
-- **Asset Path**: `items/vital_stasis_patch.png`
+- **Asset Path**: `assets/items/vital_stasis_patch.png`

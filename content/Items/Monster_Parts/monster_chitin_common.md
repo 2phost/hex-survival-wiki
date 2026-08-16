@@ -18,4 +18,4 @@ title: "Common Monster Chitin"
 - **Category**: Monster Parts
 
 - **Asset ID**: `monster_chitin_common`
-- **Asset Path**: `items/monster_chitin_common.png`
+- **Asset Path**: `assets/items/monster_chitin_common.png`

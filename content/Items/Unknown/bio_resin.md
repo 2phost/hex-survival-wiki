@@ -35,4 +35,4 @@ Sticky organic resin harvested from mutated plant growth.
 - **Rarity**: Common
 
 - **Asset ID**: `bio_resin`
-- **Asset Path**: `items/bio_resin.png`
+- **Asset Path**: `assets/items/bio_resin.png`

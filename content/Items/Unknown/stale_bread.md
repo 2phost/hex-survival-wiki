@@ -22,4 +22,4 @@ title: "Stale Bread"
 - **Category**: Unknown
 
 - **Asset ID**: `stale_bread`
-- **Asset Path**: `items/stale_bread.png`
+- **Asset Path**: `assets/items/stale_bread.png`

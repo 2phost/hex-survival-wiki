@@ -4,7 +4,7 @@ title: "Vault Access Key"
 
 # Item: [[Items/Unknown/vault_access_key|Vault Access Key]]
 
-![[assets/items/vault_access_key.png|150]]
+![[assets/items/vault_key_fragment.png|150]]
 
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
@@ -18,4 +18,4 @@ title: "Vault Access Key"
 - **Category**: Unknown
 
 - **Asset ID**: `vault_access_key`
-- **Asset Path**: `items/vault_access_key.png`
+- **Asset Path**: `assets/items/vault_key_fragment.png`

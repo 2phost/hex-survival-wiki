@@ -14,4 +14,4 @@ title: "Cactus Pulp"
 - **Category**: Unknown
 
 - **Asset ID**: `cactus_pulp`
-- **Asset Path**: `items/cactus_pulp.png`
+- **Asset Path**: `assets/items/cactus_pulp.png`

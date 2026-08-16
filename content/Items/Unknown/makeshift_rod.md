@@ -20,4 +20,4 @@ title: "Makeshift Rod"
 - **Category**: Unknown
 
 - **Asset ID**: `makeshift_rod`
-- **Asset Path**: `items/makeshift_rod.png`
+- **Asset Path**: `assets/items/makeshift_rod.png`

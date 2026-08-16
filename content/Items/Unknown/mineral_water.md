@@ -22,4 +22,4 @@ title: "Mineral Water"
 - **Category**: Unknown
 
 - **Asset ID**: `mineral_water`
-- **Asset Path**: `items/mineral_water.png`
+- **Asset Path**: `assets/items/mineral_water.png`
