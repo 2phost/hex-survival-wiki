@@ -26,10 +26,10 @@ Players can engage monsters by moving onto a hex containing a horde and selectin
 
 ### Combat Consumables
 Players can also use consumable items to gain a tactical advantage when fighting hordes on a hex.
-- <img src="../../assets/items/mace_spray_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_common|Irritant Mace]]**: Cuts monster strike-back damage by 15%.
-- <img src="../../assets/items/mace_spray_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_uncommon|Concentrated Mace]]**: Cuts monster strike-back damage by 25%.
-- <img src="../../assets/items/mace_spray_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_rare|Military Mace]]**: Cuts monster strike-back damage by 35%.
-- <img src="../../assets/items/mace_spray_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_mythic|Neurotoxin Mace]]**: Cuts monster strike-back damage by 50%.
+- <img src="../../assets/items/irritant_mace.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_common|Irritant Mace]]**: Cuts monster strike-back damage by 15%.
+- <img src="../../assets/items/concentrated_mace.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_uncommon|Concentrated Mace]]**: Cuts monster strike-back damage by 25%.
+- <img src="../../assets/items/military_mace.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_rare|Military Mace]]**: Cuts monster strike-back damage by 35%.
+- <img src="../../assets/items/neurotoxin_mace.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_mythic|Neurotoxin Mace]]**: Cuts monster strike-back damage by 50%.
 
 ---
 
