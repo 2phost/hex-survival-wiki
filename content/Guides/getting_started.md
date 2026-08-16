@@ -16,33 +16,34 @@ Your survival depends on these three immediate actions:
 
 ## 2. Stay in the Light (The Golden Rule)
 The "Darkness" in this world is lethal.
-- **Lethal Darkness**: Moving into a dark hex without a light source increases your **[[Vitals/fear|Fear]]**. If your Fear meter reaches its **3-bar maximum**, you die instantly: **"Consumed by darkness."**
-- **[[Vitals/fear|Fear System]]**: Entering dark tiles without a lamp increases your **Fear** stat.
+- **Lethal Darkness**: Moving into an unlit, unexplored hex without a light source results in immediate death. 
+- **[[Vitals/fear|Fear System]]**: Standing in unlit hexes or remembered tiles without a lamp increases your **Fear** stat.
  - **Penalties**: High Fear imposes massive penalties to scavenging and skill checks.
- - **Recovery**: Fear is recovered by **Resting** on lit tiles (**[[Base/overview|Base]]** or **[[Items/power_pole|Power Pole]]**).
-- **[[Items/power_pole|Power Poles]]**: These create permanently lit areas. A powered pole illuminates only its **current tile (0-hex radius)**.
+ - **Fear Paralysis**: If your Fear meter reaches its **3-bar maximum**, you enter Fear Paralysis and cannot move until light is restored.
+ - **Recovery**: Fear is recovered by **Resting** on lit tiles (**[[Base/overview|Base]]** or **[[Items/Power/power_pole|Power Pole]]**).
+- **[[Items/Power/power_pole|Power Poles]]**: These create permanently lit areas. A powered pole illuminates only its **current tile (0-hex radius)**.
 - **The [[Mechanisms/midnight_cycle|Midnight]] Trap**: Hunger and Thirst drain by **40%** at Midnight. If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex *before* the clock hits zero.
 
 ## 3. Managing Your Vitals
-You have four status bars: **[[Vitals/hunger|Hunger]]**, **[[Vitals/thirst|Thirst]]**, **[[Vitals/fear|Fear]]**, and **[[Vitals/action_points|Action Points]] (AP)**.
+You have five status bars: **[[Vitals/health|Health]]**, **[[Vitals/hunger|Hunger]]**, **[[Vitals/thirst|Thirst]]**, **[[Vitals/fear|Fear]]**, and **[[Vitals/action_points|Action Points]] (AP)**.
 - **Find Water and Rations**: Head to an **[[Biomes/oasis|Oasis]]** or the **[[Biomes/farm_facility|Human Farm Facility]]** early on to stockpile resources.
-- **Consuming Items**: Use the inventory menu to drink water or eat rations. **Basic food and water restore +1 AP.**
+- **Consuming Items**: Use the inventory menu to drink water or eat rations. **Basic food and water restore +2 AP.**
 - **AP Management**: Every movement costs 1 AP. **Scavenging is free.** If you run out, set your activity to **Resting** to recover **1 AP per hour**.
 
 ## 4. Expanding Your Inventory
 You start with only **5 slots**. To carry more, you must craft specialized gear:
-- **[[Items/salvager_pack|Salvager Pack]]**: Increases capacity by **+2 slots**.
+- **[[Items/Unknown/salvager_pack|Salvager Pack]]**: Increases capacity by **+2 slots**.
 - **[[Skills/pack_mule|Pack Mule Skill]]**: Increases capacity by **+1 slot per level**.
 
 ## 5. Your First Expedition
 Check the **[[Mechanisms/expedition_objectives|Expedition Objectives]]** (top of the screen).
-- **Cargo Drones**: If you find a **[[Items/drone|Cargo Drone]]**, you can send 4 items back to base instantly (requires **[[Skills/drone_operator|Drone Operator Lvl 2]]**).
+- **Cargo Drones**: If you find a **[[Items/Unknown/drone|Cargo Drone]]**, you can send 4 items back to base instantly (requires **[[Skills/drone_operator|Drone Operator Lvl 2]]**).
 - **Corrupted Relays**: If these aren't disabled (requires 2 AP), search chances town-wide will drop significantly.
 
 ## 6. Building Infrastructure and Power
-Once you have **1 Copper Wiring** and **1 Scrap Metal**, use the **Inventory -> Recipes** menu to craft a **[[Items/power_pole|Power Pole]]**.
+Once you have **1 Copper Wiring** and **1 Scrap Metal**, use the **Inventory -> Recipes** menu to craft a **[[Items/Power/power_pole|Power Pole]]**.
 - **Placement**: Place it on a tile adjacent to the Base or an existing pole.
-- **Refueling**: Deposit **[[Items/gasoline_canister|Gasoline Canisters]]** in the **Town Bank**. With the **[[Skills/generator_operations|Generator Operations]]** skill, you can use the **"Refuel"** button in the **[[Base/index|Base Menu]]**.
+- **Refueling**: Deposit **[[Items/Fuel/gasoline_canister|Gasoline Canisters]]** in the **Town Bank**. With the **[[Skills/generator_operations|Generator Operations]]** skill, you can use the **"Refuel"** button in the **[[Base/index|Base Menu]]**.
 
 ## 7. Scouting the Unknown
 The map starts empty. Reveal it by moving.
