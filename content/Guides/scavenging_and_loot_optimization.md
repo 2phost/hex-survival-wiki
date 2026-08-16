@@ -2,7 +2,7 @@
 title: "Scavenging & Loot Optimization"
 ---
 
-# Guide: [[Mechanisms/scavenging_logic|Scavenging]] & Loot Optimization
+# Guide: [[Mechanisms/Core/scavenging_logic|Scavenging]] & Loot Optimization
 
 Success in Hex Survival depends on knowing where to find what you need and how to extract the most value from every item.
 

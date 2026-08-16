@@ -14,7 +14,7 @@ When a player is standing on the **[[Base/overview|Base]]** hex, a context-sensi
 The Bank is a shared inventory system that allows all survivors in a town to contribute to collective goals.
 - **Function**: Items deposited here are available for base construction projects and refueling.
 - **Depositing**: Clicking items in your personal inventory while in the Base menu moves them to the Bank.
-- **Withdrawing**: Players can withdraw items from the Bank into their limited **[[Mechanisms/inventory_management|Personal Inventory]]**.
+- **Withdrawing**: Players can withdraw items from the Bank into their limited **[[Mechanisms/Interface/inventory_management|Personal Inventory]]**.
 - **Town Resource Log**: All resource changes—including deposits, construction costs, and refueling—are recorded here for transparency, accessible directly within the base menu.
 - **Collaboration**: Banking materials like **Timber**, **Stone**, and **Scrap Metal** is essential for building critical infrastructure like the **[[Builds/watchtower|Watchtower]]**.
 
@@ -31,7 +31,7 @@ When fuel items are in the **Town Bank**, a **"Refuel"** button appears in the B
  - **[[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]]**: +60% Power (Lvl 3).
 
 ## 3. Power Consumption
-The Base menu also displays **"Night Use"**, which indicates the predicted town-wide power drain during the **[[Mechanisms/midnight_cycle|Midnight]]** transition. This drain is increased by expansion of the grid and active **[[Mechanisms/facility_fabrication|Fabrication]]** projects (+20% each). Keeping the town's power level above this number is the primary survival objective. **If town power hits 0%, the town instance ends.**
+The Base menu also displays **"Night Use"**, which indicates the predicted town-wide power drain during the **[[Mechanisms/Core/midnight_cycle|Midnight]]** transition. This drain is increased by expansion of the grid and active **[[Mechanisms/Crafting/facility_fabrication|Fabrication]]** projects (+20% each). Keeping the town's power level above this number is the primary survival objective. **If town power hits 0%, the town instance ends.**
 
 ## 4. Town Defenses
 The Town Bank also fuels the construction of the primary defense ring. Each upgrade increases the town's **Defense Value**, reducing the severity of nightly monster breaches.

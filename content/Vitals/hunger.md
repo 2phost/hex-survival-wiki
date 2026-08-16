@@ -6,8 +6,8 @@ title: "Hunger"
 
 Hunger is a primary survival vital in Hex Survival. Failing to manage your hunger levels will lead to eventual death.
 
-## 1. The [[Mechanisms/midnight_cycle|Midnight]] Drain
-At **[[Mechanisms/midnight_cycle|Midnight]]**, every player's hunger bar is reduced by **40% (4 bars out of 10)**. This "Midnight Toll" is the most significant source of hunger loss and requires players to eat before the day transitions.
+## 1. The [[Mechanisms/Core/midnight_cycle|Midnight]] Drain
+At **[[Mechanisms/Core/midnight_cycle|Midnight]]**, every player's hunger bar is reduced by **40% (4 bars out of 10)**. This "Midnight Toll" is the most significant source of hunger loss and requires players to eat before the day transitions.
 
 ## 2. Restoring Hunger
 Hunger is restored by consuming food items. Note that some items (like Stims) actually *increase* hunger as a side effect of their power boost.

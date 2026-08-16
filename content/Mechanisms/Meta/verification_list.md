@@ -2,7 +2,7 @@
 title: "Verification List"
 ---
 
-# Mechanism: [[Mechanisms/verification_list|Verification List]] (Required Testing)
+# Mechanism: [[Mechanisms/Meta/verification_list|Verification List]] (Required Testing)
 
 These are the confirmed mechanics and remaining "known unknowns" based on the latest available data.
 
@@ -30,10 +30,10 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Midnight Cycle**: 40% Hunger/Thirst drain at Midnight.
 - **Binoculars**: **[[Items/Unknown/restored_binoculars|Restored Binoculars]]** reveal adjacent biome types while moving.
 
-## 2. Vitals & The "[[Mechanisms/midnight_cycle|Midnight]] Toll"
-- **Attack Monsters AP**: (Testing) Does the "Attack Monsters" action cost AP? See **[[Mechanisms/inferred_mechanics|Inferred Mechanics]]**.
-- **Hourly Drain**: (Testing) Confirm if Hunger/Thirst drains at a fixed hourly rate *in addition* to the 40% Midnight Toll. See **[[Mechanisms/inferred_mechanics|Inferred Mechanics]]**.
+## 2. Vitals & The "[[Mechanisms/Core/midnight_cycle|Midnight]] Toll"
+- **Attack Monsters AP**: (Testing) Does the "Attack Monsters" action cost AP? See **[[Mechanisms/Meta/inferred_mechanics|Inferred Mechanics]]**.
+- **Hourly Drain**: (Testing) Confirm if Hunger/Thirst drains at a fixed hourly rate *in addition* to the 40% Midnight Toll. See **[[Mechanisms/Meta/inferred_mechanics|Inferred Mechanics]]**.
 
 ## 3. Map & Monsters
-- **Monster Scaling**: (Testing) Does horde strength or spawn rate increase with Town Level or survival days? See **[[Mechanisms/inferred_mechanics|Inferred Mechanics]]**.
-- **Relay Penalties**: (Testing) Quantify the exact search penalty imposed by corrupted relays. See **[[Mechanisms/inferred_mechanics|Inferred Mechanics]]**.
+- **Monster Scaling**: (Testing) Does horde strength or spawn rate increase with Town Level or survival days? See **[[Mechanisms/Meta/inferred_mechanics|Inferred Mechanics]]**.
+- **Relay Penalties**: (Testing) Quantify the exact search penalty imposed by corrupted relays. See **[[Mechanisms/Meta/inferred_mechanics|Inferred Mechanics]]**.

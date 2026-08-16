@@ -4,8 +4,6 @@ title: "Preserved Produce"
 
 # Item: [[Items/Unknown/preserved_produce|Preserved Produce]]
 
-![[assets/items/preserved_produce.png|150]]
-
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information

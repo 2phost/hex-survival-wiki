@@ -26,13 +26,13 @@ Detailed breakdown of every tile type and their loot tables.
 ### 📦 [[Items/index|Item Directory]]
 Complete list of all items, their stats, and usage.
 
-### ⚙️ [[Mechanisms/verification_list|Core Mechanisms]]
-Technical game logic: [[Mechanisms/midnight_cycle|Midnight Cycle]], [[Mechanisms/power_grid|Power Grid]], [[Mechanisms/scavenging_logic|Scavenging Logic]], [[Mechanisms/facility_fabrication|Facility Fabrication]], [[Mechanisms/exploration_logic|Exploration Logic]], and more.
+### ⚙️ [[Mechanisms/index|Core Mechanisms]]
+Technical game logic: [[Mechanisms/Core/midnight_cycle|Midnight Cycle]], [[Mechanisms/Core/power_grid|Power Grid]], [[Mechanisms/Core/scavenging_logic|Scavenging Logic]], [[Mechanisms/Crafting/facility_fabrication|Facility Fabrication]], [[Mechanisms/Core/exploration_logic|Exploration Logic]], and more.
 
 ### 🗺️ Expedition & Tracking
-- [[Mechanisms/expedition_objectives|Active Objectives]]
-- [[Mechanisms/patch_notes|Patch Notes]]
-- [[Mechanisms/verification_list|Verification List]]
+- [[Mechanisms/Meta/expedition_objectives|Active Objectives]]
+- [[Mechanisms/Meta/patch_notes|Patch Notes]]
+- [[Mechanisms/Meta/verification_list|Verification List]]
 
 ---
 *Maintained by the Hex Survival Documentation AI.*

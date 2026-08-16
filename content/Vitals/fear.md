@@ -16,7 +16,7 @@ Fear is a psychological status system added on March 5, 2026. it tracks the ment
 
 ## Penalties
 Fear imposes significant penalties on player efficiency:
-- **[[Mechanisms/scavenging_logic|Scavenging]] (Search)**: -10% success chance per Fear point (added to the base darkness penalty).
+- **[[Mechanisms/Core/scavenging_logic|Scavenging]] (Search)**: -10% success chance per Fear point (added to the base darkness penalty).
 - **[[Skills/index|Skill Checks]]**: -5% success chance per Fear point for all non-search skill checks.
 
 ## Fear Paralysis

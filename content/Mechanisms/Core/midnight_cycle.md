@@ -2,9 +2,9 @@
 title: "Midnight Cycle"
 ---
 
-# Mechanism: [[Mechanisms/midnight_cycle|Midnight Cycle]]
+# Mechanism: [[Mechanisms/Core/midnight_cycle|Midnight Cycle]]
 
-The **[[Mechanisms/midnight_cycle|Midnight Cycle]]** is the game's primary heartbeat. At exactly midnight, the server processes all global changes, resets specific player stats, and calculates the town's survival.
+The **[[Mechanisms/Core/midnight_cycle|Midnight Cycle]]** is the game's primary heartbeat. At exactly midnight, the server processes all global changes, resets specific player stats, and calculates the town's survival.
 
 ## 1. The Survival Toll
 The most critical part of the cycle is the survival check.
@@ -19,13 +19,13 @@ The darkness becomes active at midnight:
 - **Horde Gathering**: Newly spawned hordes spend one night in place before marching.
 
 ## 3. Town Siege & Defense
-The final check of the night is the town's security. Detailed math can be found in **[[Mechanisms/combat_and_defense|Combat & Defense]]**.
+The final check of the night is the town's security. Detailed math can be found in **[[Mechanisms/Combat/combat_and_defense|Combat & Defense]]**.
 - **Attack Calculation**: All hordes on the base tile contribute to the total **Attack Strength**.
 - **Defense Check**: If **Attack Strength > Town Defense**, the town is overrun and the game instance ends for all players.
 
 ## 4. Production & Logistics
 - **Facility Yields**: Resources from the **[[Builds/well|Well]]** and **[[Builds/hydroponic_patch|Hydroponic Patch]]** are added to the Town Bank.
-- **[[Mechanisms/facility_fabrication|Fabrication Completion]]**: Any items currently being fabricated on specific tiles (like Industrial or Electronics) are produced and placed on the ground at that tile.
+- **[[Mechanisms/Crafting/facility_fabrication|Fabrication Completion]]**: Any items currently being fabricated on specific tiles (like Industrial or Electronics) are produced and placed on the ground at that tile.
 - **Power Drain**: Daily town power drain is deducted from the generator.
 
 ## 5. Global Scaling

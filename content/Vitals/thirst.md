@@ -4,10 +4,10 @@ title: "Thirst"
 
 # Vital: [[Vitals/thirst|Thirst]]
 
-Thirst is a primary survival vital in Hex Survival. Because it drains daily at **[[Mechanisms/midnight_cycle|Midnight]]**, dehydration is a constant threat for any town without a reliable water source.
+Thirst is a primary survival vital in Hex Survival. Because it drains daily at **[[Mechanisms/Core/midnight_cycle|Midnight]]**, dehydration is a constant threat for any town without a reliable water source.
 
-## 1. The [[Mechanisms/midnight_cycle|Midnight]] Drain
-At **[[Mechanisms/midnight_cycle|Midnight]]**, every player's thirst bar is reduced by **40% (4 bars out of 10)**. This "Midnight Toll" is mandatory for survival and must be addressed before the transition to a new day.
+## 1. The [[Mechanisms/Core/midnight_cycle|Midnight]] Drain
+At **[[Mechanisms/Core/midnight_cycle|Midnight]]**, every player's thirst bar is reduced by **40% (4 bars out of 10)**. This "Midnight Toll" is mandatory for survival and must be addressed before the transition to a new day.
 
 ## 2. Restoring Thirst
 Thirst is primarily restored by consuming **[[Items/Unknown/water|Clean Water]]**. Note that high-level stims will *increase* thirst as a side effect.
@@ -34,7 +34,7 @@ Thirst is primarily restored by consuming **[[Items/Unknown/water|Clean Water]]*
 
 ### Base Infrastructure
 Building specialized facilities at the **[[Base/overview|Base]]** provides a reliable, daily source of hydration for the town.
-- **[[Builds/well|Well]]**: Produces **10 Water** at [[Mechanisms/midnight_cycle|Midnight]]. Resources are added to the Town Bank.
+- **[[Builds/well|Well]]**: Produces **10 Water** at [[Mechanisms/Core/midnight_cycle|Midnight]]. Resources are added to the Town Bank.
 
 ### Scavenging Locations
 If the base production is insufficient, players must scavenge the wasteland.

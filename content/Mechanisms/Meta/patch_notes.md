@@ -2,7 +2,7 @@
 title: "Patch Notes"
 ---
 
-# [[Mechanisms/patch_notes|Patch Notes]]
+# [[Mechanisms/Meta/patch_notes|Patch Notes]]
 
 ## Monday, Jun 22, 2026: Escort Consumables
 * **Follower Needs**: Consumables can now be dragged onto follower needs to use them more naturally.
@@ -410,7 +410,7 @@ title: "Patch Notes"
 ---
 
 ## Friday, Mar 20, 2026: Faction & Supply Reports
-* **Town Faction System**: Added a new **[[Mechanisms/faction_system|Town Faction]]** system tied to daily command objectives. Each completed main or side task grants faction for the town.
+* **Town Faction System**: Added a new **[[Mechanisms/Combat/faction_system|Town Faction]]** system tied to daily command objectives. Each completed main or side task grants faction for the town.
 * **HQ Supply Reports**: Introduced headquarters supply reports at midnight on Days 5, 10, 15, and 20. Reports grade task completion and deliver scaling rewards (Common -> Mythic).
 * **Morning Briefing Update**: Briefings now explain the faction system, showing faction gained, total standing, and HQ shipment details.
 

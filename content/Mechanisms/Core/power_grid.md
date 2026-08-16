@@ -2,7 +2,7 @@
 title: "Power Grid"
 ---
 
-# Mechanism: [[Mechanisms/power_grid|Power Grid]]
+# Mechanism: [[Mechanisms/Core/power_grid|Power Grid]]
 
 The Power Grid is the network of light and energy that keeps the town alive.
 

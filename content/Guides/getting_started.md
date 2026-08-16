@@ -22,7 +22,7 @@ The "Darkness" in this world is lethal.
  - **Fear Paralysis**: If your Fear meter reaches its **3-bar maximum**, you enter Fear Paralysis and cannot move until light is restored.
  - **Recovery**: Fear is recovered by **Resting** on lit tiles (**[[Base/overview|Base]]** or **[[Items/Power/power_pole|Power Pole]]**).
 - **[[Items/Power/power_pole|Power Poles]]**: These create permanently lit areas. A powered pole illuminates only its **current tile (0-hex radius)**.
-- **The [[Mechanisms/midnight_cycle|Midnight]] Trap**: Hunger and Thirst drain by **40%** at Midnight. If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex *before* the clock hits zero.
+- **The [[Mechanisms/Core/midnight_cycle|Midnight]] Trap**: Hunger and Thirst drain by **40%** at Midnight. If your lamp shows **"1 day remaining,"** you must be on a permanently lit hex *before* the clock hits zero.
 
 ## 3. Managing Your Vitals
 You have five status bars: **[[Vitals/health|Health]]**, **[[Vitals/hunger|Hunger]]**, **[[Vitals/thirst|Thirst]]**, **[[Vitals/fear|Fear]]**, and **[[Vitals/action_points|Action Points]] (AP)**.
@@ -36,7 +36,7 @@ You start with only **5 slots**. To carry more, you must craft specialized gear:
 - **[[Skills/pack_mule|Pack Mule Skill]]**: Increases capacity by **+1 slot per level**.
 
 ## 5. Your First Expedition
-Check the **[[Mechanisms/expedition_objectives|Expedition Objectives]]** (top of the screen).
+Check the **[[Mechanisms/Meta/expedition_objectives|Expedition Objectives]]** (top of the screen).
 - **Cargo Drones**: If you find a **[[Items/Unknown/drone|Cargo Drone]]**, you can send 4 items back to base instantly (requires **[[Skills/drone_operator|Drone Operator Lvl 2]]**).
 - **Corrupted Relays**: If these aren't disabled (requires 2 AP), search chances town-wide will drop significantly.
 

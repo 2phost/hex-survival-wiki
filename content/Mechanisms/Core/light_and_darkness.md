@@ -9,7 +9,7 @@ The world is divided into three distinct visibility states, influenced by both l
 - **Remembered Tiles**: Previously explored tiles that are currently unlit. They are faintly visible in a ring around the player, allowing for basic navigation of established routes. The range of this memory is determined by the **[[Skills/eidetic_memory|Eidetic Memory]]** skill.
 - **Dark Tiles**: Unlit and unexplored (or unremembered) tiles. Hidden by default, these represent the true darkness of the wasteland and are lethal without a light source.
 
-## [[Mechanisms/light_and_darkness|The Darkness]] Threat
+## [[Mechanisms/Core/light_and_darkness|The Darkness]] Threat
 Darkness is the primary existential threat in Hex Survival.
 - **Fear**: Entering dark tiles without a lamp increases the player's **[[Vitals/fear|Fear]]** stat.
 - **Individual Death**: Moving into unlit hexes without a lamp results in immediate death.
@@ -25,6 +25,6 @@ Players must manage light to safely navigate the map.
 
 ## Duration and Maintenance
 - **Degradation**: Light sources like the [[Items/Light/starter_lamp|Starter Lamp]] have a limited lifespan (e.g., "1 day of light remaining").
-- **[[Mechanisms/power_grid|Midnight]] Expiration**: Mobile light sources (lamps) degrade at the [[Mechanisms/power_grid|Midnight]] transition. 
-- **The "Day Change" Trap**: If a lamp has only "1 day remaining" and the player is standing in an unlit hex during the [[Mechanisms/midnight_cycle|Midnight]] transition, the lamp expires. Without light, the player will begin accumulating **[[Vitals/fear|Fear]]** each hour. If this meter reaches its maximum, the player enters **Fear Paralysis** and is unable to move further into the unknown until light is recovered.
+- **[[Mechanisms/Core/power_grid|Midnight]] Expiration**: Mobile light sources (lamps) degrade at the [[Mechanisms/Core/power_grid|Midnight]] transition. 
+- **The "Day Change" Trap**: If a lamp has only "1 day remaining" and the player is standing in an unlit hex during the [[Mechanisms/Core/midnight_cycle|Midnight]] transition, the lamp expires. Without light, the player will begin accumulating **[[Vitals/fear|Fear]]** each hour. If this meter reaches its maximum, the player enters **Fear Paralysis** and is unable to move further into the unknown until light is recovered.
 - **Refueling**: [[Items/index|Items]] like the "Empty Lamp" require a "Battery" to be crafted into a functional light source.

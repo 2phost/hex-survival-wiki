@@ -2,15 +2,15 @@
 title: "Facility Fabrication"
 ---
 
-# Mechanism: [[Mechanisms/facility_fabrication|Facility Fabrication]]
+# Mechanism: [[Mechanisms/Crafting/facility_fabrication|Facility Fabrication]]
 
 ## Overview
-**Fabrication** is a specialized on-tile action that allows players to produce specific items at advanced facilities. Unlike [[Mechanisms/scavenging_logic|Scavenging]], which is probabilistic and immediate, Fabrication is guaranteed but requires a full daily cycle to complete.
+**Fabrication** is a specialized on-tile action that allows players to produce specific items at advanced facilities. Unlike [[Mechanisms/Core/scavenging_logic|Scavenging]], which is probabilistic and immediate, Fabrication is guaranteed but requires a full daily cycle to complete.
 
 ## The Fabrication Cycle
 1. **Start Project**: A player must physically stand on a facility tile and select the **Fabricate** action.
 2. **Select Product**: Choose an item from the available list based on the facility type and your skill level.
-3. **Midnight Completion**: The item is processed throughout the day. At **[[Mechanisms/midnight_cycle|Midnight]]**, the fabrication finishes.
+3. **Midnight Completion**: The item is processed throughout the day. At **[[Mechanisms/Core/midnight_cycle|Midnight]]**, the fabrication finishes.
 4. **Retrieve Item**: The completed item appears **on the ground** at the facility tile. It is not automatically banked.
 
 ---

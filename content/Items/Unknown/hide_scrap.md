@@ -4,8 +4,6 @@ title: "Hide Scrap"
 
 # Item: [[Items/Unknown/hide_scrap|Hide Scrap]]
 
-![[assets/items/hide_scrap.png|150]]
-
 ## Where to Find
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information

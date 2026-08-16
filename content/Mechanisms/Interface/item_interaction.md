@@ -2,7 +2,7 @@
 title: "Item Interaction and Controls"
 ---
 
-# Mechanism: [[Mechanisms/item_interaction|Item Interaction]] and Controls
+# Mechanism: [[Mechanisms/Interface/item_interaction|Item Interaction]] and Controls
 
 ## Interaction Costs
 Performing basic inventory tasks is free:

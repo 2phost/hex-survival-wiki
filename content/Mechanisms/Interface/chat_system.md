@@ -2,7 +2,7 @@
 title: "Chat System"
 ---
 
-# Mechanism: [[Mechanisms/chat_system|Chat System]]
+# Mechanism: [[Mechanisms/Interface/chat_system|Chat System]]
 
 ## Description
 The Chat system facilitates coordination between survivors within the same town instance.

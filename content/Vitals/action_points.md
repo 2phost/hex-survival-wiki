@@ -10,7 +10,7 @@ title: "Action Points (AP)"
 ## Usage
 - **Disabling Threats**: Specific quest actions (e.g., disabling a Corrupted Relay) require a set amount of AP (e.g., 2 AP).
 - **Movement**: Consumes **1 AP per hex**. This cost is uniform across all tile types.
-- **[[Mechanisms/scavenging_logic|Scavenging]]**: Does **not** consume AP over time; starting and stopping the activity is also free (0 AP).
+- **[[Mechanisms/Core/scavenging_logic|Scavenging]]**: Does **not** consume AP over time; starting and stopping the activity is also free (0 AP).
 - **Inventory & [[Skills/index|Skills]]**: Opening the inventory, consuming items, or starting/pausing a skill consumes **0 AP**.
 - **Restoration**: 
  - **Passive Regeneration**: While the player is in the **Resting** state (not scavenging), they restore **1 AP every hour** of real time.

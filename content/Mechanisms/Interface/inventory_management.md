@@ -2,7 +2,7 @@
 title: "Inventory Management"
 ---
 
-# Mechanism: [[Mechanisms/inventory_management|Inventory Management]]
+# Mechanism: [[Mechanisms/Interface/inventory_management|Inventory Management]]
 
 ## Capacity
 - **Default Slots**: Players start with a limited carrying capacity of **5 slots**.

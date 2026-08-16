@@ -2,7 +2,7 @@
 title: "Combat & Defense"
 ---
 
-# Mechanism: [[Mechanisms/combat_and_defense|Combat & Defense]]
+# Mechanism: [[Mechanisms/Combat/combat_and_defense|Combat & Defense]]
 
 Introduced in the March 9, 2026 "Monster Siege" update, combat is the active process of thinning out monster hordes to prevent them from overrunning the town.
 
@@ -34,7 +34,7 @@ Players can also use consumable items to gain a tactical advantage when fighting
 ---
 
 ## 🛡️ Town Defense: The Siege
-When a horde reaches the **[[Base/overview|Base]]** tile at **[[Mechanisms/midnight_cycle|Midnight]]**, it triggers a Town Siege.
+When a horde reaches the **[[Base/overview|Base]]** tile at **[[Mechanisms/Core/midnight_cycle|Midnight]]**, it triggers a Town Siege.
 
 ### Defense Strength
 Town Defense is the sum of all defensive base upgrades. If **Attack Strength (Horde Count) > Town Defense**, the town is overrun.

@@ -1,4 +1,4 @@
-# Mechanism: [[Mechanisms/construction_tree|Construction Tree]]
+# Mechanism: [[Mechanisms/Crafting/construction_tree|Construction Tree]]
 
 This page visualizes the hierarchical relationship between base constructions and their prerequisites.
 

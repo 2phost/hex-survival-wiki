@@ -2,7 +2,7 @@
 title: "Monster Hordes"
 ---
 
-# Mechanism: [[Mechanisms/monster_hordes|Monster Hordes]]
+# Mechanism: [[Mechanisms/Combat/monster_hordes|Monster Hordes]]
 
 ![[assets/players/monster.png|150]]
 
@@ -11,13 +11,13 @@ The Monster Horde system, introduced on March 9, 2026, represents the primary ex
 ## 1. The Horde Life Cycle
 
 ### Phase 1: Spawning
-Every **[[Mechanisms/midnight_cycle|Midnight]]**, corrupted tiles have a chance to spawn a new monster horde. 
+Every **[[Mechanisms/Core/midnight_cycle|Midnight]]**, corrupted tiles have a chance to spawn a new monster horde. 
 
 ### Phase 2: Gathering
 Newly spawned hordes spend their first night in the **Gathering** phase. During this time, they remain stationary on the corrupted tile and do not move.
 
 ### Phase 3: Marching
-After the gathering phase, the horde enters the **Marching** phase. At every subsequent **[[Mechanisms/midnight_cycle|Midnight]]**, the horde moves **one hex closer** to the town base.
+After the gathering phase, the horde enters the **Marching** phase. At every subsequent **[[Mechanisms/Core/midnight_cycle|Midnight]]**, the horde moves **one hex closer** to the town base.
 
 ## 2. World Impact & Damage
 Hordes are not just a threat to players; they actively degrade the environment as they advance.
@@ -25,7 +25,7 @@ Hordes are not just a threat to players; they actively degrade the environment a
 - **Infrastructure Destruction**: Hordes will destroy any built **[[Items/Power/power_pole|Power Poles]]** on a tile they enter, severing town power lines.
 
 ## 3. Combat & Defense
-For detailed rules on how to engage hordes and town defense math, see the **[[Mechanisms/combat_and_defense|Combat & Defense]]** mechanism.
+For detailed rules on how to engage hordes and town defense math, see the **[[Mechanisms/Combat/combat_and_defense|Combat & Defense]]** mechanism.
 
 ### Attacking Monsters
 Players can engage hordes by moving onto their hex and selecting the **Attack Monsters** action.

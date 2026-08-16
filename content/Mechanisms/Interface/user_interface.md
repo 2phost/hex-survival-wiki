@@ -2,7 +2,7 @@
 title: "User Interface and Navigation"
 ---
 
-# Mechanism: [[Mechanisms/user_interface|User Interface]] and Navigation
+# Mechanism: [[Mechanisms/Interface/user_interface|User Interface]] and Navigation
 
 The UI of Hex Survival is designed to provide maximum information with minimal clutter, using a context-sensitive approach to player actions.
 

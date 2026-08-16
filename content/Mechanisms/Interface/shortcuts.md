@@ -2,7 +2,7 @@
 title: "Keyboard Shortcuts"
 ---
 
-# Mechanism: [[Mechanisms/shortcuts|Keyboard Shortcuts]]
+# Mechanism: [[Mechanisms/Interface/shortcuts|Keyboard Shortcuts]]
 
 To improve efficiency during exploration and base management, the following keyboard shortcuts are available:
 
@@ -28,4 +28,4 @@ When the chat panel is open via <kbd>T</kbd>:
 - <kbd>Escape</kbd>: Closes the chat panel immediately.
 
 ---
-> **Tip**: Mastery of these shortcuts allows survivors to respond rapidly to **[[Mechanisms/midnight_cycle|Midnight]]** threats and coordinate effectively via the chat.
+> **Tip**: Mastery of these shortcuts allows survivors to respond rapidly to **[[Mechanisms/Core/midnight_cycle|Midnight]]** threats and coordinate effectively via the chat.

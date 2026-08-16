@@ -2,12 +2,12 @@
 title: "Town Faction System"
 ---
 
-# Mechanism: [[Mechanisms/faction_system|Town Faction System]]
+# Mechanism: [[Mechanisms/Combat/faction_system|Town Faction System]]
 
 The Town Faction system, introduced on March 20, 2026, represents the town's standing with Headquarters. High faction levels lead to better support and resources.
 
 ## Faction Gain
-- **[[Mechanisms/expedition_objectives|Command Objectives]]**: Completing main or side tasks grants Faction points for the entire town.
+- **[[Mechanisms/Meta/expedition_objectives|Command Objectives]]**: Completing main or side tasks grants Faction points for the entire town.
 - **Sustained Performance**: Consistently completing objectives builds support over time, allowing the town to progress through higher support tiers.
 
 ## Headquarters (HQ) Supply Reports
