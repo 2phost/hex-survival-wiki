@@ -38,6 +38,7 @@ Produced by Electronic Labs Biome
 ## Technical Information
 - **Item ID**: `logic_core`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 2)
 - **Requirement**: Field Engineering Level 2
 
 - **Asset ID**: `logic_core`

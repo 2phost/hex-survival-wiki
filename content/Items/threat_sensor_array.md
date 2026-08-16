@@ -31,6 +31,7 @@ Produced by Electronic Labs Biome
 ## Technical Information
 - **Item ID**: `threat_sensor_array`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 2)
 - **Requirement**: Field Engineering Level 2
 
 - **Asset ID**: `threat_sensor_array`

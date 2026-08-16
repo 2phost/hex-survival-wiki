@@ -40,6 +40,7 @@ Produced by Industrial facilities Biome
 ## Technical Information
 - **Item ID**: `shock_capacitor`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 2)
 - **Requirement**: Field Engineering Level 2
 
 - **Asset ID**: `shock_capacitor`

@@ -15,6 +15,7 @@ title: "Vital Stasis Patch"
 ## Technical Information
 - **Item ID**: `vital_stasis_patch`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_medicine|Field Medicine]] (Level 1)
 - **Category**: Medical
 
 - **Asset ID**: `vital_stasis_patch`

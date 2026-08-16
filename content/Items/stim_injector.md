@@ -44,6 +44,7 @@ Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Inc
 ## Technical Information
 - **Item ID**: `stim_injector`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/stim_conditioning|Stim Usage]] (Level 2)
 - **Requirement**: Stim Usage Level 2
 
 - **Asset ID**: `stim_injector`

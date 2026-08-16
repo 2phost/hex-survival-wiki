@@ -29,6 +29,7 @@ title: "Field Bandage"
 ## Technical Information
 - **Item ID**: `field_bandage`
 - **Rarity**: Common
+- **Skill Requirement**: [[Skills/field_medicine|Field Medicine]] (Level 1)
 - **Category**: Medical
 
 - **Asset ID**: `field_bandage`

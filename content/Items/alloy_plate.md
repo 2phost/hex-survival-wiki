@@ -30,6 +30,7 @@ Produced by Industrial facilities Biome
 ## Technical Information
 - **Item ID**: `alloy_plate`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 1)
 - **Category**: Weapon
 - **Requirement**: Field Engineering Level 1
 

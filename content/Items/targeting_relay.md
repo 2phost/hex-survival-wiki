@@ -40,6 +40,7 @@ Produced by Electronic Labs Biome
 ## Technical Information
 - **Item ID**: `targeting_relay`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 1)
 - **Requirement**: Field Engineering Level 1
 
 - **Asset ID**: `targeting_relay`

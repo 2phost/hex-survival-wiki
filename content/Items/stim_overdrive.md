@@ -37,6 +37,7 @@ Experimental overdrive dose that restores 6 AP. Any AP over your max is lost. Gr
 ## Technical Information
 - **Item ID**: `stim_overdrive`
 - **Rarity**: Mythic
+- **Skill Requirement**: [[Skills/stim_conditioning|Stim Usage]] (Level 3)
 - **Requirement**: Stim Usage Level 3
 
 - **Asset ID**: `stim_overdrive`

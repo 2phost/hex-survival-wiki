@@ -26,6 +26,7 @@ Refined high-density biofuel cell. Refills 40% town power and requires Generator
 ## Technical Information
 - **Item ID**: `biofuel_cell`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/generator_operations|Generator Operations]] (Level 2)
 - **Category**: Fuel
 - **Requirement**: Generator Operations Level 2
 

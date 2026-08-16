@@ -27,6 +27,7 @@ Produced by Industrial facilities Biome
 ## Technical Information
 - **Item ID**: `hydraulic_piston`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 2)
 - **Requirement**: Field Engineering Level 2
 
 - **Asset ID**: `hydraulic_piston`

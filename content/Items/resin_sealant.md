@@ -28,6 +28,7 @@ Hardened organic sealant cultivated in powered Farm facilities to weatherproof f
 ## Technical Information
 - **Item ID**: `resin_sealant`
 - **Rarity**: Common
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 1)
 - **Requirement**: Field Engineering Level 1
 
 - **Asset ID**: `resin_sealant`

@@ -40,6 +40,7 @@ Produced by Industrial facilities Biome
 ## Technical Information
 - **Item ID**: `hardened_actuator`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 1)
 - **Requirement**: Field Engineering Level 1
 
 - **Asset ID**: `hardened_actuator`

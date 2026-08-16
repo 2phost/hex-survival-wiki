@@ -29,6 +29,7 @@ title: "First Aid Kit"
 ## Technical Information
 - **Item ID**: `first_aid_kit`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_medicine|Field Medicine]] (Level 2)
 - **Category**: Medical
 
 - **Asset ID**: `first_aid_kit`

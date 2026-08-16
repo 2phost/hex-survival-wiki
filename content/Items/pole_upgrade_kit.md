@@ -17,6 +17,7 @@ title: "Pole Upgrade Kit"
 ## Technical Information
 - **Item ID**: `pole_upgrade_kit`
 - **Rarity**: Uncommon
+- **Skill Requirement**: [[Skills/power_infrastructure|Power Infrastructure]] (Level 3)
 - **Category**: Power
 
 - **Asset ID**: `pole_upgrade_kit`

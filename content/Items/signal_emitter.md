@@ -30,6 +30,7 @@ Produced by Electronic Labs Biome
 ## Technical Information
 - **Item ID**: `signal_emitter`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 3)
 - **Requirement**: Field Engineering Level 3
 
 - **Asset ID**: `signal_emitter`

@@ -24,6 +24,7 @@ Aggressive thorn pod cultivated in powered Farm facilities and used in living tr
 ## Technical Information
 - **Item ID**: `bio_spike_pod`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/field_engineering|Field Engineering]] (Level 1)
 - **Requirement**: Field Engineering Level 1
 
 - **Asset ID**: `bio_spike_pod`

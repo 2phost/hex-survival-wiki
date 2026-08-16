@@ -25,6 +25,7 @@ Upgraded relay pole with a stronger emitter. When connected to town power, it il
 ## Technical Information
 - **Item ID**: `power_pole_mk2`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/power_infrastructure|Power Infrastructure]] (Level 3)
 - **Category**: Power
 - **Requirement**: Power Infrastructure Level 3
 - **Asset ID**: `power_pole_mk2`

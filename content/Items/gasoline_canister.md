@@ -40,6 +40,7 @@ Fuel for the base generators. Refills 25% town power when used at base.
 ## Technical Information
 - **Item ID**: `gasoline_canister`
 - **Rarity**: Rare
+- **Skill Requirement**: [[Skills/generator_operations|Generator Operations]] (Level 1)
 - **Category**: Fuel
 - **Requirement**: Generator Operations Level 1
 

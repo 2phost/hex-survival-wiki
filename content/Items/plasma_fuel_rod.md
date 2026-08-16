@@ -35,6 +35,7 @@ Experimental pre-collapse fuel rod. Refills 60% town power and requires Generato
 ## Technical Information
 - **Item ID**: `plasma_fuel_rod`
 - **Rarity**: Mythic
+- **Skill Requirement**: [[Skills/generator_operations|Generator Operations]] (Level 3)
 - **Category**: Fuel
 - **Requirement**: Generator Operations Level 3
 

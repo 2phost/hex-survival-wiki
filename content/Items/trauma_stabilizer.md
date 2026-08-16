@@ -22,6 +22,7 @@ title: "Trauma Stabilizer"
 ## Technical Information
 - **Item ID**: `trauma_stabilizer`
 - **Rarity**: Mythic
+- **Skill Requirement**: [[Skills/field_medicine|Field Medicine]] (Level 3)
 - **Category**: Medical
 
 - **Asset ID**: `trauma_stabilizer`
