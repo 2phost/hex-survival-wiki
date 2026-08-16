@@ -27,6 +27,7 @@ A critical hit is the most efficient way to use weapon durability.
 
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

@@ -25,6 +25,7 @@ Remember the lay of the land. Dark (unlit) tiles are hidden by default. Each lev
 
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

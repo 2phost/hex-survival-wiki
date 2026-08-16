@@ -35,6 +35,7 @@ This skill provides a passive reduction to the break chance of all items used as
 
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours
