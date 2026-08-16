@@ -7,8 +7,7 @@ title: "Field Radio"
 ![[assets/items/field_radio.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
 **Workshop ([[Builds/assembly_bench|Assembly Bench]])**

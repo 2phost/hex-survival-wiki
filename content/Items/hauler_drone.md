@@ -7,8 +7,7 @@ title: "Fabrication Hauler Drone"
 ![[assets/items/hauler_drone.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
 **Workshop ([[Builds/assembly_bench|Assembly Bench]])**

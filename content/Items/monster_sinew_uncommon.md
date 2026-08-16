@@ -7,8 +7,7 @@ title: "Uncommon Monster Sinew"
 ![[assets/items/monster_sinew_uncommon.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Required For
 ### Objectives
 - [[Objectives/story_daily_interdiction_samples|Interdiction Samples]] (2x)

@@ -7,8 +7,9 @@ title: "Crimson Flare"
 ![[assets/items/crimson_flare.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.8% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.2% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.1% drop chance
 ## Technical Information
 - **Item ID**: `crimson_flare`
 - **Rarity**: Mythic

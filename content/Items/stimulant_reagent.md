@@ -7,8 +7,13 @@ title: "Stimulant Reagent"
 ![[assets/items/stimulant_reagent.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 3.5% drop chance
+- **[[Biomes/industrial|Industrial]]**: 1.7% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 2.3% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 2.3% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.8% drop chance
+- **[[Biomes/forest|Forest]]**: 0.7% drop chance
+- **[[Biomes/oasis|Oasis]]**: 0.5% drop chance
 ## Combinations
 ### Used To Craft
 **Workshop ([[Builds/assembly_bench|Assembly Bench]])**

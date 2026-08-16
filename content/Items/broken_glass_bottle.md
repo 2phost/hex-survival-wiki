@@ -7,8 +7,7 @@ title: "Broken Glass Bottle"
 ![[assets/items/broken_glass_bottle.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `broken_glass_bottle`
 - **Rarity**: Common

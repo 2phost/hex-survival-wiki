@@ -7,8 +7,7 @@ title: "Raw Meat"
 ![[assets/items/raw_meat.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `raw_meat`
 - **Rarity**: Common

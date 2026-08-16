@@ -7,8 +7,7 @@ title: "Mythic Monster Bone"
 ![[assets/items/monster_bone_mythic.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `monster_bone_mythic`
 - **Rarity**: Mythic

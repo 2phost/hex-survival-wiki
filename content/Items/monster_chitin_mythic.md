@@ -7,8 +7,7 @@ title: "Mythic Monster Chitin"
 ![[assets/items/monster_chitin_mythic.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `monster_chitin_mythic`
 - **Rarity**: Mythic

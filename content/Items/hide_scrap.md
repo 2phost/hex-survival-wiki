@@ -7,8 +7,7 @@ title: "Hide Scrap"
 ![[assets/items/hide_scrap.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `hide_scrap`
 - **Rarity**: Common

@@ -7,8 +7,14 @@ title: "Field Bandage"
 ![[assets/items/field_bandage.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- **[[Biomes/ruined_city|Ruined City]]**: 1.4% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 2.6% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.8% drop chance
+- **[[Biomes/forest|Forest]]**: 1.6% drop chance
+- **[[Biomes/mountain|Mountain]]**: 1.2% drop chance
+- **[[Biomes/desert|Desert]]**: 1.4% drop chance
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 0.5% drop chance
+- **[[Biomes/oasis|Oasis]]**: 1.1% drop chance
 ## Combinations
 ### Crafted From
 **Field**

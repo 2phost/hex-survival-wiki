@@ -7,8 +7,7 @@ title: "Alien Vegetable"
 ![[assets/items/alien_vegetable.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `alien_vegetable`
 - **Rarity**: Uncommon

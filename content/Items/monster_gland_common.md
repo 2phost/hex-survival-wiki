@@ -7,8 +7,7 @@ title: "Common Monster Gland"
 ![[assets/items/monster_gland_common.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Required For
 ### Base Facilities
 - [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (4x)

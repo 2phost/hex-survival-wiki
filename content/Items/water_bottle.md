@@ -7,8 +7,7 @@ title: "Bottle of Water"
 ![[assets/items/water_bottle.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `water_bottle`
 - **Rarity**: Common

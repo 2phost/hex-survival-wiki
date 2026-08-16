@@ -7,8 +7,7 @@ title: "Preserved Produce"
 ![[assets/items/preserved_produce.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `preserved_produce`
 - **Rarity**: Uncommon

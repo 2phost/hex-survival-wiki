@@ -7,8 +7,7 @@ title: "Vault Access Key"
 ![[assets/items/vault_access_key.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Required For
 ### Base Facilities
 - [[Builds/extraction_beacon|Extraction Beacon]] (2x)

@@ -7,8 +7,7 @@ title: "Uncommon Monster Core"
 ![[assets/items/monster_core_uncommon.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `monster_core_uncommon`
 - **Rarity**: Uncommon

@@ -7,8 +7,7 @@ title: "Rare Monster Gland"
 ![[assets/items/monster_gland_rare.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Technical Information
 - **Item ID**: `monster_gland_rare`
 - **Rarity**: Rare

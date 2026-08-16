@@ -7,8 +7,7 @@ title: "Uncommon Monster Chitin"
 ![[assets/items/monster_chitin_uncommon.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Required For
 ### Base Facilities
 - [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (4x)

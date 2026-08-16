@@ -7,8 +7,11 @@ title: "Fishing Line"
 ![[assets/items/fishing_line.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- **[[Biomes/ruined_city|Ruined City]]**: 1.0% drop chance
+- **[[Biomes/oasis|Oasis]]**: 2.7% drop chance
+- **[[Biomes/forest|Forest]]**: 1.3% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.4% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.7% drop chance
 ## Combinations
 ### Used To Craft
 **Field**

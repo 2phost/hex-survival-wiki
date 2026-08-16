@@ -7,8 +7,7 @@ title: "Cactus Pulp"
 ![[assets/items/cactus_pulp.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- **[[Biomes/desert|Desert]]**: 2.7% drop chance
 ## Technical Information
 - **Item ID**: `cactus_pulp`
 - **Rarity**: Common

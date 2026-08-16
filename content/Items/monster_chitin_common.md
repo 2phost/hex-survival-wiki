@@ -7,8 +7,7 @@ title: "Common Monster Chitin"
 ![[assets/items/monster_chitin_common.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Required For
 ### Objectives
 - [[Objectives/story_daily_specimen_harvest|Specimen Harvest]] (3x)

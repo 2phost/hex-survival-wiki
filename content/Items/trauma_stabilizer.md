@@ -7,8 +7,12 @@ title: "Trauma Stabilizer"
 ![[assets/items/trauma_stabilizer.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- **[[Biomes/hidden_vault|Hidden Vault]]**: 1.6% drop chance
+- **[[Biomes/industrial|Industrial]]**: 0.2% drop chance
+- **[[Biomes/ruined_city|Ruined City]]**: 0.2% drop chance
+- **[[Biomes/electronic_lab|Electronic Lab]]**: 0.2% drop chance
+- **[[Biomes/mountain|Mountain]]**: 0.2% drop chance
+- **[[Biomes/farm_facility|Farm Facility]]**: 0.2% drop chance
 ## Combinations
 ### Crafted From
 **Workshop ([[Builds/assembly_bench|Assembly Bench]])**

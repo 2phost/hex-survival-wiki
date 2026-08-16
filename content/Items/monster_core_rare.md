@@ -7,8 +7,7 @@ title: "Rare Monster Core"
 ![[assets/items/monster_core_rare.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Required For
 ### Objectives
 - [[Objectives/story_daily_core_containment|Core Containment Sweep]] (1x)

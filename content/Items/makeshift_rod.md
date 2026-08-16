@@ -7,8 +7,7 @@ title: "Makeshift Rod"
 ![[assets/items/makeshift_rod.png|150]]
 
 ## Where to Find
-(Will be updated by script)
-
+- *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
 **Field**
