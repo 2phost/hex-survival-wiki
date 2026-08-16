@@ -8,7 +8,6 @@ Welcome to the premium Hex Survival documentation. This wiki is organized into l
 
 ## 🚀 Quick Start
 - [[Guides/getting_started|Getting Started Guide]]
-- [[Ideas/strategic_suggestions|Strategic Suggestions]]
 
 ## 🧭 Directory Structure
 
@@ -34,7 +33,6 @@ Technical game logic: [[Mechanisms/midnight_cycle|Midnight Cycle]], [[Mechanisms
 - [[Mechanisms/expedition_objectives|Active Objectives]]
 - [[Mechanisms/patch_notes|Patch Notes]]
 - [[Mechanisms/verification_list|Verification List]]
-- [[Ideas/dev_feedback_suggestions|Tester Feedback & Suggestions]]
 
 ---
 *Maintained by the Hex Survival Documentation AI.*
