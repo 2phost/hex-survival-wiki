@@ -24,7 +24,7 @@ The final check of the night is the town's security. Detailed math can be found 
 - **Defense Check**: If **Attack Strength > Town Defense**, the town is overrun and the game instance ends for all players.
 
 ## 4. Production & Logistics
-- **Facility Yields**: Resources from the **[[Builds/well|Well]]** and **[[Builds/hydroponic_patch|Hydroponic Patch]]** are added to the Town Bank.
+- **Facility Yields**: Resources from the **[[Base/Constructions/well|Well]]** and **[[Base/Constructions/hydroponic_patch|Hydroponic Patch]]** are added to the Town Bank.
 - **[[Mechanisms/Crafting/facility_fabrication|Fabrication Completion]]**: Any items currently being fabricated on specific tiles (like Industrial or Electronics) are produced and placed on the ground at that tile.
 - **Power Drain**: Daily town power drain is deducted from the generator.
 

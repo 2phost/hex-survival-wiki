@@ -23,7 +23,7 @@ Experimental overdrive dose that restores 6 AP. Any AP over your max is lost. Gr
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/stim_injector|Stim Injector]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] + 1x [[Items/Unknown/cryo_flask|Cryo Flask]] → 1x [[Items/Unknown/stim_overdrive|Stim Overdrive]]
 
 

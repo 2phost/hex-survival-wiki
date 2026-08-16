@@ -15,7 +15,7 @@ title: "Trauma Stabilizer"
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.2% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Medical/first_aid_kit|First Aid Kit]] + 1x [[Items/Unknown/sterile_syringe|Sterile Syringe]] + 1x [[Items/Unknown/filter_mesh|Filter Mesh]] → 1x [[Items/Medical/trauma_stabilizer|Trauma Stabilizer]]
 
 

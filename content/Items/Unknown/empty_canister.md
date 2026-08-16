@@ -14,7 +14,7 @@ Dented fuel container. Scrap metal at best.
 - **[[Biomes/desert|Desert]]**: 2.7% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 2x [[Items/Unknown/empty_canister|Empty Canister]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] → 1x [[Items/Fuel/gasoline_canister|Gasoline Canister]]
 
 

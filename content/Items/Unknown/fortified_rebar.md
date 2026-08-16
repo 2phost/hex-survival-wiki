@@ -23,22 +23,22 @@ Bent but sturdy steel rods bundled for emergency fortifications.
 - 5x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Unknown/fortified_rebar|Fortified Rebar]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/scrap_spear|Scrap Spear]] + 1x [[Items/Unknown/fortified_rebar|Fortified Rebar]] + 2x [[Items/Unknown/ceramic_shards|Ceramic Shards]] → 1x [[Items/Weapon/rebar_blade|Rebar Blade]]
 
 
 ## Usage
 ### Construction
-- Required for [[Builds/spike_trench|Spike Trench]]
-- Required for [[Builds/palisade_wall|Timber Palisade Wall]]
+- Required for [[Base/Constructions/spike_trench|Spike Trench]]
+- Required for [[Base/Constructions/palisade_wall|Timber Palisade Wall]]
 
 ### Used in Recipes
 * <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/rebar_blade|Rebar Blade]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/spike_trench|Spike Trench]] (4x)
-- [[Builds/palisade_wall|Timber Palisade Wall]] (6x)
+- [[Base/Constructions/spike_trench|Spike Trench]] (4x)
+- [[Base/Constructions/palisade_wall|Timber Palisade Wall]] (6x)
 ### Objectives
 - [[Objectives/story_last_chance_fortify|Last-Chance Fortify]] (2x)
 

@@ -21,8 +21,8 @@ Industrial-grade valve body from old steam and fuel networks.
 
 ## Required For
 ### Base Facilities
-- [[Builds/threat_scanner|Threat Scanner Beacon]] (2x)
-- [[Builds/fuel_refinery|Fuel Refinery]] (2x)
+- [[Base/Constructions/threat_scanner|Threat Scanner Beacon]] (2x)
+- [[Base/Constructions/fuel_refinery|Fuel Refinery]] (2x)
 ### Objectives
 - [[Objectives/story_daily_thermal_loop_flush|Thermal Loop Flush]] (2x)
 - [[Objectives/story_stabilize_thermals|Stabilize Thermal Systems]] (1x)

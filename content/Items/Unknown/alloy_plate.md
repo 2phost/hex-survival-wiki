@@ -18,14 +18,14 @@ Produced by Industrial facilities Biome
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Builds/auto_bolt_nest|Auto-Bolt Nest]]
-- Required for [[Builds/armor_plated_gate|Armor-Plated Gate]]
+- Required for [[Base/Constructions/auto_bolt_nest|Auto-Bolt Nest]]
+- Required for [[Base/Constructions/armor_plated_gate|Armor-Plated Gate]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/auto_bolt_nest|Auto-Bolt Nest]] (4x)
-- [[Builds/armor_plated_gate|Armor-Plated Gate]] (10x)
-- [[Builds/extraction_beacon|Extraction Beacon]] (4x)
+- [[Base/Constructions/auto_bolt_nest|Auto-Bolt Nest]] (4x)
+- [[Base/Constructions/armor_plated_gate|Armor-Plated Gate]] (10x)
+- [[Base/Constructions/extraction_beacon|Extraction Beacon]] (4x)
 
 ## Technical Information
 - **Item ID**: `alloy_plate`

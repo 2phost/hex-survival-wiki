@@ -19,11 +19,11 @@ A balanced blade cut from reinforced rebar and ceramic edge inserts.
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.5% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/scrap_spear|Scrap Spear]] + 1x [[Items/Unknown/fortified_rebar|Fortified Rebar]] + 2x [[Items/Unknown/ceramic_shards|Ceramic Shards]] → 1x [[Items/Weapon/rebar_blade|Rebar Blade]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/rebar_blade|Rebar Blade]] + 1x [[Items/Unknown/shock_capacitor|Shock Capacitor]] + 1x [[Items/Unknown/hardened_actuator|Hardened Actuator]] → 1x [[Items/Weapon/shock_maul|Shock Maul]]
 
 

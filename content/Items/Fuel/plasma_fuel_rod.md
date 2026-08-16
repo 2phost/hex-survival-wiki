@@ -17,11 +17,11 @@ Experimental pre-collapse fuel rod. Refills 60% town power and requires Generato
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/Unknown/reactor_dust|Reactor Dust]] → 2x [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/shock_maul|Shock Maul]] + 1x [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/Unknown/targeting_relay|Targeting Relay]] → 1x [[Items/Weapon/plasma_lance|Plasma Lance]]
 - 1x [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/Unknown/reactor_dust|Reactor Dust]] → 2x [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]]
 

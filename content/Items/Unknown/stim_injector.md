@@ -26,11 +26,11 @@ Refined stimulant injector that restores 4 AP. Any AP over your max is lost. Inc
 - **[[Biomes/mountain|Mountain]]**: 0.2% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/stim_pack|Stim Pack]] + 1x [[Items/Unknown/stimulant_reagent|Stimulant Reagent]] + 1x [[Items/Unknown/sterile_syringe|Sterile Syringe]] → 1x [[Items/Unknown/stim_injector|Stim Injector]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/stim_injector|Stim Injector]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] + 1x [[Items/Unknown/cryo_flask|Cryo Flask]] → 1x [[Items/Unknown/stim_overdrive|Stim Overdrive]]
 
 

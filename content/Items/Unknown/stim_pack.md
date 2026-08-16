@@ -32,7 +32,7 @@ Improvised stimulant that restores 2 AP. Any AP over your max is lost. Increases
 - 1x [[Items/Unknown/water|Clean Water]] + 1x [[Items/Unknown/fungal_spores|Fungal Spores]] + 1x [[Items/Unknown/sterile_syringe|Sterile Syringe]] → 1x [[Items/Unknown/stim_pack|Stim Pack]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/stim_pack|Stim Pack]] + 1x [[Items/Unknown/stimulant_reagent|Stimulant Reagent]] + 1x [[Items/Unknown/sterile_syringe|Sterile Syringe]] → 1x [[Items/Unknown/stim_injector|Stim Injector]]
 
 

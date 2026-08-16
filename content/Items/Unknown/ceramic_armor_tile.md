@@ -17,11 +17,11 @@ Dense ceramic plate salvaged from military stockpiles.
 - **[[Biomes/desert|Desert]]**: 0.3% drop chance
 ## Usage
 ### Construction
-- Required for [[Builds/armor_plated_gate|Armor-Plated Gate]]
+- Required for [[Base/Constructions/armor_plated_gate|Armor-Plated Gate]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/armor_plated_gate|Armor-Plated Gate]] (6x)
+- [[Base/Constructions/armor_plated_gate|Armor-Plated Gate]] (6x)
 ### Objectives
 - [[Objectives/story_daily_ballistic_mesh_refit|Ballistic Mesh Refit]] (2x)
 

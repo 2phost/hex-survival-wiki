@@ -10,7 +10,7 @@ title: "Fabrication Hauler Drone"
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/battery|Battery]] + 1x [[Items/Unknown/circuit_boards|Circuit Boards]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] + 2x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Unknown/hauler_drone|Fabrication Hauler Drone]]
 
 

@@ -20,7 +20,7 @@ Fine wire mesh from masks and vents; still usable for filtration rigs.
 - **[[Biomes/oasis|Oasis]]**: 0.5% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Medical/first_aid_kit|First Aid Kit]] + 1x [[Items/Unknown/sterile_syringe|Sterile Syringe]] + 1x [[Items/Unknown/filter_mesh|Filter Mesh]] → 1x [[Items/Medical/trauma_stabilizer|Trauma Stabilizer]]
 - 1x [[Items/Unknown/expedition_pack|Expedition Pack]] + 2x [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/Unknown/filter_mesh|Filter Mesh]] → 1x [[Items/Unknown/hauler_pack|Hauler Pack]]
 - 1x [[Items/Unknown/filter_mesh|Filter Mesh]] + 1x [[Items/Unknown/copper_wiring|Copper Wiring]] + 2x [[Items/Unknown/scrap_metal|Scrap Metal]] + 1x [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/Tool/humidity_extractor|Humidity Extractor]]

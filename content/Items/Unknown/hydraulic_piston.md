@@ -18,11 +18,11 @@ Produced by Industrial facilities Biome
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Builds/armor_plated_gate|Armor-Plated Gate]]
+- Required for [[Base/Constructions/armor_plated_gate|Armor-Plated Gate]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/armor_plated_gate|Armor-Plated Gate]] (4x)
+- [[Base/Constructions/armor_plated_gate|Armor-Plated Gate]] (4x)
 
 ## Technical Information
 - **Item ID**: `hydraulic_piston`

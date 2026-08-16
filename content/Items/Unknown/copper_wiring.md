@@ -19,7 +19,7 @@ Electrical wiring for connecting solar panels to the grid.
 - **[[Biomes/forest|Forest]]**: 1.1% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 2x [[Items/Unknown/damaged_solar_panel|Damaged Solar Panel]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] → 1x [[Items/Unknown/solar_cell|Solar Cell]]
 - 1x [[Items/Unknown/circuit_boards|Circuit Boards]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] + 1x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Unknown/solar_cell|Solar Cell]]
 - 1x [[Items/Unknown/broken_radio|Broken Radio]] + 1x [[Items/Unknown/copper_wiring|Copper Wiring]] + 1x [[Items/Unknown/battery|Battery]] → 1x [[Items/Unknown/field_radio|Field Radio]]
@@ -33,12 +33,12 @@ Electrical wiring for connecting solar panels to the grid.
 
 ## Usage
 ### Construction
-- Required for [[Builds/solar_panels|Solar Panels]]
-- Required for [[Builds/battery_bank|Battery Storage]]
-- Required for [[Builds/beacon_amplifier|Beacon Amplifier]]
+- Required for [[Base/Constructions/solar_panels|Solar Panels]]
+- Required for [[Base/Constructions/battery_bank|Battery Storage]]
+- Required for [[Base/Constructions/beacon_amplifier|Beacon Amplifier]]
 - Required for <img src="../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole|Power Pole]]
-- Required for [[Builds/kill_zone_lights|Kill-Zone Floodlights]]
-- Required for [[Builds/shock_fence_grid|Shock Fence Grid]]
+- Required for [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]]
+- Required for [[Base/Constructions/shock_fence_grid|Shock Fence Grid]]
 
 ### Used in Recipes
 * <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
@@ -60,13 +60,13 @@ Electrical wiring for connecting solar panels to the grid.
 
 ## Required For
 ### Base Facilities
-- [[Builds/logistics_uplink|Logistics Uplink]] (6x)
-- [[Builds/solar_panels|Solar Panels]] (4x)
-- [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (4x)
-- [[Builds/beacon_amplifier|Beacon Amplifier]] (6x)
-- [[Builds/threat_scanner|Threat Scanner Beacon]] (4x)
-- [[Builds/kill_zone_lights|Kill-Zone Floodlights]] (6x)
-- [[Builds/shock_fence_grid|Shock Fence Grid]] (12x)
+- [[Base/Constructions/logistics_uplink|Logistics Uplink]] (6x)
+- [[Base/Constructions/solar_panels|Solar Panels]] (4x)
+- [[Base/Constructions/specimen_analysis_bay|Specimen Analysis Bay]] (4x)
+- [[Base/Constructions/beacon_amplifier|Beacon Amplifier]] (6x)
+- [[Base/Constructions/threat_scanner|Threat Scanner Beacon]] (4x)
+- [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]] (6x)
+- [[Base/Constructions/shock_fence_grid|Shock Fence Grid]] (12x)
 ### Objectives
 - [[Objectives/story_daily_solar_panel_reclaim|Solar Panel Reclaim]] (3x)
 - [[Objectives/story_daily_microfuse_grid_audit|Microfuse Grid Audit]] (2x)

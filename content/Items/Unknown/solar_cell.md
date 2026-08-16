@@ -15,14 +15,14 @@ Crafted photovoltaic cell for harvesting sunlight. Used to build solar panels.
 - **[[Biomes/ruined_city|Ruined City]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 2x [[Items/Unknown/damaged_solar_panel|Damaged Solar Panel]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] → 1x [[Items/Unknown/solar_cell|Solar Cell]]
 - 1x [[Items/Unknown/circuit_boards|Circuit Boards]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] + 1x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Unknown/solar_cell|Solar Cell]]
 
 
 ## Usage
 ### Construction
-- Required for [[Builds/solar_panels|Solar Panels]]
+- Required for [[Base/Constructions/solar_panels|Solar Panels]]
 
 ### Crafting Recipe
 * <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (x1)
@@ -40,7 +40,7 @@ Crafted photovoltaic cell for harvesting sunlight. Used to build solar panels.
 
 ## Required For
 ### Base Facilities
-- [[Builds/solar_panels|Solar Panels]] (4x)
+- [[Base/Constructions/solar_panels|Solar Panels]] (4x)
 
 ## Technical Information
 - **Item ID**: `solar_cell`

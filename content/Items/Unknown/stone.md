@@ -17,27 +17,27 @@ title: "Hardened Stone"
 - **[[Biomes/ruined_city|Ruined City]]**: 0.4% drop chance
 ## Usage
 ### Construction
-- Required for [[Builds/reinforced_bulkhead|Reinforced Steel Bulkhead]]
-- Required for [[Builds/watchtower|Watchtower]]
-- Required for [[Builds/hydroponic_patch|Hydroponic Patch]]
-- Required for [[Builds/well|Well]]
-- Required for [[Builds/fuel_refinery|Fuel Refinery]]
-- Required for [[Builds/spike_trench|Spike Trench]]
-- Required for [[Builds/palisade_wall|Timber Palisade Wall]]
+- Required for [[Base/Constructions/reinforced_bulkhead|Reinforced Steel Bulkhead]]
+- Required for [[Base/Constructions/watchtower|Watchtower]]
+- Required for [[Base/Constructions/hydroponic_patch|Hydroponic Patch]]
+- Required for [[Base/Constructions/well|Well]]
+- Required for [[Base/Constructions/fuel_refinery|Fuel Refinery]]
+- Required for [[Base/Constructions/spike_trench|Spike Trench]]
+- Required for [[Base/Constructions/palisade_wall|Timber Palisade Wall]]
 
 ### Yielded From Salvage
 * <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/rusty_tool|Rusty Tool]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/reinforced_bulkhead|Reinforced Steel Bulkhead]] (6x)
-- [[Builds/watchtower|Watchtower]] (4x)
-- [[Builds/forge|Forge]] (8x)
-- [[Builds/hydroponic_patch|Hydroponic Patch]] (2x)
-- [[Builds/well|Well]] (6x)
-- [[Builds/fuel_refinery|Fuel Refinery]] (4x)
-- [[Builds/spike_trench|Spike Trench]] (4x)
-- [[Builds/palisade_wall|Timber Palisade Wall]] (8x)
+- [[Base/Constructions/reinforced_bulkhead|Reinforced Steel Bulkhead]] (6x)
+- [[Base/Constructions/watchtower|Watchtower]] (4x)
+- [[Base/Constructions/forge|Forge]] (8x)
+- [[Base/Constructions/hydroponic_patch|Hydroponic Patch]] (2x)
+- [[Base/Constructions/well|Well]] (6x)
+- [[Base/Constructions/fuel_refinery|Fuel Refinery]] (4x)
+- [[Base/Constructions/spike_trench|Spike Trench]] (4x)
+- [[Base/Constructions/palisade_wall|Timber Palisade Wall]] (8x)
 ### Objectives
 - [[Objectives/story_stage_well_materials|Stage Well Materials]] (3x)
 - [[Objectives/story_brace_the_line|Brace the Line]] (3x)

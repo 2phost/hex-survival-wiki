@@ -25,7 +25,7 @@ Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster da
 
 ## Required For
 ### Base Facilities
-- [[Builds/sentry_turret|Automated Sentry]] (2x)
+- [[Base/Constructions/sentry_turret|Automated Sentry]] (2x)
 ### Objectives
 - [[Objectives/story_daily_capacitor_surge_buffer|Capacitor Surge Buffer]] (2x)
 - [[Objectives/story_stage_sentry_parts|Stage Sentry Parts]] (1x)

@@ -14,7 +14,7 @@ Salvageable electronics from a damaged broadcast unit.
 - **[[Biomes/ruined_city|Ruined City]]**: 2.0% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/broken_radio|Broken Radio]] + 1x [[Items/Unknown/copper_wiring|Copper Wiring]] + 1x [[Items/Unknown/battery|Battery]] → 1x [[Items/Unknown/field_radio|Field Radio]]
 
 
@@ -29,7 +29,7 @@ Salvageable electronics from a damaged broadcast unit.
 
 ## Required For
 ### Base Facilities
-- [[Builds/signal_booster|Signal Booster (Radar)]] (2x)
+- [[Base/Constructions/signal_booster|Signal Booster (Radar)]] (2x)
 ### Objectives
 - [[Objectives/story_daily_field_radio_revival|Field Radio Revival]] (2x)
 - [[Objectives/story_restore_command_channel|Restore the Command Channel]] (1x)

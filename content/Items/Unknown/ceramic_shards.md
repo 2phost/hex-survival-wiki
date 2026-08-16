@@ -20,7 +20,7 @@ Broken insulation and cookware fragments from pre-collapse ruins.
 - **[[Biomes/oasis|Oasis]]**: 1.1% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/scrap_spear|Scrap Spear]] + 1x [[Items/Unknown/fortified_rebar|Fortified Rebar]] + 2x [[Items/Unknown/ceramic_shards|Ceramic Shards]] → 1x [[Items/Weapon/rebar_blade|Rebar Blade]]
 
 
@@ -33,7 +33,7 @@ Broken insulation and cookware fragments from pre-collapse ruins.
 
 ## Required For
 ### Base Facilities
-- [[Builds/battery_bank|Battery Storage]] (8x)
+- [[Base/Constructions/battery_bank|Battery Storage]] (8x)
 
 ## Technical Information
 - **Item ID**: `ceramic_shards`

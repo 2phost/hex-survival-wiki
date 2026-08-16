@@ -15,7 +15,7 @@ A rare pre-collapse polearm retrofitted with a stabilized plasma channel.
 - **[[Biomes/ruined_city|Ruined City]]**: 0.2% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/shock_maul|Shock Maul]] + 1x [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/Unknown/targeting_relay|Targeting Relay]] → 1x [[Items/Weapon/plasma_lance|Plasma Lance]]
 
 

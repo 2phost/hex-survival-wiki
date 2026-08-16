@@ -15,7 +15,7 @@ Highly unstable particulate recovered from collapsed energy cores.
 - **[[Biomes/electronic_lab|Electronic Lab]]**: 0.1% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/Unknown/reactor_dust|Reactor Dust]] → 2x [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]]
 
 

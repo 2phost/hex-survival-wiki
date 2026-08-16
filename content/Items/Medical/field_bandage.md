@@ -22,7 +22,7 @@ title: "Field Bandage"
 - 1x [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/Medical/bottle_of_alcohol|Bottle of Alcohol]] → 1x [[Items/Medical/field_bandage|Field Bandage]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Medical/field_bandage|Field Bandage]] + 1x [[Items/Medical/med_gauze|Medical Gauze]] + 1x [[Items/Unknown/water|Clean Water]] → 1x [[Items/Medical/first_aid_kit|First Aid Kit]]
 
 

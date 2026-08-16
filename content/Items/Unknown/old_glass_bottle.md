@@ -18,7 +18,7 @@ title: "Old Glass Bottle"
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/cracked_lens|Cracked Lens]] + 1x [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/Unknown/restored_binoculars|Restored Binoculars]]
 - 1x [[Items/Unknown/water|Clean Water]] + 1x [[Items/Unknown/ancient_relic|Ancient Relic]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] + 1x [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/Unknown/cleanse_vial|Cleanse Vial]]
 - 1x [[Items/Unknown/filter_mesh|Filter Mesh]] + 1x [[Items/Unknown/copper_wiring|Copper Wiring]] + 2x [[Items/Unknown/scrap_metal|Scrap Metal]] + 1x [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/Tool/humidity_extractor|Humidity Extractor]]

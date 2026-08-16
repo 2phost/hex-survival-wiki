@@ -10,7 +10,7 @@ title: "Vault Access Key"
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Required For
 ### Base Facilities
-- [[Builds/extraction_beacon|Extraction Beacon]] (2x)
+- [[Base/Constructions/extraction_beacon|Extraction Beacon]] (2x)
 
 ## Technical Information
 - **Item ID**: `vault_access_key`

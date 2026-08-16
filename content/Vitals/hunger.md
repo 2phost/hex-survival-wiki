@@ -39,7 +39,7 @@ Hunger is restored by consuming food items. Note that some items (like Stims) ac
 
 ### Base Infrastructure
 Building specialized facilities at the **[[Base/overview|Base]]** provides a reliable, daily source of food for the town.
-- **[[Builds/hydroponic_patch|Hydroponic Patch]]**: Produces **rations** and **salad**. Resources are added to the Town Bank.
+- **[[Base/Constructions/hydroponic_patch|Hydroponic Patch]]**: Produces **rations** and **salad**. Resources are added to the Town Bank.
 
 ### Scavenging Locations
 If the base production is insufficient, players must scavenge the wasteland.

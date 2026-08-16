@@ -18,7 +18,7 @@ Conductive filament that still holds residual charge.
 
 ## Required For
 ### Base Facilities
-- [[Builds/sensor_jammer_grid|Sensor Jammer Grid]] (4x)
+- [[Base/Constructions/sensor_jammer_grid|Sensor Jammer Grid]] (4x)
 
 ## Technical Information
 - **Item ID**: `ionized_filament`

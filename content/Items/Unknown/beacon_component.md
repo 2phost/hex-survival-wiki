@@ -14,7 +14,7 @@ title: "Beacon Component"
 - **[[Biomes/ruined_city|Ruined City]]**: 0.2% drop chance
 ## Required For
 ### Base Facilities
-- [[Builds/extraction_beacon|Extraction Beacon]] (6x)
+- [[Base/Constructions/extraction_beacon|Extraction Beacon]] (6x)
 ### Objectives
 - [[Objectives/story_evac_gather_components|Recover Beacon Components]] (3x)
 

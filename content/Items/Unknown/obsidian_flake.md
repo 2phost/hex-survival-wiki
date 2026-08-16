@@ -21,7 +21,7 @@ Sharp volcanic glass pieces ideal for improvised cutting tools.
 
 ## Required For
 ### Base Facilities
-- [[Builds/forge|Forge]] (4x)
+- [[Base/Constructions/forge|Forge]] (4x)
 ### Objectives
 - [[Objectives/story_daily_scrap_to_steel_initiative|Scrap-to-Steel Initiative]] (3x)
 - [[Objectives/story_daily_artifact_containment_protocol|Artifact Containment Protocol]] (2x)

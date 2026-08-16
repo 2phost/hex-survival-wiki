@@ -13,7 +13,7 @@ title: "Chemical Sludge"
 - **[[Biomes/ruined_city|Ruined City]]**: 0.4% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/stim_injector|Stim Injector]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] + 1x [[Items/Unknown/cryo_flask|Cryo Flask]] → 1x [[Items/Unknown/stim_overdrive|Stim Overdrive]]
 - 2x [[Items/Unknown/empty_canister|Empty Canister]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] → 1x [[Items/Fuel/gasoline_canister|Gasoline Canister]]
 - 1x [[Items/Unknown/water|Clean Water]] + 1x [[Items/Unknown/ancient_relic|Ancient Relic]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] + 1x [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/Unknown/cleanse_vial|Cleanse Vial]]
@@ -21,7 +21,7 @@ title: "Chemical Sludge"
 
 ## Usage
 ### Construction
-- Required for [[Builds/fuel_refinery|Fuel Refinery]]
+- Required for [[Base/Constructions/fuel_refinery|Fuel Refinery]]
 
 ### Yielded From Salvage
 * <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/burnt_motor|Burnt-Out Motor]]
@@ -29,7 +29,7 @@ title: "Chemical Sludge"
 
 ## Required For
 ### Base Facilities
-- [[Builds/fuel_refinery|Fuel Refinery]] (6x)
+- [[Base/Constructions/fuel_refinery|Fuel Refinery]] (6x)
 ### Objectives
 - [[Objectives/story_daily_chemical_spill_containment|Chemical Spill Containment]] (2x)
 

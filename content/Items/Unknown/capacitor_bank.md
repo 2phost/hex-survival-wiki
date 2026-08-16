@@ -15,11 +15,11 @@ Clustered charge capacitors suitable for energy buffering projects.
 - **[[Biomes/ruined_city|Ruined City]]**: 0.8% drop chance
 ## Usage
 ### Construction
-- Required for [[Builds/counterbattery_array|Counterbattery Array]]
+- Required for [[Base/Constructions/counterbattery_array|Counterbattery Array]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/counterbattery_array|Counterbattery Array]] (4x)
+- [[Base/Constructions/counterbattery_array|Counterbattery Array]] (4x)
 ### Objectives
 - [[Objectives/story_daily_capacitor_surge_buffer|Capacitor Surge Buffer]] (2x)
 

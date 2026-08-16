@@ -20,11 +20,11 @@ A long haft tipped with forged scrap. Reliable reach compared to improvised kniv
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/Unknown/timber|Raw Timber]] + 1x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Weapon/scrap_spear|Scrap Spear]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/scrap_spear|Scrap Spear]] + 1x [[Items/Unknown/fortified_rebar|Fortified Rebar]] + 2x [[Items/Unknown/ceramic_shards|Ceramic Shards]] → 1x [[Items/Weapon/rebar_blade|Rebar Blade]]
 
 

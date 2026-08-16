@@ -18,11 +18,11 @@ title: "First Aid Kit"
 - **[[Biomes/oasis|Oasis]]**: 0.5% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Medical/field_bandage|Field Bandage]] + 1x [[Items/Medical/med_gauze|Medical Gauze]] + 1x [[Items/Unknown/water|Clean Water]] → 1x [[Items/Medical/first_aid_kit|First Aid Kit]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Medical/first_aid_kit|First Aid Kit]] + 1x [[Items/Unknown/sterile_syringe|Sterile Syringe]] + 1x [[Items/Unknown/filter_mesh|Filter Mesh]] → 1x [[Items/Medical/trauma_stabilizer|Trauma Stabilizer]]
 
 

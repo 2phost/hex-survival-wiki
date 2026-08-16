@@ -19,11 +19,11 @@ A heavy-duty pack frame and stitched compartments built for long hauls. Increase
 - **[[Biomes/oasis|Oasis]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/salvager_pack|Salvager Pack]] + 1x [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/Unknown/rusted_chain|Rusted Chain]] → 1x [[Items/Unknown/expedition_pack|Expedition Pack]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/expedition_pack|Expedition Pack]] + 2x [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/Unknown/filter_mesh|Filter Mesh]] → 1x [[Items/Unknown/hauler_pack|Hauler Pack]]
 
 

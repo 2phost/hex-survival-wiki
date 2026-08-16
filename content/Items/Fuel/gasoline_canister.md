@@ -19,7 +19,7 @@ Fuel for the base generators. Refills 25% town power when used at base.
 - **[[Biomes/mountain|Mountain]]**: 2.0% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 2x [[Items/Unknown/empty_canister|Empty Canister]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] → 1x [[Items/Fuel/gasoline_canister|Gasoline Canister]]
 
 ### Used To Craft

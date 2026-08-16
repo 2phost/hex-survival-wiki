@@ -14,7 +14,7 @@ Shattered optics. Glass and metal casing can be salvaged.
 - **[[Biomes/industrial|Industrial]]**: 1.1% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/broken_binoculars|Broken Binoculars]] + 1x [[Items/Unknown/cracked_lens|Cracked Lens]] → 1x [[Items/Unknown/restored_binoculars|Restored Binoculars]]
 
 

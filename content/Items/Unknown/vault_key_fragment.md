@@ -15,7 +15,7 @@ Partial cipher key etched on alloy, likely tied to sealed vault systems.
 - **[[Biomes/industrial|Industrial]]**: 0.1% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 3x [[Items/Unknown/vault_key_fragment|Vault Key Fragment]] → 1x [[Items/Unknown/vault_access_key|Vault Access Key]]
 
 

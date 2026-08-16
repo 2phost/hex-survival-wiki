@@ -18,15 +18,15 @@ Produced by Electronic Labs Biome
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Builds/shock_fence_grid|Shock Fence Grid]]
-- Required for [[Builds/sensor_jammer_grid|Sensor Jammer Grid]]
-- Required for [[Builds/citadel_aegis|Citadel Aegis Core]]
+- Required for [[Base/Constructions/shock_fence_grid|Shock Fence Grid]]
+- Required for [[Base/Constructions/sensor_jammer_grid|Sensor Jammer Grid]]
+- Required for [[Base/Constructions/citadel_aegis|Citadel Aegis Core]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/shock_fence_grid|Shock Fence Grid]] (2x)
-- [[Builds/sensor_jammer_grid|Sensor Jammer Grid]] (4x)
-- [[Builds/citadel_aegis|Citadel Aegis Core]] (6x)
+- [[Base/Constructions/shock_fence_grid|Shock Fence Grid]] (2x)
+- [[Base/Constructions/sensor_jammer_grid|Sensor Jammer Grid]] (4x)
+- [[Base/Constructions/citadel_aegis|Citadel Aegis Core]] (6x)
 
 ## Technical Information
 - **Item ID**: `threat_sensor_array`

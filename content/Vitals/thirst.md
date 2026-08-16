@@ -34,7 +34,7 @@ Thirst is primarily restored by consuming **[[Items/Unknown/water|Clean Water]]*
 
 ### Base Infrastructure
 Building specialized facilities at the **[[Base/overview|Base]]** provides a reliable, daily source of hydration for the town.
-- **[[Builds/well|Well]]**: Produces **10 Water** at [[Mechanisms/Core/midnight_cycle|Midnight]]. Resources are added to the Town Bank.
+- **[[Base/Constructions/well|Well]]**: Produces **10 Water** at [[Mechanisms/Core/midnight_cycle|Midnight]]. Resources are added to the Town Bank.
 
 ### Scavenging Locations
 If the base production is insufficient, players must scavenge the wasteland.

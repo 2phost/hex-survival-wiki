@@ -16,17 +16,17 @@ Tiny protective fuse used in sensitive control circuits.
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.3% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/Unknown/micro_fuse|Micro Fuse]] + 1x [[Items/Unknown/circuit_boards|Circuit Boards]] → 1x [[Items/Unknown/calibrated_sensor|Calibrated Sensor]]
 
 
 ## Usage
 ### Construction
-- Required for [[Builds/sensor_jammer_grid|Sensor Jammer Grid]]
+- Required for [[Base/Constructions/sensor_jammer_grid|Sensor Jammer Grid]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/sensor_jammer_grid|Sensor Jammer Grid]] (6x)
+- [[Base/Constructions/sensor_jammer_grid|Sensor Jammer Grid]] (6x)
 ### Objectives
 - [[Objectives/story_daily_microfuse_grid_audit|Microfuse Grid Audit]] (2x)
 

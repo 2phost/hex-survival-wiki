@@ -21,7 +21,7 @@ title: "Clean Water"
 - **[[Biomes/industrial|Industrial]]**: 0.4% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Medical/field_bandage|Field Bandage]] + 1x [[Items/Medical/med_gauze|Medical Gauze]] + 1x [[Items/Unknown/water|Clean Water]] → 1x [[Items/Medical/first_aid_kit|First Aid Kit]]
 - 1x [[Items/Unknown/water|Clean Water]] + 1x [[Items/Unknown/ancient_relic|Ancient Relic]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] + 1x [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/Unknown/cleanse_vial|Cleanse Vial]]
 

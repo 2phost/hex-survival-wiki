@@ -18,17 +18,17 @@ title: "Ancient Relic"
 - **[[Biomes/oasis|Oasis]]**: 0.3% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/water|Clean Water]] + 1x [[Items/Unknown/ancient_relic|Ancient Relic]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] + 1x [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/Unknown/cleanse_vial|Cleanse Vial]]
 
 
 ## Usage
 ### Construction
-- Required for [[Builds/citadel_aegis|Citadel Aegis Core]]
+- Required for [[Base/Constructions/citadel_aegis|Citadel Aegis Core]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/citadel_aegis|Citadel Aegis Core]] (2x)
+- [[Base/Constructions/citadel_aegis|Citadel Aegis Core]] (2x)
 
 ## Technical Information
 - **Item ID**: `ancient_relic`

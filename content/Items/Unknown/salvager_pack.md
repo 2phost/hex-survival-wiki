@@ -20,11 +20,11 @@ A reinforced scav bag with extra loops and pouches. Increases carried inventory 
 - **[[Biomes/oasis|Oasis]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/worn_leather_pack|Worn Leather Pack]] + 1x [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/Unknown/rusted_chain|Rusted Chain]] → 1x [[Items/Unknown/salvager_pack|Salvager Pack]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/salvager_pack|Salvager Pack]] + 1x [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/Unknown/rusted_chain|Rusted Chain]] → 1x [[Items/Unknown/expedition_pack|Expedition Pack]]
 
 

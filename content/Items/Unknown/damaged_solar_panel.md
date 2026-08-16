@@ -15,7 +15,7 @@ Cracked photovoltaic array. Some cells might still function.
 - **[[Biomes/ruined_city|Ruined City]]**: 0.5% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 2x [[Items/Unknown/damaged_solar_panel|Damaged Solar Panel]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] → 1x [[Items/Unknown/solar_cell|Solar Cell]]
 
 

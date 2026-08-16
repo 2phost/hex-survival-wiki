@@ -15,7 +15,7 @@ Faulty detection unit. Electronics inside may be recoverable.
 - **[[Biomes/desert|Desert]]**: 0.3% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/Unknown/micro_fuse|Micro Fuse]] + 1x [[Items/Unknown/circuit_boards|Circuit Boards]] → 1x [[Items/Unknown/calibrated_sensor|Calibrated Sensor]]
 
 

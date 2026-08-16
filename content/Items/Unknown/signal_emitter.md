@@ -18,14 +18,14 @@ Produced by Electronic Labs Biome
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Builds/kill_zone_lights|Kill-Zone Floodlights]]
-- Required for [[Builds/counterbattery_array|Counterbattery Array]]
+- Required for [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]]
+- Required for [[Base/Constructions/counterbattery_array|Counterbattery Array]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/kill_zone_lights|Kill-Zone Floodlights]] (2x)
-- [[Builds/counterbattery_array|Counterbattery Array]] (6x)
-- [[Builds/extraction_beacon|Extraction Beacon]] (4x)
+- [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]] (2x)
+- [[Base/Constructions/counterbattery_array|Counterbattery Array]] (6x)
+- [[Base/Constructions/extraction_beacon|Extraction Beacon]] (4x)
 
 ## Technical Information
 - **Item ID**: `signal_emitter`

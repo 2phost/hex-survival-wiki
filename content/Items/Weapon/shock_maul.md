@@ -17,11 +17,11 @@ A heavy striking maul powered by reclaimed capacitors for brutal impact.
 - **[[Biomes/forest|Forest]]**: 0.3% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/rebar_blade|Rebar Blade]] + 1x [[Items/Unknown/shock_capacitor|Shock Capacitor]] + 1x [[Items/Unknown/hardened_actuator|Hardened Actuator]] → 1x [[Items/Weapon/shock_maul|Shock Maul]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/shock_maul|Shock Maul]] + 1x [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]] + 1x [[Items/Unknown/targeting_relay|Targeting Relay]] → 1x [[Items/Weapon/plasma_lance|Plasma Lance]]
 
 

@@ -16,11 +16,11 @@ title: "Raw Timber"
 - **[[Biomes/farm_facility|Farm Facility]]**: 0.8% drop chance
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/charred_planks|Charred Planks]] → 1x [[Items/Unknown/timber|Raw Timber]]
 
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Weapon/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/Unknown/timber|Raw Timber]] + 1x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Weapon/scrap_spear|Scrap Spear]]
 
 **Field**
@@ -29,11 +29,11 @@ title: "Raw Timber"
 
 ## Usage
 ### Construction
-- Required for [[Builds/watchtower|Watchtower]]
-- Required for [[Builds/hydroponic_patch|Hydroponic Patch]]
-- Required for [[Builds/well|Well]]
-- Required for [[Builds/spike_trench|Spike Trench]]
-- Required for [[Builds/palisade_wall|Timber Palisade Wall]]
+- Required for [[Base/Constructions/watchtower|Watchtower]]
+- Required for [[Base/Constructions/hydroponic_patch|Hydroponic Patch]]
+- Required for [[Base/Constructions/well|Well]]
+- Required for [[Base/Constructions/spike_trench|Spike Trench]]
+- Required for [[Base/Constructions/palisade_wall|Timber Palisade Wall]]
 
 ### Used in Recipes
 * <img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/scrap_spear|Scrap Spear]]
@@ -43,15 +43,15 @@ title: "Raw Timber"
 
 ## Required For
 ### Base Facilities
-- [[Builds/watchtower|Watchtower]] (4x)
-- [[Builds/assembly_bench|Assembly Bench]] (2x)
-- [[Builds/logistics_uplink|Logistics Uplink]] (4x)
-- [[Builds/forge|Forge]] (6x)
-- [[Builds/hydroponic_patch|Hydroponic Patch]] (4x)
-- [[Builds/preservation_rack|Preservation Rack]] (4x)
-- [[Builds/well|Well]] (4x)
-- [[Builds/spike_trench|Spike Trench]] (6x)
-- [[Builds/palisade_wall|Timber Palisade Wall]] (12x)
+- [[Base/Constructions/watchtower|Watchtower]] (4x)
+- [[Base/Constructions/assembly_bench|Assembly Bench]] (2x)
+- [[Base/Constructions/logistics_uplink|Logistics Uplink]] (4x)
+- [[Base/Constructions/forge|Forge]] (6x)
+- [[Base/Constructions/hydroponic_patch|Hydroponic Patch]] (4x)
+- [[Base/Constructions/preservation_rack|Preservation Rack]] (4x)
+- [[Base/Constructions/well|Well]] (4x)
+- [[Base/Constructions/spike_trench|Spike Trench]] (6x)
+- [[Base/Constructions/palisade_wall|Timber Palisade Wall]] (12x)
 ### Objectives
 - [[Objectives/story_stage_well_materials|Stage Well Materials]] (2x)
 

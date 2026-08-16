@@ -25,7 +25,7 @@ Corroded metal tool. Can be broken down for raw materials. Weapon: deals 1 monst
 
 ## Required For
 ### Base Facilities
-- [[Builds/assembly_bench|Assembly Bench]] (4x)
+- [[Base/Constructions/assembly_bench|Assembly Bench]] (4x)
 
 ## Technical Information
 - **Item ID**: `rusty_tool`

@@ -14,7 +14,7 @@ Decayed travel pack. Straps and buckles yield some materials.
 - **[[Biomes/forest|Forest]]**: 1.6% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/worn_leather_pack|Worn Leather Pack]] + 1x [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/Unknown/rusted_chain|Rusted Chain]] → 1x [[Items/Unknown/salvager_pack|Salvager Pack]]
 
 

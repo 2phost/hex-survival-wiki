@@ -17,7 +17,7 @@ title: "Scrap Metal"
 - **[[Biomes/forest|Forest]]**: 0.8% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/circuit_boards|Circuit Boards]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] + 1x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Unknown/solar_cell|Solar Cell]]
 - 1x [[Items/Weapon/makeshift_shiv|Makeshift Shiv]] + 1x [[Items/Unknown/timber|Raw Timber]] + 1x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Weapon/scrap_spear|Scrap Spear]]
 - 1x [[Items/Unknown/battery|Battery]] + 1x [[Items/Unknown/circuit_boards|Circuit Boards]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] + 2x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Unknown/hauler_drone|Fabrication Hauler Drone]]
@@ -31,21 +31,21 @@ title: "Scrap Metal"
 
 ## Usage
 ### Construction
-- Required for [[Builds/barbed_wire|Barbed Wire Perimeter]]
-- Required for [[Builds/reinforced_bulkhead|Reinforced Steel Bulkhead]]
-- Required for [[Builds/scrap_workshop|Scrap Workshop]]
-- Required for [[Builds/signal_booster|Signal Booster (Radar)]]
-- Required for [[Builds/hydroponic_patch|Hydroponic Patch]]
-- Required for [[Builds/sentry_turret|Automated Sentry]]
-- Required for [[Builds/solar_panels|Solar Panels]]
-- Required for [[Builds/research_lab|Research Lab]]
-- Required for [[Builds/research_lab_ii|Research Lab II]]
-- Required for [[Builds/battery_bank|Battery Storage]]
-- Required for [[Builds/beacon_amplifier|Beacon Amplifier]]
-- Required for [[Builds/fuel_refinery|Fuel Refinery]]
+- Required for [[Base/Constructions/barbed_wire|Barbed Wire Perimeter]]
+- Required for [[Base/Constructions/reinforced_bulkhead|Reinforced Steel Bulkhead]]
+- Required for [[Base/Constructions/scrap_workshop|Scrap Workshop]]
+- Required for [[Base/Constructions/signal_booster|Signal Booster (Radar)]]
+- Required for [[Base/Constructions/hydroponic_patch|Hydroponic Patch]]
+- Required for [[Base/Constructions/sentry_turret|Automated Sentry]]
+- Required for [[Base/Constructions/solar_panels|Solar Panels]]
+- Required for [[Base/Constructions/research_lab|Research Lab]]
+- Required for [[Base/Constructions/research_lab_ii|Research Lab II]]
+- Required for [[Base/Constructions/battery_bank|Battery Storage]]
+- Required for [[Base/Constructions/beacon_amplifier|Beacon Amplifier]]
+- Required for [[Base/Constructions/fuel_refinery|Fuel Refinery]]
 - Required for <img src="../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole|Power Pole]]
-- Required for [[Builds/scrap_barricade|Scrap Barricade Wall]]
-- Required for [[Builds/auto_bolt_nest|Auto-Bolt Nest]]
+- Required for [[Base/Constructions/scrap_barricade|Scrap Barricade Wall]]
+- Required for [[Base/Constructions/auto_bolt_nest|Auto-Bolt Nest]]
 
 ### Used in Recipes
 * <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
@@ -69,24 +69,24 @@ title: "Scrap Metal"
 
 ## Required For
 ### Base Facilities
-- [[Builds/barbed_wire|Barbed Wire Perimeter]] (4x)
-- [[Builds/reinforced_bulkhead|Reinforced Steel Bulkhead]] (2x)
-- [[Builds/scrap_workshop|Scrap Workshop]] (4x)
-- [[Builds/assembly_bench|Assembly Bench]] (4x)
-- [[Builds/signal_booster|Signal Booster (Radar)]] (2x)
-- [[Builds/logistics_uplink|Logistics Uplink]] (4x)
-- [[Builds/hydroponic_patch|Hydroponic Patch]] (2x)
-- [[Builds/sentry_turret|Automated Sentry]] (4x)
-- [[Builds/solar_panels|Solar Panels]] (2x)
-- [[Builds/research_lab|Research Lab]] (8x)
-- [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (16x)
-- [[Builds/research_lab_ii|Research Lab II]] (120x)
-- [[Builds/battery_bank|Battery Storage]] (4x)
-- [[Builds/beacon_amplifier|Beacon Amplifier]] (4x)
-- [[Builds/threat_scanner|Threat Scanner Beacon]] (4x)
-- [[Builds/fuel_refinery|Fuel Refinery]] (6x)
-- [[Builds/scrap_barricade|Scrap Barricade Wall]] (8x)
-- [[Builds/auto_bolt_nest|Auto-Bolt Nest]] (6x)
+- [[Base/Constructions/barbed_wire|Barbed Wire Perimeter]] (4x)
+- [[Base/Constructions/reinforced_bulkhead|Reinforced Steel Bulkhead]] (2x)
+- [[Base/Constructions/scrap_workshop|Scrap Workshop]] (4x)
+- [[Base/Constructions/assembly_bench|Assembly Bench]] (4x)
+- [[Base/Constructions/signal_booster|Signal Booster (Radar)]] (2x)
+- [[Base/Constructions/logistics_uplink|Logistics Uplink]] (4x)
+- [[Base/Constructions/hydroponic_patch|Hydroponic Patch]] (2x)
+- [[Base/Constructions/sentry_turret|Automated Sentry]] (4x)
+- [[Base/Constructions/solar_panels|Solar Panels]] (2x)
+- [[Base/Constructions/research_lab|Research Lab]] (8x)
+- [[Base/Constructions/specimen_analysis_bay|Specimen Analysis Bay]] (16x)
+- [[Base/Constructions/research_lab_ii|Research Lab II]] (120x)
+- [[Base/Constructions/battery_bank|Battery Storage]] (4x)
+- [[Base/Constructions/beacon_amplifier|Beacon Amplifier]] (4x)
+- [[Base/Constructions/threat_scanner|Threat Scanner Beacon]] (4x)
+- [[Base/Constructions/fuel_refinery|Fuel Refinery]] (6x)
+- [[Base/Constructions/scrap_barricade|Scrap Barricade Wall]] (8x)
+- [[Base/Constructions/auto_bolt_nest|Auto-Bolt Nest]] (6x)
 ### Objectives
 - [[Objectives/story_stage_workshop_stock|Stage Workshop Stock]] (2x)
 - [[Objectives/story_stage_battery_cells|Stage Battery Cells]] (2x)

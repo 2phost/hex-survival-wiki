@@ -15,13 +15,13 @@ Hardened organic sealant cultivated in powered Farm facilities to weatherproof f
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Usage
 ### Construction
-- Required for [[Builds/scrap_barricade|Scrap Barricade Wall]]
-- Required for [[Builds/palisade_wall|Timber Palisade Wall]]
+- Required for [[Base/Constructions/scrap_barricade|Scrap Barricade Wall]]
+- Required for [[Base/Constructions/palisade_wall|Timber Palisade Wall]]
 
 ## Required For
 ### Base Facilities
-- [[Builds/scrap_barricade|Scrap Barricade Wall]] (2x)
-- [[Builds/palisade_wall|Timber Palisade Wall]] (4x)
+- [[Base/Constructions/scrap_barricade|Scrap Barricade Wall]] (2x)
+- [[Base/Constructions/palisade_wall|Timber Palisade Wall]] (4x)
 ### Objectives
 - [[Objectives/story_last_chance_fortify|Last-Chance Fortify]] (1x)
 

@@ -16,7 +16,7 @@ Sealed thermal flask once used for preserving volatile samples.
 - **[[Biomes/mountain|Mountain]]**: 0.4% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/stim_injector|Stim Injector]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] + 1x [[Items/Unknown/cryo_flask|Cryo Flask]] → 1x [[Items/Unknown/stim_overdrive|Stim Overdrive]]
 
 

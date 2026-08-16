@@ -14,7 +14,7 @@ title: "Circuit Boards"
 - **[[Biomes/desert|Desert]]**: 1.6% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/circuit_boards|Circuit Boards]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] + 1x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Unknown/solar_cell|Solar Cell]]
 - 1x [[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]] + 1x [[Items/Unknown/micro_fuse|Micro Fuse]] + 1x [[Items/Unknown/circuit_boards|Circuit Boards]] → 1x [[Items/Unknown/calibrated_sensor|Calibrated Sensor]]
 - 1x [[Items/Unknown/battery|Battery]] + 1x [[Items/Unknown/circuit_boards|Circuit Boards]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] + 2x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Unknown/hauler_drone|Fabrication Hauler Drone]]
@@ -22,11 +22,11 @@ title: "Circuit Boards"
 
 ## Usage
 ### Construction
-- Required for [[Builds/scrap_workshop|Scrap Workshop]]
-- Required for [[Builds/signal_booster|Signal Booster (Radar)]]
-- Required for [[Builds/sentry_turret|Automated Sentry]]
-- Required for [[Builds/solar_panels|Solar Panels]]
-- Required for [[Builds/beacon_amplifier|Beacon Amplifier]]
+- Required for [[Base/Constructions/scrap_workshop|Scrap Workshop]]
+- Required for [[Base/Constructions/signal_booster|Signal Booster (Radar)]]
+- Required for [[Base/Constructions/sentry_turret|Automated Sentry]]
+- Required for [[Base/Constructions/solar_panels|Solar Panels]]
+- Required for [[Base/Constructions/beacon_amplifier|Beacon Amplifier]]
 
 ### Used in Recipes
 * <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
@@ -42,11 +42,11 @@ title: "Circuit Boards"
 
 ## Required For
 ### Base Facilities
-- [[Builds/logistics_uplink|Logistics Uplink]] (4x)
-- [[Builds/solar_panels|Solar Panels]] (2x)
-- [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (4x)
-- [[Builds/beacon_amplifier|Beacon Amplifier]] (6x)
-- [[Builds/threat_scanner|Threat Scanner Beacon]] (2x)
+- [[Base/Constructions/logistics_uplink|Logistics Uplink]] (4x)
+- [[Base/Constructions/solar_panels|Solar Panels]] (2x)
+- [[Base/Constructions/specimen_analysis_bay|Specimen Analysis Bay]] (4x)
+- [[Base/Constructions/beacon_amplifier|Beacon Amplifier]] (6x)
+- [[Base/Constructions/threat_scanner|Threat Scanner Beacon]] (2x)
 ### Objectives
 - [[Objectives/story_harden_control_logic|Harden Control Logic]] (1x)
 - [[Objectives/story_manual_override_kit|Assemble Manual Override Kit]] (1x)

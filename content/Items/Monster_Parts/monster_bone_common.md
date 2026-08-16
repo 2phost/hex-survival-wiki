@@ -10,7 +10,7 @@ title: "Common Monster Bone"
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Required For
 ### Base Facilities
-- [[Builds/specimen_analysis_bay|Specimen Analysis Bay]] (6x)
+- [[Base/Constructions/specimen_analysis_bay|Specimen Analysis Bay]] (6x)
 ### Objectives
 - [[Objectives/story_daily_specimen_harvest|Specimen Harvest]] (4x)
 

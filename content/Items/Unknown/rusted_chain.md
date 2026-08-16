@@ -19,7 +19,7 @@ Corroded chain links salvaged from gates, cranes, and fences.
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.6% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/worn_leather_pack|Worn Leather Pack]] + 1x [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] + 1x [[Items/Unknown/rusted_chain|Rusted Chain]] → 1x [[Items/Unknown/salvager_pack|Salvager Pack]]
 - 1x [[Items/Unknown/salvager_pack|Salvager Pack]] + 1x [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] + 2x [[Items/Unknown/rusted_chain|Rusted Chain]] → 1x [[Items/Unknown/expedition_pack|Expedition Pack]]
 

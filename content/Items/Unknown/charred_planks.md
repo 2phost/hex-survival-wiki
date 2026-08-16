@@ -19,7 +19,7 @@ Half-burned construction wood that can still be repurposed.
 - **[[Biomes/hidden_vault|Hidden Vault]]**: 0.2% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/charred_planks|Charred Planks]] → 1x [[Items/Unknown/timber|Raw Timber]]
 
 
@@ -28,7 +28,7 @@ Half-burned construction wood that can still be repurposed.
 
 ## Required For
 ### Base Facilities
-- [[Builds/scrap_workshop|Scrap Workshop]] (2x)
+- [[Base/Constructions/scrap_workshop|Scrap Workshop]] (2x)
 ### Objectives
 - [[Objectives/story_stage_workshop_stock|Stage Workshop Stock]] (1x)
 

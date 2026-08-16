@@ -22,7 +22,7 @@ Mineral deposits scraped from dry beds and cave seams.
 
 ## Required For
 ### Base Facilities
-- [[Builds/preservation_rack|Preservation Rack]] (6x)
+- [[Base/Constructions/preservation_rack|Preservation Rack]] (6x)
 ### Objectives
 - [[Objectives/story_daily_salt_preservation_run|Salt Preservation Run]] (3x)
 

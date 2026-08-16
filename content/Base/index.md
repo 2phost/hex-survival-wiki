@@ -14,5 +14,5 @@ A general introduction to the Base tile, its inherent properties, and its role i
 ### [[Base/management|Base Management & Bank]]
 Learn how to use the "Enter Base" menu, manage shared resources in the Bank, and refuel the town generators.
 
-### [[Builds/index|Constructions]]
+### [[Base/Constructions/index|Constructions]]
 A complete list of structures that can be built at the base to improve survival, defense, and resource production, including advanced technology like Solar Panels and Research Labs.

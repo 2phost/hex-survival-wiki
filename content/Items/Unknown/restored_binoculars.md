@@ -12,7 +12,7 @@ Repaired optics that improve your field awareness. Use to reveal the biome of ad
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/broken_binoculars|Broken Binoculars]] + 1x [[Items/Unknown/cracked_lens|Cracked Lens]] → 1x [[Items/Unknown/restored_binoculars|Restored Binoculars]]
 - 1x [[Items/Unknown/cracked_lens|Cracked Lens]] + 1x [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/Unknown/restored_binoculars|Restored Binoculars]]
 

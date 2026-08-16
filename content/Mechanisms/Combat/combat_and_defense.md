@@ -41,9 +41,9 @@ Town Defense is the sum of all defensive base upgrades. If **Attack Strength (Ho
 
 | Upgrade | Defense Bonus | Special Effect |
 | :--- | :---: | :--- |
-| **[[Builds/barbed_wire|Barbed Wire]]** | **+6** | Reduces midnight attack strength by 8% |
-| **[[Builds/reinforced_bulkhead|Reinforced Bulkhead]]** | **+12** | - |
-| **[[Builds/sentry_turret|Automated Sentry]]** | **+10** | - |
+| **[[Base/Constructions/barbed_wire|Barbed Wire]]** | **+6** | Reduces midnight attack strength by 8% |
+| **[[Base/Constructions/reinforced_bulkhead|Reinforced Bulkhead]]** | **+12** | - |
+| **[[Base/Constructions/sentry_turret|Automated Sentry]]** | **+10** | - |
 
 ---
 

@@ -16,7 +16,7 @@ title: "Battery"
 - **[[Biomes/ruined_city|Ruined City]]**: 0.4% drop chance
 ## Combinations
 ### Used To Craft
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/broken_radio|Broken Radio]] + 1x [[Items/Unknown/copper_wiring|Copper Wiring]] + 1x [[Items/Unknown/battery|Battery]] → 1x [[Items/Unknown/field_radio|Field Radio]]
 - 1x [[Items/Unknown/battery|Battery]] + 1x [[Items/Unknown/circuit_boards|Circuit Boards]] + 2x [[Items/Unknown/copper_wiring|Copper Wiring]] + 2x [[Items/Unknown/scrap_metal|Scrap Metal]] → 1x [[Items/Unknown/hauler_drone|Fabrication Hauler Drone]]
 
@@ -26,7 +26,7 @@ title: "Battery"
 
 ## Usage
 ### Construction
-- Required for [[Builds/kill_zone_lights|Kill-Zone Floodlights]]
+- Required for [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]]
 
 ### Used in Recipes
 * <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
@@ -38,7 +38,7 @@ title: "Battery"
 
 ## Required For
 ### Base Facilities
-- [[Builds/kill_zone_lights|Kill-Zone Floodlights]] (4x)
+- [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]] (4x)
 ### Objectives
 - [[Objectives/story_daily_field_radio_revival|Field Radio Revival]] (2x)
 - [[Objectives/story_prime_station_power|Prime Station Power]] (2x)

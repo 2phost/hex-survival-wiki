@@ -10,7 +10,7 @@ A volatile purifier that can cleanse one corrupted tile when used on it.
 - *Cannot be found in the wilderness (Crafting/Production only).*
 ## Combinations
 ### Crafted From
-**Workshop ([[Builds/assembly_bench|Assembly Bench]])**
+**Workshop ([[Base/Constructions/assembly_bench|Assembly Bench]])**
 - 1x [[Items/Unknown/water|Clean Water]] + 1x [[Items/Unknown/ancient_relic|Ancient Relic]] + 1x [[Items/Unknown/chemical_sludge|Chemical Sludge]] + 1x [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] → 1x [[Items/Unknown/cleanse_vial|Cleanse Vial]]
 
 
