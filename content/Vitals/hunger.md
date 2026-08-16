@@ -31,9 +31,9 @@ Hunger is restored by consuming food items. Note that some items (like Stims) ac
 | **[[Items/Unknown/alien_vegetable|Alien Vegetable]]** | **+5** | **+1** | None |
 | **[[Items/Unknown/cactus_pulp|Cactus Pulp]]** | **+5** | **+2** | None |
 | **[[Items/Unknown/herbal_tea|Herbal Tea]]** | **+5** | **+2** | None |
-| **[[Items/Unknown/stim_injector|Stim Injector]]** | **-10** | **+8** | [[Skills/stim_usage|Stim Usage]] (Lvl 2) |
-| **[[Items/Unknown/stim_pack|Stim Pack]]** | **-10** | **+4** | [[Skills/stim_usage|Stim Usage]] (Lvl 1) |
-| **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** | **-15** | **+12** | [[Skills/stim_usage|Stim Usage]] (Lvl 3) |
+| **[[Items/Unknown/stim_injector|Stim Injector]]** | **-10** | **+8** | [[Skills/stim_conditioning|Stim Usage]] (Lvl 2) |
+| **[[Items/Unknown/stim_pack|Stim Pack]]** | **-10** | **+4** | [[Skills/stim_conditioning|Stim Usage]] (Lvl 1) |
+| **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** | **-15** | **+12** | [[Skills/stim_conditioning|Stim Usage]] (Lvl 3) |
 
 ## 3. Where to Find Food
 
