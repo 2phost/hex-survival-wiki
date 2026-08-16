@@ -25,14 +25,14 @@ title: "Lamp (empty)"
 ## Usage
 
 ### Used in Recipes
-* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
+* <img src="../../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (40%)
-* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (20%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (40%)
+* <img src="../../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (20%)
 
 ### Yielded From Salvage
-* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
+* <img src="../../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
 
 ## Technical Information
 - **Item ID**: `lamp_empty`

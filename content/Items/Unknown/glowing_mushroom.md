@@ -28,11 +28,11 @@ title: "Glowing Mushroom"
 ## Usage
 
 ### Used in Recipes
-* <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/glowing_bottle|Glowing Bottle]]
+* <img src="../../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/glowing_bottle|Glowing Bottle]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/glowing_bottle|Glowing Bottle]]
-* <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/worn_leather_pack|Worn Leather Pack]]
+* <img src="../../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/glowing_bottle|Glowing Bottle]]
+* <img src="../../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/worn_leather_pack|Worn Leather Pack]]
 
 ## Technical Information
 - **Item ID**: `glowing_mushroom`

@@ -24,8 +24,8 @@ title: "Chemical Sludge"
 - Required for [[Base/Constructions/fuel_refinery|Fuel Refinery]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/burnt_motor|Burnt-Out Motor]]
-* <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/ruined_generator_parts|Ruined Generator Parts]]
+* <img src="../../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/burnt_motor|Burnt-Out Motor]]
+* <img src="../../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/ruined_generator_parts|Ruined Generator Parts]]
 
 ## Required For
 ### Base Facilities

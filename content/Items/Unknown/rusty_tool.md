@@ -20,8 +20,8 @@ Corroded metal tool. Can be broken down for raw materials. Weapon: deals 1 monst
 - **Break Chance**: 35%
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (60%)
-* <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/stone|Hardened Stone]] (20%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (60%)
+* <img src="../../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/stone|Hardened Stone]] (20%)
 
 ## Required For
 ### Base Facilities

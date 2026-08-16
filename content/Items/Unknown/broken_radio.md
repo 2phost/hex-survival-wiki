@@ -22,10 +22,10 @@ Salvageable electronics from a damaged broadcast unit.
 Salvageable electronics from a damaged broadcast unit.
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (50%)
-* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (30%)
-* <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/battery|Battery]] (20%)
-* <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (rare, 5%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (50%)
+* <img src="../../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (30%)
+* <img src="../../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/battery|Battery]] (20%)
+* <img src="../../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (rare, 5%)
 
 ## Required For
 ### Base Facilities

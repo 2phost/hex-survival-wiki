@@ -36,27 +36,27 @@ Electrical wiring for connecting solar panels to the grid.
 - Required for [[Base/Constructions/solar_panels|Solar Panels]]
 - Required for [[Base/Constructions/battery_bank|Battery Storage]]
 - Required for [[Base/Constructions/beacon_amplifier|Beacon Amplifier]]
-- Required for <img src="../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole|Power Pole]]
+- Required for <img src="../../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole|Power Pole]]
 - Required for [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]]
 - Required for [[Base/Constructions/shock_fence_grid|Shock Fence Grid]]
 
 ### Used in Recipes
-* <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
-* <img src="../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole|Power Pole]]
-* <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/expedition_pack|Expedition Pack]]
-* <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hauler_pack|Hauler Pack]]
+* <img src="../../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
+* <img src="../../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole|Power Pole]]
+* <img src="../../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/expedition_pack|Expedition Pack]]
+* <img src="../../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hauler_pack|Hauler Pack]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/lamp_empty|Lamp (empty)]]
-* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
-* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
-* <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
-* <img src="../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole|Power Pole]]
-* <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_radio|Broken Radio]]
-* <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/burnt_motor|Burnt-Out Motor]]
-* <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/ruined_generator_parts|Ruined Generator Parts]]
-* <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/damaged_solar_panel|Damaged Solar Panel]]
-* <img src="../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole_mk2|Reinforced Power Pole]]
+* <img src="../../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/lamp_empty|Lamp (empty)]]
+* <img src="../../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
+* <img src="../../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
+* <img src="../../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
+* <img src="../../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole|Power Pole]]
+* <img src="../../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_radio|Broken Radio]]
+* <img src="../../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/burnt_motor|Burnt-Out Motor]]
+* <img src="../../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/ruined_generator_parts|Ruined Generator Parts]]
+* <img src="../../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/damaged_solar_panel|Damaged Solar Panel]]
+* <img src="../../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole_mk2|Reinforced Power Pole]]
 
 ## Required For
 ### Base Facilities

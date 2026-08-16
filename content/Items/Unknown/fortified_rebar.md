@@ -33,7 +33,7 @@ Bent but sturdy steel rods bundled for emergency fortifications.
 - Required for [[Base/Constructions/palisade_wall|Timber Palisade Wall]]
 
 ### Used in Recipes
-* <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/rebar_blade|Rebar Blade]]
+* <img src="../../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/rebar_blade|Rebar Blade]]
 
 ## Required For
 ### Base Facilities

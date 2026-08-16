@@ -29,16 +29,16 @@ title: "Circuit Boards"
 - Required for [[Base/Constructions/beacon_amplifier|Beacon Amplifier]]
 
 ### Used in Recipes
-* <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
-* <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/restored_binoculars|Restored Binoculars]]
+* <img src="../../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
+* <img src="../../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/restored_binoculars|Restored Binoculars]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
-* <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
-* <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_radio|Broken Radio]]
-* <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]]
-* <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/ruined_generator_parts|Ruined Generator Parts]]
-* <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/damaged_solar_panel|Damaged Solar Panel]]
+* <img src="../../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
+* <img src="../../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
+* <img src="../../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_radio|Broken Radio]]
+* <img src="../../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]]
+* <img src="../../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/ruined_generator_parts|Ruined Generator Parts]]
+* <img src="../../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/damaged_solar_panel|Damaged Solar Panel]]
 
 ## Required For
 ### Base Facilities

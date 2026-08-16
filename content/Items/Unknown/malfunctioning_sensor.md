@@ -23,9 +23,9 @@ Faulty detection unit. Electronics inside may be recoverable.
 Faulty detection unit. Electronics inside may be recoverable.
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (40%)
-* <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/battery|Battery]] (30%)
-* <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/research_material|Research Material]] (rare, 10%)
+* <img src="../../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (40%)
+* <img src="../../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/battery|Battery]] (30%)
+* <img src="../../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/research_material|Research Material]] (rare, 10%)
 
 ## Required For
 ### Objectives

@@ -21,10 +21,10 @@ title: "Gasoline Generator (empty)"
 ## Usage
 
 ### Used in Recipes
-* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
+* <img src="../../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
+* <img src="../../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
 
 ## Technical Information
 - **Item ID**: `gasoline_generator_empty`

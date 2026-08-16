@@ -22,9 +22,9 @@ Shattered optics. Glass and metal casing can be salvaged.
 Shattered optics. Glass and metal casing can be salvaged.
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] (40%)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (40%)
-* <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/research_material|Research Material]] (rare, 4%)
+* <img src="../../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] (40%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (40%)
+* <img src="../../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/research_material|Research Material]] (rare, 4%)
 
 ## Required For
 ### Objectives

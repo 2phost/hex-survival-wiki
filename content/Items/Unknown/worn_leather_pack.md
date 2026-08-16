@@ -21,12 +21,12 @@ Decayed travel pack. Straps and buckles yield some materials.
 ## Usage
 
 ### Used in Recipes
-* <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvager_pack|Salvager Pack]]
+* <img src="../../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvager_pack|Salvager Pack]]
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/timber|Raw Timber]] (40%)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (20%)
-* <img src="../assets/items/glowing_mushroom.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/glowing_mushroom|Glowing Mushroom]] (rare, 5%)
+* <img src="../../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/timber|Raw Timber]] (40%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (20%)
+* <img src="../../assets/items/glowing_mushroom.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/glowing_mushroom|Glowing Mushroom]] (rare, 5%)
 
 ## Technical Information
 - **Item ID**: `worn_leather_pack`

@@ -31,12 +31,12 @@ A heavy striking maul powered by reclaimed capacitors for brutal impact.
 - **Break Chance**: 14.0%
 
 ### Crafting Recipe
-* <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/rebar_blade|Rebar Blade]] (x1)
-* <img src="../assets/items/shock_capacitor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/shock_capacitor|Shock Capacitor]] (x1)
-* <img src="../assets/items/hardened_actuator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hardened_actuator|Hardened Actuator]] (x1)
+* <img src="../../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/rebar_blade|Rebar Blade]] (x1)
+* <img src="../../assets/items/shock_capacitor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/shock_capacitor|Shock Capacitor]] (x1)
+* <img src="../../assets/items/hardened_actuator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hardened_actuator|Hardened Actuator]] (x1)
 
 ### Used in Recipes
-* <img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/plasma_lance|Plasma Lance]]
+* <img src="../../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/plasma_lance|Plasma Lance]]
 
 ## Technical Information
 - **Item ID**: `shock_maul`

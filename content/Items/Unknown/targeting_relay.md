@@ -29,7 +29,7 @@ Produced by Electronic Labs Biome
 - Required for [[Base/Constructions/citadel_aegis|Citadel Aegis Core]]
 
 ### Used in Recipes
-* <img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/plasma_lance|Plasma Lance]]
+* <img src="../../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/plasma_lance|Plasma Lance]]
 
 ## Required For
 ### Base Facilities

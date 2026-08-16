@@ -34,12 +34,12 @@ A long haft tipped with forged scrap. Reliable reach compared to improvised kniv
 - **Break Chance**: 28.0%
 
 ### Crafting Recipe
-* <img src="../assets/items/makeshift_shiv.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/makeshift_shiv|Makeshift Shiv]] (x1)
-* <img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/timber|Raw Timber]] (x1)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (x1)
+* <img src="../../assets/items/makeshift_shiv.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/makeshift_shiv|Makeshift Shiv]] (x1)
+* <img src="../../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/timber|Raw Timber]] (x1)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (x1)
 
 ### Used in Recipes
-* <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/rebar_blade|Rebar Blade]]
+* <img src="../../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/rebar_blade|Rebar Blade]]
 
 ## Technical Information
 - **Item ID**: `scrap_spear`

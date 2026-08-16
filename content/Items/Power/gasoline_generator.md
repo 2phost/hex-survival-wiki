@@ -23,14 +23,14 @@ This gasoline generator can probably power your house for a long time.
 This gasoline generator can probably power your house for a long time.
 
 ### Crafting Recipe
-* <img src="../assets/items/gasoline_generator_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/gasoline_generator_empty|Gasoline Generator (empty)]] (x1)
-* <img src="../assets/items/gasoline_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Fuel/gasoline_canister|Gasoline Canister]] (x1)
+* <img src="../../assets/items/gasoline_generator_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/gasoline_generator_empty|Gasoline Generator (empty)]] (x1)
+* <img src="../../assets/items/gasoline_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Fuel/gasoline_canister|Gasoline Canister]] (x1)
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/gasoline_generator_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/gasoline_generator_empty|Gasoline Generator (empty)]] (50%)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (40%)
-* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (30%)
-* <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (rare, 6%)
+* <img src="../../assets/items/gasoline_generator_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/gasoline_generator_empty|Gasoline Generator (empty)]] (50%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (40%)
+* <img src="../../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (30%)
+* <img src="../../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (rare, 6%)
 
 ## Technical Information
 - **Item ID**: `gasoline_generator`

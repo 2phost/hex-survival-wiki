@@ -22,7 +22,7 @@ Dented fuel container. Scrap metal at best.
 Dented fuel container. Scrap metal at best.
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (50%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (50%)
 
 ## Required For
 ### Objectives

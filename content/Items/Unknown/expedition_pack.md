@@ -30,14 +30,14 @@ A heavy-duty pack frame and stitched compartments built for long hauls. Increase
 ## Usage
 
 ### Crafting Recipe
-* <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvager_pack|Salvager Pack]] (x1)
-* <img src="../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] (x8)
-* <img src="../assets/items/rusted_chain.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/rusted_chain|Rusted Chain]] (x4)
-* <img src="../assets/items/ceramic_shards.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/ceramic_shards|Ceramic Shards]] (x4)
-* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (x2)
+* <img src="../../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvager_pack|Salvager Pack]] (x1)
+* <img src="../../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] (x8)
+* <img src="../../assets/items/rusted_chain.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/rusted_chain|Rusted Chain]] (x4)
+* <img src="../../assets/items/ceramic_shards.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/ceramic_shards|Ceramic Shards]] (x4)
+* <img src="../../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (x2)
 
 ### Used in Recipes
-* <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hauler_pack|Hauler Pack]]
+* <img src="../../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hauler_pack|Hauler Pack]]
 
 ## Technical Information
 - **Item ID**: `expedition_pack`

@@ -30,7 +30,7 @@ A sharpened scrap spike wrapped with cloth. Basic self-defense weapon with high 
 - **Break Chance**: 40.0%
 
 ### Used in Recipes
-* <img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/scrap_spear|Scrap Spear]]
+* <img src="../../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/scrap_spear|Scrap Spear]]
 
 ## Technical Information
 - **Item ID**: `makeshift_shiv`

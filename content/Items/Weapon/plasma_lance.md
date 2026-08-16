@@ -25,9 +25,9 @@ A rare pre-collapse polearm retrofitted with a stabilized plasma channel.
 - **Break Chance**: 8.0%
 
 ### Crafting Recipe
-* <img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/shock_maul|Shock Maul]] (x1)
-* <img src="../assets/items/plasma_fuel_rod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]] (x1)
-* <img src="../assets/items/targeting_relay.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/targeting_relay|Targeting Relay]] (x1)
+* <img src="../../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/shock_maul|Shock Maul]] (x1)
+* <img src="../../assets/items/plasma_fuel_rod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]] (x1)
+* <img src="../../assets/items/targeting_relay.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/targeting_relay|Targeting Relay]] (x1)
 
 ## Technical Information
 - **Item ID**: `plasma_lance`

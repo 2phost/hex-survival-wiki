@@ -19,9 +19,9 @@ Seized motor housing. Some parts may still be usable. Weapon: deals 2 monster da
 - **Break Chance**: 22%
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (50%)
-* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (40%)
-* <img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/chemical_sludge|Chemical Sludge]] (rare, 8%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (50%)
+* <img src="../../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (40%)
+* <img src="../../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/chemical_sludge|Chemical Sludge]] (rare, 8%)
 
 ## Required For
 ### Base Facilities

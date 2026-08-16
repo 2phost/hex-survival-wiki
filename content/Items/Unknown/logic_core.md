@@ -22,10 +22,10 @@ Produced by Electronic Labs Biome
 - Required for [[Base/Constructions/citadel_aegis|Citadel Aegis Core]]
 
 ### Used in Recipes
-* <img src="../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole_mk2|Reinforced Power Pole]]
+* <img src="../../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole_mk2|Reinforced Power Pole]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole_mk2|Reinforced Power Pole]]
+* <img src="../../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/power_pole_mk2|Reinforced Power Pole]]
 
 ## Required For
 ### Base Facilities

@@ -23,10 +23,10 @@ Cracked photovoltaic array. Some cells might still function.
 Cracked photovoltaic array. Some cells might still function.
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]] (30%)
-* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (50%)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (30%)
-* <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (rare, 8%)
+* <img src="../../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]] (30%)
+* <img src="../../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (50%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (30%)
+* <img src="../../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (rare, 8%)
 
 ## Required For
 ### Objectives

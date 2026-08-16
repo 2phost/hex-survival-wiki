@@ -16,10 +16,10 @@ Scorched generator internals. Mixed scrap and chemicals.
 Scorched generator internals. Mixed scrap and chemicals.
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (50%)
-* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (30%)
-* <img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/chemical_sludge|Chemical Sludge]] (20%)
-* <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (rare, 6%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (50%)
+* <img src="../../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/copper_wiring|Copper Wiring]] (30%)
+* <img src="../../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/chemical_sludge|Chemical Sludge]] (20%)
+* <img src="../../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (rare, 6%)
 
 ## Required For
 ### Objectives

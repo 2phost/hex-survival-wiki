@@ -22,12 +22,12 @@ Optical glass from damaged equipment.
 ## Usage
 
 ### Used in Recipes
-* <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/restored_binoculars|Restored Binoculars]]
+* <img src="../../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/restored_binoculars|Restored Binoculars]]
 
 ### Deconstruction (Salvage)
-* <img src="../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] (50%)
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (30%)
-* <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/research_material|Research Material]] (rare, 3%)
+* <img src="../../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] (50%)
+* <img src="../../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/scrap_metal|Scrap Metal]] (30%)
+* <img src="../../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/research_material|Research Material]] (rare, 3%)
 
 ## Required For
 ### Objectives

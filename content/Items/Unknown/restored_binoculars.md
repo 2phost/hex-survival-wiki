@@ -22,9 +22,9 @@ Repaired optics that improve your field awareness. Use to reveal the biome of ad
 ### Consumable Effects
 
 ### Crafting Recipe
-* <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/cracked_lens|Cracked Lens]] (x1)
-* <img src="../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] (x1)
-* <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (x1)
+* <img src="../../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/cracked_lens|Cracked Lens]] (x1)
+* <img src="../../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/old_glass_bottle|Old Glass Bottle]] (x1)
+* <img src="../../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/circuit_boards|Circuit Boards]] (x1)
 
 ## Technical Information
 - **Item ID**: `restored_binoculars`

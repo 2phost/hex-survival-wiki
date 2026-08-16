@@ -30,7 +30,7 @@ Experimental pre-collapse fuel rod. Refills 60% town power and requires Generato
 Experimental pre-collapse fuel rod. Refills 60% town power and requires Generator Operations III.
 
 ### Used in Recipes
-* <img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/plasma_lance|Plasma Lance]]
+* <img src="../../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/plasma_lance|Plasma Lance]]
 
 ## Technical Information
 - **Item ID**: `plasma_fuel_rod`

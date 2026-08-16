@@ -29,12 +29,12 @@ title: "Battery"
 - Required for [[Base/Constructions/kill_zone_lights|Kill-Zone Floodlights]]
 
 ### Used in Recipes
-* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
+* <img src="../../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
-* <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_radio|Broken Radio]]
-* <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]]
+* <img src="../../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/lamp_functioning|Functioning Lamp]]
+* <img src="../../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_radio|Broken Radio]]
+* <img src="../../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]]
 
 ## Required For
 ### Base Facilities

@@ -31,13 +31,13 @@ A reinforced scav bag with extra loops and pouches. Increases carried inventory 
 ## Usage
 
 ### Crafting Recipe
-* <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/worn_leather_pack|Worn Leather Pack]] (x2)
-* <img src="../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] (x6)
-* <img src="../assets/items/rusted_chain.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/rusted_chain|Rusted Chain]] (x2)
-* <img src="../assets/items/filter_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/filter_mesh|Filter Mesh]] (x1)
+* <img src="../../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/worn_leather_pack|Worn Leather Pack]] (x2)
+* <img src="../../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvaged_fabric|Salvaged Fabric]] (x6)
+* <img src="../../assets/items/rusted_chain.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/rusted_chain|Rusted Chain]] (x2)
+* <img src="../../assets/items/filter_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/filter_mesh|Filter Mesh]] (x1)
 
 ### Used in Recipes
-* <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/expedition_pack|Expedition Pack]]
+* <img src="../../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/expedition_pack|Expedition Pack]]
 
 ## Technical Information
 - **Item ID**: `salvager_pack`

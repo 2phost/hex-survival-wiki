@@ -30,7 +30,7 @@ Fuel for the base generators. Refills 25% town power when used at base.
 ## Usage
 
 ### Used in Recipes
-* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
+* <img src="../../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Power/gasoline_generator|Gasoline Generator]]
 
 ## Required For
 ### Objectives

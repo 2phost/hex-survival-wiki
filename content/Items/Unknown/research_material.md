@@ -16,10 +16,10 @@ Recovered data drives, scientific logs, and salvageable pre-collapse notes used 
 ## Usage
 
 ### Yielded From Salvage
-* <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
-* <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/cracked_lens|Cracked Lens]]
-* <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_binoculars|Broken Binoculars]]
-* <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]]
+* <img src="../../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/solar_cell|Solar Cell]]
+* <img src="../../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/cracked_lens|Cracked Lens]]
+* <img src="../../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_binoculars|Broken Binoculars]]
+* <img src="../../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]]
 
 ## Required For
 ### Objectives

@@ -36,10 +36,10 @@ title: "Raw Timber"
 - Required for [[Base/Constructions/palisade_wall|Timber Palisade Wall]]
 
 ### Used in Recipes
-* <img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/scrap_spear|Scrap Spear]]
+* <img src="../../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/scrap_spear|Scrap Spear]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/worn_leather_pack|Worn Leather Pack]]
+* <img src="../../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/worn_leather_pack|Worn Leather Pack]]
 
 ## Required For
 ### Base Facilities

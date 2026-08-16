@@ -30,13 +30,13 @@ title: "Old Glass Bottle"
 ## Usage
 
 ### Used in Recipes
-* <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/glowing_bottle|Glowing Bottle]]
-* <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/restored_binoculars|Restored Binoculars]]
+* <img src="../../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/glowing_bottle|Glowing Bottle]]
+* <img src="../../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/restored_binoculars|Restored Binoculars]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/glowing_bottle|Glowing Bottle]]
-* <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/cracked_lens|Cracked Lens]]
-* <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_binoculars|Broken Binoculars]]
+* <img src="../../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Light/glowing_bottle|Glowing Bottle]]
+* <img src="../../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/cracked_lens|Cracked Lens]]
+* <img src="../../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/broken_binoculars|Broken Binoculars]]
 
 ## Required For
 ### Objectives

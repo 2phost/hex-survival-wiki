@@ -26,7 +26,7 @@ title: "Hardened Stone"
 - Required for [[Base/Constructions/palisade_wall|Timber Palisade Wall]]
 
 ### Yielded From Salvage
-* <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/rusty_tool|Rusty Tool]]
+* <img src="../../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/rusty_tool|Rusty Tool]]
 
 ## Required For
 ### Base Facilities

@@ -29,7 +29,7 @@ Produced by Industrial facilities Biome
 - Required for [[Base/Constructions/counterbattery_array|Counterbattery Array]]
 
 ### Used in Recipes
-* <img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/shock_maul|Shock Maul]]
+* <img src="../../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/shock_maul|Shock Maul]]
 
 ## Required For
 ### Base Facilities

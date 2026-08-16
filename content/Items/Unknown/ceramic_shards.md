@@ -27,9 +27,9 @@ Broken insulation and cookware fragments from pre-collapse ruins.
 ## Usage
 
 ### Used in Recipes
-* <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/expedition_pack|Expedition Pack]]
-* <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hauler_pack|Hauler Pack]]
-* <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/rebar_blade|Rebar Blade]]
+* <img src="../../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/expedition_pack|Expedition Pack]]
+* <img src="../../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hauler_pack|Hauler Pack]]
+* <img src="../../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Weapon/rebar_blade|Rebar Blade]]
 
 ## Required For
 ### Base Facilities

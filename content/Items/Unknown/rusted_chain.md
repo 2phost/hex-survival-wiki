@@ -27,9 +27,9 @@ Corroded chain links salvaged from gates, cranes, and fences.
 ## Usage
 
 ### Used in Recipes
-* <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvager_pack|Salvager Pack]]
-* <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/expedition_pack|Expedition Pack]]
-* <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hauler_pack|Hauler Pack]]
+* <img src="../../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/salvager_pack|Salvager Pack]]
+* <img src="../../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/expedition_pack|Expedition Pack]]
+* <img src="../../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> [[Items/Unknown/hauler_pack|Hauler Pack]]
 
 ## Required For
 ### Objectives
