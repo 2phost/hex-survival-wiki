@@ -24,6 +24,13 @@ Players can engage monsters by moving onto a hex containing a horde and selectin
 | <span style="white-space: nowrap;"><img src="../assets/items/broken_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/Weapon/broken_glass_bottle|Broken&nbsp;Glass&nbsp;Bottle]]</span> | **1** | **55%** | None |
 | <span style="white-space: nowrap;"><img src="../assets/items/makeshift_shiv.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/Weapon/makeshift_shiv|Makeshift&nbsp;Shiv]]</span> | **1** | **40%** | None |
 
+### Combat Consumables
+Players can also use consumable items to gain a tactical advantage when fighting hordes on a hex.
+- **[[Items/Unknown/mace_spray_common|Irritant Mace]]**: Cuts monster strike-back damage by 15%.
+- **[[Items/Unknown/mace_spray_uncommon|Concentrated Mace]]**: Cuts monster strike-back damage by 25%.
+- **[[Items/Unknown/mace_spray_rare|Military Mace]]**: Cuts monster strike-back damage by 35%.
+- **[[Items/Unknown/mace_spray_mythic|Neurotoxin Mace]]**: Cuts monster strike-back damage by 50%.
+
 ---
 
 ## 🛡️ Town Defense: The Siege
@@ -34,9 +41,9 @@ Town Defense is the sum of all defensive base upgrades. If **Attack Strength (Ho
 
 | Upgrade | Defense Bonus | Special Effect |
 | :--- | :---: | :--- |
-| **[[Builds/barbed_wire|Barbed Wire]]** | **+1** | Slows enemy movement by 1 hex |
-| **[[Builds/reinforced_bulkhead|Reinforced Bulkhead]]** | **+3** | Blocks breaches for 2 turns |
-| **[[Builds/sentry_turret|Automated Sentry]]** | **+5** | Fires 10 ammo per night |
+| **[[Builds/barbed_wire|Barbed Wire]]** | **+6** | Reduces midnight attack strength by 8% |
+| **[[Builds/reinforced_bulkhead|Reinforced Bulkhead]]** | **+12** | - |
+| **[[Builds/sentry_turret|Automated Sentry]]** | **+10** | - |
 
 ---
 

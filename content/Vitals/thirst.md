@@ -14,10 +14,21 @@ Thirst is primarily restored by consuming **[[Items/Unknown/water|Clean Water]]*
 
 | Item | Thirst Restoration | AP Restoration | Requirements |
 | :--- | :---: | :---: | :--- |
-| **[[Items/Unknown/water|Clean Water]]** | **+30** | **+1** | None |
-| **[[Items/Unknown/stim_pack|Stim Pack]]** | **-6** | **+2** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 1 |
-| **[[Items/Unknown/stim_injector|Stim Injector]]** | **-10**| **+4** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 2 |
-| **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** | **-14**| **+6** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 3 |
+| **[[Items/Unknown/mineral_water|Mineral Water]]** | **+35** | **+2** | None |
+| **[[Items/Unknown/water|Clean Water]]** | **+30** | **+2** | None |
+| **[[Items/Unknown/water_bottle|Bottle of Water]]** | **+20** | **+2** | None |
+| **[[Items/Unknown/cactus_pulp|Cactus Pulp]]** | **+20** | **+2** | None |
+| **[[Items/Unknown/fermented_cider|Fermented Cider]]** | **+20** | **+2** | None |
+| **[[Items/Unknown/herbal_tea|Herbal Tea]]** | **+20** | **+2** | None |
+| **[[Items/Unknown/nutrient_paste|Nutrient Paste]]** | **+15** | **+3** | None |
+| **[[Items/Unknown/energy_soda|Energy Soda]]** | **+10** | **+3** | None |
+| **[[Items/Unknown/soup_can|Soup Can]]** | **+10** | **+2** | None |
+| **[[Items/Unknown/wild_berries|Wild Berries]]** | **+10** | **+1** | None |
+| **[[Items/Unknown/alien_vegetable|Alien Vegetable]]** | **+5** | **+1** | None |
+| **[[Items/Unknown/preserved_produce|Preserved Produce]]** | **+4** | **+2** | None |
+| **[[Items/Unknown/stim_injector|Stim Injector]]** | **-10** | **+8** | None |
+| **[[Items/Unknown/stim_pack|Stim Pack]]** | **-10** | **+4** | None |
+| **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** | **-15** | **+12** | None |
 
 ## 3. Where to Find Water
 

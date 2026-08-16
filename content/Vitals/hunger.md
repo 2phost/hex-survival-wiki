@@ -14,12 +14,26 @@ Hunger is restored by consuming food items. Note that some items (like Stims) ac
 
 | Item | Hunger Restoration | AP Restoration | Requirements |
 | :--- | :---: | :---: | :--- |
-| **[[Items/Unknown/rations|Rations]]** | **+30** | **+1** | None |
-| **[[Items/Unknown/salad|Salad]]** | **+20** | **+1** | None |
-| **[[Items/Unknown/glowing_mushroom|Glowing Mushroom]]**| **+10** | **+1** | None |
-| **[[Items/Unknown/stim_pack|Stim Pack]]** | **-6** | **+2** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 1 |
-| **[[Items/Unknown/stim_injector|Stim Injector]]** | **-10**| **+4** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 2 |
-| **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** | **-14**| **+6** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 3 |
+| **[[Items/Unknown/nutrient_paste|Nutrient Paste]]** | **+40** | **+3** | None |
+| **[[Items/Unknown/protein_bar|Protein Bar]]** | **+35** | **+3** | None |
+| **[[Items/Unknown/rations|Rations]]** | **+30** | **+2** | None |
+| **[[Items/Unknown/raw_meat|Raw Meat]]** | **+26** | **+2** | None |
+| **[[Items/Unknown/canned_beans|Canned Beans]]** | **+25** | **+2** | None |
+| **[[Items/Unknown/raw_fish|Raw Fish]]** | **+22** | **+2** | None |
+| **[[Items/Unknown/dried_jerky|Dried Jerky]]** | **+20** | **+2** | None |
+| **[[Items/Unknown/salad|Salad]]** | **+20** | **+2** | None |
+| **[[Items/Unknown/soup_can|Soup Can]]** | **+20** | **+2** | None |
+| **[[Items/Unknown/stale_bread|Stale Bread]]** | **+15** | **+1** | None |
+| **[[Items/Unknown/preserved_produce|Preserved Produce]]** | **+12** | **+2** | None |
+| **[[Items/Unknown/fermented_cider|Fermented Cider]]** | **+10** | **+2** | None |
+| **[[Items/Unknown/glowing_mushroom|Glowing Mushroom]]** | **+10** | **+2** | None |
+| **[[Items/Unknown/wild_berries|Wild Berries]]** | **+10** | **+1** | None |
+| **[[Items/Unknown/alien_vegetable|Alien Vegetable]]** | **+5** | **+1** | None |
+| **[[Items/Unknown/cactus_pulp|Cactus Pulp]]** | **+5** | **+2** | None |
+| **[[Items/Unknown/herbal_tea|Herbal Tea]]** | **+5** | **+2** | None |
+| **[[Items/Unknown/stim_injector|Stim Injector]]** | **-10** | **+8** | None |
+| **[[Items/Unknown/stim_pack|Stim Pack]]** | **-10** | **+4** | None |
+| **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** | **-15** | **+12** | None |
 
 ## 3. Where to Find Food
 

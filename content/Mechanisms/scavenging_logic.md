@@ -21,8 +21,8 @@ Your chance of finding an item is influenced by:
 ### Scavenging Math (Probability Model)
 The server determines loot through a multi-tier roll system each hour:
 1. **Search Roll (1-100)**:
- - **1–45 (45%)**: Item can be **Common, Rare, or Mythic**.
- - **46–70 (25%)**: Item can be **Common or Rare** only.
+ - **1–45 (45%)**: Item can be **Common, Uncommon, Rare, or Mythic**.
+ - **46–70 (25%)**: Item can be **Common, Uncommon, or Rare** only.
  - **71–75 (5%)**: Item can be **Common** only.
  - **76–100 (25%)**: No item found (Total Failure).
 2. **Weighted Selection**: Once a tier range is selected, the server performs a weighted pick from all valid items in that biome for those tiers.
