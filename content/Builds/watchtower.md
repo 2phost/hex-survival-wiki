@@ -14,8 +14,8 @@ title: "Watchtower"
 > Adds +4 town defense.
 
 ## Construction Cost
-- 4x [[Items/timber|Raw Timber]]
-- 4x [[Items/stone|Hardened Stone]]
+- 4x [[Items/Unknown/timber|Raw Timber]]
+- 4x [[Items/Unknown/stone|Hardened Stone]]
 
 ## Required For Objectives
 - [[Objectives/story_raise_watchtower|Raise a Watchtower]]

@@ -11,8 +11,8 @@ title: "Harden the Perimeter"
 - Build **Barbed Wire Perimeter** (Build Barbed Wire Perimeter)
 
 ## Rewards
-- 1x **[[Items/scrap_metal|Scrap Metal]]**
-- 1x **[[Items/rations|Rations]]**
+- 1x **[[Items/Unknown/scrap_metal|Scrap Metal]]**
+- 1x **[[Items/Unknown/rations|Rations]]**
 
 ## Failure Penalty
 An open camp bleeds confidence—and people. (Defense: -2)

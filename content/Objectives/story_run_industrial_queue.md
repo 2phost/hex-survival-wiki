@@ -9,11 +9,11 @@ title: "Run Industrial Queue"
 
 ## Requirements
 - Queue Industrial Facility production
-- Deposit 1x **[[Items/fractured_servo|Fractured Servo]]** (Deposit fractured servo)
+- Deposit 1x **[[Items/Unknown/fractured_servo|Fractured Servo]]** (Deposit fractured servo)
 
 ## Rewards
-- 1x **[[Items/research_material|Research Material]]**
-- 1x **[[Items/hardened_actuator|Hardened Actuator]]**
+- 1x **[[Items/Unknown/research_material|Research Material]]**
+- 1x **[[Items/Unknown/hardened_actuator|Hardened Actuator]]**
 
 ## Failure Penalty
 Industrial line stays idle. (Defense: -1)

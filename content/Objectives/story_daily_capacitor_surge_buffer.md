@@ -8,11 +8,11 @@ title: "Capacitor Surge Buffer"
 > Surge events are cooking motors on the north feeder. Bank capacitors and burnt motors for a surge package.
 
 ## Requirements
-- Deposit 2x **[[Items/capacitor_bank|Capacitor Bank]]** (Deposit capacitor banks)
-- Deposit 2x **[[Items/burnt_motor|Burnt-Out Motor]]** (Deposit burnt-out motors)
+- Deposit 2x **[[Items/Unknown/capacitor_bank|Capacitor Bank]]** (Deposit capacitor banks)
+- Deposit 2x **[[Items/Unknown/burnt_motor|Burnt-Out Motor]]** (Deposit burnt-out motors)
 
 ## Rewards
-- 1x **[[Items/shock_capacitor|Shock Capacitor]]**
+- 1x **[[Items/Unknown/shock_capacitor|Shock Capacitor]]**
 
 ## Failure Penalty
 Unbuffered spikes keep chewing through hardware. (Defense: -1)

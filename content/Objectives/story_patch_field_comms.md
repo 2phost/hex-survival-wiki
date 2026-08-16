@@ -8,12 +8,12 @@ title: "Patch Field Comms"
 > Short recovery check-in: stage a radio and copper so the channel stops dropping mid-sentence.
 
 ## Requirements
-- Deposit 1x **[[Items/broken_radio|Broken Radio]]** (Deposit broken radio)
-- Deposit 2x **[[Items/copper_wiring|Copper Wiring]]** (Deposit copper wiring)
+- Deposit 1x **[[Items/Unknown/broken_radio|Broken Radio]]** (Deposit broken radio)
+- Deposit 2x **[[Items/Unknown/copper_wiring|Copper Wiring]]** (Deposit copper wiring)
 
 ## Rewards
-- 1x **[[Items/battery|Battery]]**
-- 1x **[[Items/research_material|Research Material]]**
+- 1x **[[Items/Unknown/battery|Battery]]**
+- 1x **[[Items/Unknown/research_material|Research Material]]**
 
 ## Failure Penalty
 Comms remain intermittent. (Defense: -1)

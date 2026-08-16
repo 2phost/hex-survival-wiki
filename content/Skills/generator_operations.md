@@ -6,9 +6,9 @@ title: "Generator Operations"
 - **Description**: Safely run and refuel the town generator. Requires Power Infrastructure Lv 1 to learn; higher levels are required for advanced fuel types.
 - **Max Level**: 3
 - **Effect**: Unlocks the **"Refuel"** option in the Base menu.
- - **Lvl 1**: [[Items/gasoline_canister|Gasoline]] usage (+25%).
- - **Lvl 2**: [[Items/biofuel_cell|Biofuel]] usage (+40%).
- - **Lvl 3**: [[Items/plasma_fuel_rod|Plasma]] usage (+60%).
+ - **Lvl 1**: [[Items/Fuel/gasoline_canister|Gasoline]] usage (+25%).
+ - **Lvl 2**: [[Items/Fuel/biofuel_cell|Biofuel]] usage (+40%).
+ - **Lvl 3**: [[Items/Fuel/plasma_fuel_rod|Plasma]] usage (+60%).
 - **Prerequisites**: [[Skills/power_infrastructure|Power Infrastructure]] Level 1
 
 ## Unlocks

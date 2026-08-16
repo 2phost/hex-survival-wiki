@@ -14,8 +14,8 @@ title: "Scrap Workshop"
 > Tier 1 build. Shortens search cooldown by 25% when searching at or next to the base.
 
 ## Construction Cost
-- 4x [[Items/scrap_metal|Scrap Metal]]
-- 2x [[Items/charred_planks|Charred Planks]]
+- 4x [[Items/Unknown/scrap_metal|Scrap Metal]]
+- 2x [[Items/Unknown/charred_planks|Charred Planks]]
 
 ## Required For Objectives
 - [[Objectives/story_open_workshop|Open the Scrap Workshop]]

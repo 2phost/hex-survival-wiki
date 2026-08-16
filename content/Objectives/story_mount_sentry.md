@@ -11,7 +11,7 @@ title: "Mount Automated Sentry"
 - Build **Automated Sentry** (Build Automated Sentry)
 
 ## Rewards
-- 1x **[[Items/targeting_relay|Targeting Relay]]**
+- 1x **[[Items/Unknown/targeting_relay|Targeting Relay]]**
 
 ## Failure Penalty
 The line still depends on exhausted people with rifles. (Defense: -3)

@@ -14,12 +14,12 @@ Hunger is restored by consuming food items. Note that some items (like Stims) ac
 
 | Item | Hunger Restoration | AP Restoration | Requirements |
 | :--- | :---: | :---: | :--- |
-| **[[Items/rations|Rations]]** | **+30** | **+1** | None |
-| **[[Items/salad|Salad]]** | **+20** | **+1** | None |
-| **[[Items/glowing_mushroom|Glowing Mushroom]]**| **+10** | **+1** | None |
-| **[[Items/stim_pack|Stim Pack]]** | **-6** | **+2** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 1 |
-| **[[Items/stim_injector|Stim Injector]]** | **-10**| **+4** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 2 |
-| **[[Items/stim_overdrive|Stim Overdrive]]** | **-14**| **+6** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 3 |
+| **[[Items/Unknown/rations|Rations]]** | **+30** | **+1** | None |
+| **[[Items/Unknown/salad|Salad]]** | **+20** | **+1** | None |
+| **[[Items/Unknown/glowing_mushroom|Glowing Mushroom]]**| **+10** | **+1** | None |
+| **[[Items/Unknown/stim_pack|Stim Pack]]** | **-6** | **+2** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 1 |
+| **[[Items/Unknown/stim_injector|Stim Injector]]** | **-10**| **+4** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 2 |
+| **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** | **-14**| **+6** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 3 |
 
 ## 3. Where to Find Food
 

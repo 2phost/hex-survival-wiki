@@ -11,7 +11,7 @@ title: "Buffer the Grid"
 - Build **Battery Storage** (Build Battery Storage)
 
 ## Rewards
-- 1x **[[Items/shock_capacitor|Shock Capacitor]]**
+- 1x **[[Items/Unknown/shock_capacitor|Shock Capacitor]]**
 
 ## Failure Penalty
 Unbuffered spikes keep punishing the station. (Defense: 0)

@@ -6,9 +6,9 @@ title: "Field Engineering"
 - **Description**: Operate and calibrate advanced field facilities. Required to set production in Industrial and Electronic Lab tiles.
 - **Max Level**: 3
 - **Effect**: Unlocks production roles at Industrial and Electronic Store - Labs.
- - **Lvl 1**: Unlocks [[Items/alloy_plate|Alloy Plate]] production.
- - **Lvl 2**: Unlocks [[Items/logic_core|Logic Core]] and [[Items/hydraulic_piston|Hydraulic Piston]] production.
- - **Lvl 3**: Unlocks [[Items/signal_emitter|Signal Emitter]] production.
+ - **Lvl 1**: Unlocks [[Items/Unknown/alloy_plate|Alloy Plate]] production.
+ - **Lvl 2**: Unlocks [[Items/Unknown/logic_core|Logic Core]] and [[Items/Unknown/hydraulic_piston|Hydraulic Piston]] production.
+ - **Lvl 3**: Unlocks [[Items/Unknown/signal_emitter|Signal Emitter]] production.
 - **Prerequisites**: None.
 
 ## Unlocks

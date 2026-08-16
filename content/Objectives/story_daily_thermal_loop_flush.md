@@ -8,11 +8,11 @@ title: "Thermal Loop Flush"
 > Heat exchangers are coking under load. Deliver coils and valves before peak draw melts the margin.
 
 ## Requirements
-- Deposit 2x **[[Items/thermal_coil|Thermal Coil]]** (Deposit thermal coils)
-- Deposit 2x **[[Items/pressure_valve|Pressure Valve]]** (Deposit pressure valves)
+- Deposit 2x **[[Items/Unknown/thermal_coil|Thermal Coil]]** (Deposit thermal coils)
+- Deposit 2x **[[Items/Unknown/pressure_valve|Pressure Valve]]** (Deposit pressure valves)
 
 ## Rewards
-- 1x **[[Items/hydraulic_piston|Hydraulic Piston]]**
+- 1x **[[Items/Unknown/hydraulic_piston|Hydraulic Piston]]**
 
 ## Failure Penalty
 Thermal trips force Command to cut operating windows. (Defense: 0)

@@ -11,8 +11,8 @@ title: "Open the Research Lab"
 - Build **Research Lab** (Build Research Lab)
 
 ## Rewards
-- 3x **[[Items/research_material|Research Material]]**
-- 1x **[[Items/rations|Rations]]**
+- 3x **[[Items/Unknown/research_material|Research Material]]**
+- 1x **[[Items/Unknown/rations|Rations]]**
 
 ## Failure Penalty
 Without a lab, Command withholds advanced clearances. (Defense: -1)

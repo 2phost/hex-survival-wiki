@@ -11,8 +11,8 @@ title: "Establish the Well"
 - Build **Well** (Build a Well)
 
 ## Rewards
-- 6x **[[Items/water|Clean Water]]**
-- 1x **[[Items/rations|Rations]]**
+- 6x **[[Items/Unknown/water|Clean Water]]**
+- 1x **[[Items/Unknown/rations|Rations]]**
 
 ## Failure Penalty
 Without a well, Command treats the outpost as non-self-sufficient. (Defense: -1)

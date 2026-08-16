@@ -14,10 +14,10 @@ title: "Threat Scanner Beacon"
 > When built: reveals and highlights the closest tile with monsters on it.
 
 ## Construction Cost
-- 4x [[Items/scrap_metal|Scrap Metal]]
-- 2x [[Items/circuit_boards|Circuit Boards]]
-- 4x [[Items/copper_wiring|Copper Wiring]]
-- 2x [[Items/pressure_valve|Pressure Valve]]
+- 4x [[Items/Unknown/scrap_metal|Scrap Metal]]
+- 2x [[Items/Unknown/circuit_boards|Circuit Boards]]
+- 4x [[Items/Unknown/copper_wiring|Copper Wiring]]
+- 2x [[Items/Unknown/pressure_valve|Pressure Valve]]
 
 ## Required For Objectives
 - [[Objectives/story_purge_prerequisites_check|Purge Team Staging]]

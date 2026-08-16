@@ -8,12 +8,12 @@ title: "Relay Sensor Sweep"
 > Engineers need clean telemetry before planning the next push.
 
 ## Requirements
-- Deposit 2x **[[Items/malfunctioning_sensor|Malfunctioning Sensor]]** (Deposit malfunctioning sensors)
-- Deposit 2x **[[Items/cracked_lens|Cracked Lens]]** (Deposit cracked lenses)
+- Deposit 2x **[[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]]** (Deposit malfunctioning sensors)
+- Deposit 2x **[[Items/Unknown/cracked_lens|Cracked Lens]]** (Deposit cracked lenses)
 
 ## Rewards
-- 1x **[[Items/battery|Battery]]**
-- 1x **[[Items/threat_sensor_array|Threat Sensor Array]]**
+- 1x **[[Items/Unknown/battery|Battery]]**
+- 1x **[[Items/Unknown/threat_sensor_array|Threat Sensor Array]]**
 
 ## Failure Penalty
 Telemetry confidence degrades and command pressure rises. (Defense: -1)

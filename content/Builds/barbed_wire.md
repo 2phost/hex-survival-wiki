@@ -14,7 +14,7 @@ title: "Barbed Wire Perimeter"
 > Adds +6 town defense and reduces midnight attack strength by 8%.
 
 ## Construction Cost
-- 4x [[Items/scrap_metal|Scrap Metal]]
+- 4x [[Items/Unknown/scrap_metal|Scrap Metal]]
 
 ## Required For Objectives
 - [[Objectives/story_harden_perimeter|Harden the Perimeter]]

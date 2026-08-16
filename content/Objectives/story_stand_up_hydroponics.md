@@ -11,9 +11,9 @@ title: "Stand Up Hydroponics"
 - Build **Hydroponic Patch** (Build Hydroponic Patch)
 
 ## Rewards
-- 3x **[[Items/water|Clean Water]]**
-- 2x **[[Items/rations|Rations]]**
-- 1x **[[Items/resin_sealant|Resin Sealant]]**
+- 3x **[[Items/Unknown/water|Clean Water]]**
+- 2x **[[Items/Unknown/rations|Rations]]**
+- 1x **[[Items/Unknown/resin_sealant|Resin Sealant]]**
 
 ## Failure Penalty
 Food confidence stays brittle without local growth. (Defense: -1)

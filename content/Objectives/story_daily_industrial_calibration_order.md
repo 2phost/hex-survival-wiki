@@ -9,12 +9,12 @@ title: "Industrial Calibration Order"
 
 ## Requirements
 - Set any Industrial Facility production
-- Deposit 2x **[[Items/fractured_servo|Fractured Servo]]** (Deposit fractured servos)
+- Deposit 2x **[[Items/Unknown/fractured_servo|Fractured Servo]]** (Deposit fractured servos)
 
 ## Rewards
-- 2x **[[Items/scrap_metal|Scrap Metal]]**
-- 1x **[[Items/research_material|Research Material]]**
-- 1x **[[Items/hardened_actuator|Hardened Actuator]]**
+- 2x **[[Items/Unknown/scrap_metal|Scrap Metal]]**
+- 1x **[[Items/Unknown/research_material|Research Material]]**
+- 1x **[[Items/Unknown/hardened_actuator|Hardened Actuator]]**
 
 ## Failure Penalty
 Fabrication quality drifts and repair load increases. (Defense: -1)

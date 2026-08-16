@@ -24,12 +24,12 @@ This skill provides a passive reduction to the break chance of all items used as
 - **[[Skills/ap_capacity|AP Capacity]]**: Level 1
 
 ## ⚔️ Compatible Weapons
-- **[[Items/plasma_lance|Plasma&nbsp;Lance]]** (Base: 8% break chance)
-- **[[Items/shock_maul|Shock&nbsp;Maul]]** (Base: 14% break chance)
-- **[[Items/rebar_blade|Rebar&nbsp;Blade]]** (Base: 20% break chance)
-- **[[Items/scrap_spear|Scrap&nbsp;Spear]]** (Base: 28% break chance)
-- **[[Items/broken_glass_bottle|Broken&nbsp;Glass&nbsp;Bottle]]** (Base: 55% break chance)
-- **[[Items/makeshift_shiv|Makeshift&nbsp;Shiv]]** (Base: 40% break chance)
+- **[[Items/Weapon/plasma_lance|Plasma&nbsp;Lance]]** (Base: 8% break chance)
+- **[[Items/Weapon/shock_maul|Shock&nbsp;Maul]]** (Base: 14% break chance)
+- **[[Items/Weapon/rebar_blade|Rebar&nbsp;Blade]]** (Base: 20% break chance)
+- **[[Items/Weapon/scrap_spear|Scrap&nbsp;Spear]]** (Base: 28% break chance)
+- **[[Items/Weapon/broken_glass_bottle|Broken&nbsp;Glass&nbsp;Bottle]]** (Base: 55% break chance)
+- **[[Items/Weapon/makeshift_shiv|Makeshift&nbsp;Shiv]]** (Base: 40% break chance)
 
 
 

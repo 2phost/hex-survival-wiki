@@ -15,7 +15,7 @@ The most critical part of the cycle is the survival check.
 The darkness becomes active at midnight:
 - **Horde Spawning**: Corrupted tiles may spawn new monster hordes.
 - **Horde Progression**: Marching hordes move **one hex closer** to the town base.
-- **World Damage**: Hordes consume ground loot and destroy **[[Items/power_pole|Power Poles]]** on tiles they enter.
+- **World Damage**: Hordes consume ground loot and destroy **[[Items/Power/power_pole|Power Poles]]** on tiles they enter.
 - **Horde Gathering**: Newly spawned hordes spend one night in place before marching.
 
 ## 3. Town Siege & Defense

@@ -11,9 +11,9 @@ title: "Open the Scrap Workshop"
 - Build **Scrap Workshop** (Build Scrap Workshop)
 
 ## Rewards
-- 1x **[[Items/research_material|Research Material]]**
-- 1x **[[Items/rusty_tool|Rusty Tool]]**
-- 1x **[[Items/rations|Rations]]**
+- 1x **[[Items/Unknown/research_material|Research Material]]**
+- 1x **[[Items/Unknown/rusty_tool|Rusty Tool]]**
+- 1x **[[Items/Unknown/rations|Rations]]**
 
 ## Failure Penalty
 Without a workshop, every break becomes a field emergency. (Defense: -1)

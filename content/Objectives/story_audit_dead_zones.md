@@ -8,8 +8,8 @@ title: "Audit Dead Zones"
 > Recovery grid walk: lenses and wiring into storage for the next pole push.
 
 ## Requirements
-- Deposit 2x **[[Items/copper_wiring|Copper Wiring]]** (Deposit copper wiring)
-- Deposit 2x **[[Items/cracked_lens|Cracked Lens]]** (Deposit cracked lenses)
+- Deposit 2x **[[Items/Unknown/copper_wiring|Copper Wiring]]** (Deposit copper wiring)
+- Deposit 2x **[[Items/Unknown/cracked_lens|Cracked Lens]]** (Deposit cracked lenses)
 
 ## Rewards
 None

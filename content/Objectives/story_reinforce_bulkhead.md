@@ -11,8 +11,8 @@ title: "Reinforce the Bulkhead"
 - Build **Reinforced Steel Bulkhead** (Build Reinforced Steel Bulkhead)
 
 ## Rewards
-- 1x **[[Items/alloy_plate|Alloy Plate]]**
-- 1x **[[Items/rations|Rations]]**
+- 1x **[[Items/Unknown/alloy_plate|Alloy Plate]]**
+- 1x **[[Items/Unknown/rations|Rations]]**
 
 ## Failure Penalty
 Soft sectors stay soft. Expect heavier night losses. (Defense: -3)

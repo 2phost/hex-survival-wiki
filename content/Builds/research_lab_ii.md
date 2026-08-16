@@ -14,5 +14,5 @@ title: "Research Lab II"
 > Expands the lab to four research slots and increases research speed by 20%.
 
 ## Construction Cost
-- 120x [[Items/scrap_metal|Scrap Metal]]
+- 120x [[Items/Unknown/scrap_metal|Scrap Metal]]
 

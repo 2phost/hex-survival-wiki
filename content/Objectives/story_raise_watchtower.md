@@ -11,7 +11,7 @@ title: "Raise a Watchtower"
 - Build **Watchtower** (Build a Watchtower)
 
 ## Rewards
-- 1x **[[Items/rations|Rations]]**
+- 1x **[[Items/Unknown/rations|Rations]]**
 
 ## Failure Penalty
 Blind approaches remain. Command marks the outpost as exposed. (Defense: -2)

@@ -17,12 +17,12 @@ Players can engage monsters by moving onto a hex containing a horde and selectin
 ### Weapon Comparison
 | Weapon | Damage | Break % | Requirement |
 | :--- | :---: | :---: | :--- |
-| <span style="white-space: nowrap;"><img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/plasma_lance|Plasma&nbsp;Lance]]</span> | **6** | **8%** | None |
-| <span style="white-space: nowrap;"><img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/shock_maul|Shock&nbsp;Maul]]</span> | **4** | **14%** | None |
-| <span style="white-space: nowrap;"><img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/rebar_blade|Rebar&nbsp;Blade]]</span> | **3** | **20%** | None |
-| <span style="white-space: nowrap;"><img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/scrap_spear|Scrap&nbsp;Spear]]</span> | **2** | **28%** | None |
-| <span style="white-space: nowrap;"><img src="../assets/items/broken_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/broken_glass_bottle|Broken&nbsp;Glass&nbsp;Bottle]]</span> | **1** | **55%** | None |
-| <span style="white-space: nowrap;"><img src="../assets/items/makeshift_shiv.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/makeshift_shiv|Makeshift&nbsp;Shiv]]</span> | **1** | **40%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/Weapon/plasma_lance|Plasma&nbsp;Lance]]</span> | **6** | **8%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/Weapon/shock_maul|Shock&nbsp;Maul]]</span> | **4** | **14%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/Weapon/rebar_blade|Rebar&nbsp;Blade]]</span> | **3** | **20%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/Weapon/scrap_spear|Scrap&nbsp;Spear]]</span> | **2** | **28%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/broken_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/Weapon/broken_glass_bottle|Broken&nbsp;Glass&nbsp;Bottle]]</span> | **1** | **55%** | None |
+| <span style="white-space: nowrap;"><img src="../assets/items/makeshift_shiv.png" width="20" style="vertical-align: middle; margin-right: 4px;">&nbsp;[[Items/Weapon/makeshift_shiv|Makeshift&nbsp;Shiv]]</span> | **1** | **40%** | None |
 
 ---
 

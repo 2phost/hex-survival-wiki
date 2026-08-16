@@ -28,7 +28,7 @@ These are the confirmed mechanics and remaining "known unknowns" based on the la
 - **Light Radius**: Power Poles and Lamps illuminate only the **current tile (0-radius)**.
 - **Town Failure**: Town ends if power reaches **0%**.
 - **Midnight Cycle**: 40% Hunger/Thirst drain at Midnight.
-- **Binoculars**: **[[Items/restored_binoculars|Restored Binoculars]]** reveal adjacent biome types while moving.
+- **Binoculars**: **[[Items/Unknown/restored_binoculars|Restored Binoculars]]** reveal adjacent biome types while moving.
 
 ## 2. Vitals & The "[[Mechanisms/midnight_cycle|Midnight]] Toll"
 - **Attack Monsters AP**: (Testing) Does the "Attack Monsters" action cost AP? See **[[Mechanisms/inferred_mechanics|Inferred Mechanics]]**.

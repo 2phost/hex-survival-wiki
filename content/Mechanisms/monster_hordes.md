@@ -22,7 +22,7 @@ After the gathering phase, the horde enters the **Marching** phase. At every sub
 ## 2. World Impact & Damage
 Hordes are not just a threat to players; they actively degrade the environment as they advance.
 - **Loot Consumption**: If a horde steps onto a hex, they consume all ground loot currently present on that tile.
-- **Infrastructure Destruction**: Hordes will destroy any built **[[Items/power_pole|Power Poles]]** on a tile they enter, severing town power lines.
+- **Infrastructure Destruction**: Hordes will destroy any built **[[Items/Power/power_pole|Power Poles]]** on a tile they enter, severing town power lines.
 
 ## 3. Combat & Defense
 For detailed rules on how to engage hordes and town defense math, see the **[[Mechanisms/combat_and_defense|Combat & Defense]]** mechanism.

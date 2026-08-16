@@ -14,9 +14,9 @@ title: "Hydroponic Patch"
 > One-time when built: +3 rations on base ground and +10 salad in town storage.
 
 ## Construction Cost
-- 4x [[Items/timber|Raw Timber]]
-- 2x [[Items/stone|Hardened Stone]]
-- 2x [[Items/scrap_metal|Scrap Metal]]
+- 4x [[Items/Unknown/timber|Raw Timber]]
+- 2x [[Items/Unknown/stone|Hardened Stone]]
+- 2x [[Items/Unknown/scrap_metal|Scrap Metal]]
 
 ## Required For Objectives
 - [[Objectives/story_stand_up_hydroponics|Stand Up Hydroponics]]

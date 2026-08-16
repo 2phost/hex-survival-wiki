@@ -14,7 +14,7 @@ title: "Research Lab"
 > Enables two simultaneous research projects and lets the town process Research Material.
 
 ## Construction Cost
-- 8x [[Items/scrap_metal|Scrap Metal]]
+- 8x [[Items/Unknown/scrap_metal|Scrap Metal]]
 
 ## Required For Objectives
 - [[Objectives/story_open_research_lab|Open the Research Lab]]

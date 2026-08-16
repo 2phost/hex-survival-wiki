@@ -14,9 +14,9 @@ title: "Scrap Barricade Wall"
 > Adds +5 town defense and -6 midnight attack strength.
 
 ## Construction Cost
-- 8x [[Items/scrap_metal|Scrap Metal]]
-- 6x [[Items/quarry_bolts|Quarry Bolts]]
-- 2x [[Items/resin_sealant|Resin Sealant]]
+- 8x [[Items/Unknown/scrap_metal|Scrap Metal]]
+- 6x [[Items/Unknown/quarry_bolts|Quarry Bolts]]
+- 2x [[Items/Unknown/resin_sealant|Resin Sealant]]
 
 ## Required For Objectives
 - [[Objectives/story_lock_the_outpost|Lock the Outpost In]]

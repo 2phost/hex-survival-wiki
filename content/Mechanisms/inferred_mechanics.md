@@ -25,5 +25,5 @@ While the exact mechanics of 0% vitals are being verified, it is inferred that:
 
 ## 4. Map & Exploration
 - **Connectivity**: Do Power Poles *must* be connected to the base grid, or can they form isolated "mini-grids"? Current logic suggests a requirement for connection to the Town Power grid to provide light.
-- **Visual Range**: It is inferred that players can see the biome type of adjacent tiles without moving, but cannot see specific contents or buildings until discovered. (Partially confirmed to be a **[[Items/restored_binoculars|Restored Binoculars]]** effect).
+- **Visual Range**: It is inferred that players can see the biome type of adjacent tiles without moving, but cannot see specific contents or buildings until discovered. (Partially confirmed to be a **[[Items/Unknown/restored_binoculars|Restored Binoculars]]** effect).
 - **Relay Penalties**: Corrupted relays impose a town-wide search penalty, but the exact percentage is currently unquantified.

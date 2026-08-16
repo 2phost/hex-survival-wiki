@@ -8,8 +8,8 @@ title: "Cool the Core"
 > Recovery heat drill: get a thermal coil and filter mesh staged so Engineering can stop the cooking.
 
 ## Requirements
-- Deposit 1x **[[Items/thermal_coil|Thermal Coil]]** (Deposit thermal coil)
-- Deposit 2x **[[Items/filter_mesh|Filter Mesh]]** (Deposit filter mesh)
+- Deposit 1x **[[Items/Unknown/thermal_coil|Thermal Coil]]** (Deposit thermal coil)
+- Deposit 2x **[[Items/Unknown/filter_mesh|Filter Mesh]]** (Deposit filter mesh)
 
 ## Rewards
 None

@@ -7,11 +7,11 @@ title: "Drone Operator"
 ![[assets/items/drone.png|150]]
 
 ## Description
-Operate autonomous cargo drones safely. This skill allows players to use **[[Items/drone|Cargo Drones]]** to send loot back to the base while remaining in the field.
+Operate autonomous cargo drones safely. This skill allows players to use **[[Items/Unknown/drone|Cargo Drones]]** to send loot back to the base while remaining in the field.
 
 ## 📈 Progression
 - **Level 1**: Basic drone handling and safety protocols.
-- **Level 2**: Unlocks the ability to launch **[[Items/drone|Cargo Drones]]** from the field.
+- **Level 2**: Unlocks the ability to launch **[[Items/Unknown/drone|Cargo Drones]]** from the field.
 
 ## ⏱️ Training Details
 - **Max Level**: 4
@@ -22,7 +22,7 @@ Operate autonomous cargo drones safely. This skill allows players to use **[[Ite
 - **[[Skills/field_engineering|Field Engineering Lvl 1]]**
 
 ## 🎯 Effect
-- **Level 2 Unlock**: Allows the "Launch Drone" action for **[[Items/drone|Cargo Drones]]**.
+- **Level 2 Unlock**: Allows the "Launch Drone" action for **[[Items/Unknown/drone|Cargo Drones]]**.
 
 
 

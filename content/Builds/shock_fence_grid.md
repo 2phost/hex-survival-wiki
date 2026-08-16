@@ -14,8 +14,8 @@ title: "Shock Fence Grid"
 > Adds +15 town defense, -8 flat midnight attack strength, and -5% remaining midnight attack strength.
 
 ## Construction Cost
-- 12x [[Items/copper_wiring|Copper Wiring]]
-- 4x [[Items/shock_capacitor|Shock Capacitor]]
-- 2x [[Items/threat_sensor_array|Threat Sensor Array]]
-- 4x [[Items/bio_spike_pod|Bio Spike Pod]]
+- 12x [[Items/Unknown/copper_wiring|Copper Wiring]]
+- 4x [[Items/Unknown/shock_capacitor|Shock Capacitor]]
+- 2x [[Items/Unknown/threat_sensor_array|Threat Sensor Array]]
+- 4x [[Items/Unknown/bio_spike_pod|Bio Spike Pod]]
 

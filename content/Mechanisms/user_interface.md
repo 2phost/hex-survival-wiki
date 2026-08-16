@@ -36,7 +36,7 @@ Players can contribute to game development through the suggestions panel.
 ## Dynamic Action System
 The UI is context-sensitive. Specific buttons and actions unlock based on:
 - **Location**: Unique options appear at the **[[Base/overview|Base]]** or specialized facilities.
-- **Requirements**: Specific items (like **[[Items/power_pole|Power Poles]]**) or skills (like **[[Skills/field_engineering|Field Engineering]]**) reveal new interactions.
+- **Requirements**: Specific items (like **[[Items/Power/power_pole|Power Poles]]**) or skills (like **[[Skills/field_engineering|Field Engineering]]**) reveal new interactions.
 - **Combat**: The **Attack Monsters** action appears when occupying a hex with a monster horde.
 
 ## Visual Handling

@@ -14,8 +14,8 @@ title: "Fuel Refinery"
 > At midnight converts up to 6 chemical sludge into up to 3 gasoline canisters (2:1).
 
 ## Construction Cost
-- 6x [[Items/chemical_sludge|Chemical Sludge]]
-- 6x [[Items/scrap_metal|Scrap Metal]]
-- 4x [[Items/stone|Hardened Stone]]
-- 2x [[Items/pressure_valve|Pressure Valve]]
+- 6x [[Items/Unknown/chemical_sludge|Chemical Sludge]]
+- 6x [[Items/Unknown/scrap_metal|Scrap Metal]]
+- 4x [[Items/Unknown/stone|Hardened Stone]]
+- 2x [[Items/Unknown/pressure_valve|Pressure Valve]]
 

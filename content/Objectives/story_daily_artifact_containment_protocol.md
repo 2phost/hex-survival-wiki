@@ -8,12 +8,12 @@ title: "Artifact Containment Protocol"
 > Unstable relic fragments are causing fear spikes in camp.
 
 ## Requirements
-- Deposit 2x **[[Items/reactor_dust|Reactor Dust]]** (Deposit reactor dust)
-- Deposit 2x **[[Items/obsidian_flake|Obsidian Flake]]** (Deposit obsidian flakes)
+- Deposit 2x **[[Items/Unknown/reactor_dust|Reactor Dust]]** (Deposit reactor dust)
+- Deposit 2x **[[Items/Unknown/obsidian_flake|Obsidian Flake]]** (Deposit obsidian flakes)
 
 ## Rewards
-- 2x **[[Items/research_material|Research Material]]**
-- 2x **[[Items/water|Clean Water]]**
+- 2x **[[Items/Unknown/research_material|Research Material]]**
+- 2x **[[Items/Unknown/water|Clean Water]]**
 
 ## Failure Penalty
 Containment nerves fray and panic pressure grows. (Defense: -1)

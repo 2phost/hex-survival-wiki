@@ -14,8 +14,8 @@ title: "Automated Sentry"
 > Adds +10 town defense.
 
 ## Construction Cost
-- 4x [[Items/scrap_metal|Scrap Metal]]
-- 2x [[Items/burnt_motor|Burnt-Out Motor]]
+- 4x [[Items/Unknown/scrap_metal|Scrap Metal]]
+- 2x [[Items/Unknown/burnt_motor|Burnt-Out Motor]]
 
 ## Required For Objectives
 - [[Objectives/story_mount_sentry|Mount Automated Sentry]]

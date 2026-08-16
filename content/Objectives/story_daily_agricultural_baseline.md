@@ -9,11 +9,11 @@ title: "Agricultural Baseline"
 
 ## Requirements
 - Set any Farm Facility production
-- Deposit 2x **[[Items/mutant_seed_pod|Mutant Seed Pod]]** (Deposit mutant seed pods)
+- Deposit 2x **[[Items/Unknown/mutant_seed_pod|Mutant Seed Pod]]** (Deposit mutant seed pods)
 
 ## Rewards
-- 1x **[[Items/resin_sealant|Resin Sealant]]**
-- 2x **[[Items/water|Clean Water]]**
+- 1x **[[Items/Unknown/resin_sealant|Resin Sealant]]**
+- 2x **[[Items/Unknown/water|Clean Water]]**
 
 ## Failure Penalty
 Food confidence drops when crop lines stay idle. (Defense: -1)

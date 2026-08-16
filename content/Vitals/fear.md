@@ -10,7 +10,7 @@ title: "Fear"
 Fear is a psychological status system added on March 5, 2026. it tracks the mental strain of exploring the darkness.
 
 ## Accumulation & Recovery
-- **Darkness Increase**: Entering dark tiles (no [[Items/power_pole|Power Pole]] or Base light) without an active [[Items/starter_lamp|Lamp]] increases Fear.
+- **Darkness Increase**: Entering dark tiles (no [[Items/Power/power_pole|Power Pole]] or Base light) without an active [[Items/Light/starter_lamp|Lamp]] increases Fear.
 - **Safe Recovery**: Fear decreases over time when the player is **Resting** on a lit tile.
 - **Town Reset**: Joining a new town correctly resets Fear to 0.
 

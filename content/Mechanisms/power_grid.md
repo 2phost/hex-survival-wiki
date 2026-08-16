@@ -6,7 +6,7 @@ title: "Power Grid"
 
 The Power Grid is the network of light and energy that keeps the town alive.
 
-## [[Items/power_pole|Power Poles]]
+## [[Items/Power/power_pole|Power Poles]]
 ### Basic Power Pole
 - **Function**: Places a relay pole on your current tile.
 - **Requirement**: 1 Copper Wiring, scrap metal.

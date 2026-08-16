@@ -11,8 +11,8 @@ title: "Open the Assembly Line"
 - Build **Assembly Bench** (Build Assembly Bench)
 
 ## Rewards
-- 2x **[[Items/research_material|Research Material]]**
-- 1x **[[Items/rations|Rations]]**
+- 2x **[[Items/Unknown/research_material|Research Material]]**
+- 1x **[[Items/Unknown/rations|Rations]]**
 
 ## Failure Penalty
 Fabrication stays stuck at hand-tools. (Defense: -1)

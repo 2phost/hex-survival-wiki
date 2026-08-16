@@ -14,11 +14,11 @@ title: "Extraction Beacon"
 > Phase 2 apex build. Raises Command's extraction corridor. Hold power and defenses for three midnights after installation to complete Protocol Evac.
 
 ## Construction Cost
-- 6x [[Items/beacon_component|Beacon Component]]
-- 4x [[Items/signal_emitter|Signal Emitter]]
-- 4x [[Items/logic_core|Logic Core]]
-- 4x [[Items/alloy_plate|Alloy Plate]]
-- 2x [[Items/vault_access_key|Vault Access Key]]
+- 6x [[Items/Unknown/beacon_component|Beacon Component]]
+- 4x [[Items/Unknown/signal_emitter|Signal Emitter]]
+- 4x [[Items/Unknown/logic_core|Logic Core]]
+- 4x [[Items/Unknown/alloy_plate|Alloy Plate]]
+- 2x [[Items/Unknown/vault_access_key|Vault Access Key]]
 
 ## Required For Objectives
 - [[Objectives/story_evac_install_beacon|Install Extraction Beacon]]

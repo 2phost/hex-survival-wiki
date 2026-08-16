@@ -14,8 +14,8 @@ title: "Timber Palisade Wall"
 > Adds +7 town defense and -10 midnight attack strength.
 
 ## Construction Cost
-- 12x [[Items/timber|Raw Timber]]
-- 8x [[Items/stone|Hardened Stone]]
-- 6x [[Items/fortified_rebar|Fortified Rebar]]
-- 4x [[Items/resin_sealant|Resin Sealant]]
+- 12x [[Items/Unknown/timber|Raw Timber]]
+- 8x [[Items/Unknown/stone|Hardened Stone]]
+- 6x [[Items/Unknown/fortified_rebar|Fortified Rebar]]
+- 4x [[Items/Unknown/resin_sealant|Resin Sealant]]
 

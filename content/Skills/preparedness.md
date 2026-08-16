@@ -9,11 +9,11 @@ title: "Preparedness"
 - **Prerequisites**: None.
 
 ## Unlocks
-- **Level 1**: [[Items/starter_lamp|Starter Lamp]].
-- **Level 2**: Adds [[Items/rations|Rations]] and [[Items/water|Water]].
-- **Level 3**: Adds [[Items/stim_pack|Stim Pack]].
-- **Level 4**: Adds [[Items/makeshift_shiv|Makeshift Shiv]].
-- **Level 5**: Adds [[Items/salvager_pack|Salvager Pack]].
+- **Level 1**: [[Items/Light/starter_lamp|Starter Lamp]].
+- **Level 2**: Adds [[Items/Unknown/rations|Rations]] and [[Items/Unknown/water|Water]].
+- **Level 3**: Adds [[Items/Unknown/stim_pack|Stim Pack]].
+- **Level 4**: Adds [[Items/Weapon/makeshift_shiv|Makeshift Shiv]].
+- **Level 5**: Adds [[Items/Unknown/salvager_pack|Salvager Pack]].
 
 
 

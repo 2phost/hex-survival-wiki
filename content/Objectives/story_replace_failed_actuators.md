@@ -8,12 +8,12 @@ title: "Replace Failed Actuators"
 > Recovery shop order: pull fractured servos and rusted chain so critical movers can be swapped.
 
 ## Requirements
-- Deposit 1x **[[Items/fractured_servo|Fractured Servo]]** (Deposit fractured servo)
-- Deposit 2x **[[Items/rusted_chain|Rusted Chain]]** (Deposit rusted chain)
+- Deposit 1x **[[Items/Unknown/fractured_servo|Fractured Servo]]** (Deposit fractured servo)
+- Deposit 2x **[[Items/Unknown/rusted_chain|Rusted Chain]]** (Deposit rusted chain)
 
 ## Rewards
-- 1x **[[Items/scrap_metal|Scrap Metal]]**
-- 1x **[[Items/research_material|Research Material]]**
+- 1x **[[Items/Unknown/scrap_metal|Scrap Metal]]**
+- 1x **[[Items/Unknown/research_material|Research Material]]**
 
 ## Failure Penalty
 Actuator failures keep stacking. (Defense: -1)

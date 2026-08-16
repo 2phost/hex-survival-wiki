@@ -9,9 +9,9 @@ title: "Inventory Management"
 - **Expansion**: 
  - The "Pack Mule" skill can increase this by up to +3 slots (total of 8).
  - Capacity can be further expanded by rare craftable **Backpack Tiers**:
- - **[[Items/salvager_pack|Salvager Pack]]**: +2 slots
- - **[[Items/expedition_pack|Expedition Pack]]**: +3 slots
- - **[[Items/hauler_pack|Hauler Pack]]**: +4 slots
+ - **[[Items/Unknown/salvager_pack|Salvager Pack]]**: +2 slots
+ - **[[Items/Unknown/expedition_pack|Expedition Pack]]**: +3 slots
+ - **[[Items/Unknown/hauler_pack|Hauler Pack]]**: +4 slots
 - **Dropped Packs**: Carrying capacity shrinks if a backpack is dropped; any overflow items are automatically dropped on the ground.
 
 ## Cargo Drone Logistics

@@ -14,8 +14,8 @@ title: "Reinforced Steel Bulkhead"
 > Adds +12 town defense.
 
 ## Construction Cost
-- 2x [[Items/scrap_metal|Scrap Metal]]
-- 6x [[Items/stone|Hardened Stone]]
+- 2x [[Items/Unknown/scrap_metal|Scrap Metal]]
+- 6x [[Items/Unknown/stone|Hardened Stone]]
 
 ## Required For Objectives
 - [[Objectives/story_reinforce_bulkhead|Reinforce the Bulkhead]]

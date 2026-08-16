@@ -14,7 +14,7 @@ title: "Beacon Amplifier"
 > Further reduces unlit search penalties (darkness -10, fear penalty per point 8 -> 6).
 
 ## Construction Cost
-- 6x [[Items/circuit_boards|Circuit Boards]]
-- 6x [[Items/copper_wiring|Copper Wiring]]
-- 4x [[Items/scrap_metal|Scrap Metal]]
+- 6x [[Items/Unknown/circuit_boards|Circuit Boards]]
+- 6x [[Items/Unknown/copper_wiring|Copper Wiring]]
+- 4x [[Items/Unknown/scrap_metal|Scrap Metal]]
 

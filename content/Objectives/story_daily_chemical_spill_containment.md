@@ -8,13 +8,13 @@ title: "Chemical Spill Containment"
 > A ruptured drum fouled the west trench. Seal sludge into empty canisters so Logistics can neutralize the plume.
 
 ## Requirements
-- Deposit 2x **[[Items/chemical_sludge|Chemical Sludge]]** (Deposit chemical sludge)
-- Deposit 2x **[[Items/empty_canister|Empty Canister]]** (Deposit empty canisters)
+- Deposit 2x **[[Items/Unknown/chemical_sludge|Chemical Sludge]]** (Deposit chemical sludge)
+- Deposit 2x **[[Items/Unknown/empty_canister|Empty Canister]]** (Deposit empty canisters)
 
 ## Rewards
-- 1x **[[Items/resin_sealant|Resin Sealant]]**
-- 3x **[[Items/water|Clean Water]]**
-- 1x **[[Items/research_material|Research Material]]**
+- 1x **[[Items/Unknown/resin_sealant|Resin Sealant]]**
+- 3x **[[Items/Unknown/water|Clean Water]]**
+- 1x **[[Items/Unknown/research_material|Research Material]]**
 
 ## Failure Penalty
 Toxic runoff lingers and work parties slow. (Defense: -1)

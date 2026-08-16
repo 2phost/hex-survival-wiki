@@ -11,7 +11,7 @@ title: "Light the Kill Zone"
 - Build **Kill-Zone Floodlights** (Build Kill-Zone Floodlights)
 
 ## Rewards
-- 1x **[[Items/signal_emitter|Signal Emitter]]**
+- 1x **[[Items/Unknown/signal_emitter|Signal Emitter]]**
 
 ## Failure Penalty
 Blind arcs remain. Night engagements stay messy. (Defense: -2)

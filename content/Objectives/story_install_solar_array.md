@@ -11,7 +11,7 @@ title: "Install Solar Array"
 - Build **Solar Panels** (Build Solar Panels)
 
 ## Rewards
-- 1x **[[Items/battery|Battery]]**
+- 1x **[[Items/Unknown/battery|Battery]]**
 
 ## Failure Penalty
 The outpost stays fuel-hostage without solar. (Defense: 0)

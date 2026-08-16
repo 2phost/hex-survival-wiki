@@ -11,8 +11,8 @@ title: "Lock the Outpost In"
 - Build **Scrap Barricade Wall** (Build Scrap Barricade Wall)
 
 ## Rewards
-- 1x **[[Items/alloy_plate|Alloy Plate]]**
-- 2x **[[Items/rations|Rations]]**
+- 1x **[[Items/Unknown/alloy_plate|Alloy Plate]]**
+- 2x **[[Items/Unknown/rations|Rations]]**
 
 ## Failure Penalty
 The outpost is not sealed. Command withholds Phase 2 confidence. (Defense: -3)

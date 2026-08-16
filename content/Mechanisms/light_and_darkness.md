@@ -18,13 +18,13 @@ Darkness is the primary existential threat in Hex Survival.
 
 ## Light Sources
 Players must manage light to safely navigate the map.
-- **Personal Light**: [[Items/index|Items]] like the "[[Items/starter_lamp|Starter Lamp]]" provide a mobile radius of safety but have limited duration.
-- **Grid Illumination**: **[[Items/power_pole|Power Poles]]** can be placed to permanently illuminate a hex. This requires the hex to be connected to the town's power chain.
+- **Personal Light**: [[Items/index|Items]] like the "[[Items/Light/starter_lamp|Starter Lamp]]" provide a mobile radius of safety but have limited duration.
+- **Grid Illumination**: **[[Items/Power/power_pole|Power Poles]]** can be placed to permanently illuminate a hex. This requires the hex to be connected to the town's power chain.
 - **Radius**: A powered pole illuminates only its **current hex (0-hex radius)**.
 - **Hex Light**: The Base has inherent light.
 
 ## Duration and Maintenance
-- **Degradation**: Light sources like the [[Items/starter_lamp|Starter Lamp]] have a limited lifespan (e.g., "1 day of light remaining").
+- **Degradation**: Light sources like the [[Items/Light/starter_lamp|Starter Lamp]] have a limited lifespan (e.g., "1 day of light remaining").
 - **[[Mechanisms/power_grid|Midnight]] Expiration**: Mobile light sources (lamps) degrade at the [[Mechanisms/power_grid|Midnight]] transition. 
 - **The "Day Change" Trap**: If a lamp has only "1 day remaining" and the player is standing in an unlit hex during the [[Mechanisms/midnight_cycle|Midnight]] transition, the lamp expires. Without light, the player will begin accumulating **[[Vitals/fear|Fear]]** each hour. If this meter reaches its maximum, the player enters **Fear Paralysis** and is unable to move further into the unknown until light is recovered.
 - **Refueling**: [[Items/index|Items]] like the "Empty Lamp" require a "Battery" to be crafted into a functional light source.

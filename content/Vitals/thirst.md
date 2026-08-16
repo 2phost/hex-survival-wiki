@@ -10,14 +10,14 @@ Thirst is a primary survival vital in Hex Survival. Because it drains daily at *
 At **[[Mechanisms/midnight_cycle|Midnight]]**, every player's thirst bar is reduced by **40% (4 bars out of 10)**. This "Midnight Toll" is mandatory for survival and must be addressed before the transition to a new day.
 
 ## 2. Restoring Thirst
-Thirst is primarily restored by consuming **[[Items/water|Clean Water]]**. Note that high-level stims will *increase* thirst as a side effect.
+Thirst is primarily restored by consuming **[[Items/Unknown/water|Clean Water]]**. Note that high-level stims will *increase* thirst as a side effect.
 
 | Item | Thirst Restoration | AP Restoration | Requirements |
 | :--- | :---: | :---: | :--- |
-| **[[Items/water|Clean Water]]** | **+30** | **+1** | None |
-| **[[Items/stim_pack|Stim Pack]]** | **-6** | **+2** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 1 |
-| **[[Items/stim_injector|Stim Injector]]** | **-10**| **+4** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 2 |
-| **[[Items/stim_overdrive|Stim Overdrive]]** | **-14**| **+6** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 3 |
+| **[[Items/Unknown/water|Clean Water]]** | **+30** | **+1** | None |
+| **[[Items/Unknown/stim_pack|Stim Pack]]** | **-6** | **+2** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 1 |
+| **[[Items/Unknown/stim_injector|Stim Injector]]** | **-10**| **+4** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 2 |
+| **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** | **-14**| **+6** | [[Skills/stim_conditioning|Stim Cond.]] Lvl 3 |
 
 ## 3. Where to Find Water
 

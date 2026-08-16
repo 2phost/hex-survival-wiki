@@ -14,7 +14,7 @@ title: "Forge"
 > Hot-work station for tempering scrap into fortified rebar. Unlocks the Forge Fortified Rebar recipe at town.
 
 ## Construction Cost
-- 8x [[Items/stone|Hardened Stone]]
-- 6x [[Items/timber|Raw Timber]]
-- 4x [[Items/obsidian_flake|Obsidian Flake]]
+- 8x [[Items/Unknown/stone|Hardened Stone]]
+- 6x [[Items/Unknown/timber|Raw Timber]]
+- 4x [[Items/Unknown/obsidian_flake|Obsidian Flake]]
 
