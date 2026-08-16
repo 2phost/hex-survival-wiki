@@ -15,12 +15,12 @@ Proposed skill trees to further specialize player roles in the late game.
 
 ## 2. Engineering Tree
 - **Grid Architect**:
- - **Effect**: Level 5 Perk. [[Items/power_pole|Power Poles]] placed by this player illuminate a 1-hex radius instead of 0.
+ - **Effect**: Level 5 Perk. [[Items/Power/power_pole|Power Poles]] placed by this player illuminate a 1-hex radius instead of 0.
  - **Prerequisite**: [[Skills/field_engineering|Field Engineering]] Level 3.
 - **Structural Integrity**:
  - **Effect**: Increases the HP of [[Builds/index|Base Constructions]] built by this player by 10% per level.
 
 ## 3. Logistics Tree
 - **Quartermaster**:
- - **Effect**: Increases the stack limit of "Basic Materials" ([[Items/scrap_metal|Scrap Metal]], [[Items/stone|Stone]], [[Items/timber|Timber]]) to 2 per slot.
+ - **Effect**: Increases the stack limit of "Basic Materials" ([[Items/Unknown/scrap_metal|Scrap Metal]], [[Items/Unknown/stone|Stone]], [[Items/Unknown/timber|Timber]]) to 2 per slot.
  - **Prerequisite**: [[Skills/pack_mule|Pack Mule]] Level 3.

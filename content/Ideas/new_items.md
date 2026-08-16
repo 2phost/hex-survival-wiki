@@ -16,7 +16,7 @@ This document tracks proposed item additions to expand the tactical depth of Hex
 
 ## 2. Consumables
 - **Herbal Infusion**:
- - **Usage**: Crafted from [[Items/glowing_mushroom|Glowing Mushrooms]] and [[Items/water|Clean Water]].
+ - **Usage**: Crafted from [[Items/Unknown/glowing_mushroom|Glowing Mushrooms]] and [[Items/Unknown/water|Clean Water]].
  - **Stats**: Restores 5 [[Vitals/fear|Fear]] immediately. Does not restore Hunger or Thirst.
 - **Adrenaline Injector**:
  - **Usage**: Restores 3 [[Vitals/action_points|AP]] immediately.

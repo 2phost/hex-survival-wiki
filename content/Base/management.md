@@ -26,9 +26,9 @@ When fuel items are in the **Town Bank**, a **"Refuel"** button appears in the B
 - **Skill Requirement**: Requires the **[[Skills/index|Generator Operations]]** skill.
 - **Execution**: Clicking "Refuel" consumes the item from the Bank and restores town power immediately.
 - **Fuel Efficiency**:
- - **[[Items/gasoline_canister|Gasoline Canister]]**: +25% Power (Lvl 1).
- - **[[Items/biofuel_cell|Biofuel Cell]]**: +40% Power (Lvl 2).
- - **[[Items/plasma_fuel_rod|Plasma Fuel Rod]]**: +60% Power (Lvl 3).
+ - **[[Items/Fuel/gasoline_canister|Gasoline Canister]]**: +25% Power (Lvl 1).
+ - **[[Items/Fuel/biofuel_cell|Biofuel Cell]]**: +40% Power (Lvl 2).
+ - **[[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]]**: +60% Power (Lvl 3).
 
 ## 3. Power Consumption
 The Base menu also displays **"Night Use"**, which indicates the predicted town-wide power drain during the **[[Mechanisms/midnight_cycle|Midnight]]** transition. This drain is increased by expansion of the grid and active **[[Mechanisms/facility_fabrication|Fabrication]]** projects (+20% each). Keeping the town's power level above this number is the primary survival objective. **If town power hits 0%, the town instance ends.**
