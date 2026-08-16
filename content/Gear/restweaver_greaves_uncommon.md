@@ -12,4 +12,4 @@ title: "Dreamer's Leggings"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Rest Extra Ap Chance Bonus**: +6%
+- **Rest Extra AP Chance Bonus**: +6%

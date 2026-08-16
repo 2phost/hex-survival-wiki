@@ -12,4 +12,4 @@ title: "Restweaver Greaves"
 - **Min Reward Day**: 6
 
 ## Modifiers
-- **Rest Extra Ap Chance Bonus**: +3%
+- **Rest Extra AP Chance Bonus**: +3%

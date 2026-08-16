@@ -25,6 +25,7 @@ This skill provides a chance for a "bonus kill" on every attack action.
 
 
 
+
 ## Training Times
 - **Level 1**: 1 Hour
 - **Level 2**: 24 Hours

@@ -12,4 +12,4 @@ title: "Hearthbound Trousers"
 - **Min Reward Day**: 14
 
 ## Modifiers
-- **Rest Extra Ap Chance Bonus**: +14%
+- **Rest Extra AP Chance Bonus**: +14%

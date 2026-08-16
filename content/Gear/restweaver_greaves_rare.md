@@ -12,4 +12,4 @@ title: "Slumber Striders"
 - **Min Reward Day**: 10
 
 ## Modifiers
-- **Rest Extra Ap Chance Bonus**: +10%
+- **Rest Extra AP Chance Bonus**: +10%

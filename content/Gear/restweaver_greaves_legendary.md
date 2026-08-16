@@ -12,4 +12,4 @@ title: "Eternal Vigil Greaves"
 - **Min Reward Day**: 20
 
 ## Modifiers
-- **Rest Extra Ap Chance Bonus**: +20%
+- **Rest Extra AP Chance Bonus**: +20%
