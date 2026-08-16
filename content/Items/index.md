@@ -6,175 +6,173 @@ title: "Items"
 
 Complete database of all discoverable and craftable items in Hex Survival.
 
-## 📦 Logistic & Storage
-* <img src="../assets/items/drone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/drone|Cargo Drone]]** (Mythic) - Autonomous field-to-base courier.
-* <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/salvager_pack|Salvager Pack]]** (Rare) - +2 inventory slots.
-* <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/expedition_pack|Expedition Pack]]** (Rare) - +3 inventory slots.
-* <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hauler_pack|Hauler Pack]]** (Mythic) - +4 inventory slots.
-* <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/worn_leather_pack|Worn Leather Pack]]** (Common) - Scrap yield.
-
-## 🧱 Defense & Construction
-* <img src="../assets/items/fortified_rebar.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fortified_rebar|Fortified Rebar]]** (Common) - Structural reinforcement.
-* <img src="../assets/items/quarry_bolts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/quarry_bolts|Quarry Bolts]]** (Common) - Anchor bolts.
-* <img src="../assets/items/ballistic_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ballistic_mesh|Ballistic Mesh]]** (Rare) - Impact absorption.
-* <img src="../assets/items/ceramic_armor_tile.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ceramic_armor_tile|Ceramic Armor Tile]]** (Rare) - Military-grade plating.
-* <img src="../assets/items/hardened_actuator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hardened_actuator|Hardened Actuator]]** (Rare) - Mechanical driver.
-* <img src="../assets/items/shock_capacitor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/shock_capacitor|Shock Capacitor]]** (Rare) - High-energy storage.
-* <img src="../assets/items/targeting_relay.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/targeting_relay|Targeting Relay]]** (Rare) - Fire-control module.
-* <img src="../assets/items/threat_sensor_array.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/threat_sensor_array|Threat Sensor Array]]** (Rare) - Detection system.
-* <img src="../assets/items/bio_spike_pod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/bio_spike_pod|Bio Spike Pod]]** (Rare) - Living trap component.
-* <img src="../assets/items/resin_sealant.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/resin_sealant|Resin Sealant]]** (Common) - Weatherproof coating.
-* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/scrap_metal|Scrap Metal]]** (Common) - Base building material.
-* <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stone|Hardened Stone]]** (Common) - Heavy construction.
-* <img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/timber|Raw Timber]]** (Common) - Wood structures.
-* <img src="../assets/items/alloy_plate.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/alloy_plate|Alloy Plate]]** (Rare) - High-tier reinforcement.
-* <img src="../assets/items/hydraulic_piston.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hydraulic_piston|Hydraulic Piston]]** (Rare) - Heavy gates.
-
-## ⚡ Energy & Electronics
-* <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/battery|Battery]]** (Common) - Portable power.
-* <img src="../assets/items/car_battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/car_battery|Car Battery]]** (Common) - Base power storage.
-* <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/solar_cell|Solar Cell]]** (Rare) - Renewable energy.
-* <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/circuit_boards|Circuit Boards]]** (Rare) - Advanced electronics.
-* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/copper_wiring|Copper Wiring]]** (Common) - Electrical connections.
-* <img src="../assets/items/logic_core.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/logic_core|Logic Core]]** (Rare) - Computing module.
-* <img src="../assets/items/signal_emitter.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/signal_emitter|Signal Emitter]]** (Rare) - Transmission hardware.
-* <img src="../assets/items/capacitor_bank.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/capacitor_bank|Capacitor Bank]]** (Rare) - Energy buffering.
-* <img src="../assets/items/micro_fuse.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/micro_fuse|Micro Fuse]]** (Rare) - Circuit protection.
-
-## 🔥 Fuel & Power
-* <img src="../assets/items/gasoline_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Fuel/gasoline_canister|Gasoline Canister]]** (Rare) - 25% Power refill.
-* <img src="../assets/items/biofuel_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Fuel/biofuel_cell|Biofuel Cell]]** (Rare) - 40% Power refill.
-* <img src="../assets/items/plasma_fuel_rod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]]** (Mythic) - 60% Power refill.
-
-## ⚔️ Weapons
-* <img src="../assets/items/makeshift_shiv.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/makeshift_shiv|Makeshift Shiv]]** (Common) - Basic scrap blade.
-* <img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/scrap_spear|Scrap Spear]]** (Common) - Forged reach weapon.
-* <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/rebar_blade|Rebar Blade]]** (Rare) - Tempered steel blade.
-* <img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/shock_maul|Shock Maul]]** (Rare) - Electrified striking weapon.
-* <img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/plasma_lance|Plasma Lance]]** (Mythic) - High-energy polearm.
-
-## 🩸 Vitals & Survival
-* <img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/rations|Rations]]** (Common) - -30 Hunger.
-* <img src="../assets/items/water.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/water|Clean Water]]** (Common) - -30 Thirst.
-* <img src="../assets/items/salad.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/salad|Salad]]** (Common) - -20 Hunger.
-* <img src="../assets/items/stim_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stim_pack|Stim Pack]]** (Common) - +2 AP.
-* <img src="../assets/items/stim_injector.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stim_injector|Stim Injector]]** (Rare) - +4 AP.
-* <img src="../assets/items/stim_overdrive.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** (Mythic) - +6 AP.
-
-## 🔦 Light Sources
-* <img src="../assets/items/starter_lamp.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/starter_lamp|Starter Lamp]]** (Common) - 2 days light.
-* <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/glowing_bottle|Glowing Bottle]]** (Common) - 2 days light.
-* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/lamp_functioning|Functioning Lamp]]** (Rare) - 5 days light.
-
-## 🛠️ Tools & Equipment
-* <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/restored_binoculars|Restored Binoculars]]** (Rare) - Reveal adjacent biomes.
-* <img src="../assets/builds/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Power/power_pole|Power Pole]]** (Common) - Deployable light relay.
-* <img src="../assets/builds/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Power/power_pole_mk2|Reinforced Power Pole]]** (Rare) - Illuminated area relay.
-
-## 🧪 Materials & Salvage
-* <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/research_material|Research Material]]** (Rare) - Required for Lab projects.
-* <img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ancient_relic|Ancient Relic]]** (Mythic) - Rare pre-collapse artifact.
-* <img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/chemical_sludge|Chemical Sludge]]** (Rare) - Fuel refinery component.
-* <img src="../assets/items/bio_resin.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/bio_resin|Bio Resin]]** (Common) - Organic adhesive.
-* <img src="../assets/items/fungal_spores.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fungal_spores|Fungal Spores]]** (Common) - Bioluminescent spores.
-* <img src="../assets/items/salt_crystals.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/salt_crystals|Salt Crystals]]** (Common) - Mineral deposits.
-* <img src="../assets/items/obsidian_flake.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/obsidian_flake|Obsidian Flake]]** (Rare) - Sharp glass.
-* <img src="../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/salvaged_fabric|Salvaged Fabric]]** (Common) - Gear repair.
-* <img src="../assets/items/charred_planks.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/charred_planks|Charred Planks]]** (Common) - Burnt wood.
-* <img src="../assets/items/ceramic_shards.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ceramic_shards|Ceramic Shards]]** (Common) - Insulation material.
-* <img src="../assets/items/rusted_chain.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/rusted_chain|Rusted Chain]]** (Common) - Heavy binding.
-* <img src="../assets/items/filter_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/filter_mesh|Filter Mesh]]** (Common) - Filtration material.
-
-## ❓ Uncatalogued Items
-*Items recently discovered by scouts. Pending classification.*
-* <img src="../assets/items/raw_fish.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/raw_fish|Raw Fish]]** (Common)
-* <img src="../assets/items/raw_meat.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/raw_meat|Raw Meat]]** (Common)
-* <img src="../assets/items/fishing_line.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fishing_line|Fishing Line]]** (Common)
-* <img src="../assets/items/makeshift_rod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/makeshift_rod|Makeshift Rod]]** (Common)
-* <img src="../assets/items/canned_beans.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/canned_beans|Canned Beans]]** (Common)
-* <img src="../assets/items/dried_jerky.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/dried_jerky|Dried Jerky]]** (Common)
-* <img src="../assets/items/wild_berries.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/wild_berries|Wild Berries]]** (Common)
-* <img src="../assets/items/stale_bread.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stale_bread|Stale Bread]]** (Common)
-* <img src="../assets/items/soup_can.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/soup_can|Soup Can]]** (Common)
-* <img src="../assets/items/protein_bar.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/protein_bar|Protein Bar]]** (Uncommon)
-* <img src="../assets/items/nutrient_paste.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/nutrient_paste|Nutrient Paste]]** (Rare)
-* <img src="../assets/items/cactus_pulp.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/cactus_pulp|Cactus Pulp]]** (Common)
-* <img src="../assets/items/herbal_tea.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/herbal_tea|Herbal Tea]]** (Common)
-* <img src="../assets/items/mineral_water.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mineral_water|Mineral Water]]** (Uncommon)
-* <img src="../assets/items/energy_soda.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/energy_soda|Energy Soda]]** (Uncommon)
-* <img src="../assets/items/fermented_cider.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fermented_cider|Fermented Cider]]** (Uncommon)
-* <img src="../assets/items/cleanse_vial.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/cleanse_vial|Cleanse Vial]]** (Rare)
-* <img src="../assets/items/mace_spray_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_common|Irritant Mace]]** (Common)
-* <img src="../assets/items/mace_spray_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_uncommon|Concentrated Mace]]** (Uncommon)
-* <img src="../assets/items/mace_spray_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_rare|Military Mace]]** (Rare)
-* <img src="../assets/items/mace_spray_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_mythic|Neurotoxin Mace]]** (Mythic)
-* <img src="../assets/items/hauler_drone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hauler_drone|Fabrication Hauler Drone]]** (Uncommon)
-* <img src="../assets/items/humidity_extractor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Tool/humidity_extractor|Humidity Extractor]]** (Rare)
+## [[Items/Camp/index|Camp]]
+* <img src="../assets/items/expedition_tent.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Camp/expedition_tent|Expedition Tent]]** (Mythic)
 * <img src="../assets/items/field_bedroll.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Camp/field_bedroll|Field Bedroll]]** (Rare)
 * <img src="../assets/items/survival_shelter.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Camp/survival_shelter|Survival Shelter]]** (Rare)
-* <img src="../assets/items/expedition_tent.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Camp/expedition_tent|Expedition Tent]]** (Mythic)
-* <img src="../assets/items/water_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/water_bottle|Bottle of Water]]** (Common)
-* <img src="../assets/items/sterile_syringe.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/sterile_syringe|Sterile Syringe]]** (Common)
-* <img src="../assets/items/med_gauze.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Medical/med_gauze|Medical Gauze]]** (Common)
+
+## [[Items/Fuel/index|Fuel]]
+* <img src="../assets/items/biofuel_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Fuel/biofuel_cell|Biofuel Cell]]** (Rare)
+* <img src="../assets/items/gasoline_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Fuel/gasoline_canister|Gasoline Canister]]** (Rare)
+* <img src="../assets/items/plasma_fuel_rod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Fuel/plasma_fuel_rod|Plasma Fuel Rod]]** (Mythic)
+
+## [[Items/Light/index|Light]]
+* <img src="../assets/items/crimson_flare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/crimson_flare|Crimson Flare]]** (Mythic)
+* <img src="../assets/items/lamp_functioning.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/lamp_functioning|Functioning Lamp]]** (Rare)
+* <img src="../assets/items/glowing_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/glowing_bottle|Glowing Bottle]]** (Common)
+* <img src="../assets/items/nova_flare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/nova_flare|Nova Flare]]** (Mythic)
+* <img src="../assets/items/signal_flare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/signal_flare|Signal Flare]]** (Mythic)
+* <img src="../assets/items/spark_flare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/spark_flare|Spark Flare]]** (Mythic)
+* <img src="../assets/items/starter_lamp.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/starter_lamp|Starter Lamp]]** (Common)
+
+## [[Items/Medical/index|Medical]]
+* <img src="../assets/items/bottle_of_alcohol.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Medical/bottle_of_alcohol|Bottle of Alcohol]]** (Common)
 * <img src="../assets/items/field_bandage.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Medical/field_bandage|Field Bandage]]** (Common)
 * <img src="../assets/items/first_aid_kit.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Medical/first_aid_kit|First Aid Kit]]** (Rare)
+* <img src="../assets/items/med_gauze.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Medical/med_gauze|Medical Gauze]]** (Common)
 * <img src="../assets/items/trauma_stabilizer.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Medical/trauma_stabilizer|Trauma Stabilizer]]** (Mythic)
 * <img src="../assets/items/vital_stasis_patch.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Medical/vital_stasis_patch|Vital Stasis Patch]]** (Rare)
-* <img src="../assets/items/stimulant_reagent.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stimulant_reagent|Stimulant Reagent]]** (Rare)
-* <img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/lamp_empty|Lamp (empty)]]** (Common)
-* <img src="../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/old_glass_bottle|Old Glass Bottle]]** (Common)
-* <img src="../assets/items/broken_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/broken_glass_bottle|Broken Glass Bottle]]** (Common)
-* <img src="../assets/items/glowing_mushroom.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/glowing_mushroom|Glowing Mushroom]]** (Common)
-* <img src="../assets/items/spark_flare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/spark_flare|Spark Flare]]** (Mythic)
-* <img src="../assets/items/signal_flare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/signal_flare|Signal Flare]]** (Mythic)
-* <img src="../assets/items/crimson_flare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/crimson_flare|Crimson Flare]]** (Mythic)
-* <img src="../assets/items/nova_flare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Light/nova_flare|Nova Flare]]** (Mythic)
-* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Power/gasoline_generator|Gasoline Generator]]** (Rare)
-* <img src="../assets/items/gasoline_generator_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/gasoline_generator_empty|Gasoline Generator (empty)]]** (Common)
-* <img src="../assets/items/pole_upgrade_kit.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Power/pole_upgrade_kit|Pole Upgrade Kit]]** (Uncommon)
-* <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/broken_radio|Broken Radio]]** (Common)
-* <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/rusty_tool|Rusty Tool]]** (Common)
-* <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/cracked_lens|Cracked Lens]]** (Common)
-* <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/burnt_motor|Burnt-Out Motor]]** (Common)
-* <img src="../assets/items/empty_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/empty_canister|Empty Canister]]** (Common)
-* <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/broken_binoculars|Broken Binoculars]]** (Common)
-* <img src="../assets/items/field_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/field_radio|Field Radio]]** (Rare)
-* <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]]** (Rare)
-* <img src="../assets/items/calibrated_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/calibrated_sensor|Calibrated Sensor]]** (Rare)
-* <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ruined_generator_parts|Ruined Generator Parts]]** (Common)
-* <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/damaged_solar_panel|Damaged Solar Panel]]** (Uncommon)
-* <img src="../assets/items/bottle_of_alcohol.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Medical/bottle_of_alcohol|Bottle of Alcohol]]** (Common)
-* <img src="../assets/items/ceramic_pot.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ceramic_pot|Ceramic Pot]]** (Common)
-* <img src="../assets/items/pressure_valve.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/pressure_valve|Pressure Valve]]** (Rare)
-* <img src="../assets/items/fractured_servo.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fractured_servo|Fractured Servo]]** (Rare)
-* <img src="../assets/items/thermal_coil.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/thermal_coil|Thermal Coil]]** (Rare)
-* <img src="../assets/items/cryo_flask.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/cryo_flask|Cryo Flask]]** (Rare)
-* <img src="../assets/items/data_tape.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/data_tape|Data Tape]]** (Rare)
-* <img src="../assets/items/reactor_dust.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/reactor_dust|Reactor Dust]]** (Mythic)
-* <img src="../assets/items/vault_key_fragment.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/vault_key_fragment|Vault Key Fragment]]** (Mythic)
-* <img src="../assets/items/vault_access_key.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/vault_access_key|Vault Access Key]]** (Mythic)
-* <img src="../assets/items/beacon_component.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/beacon_component|Beacon Component]]** (Mythic)
-* <img src="../assets/items/ionized_filament.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ionized_filament|Ionized Filament]]** (Rare)
-* <img src="../assets/items/mutant_seed_pod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mutant_seed_pod|Mutant Seed Pod]]** (Rare)
-* <img src="../assets/items/alien_vegetable.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/alien_vegetable|Alien Vegetable]]** (Uncommon)
-* <img src="../assets/items/preserved_produce.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/preserved_produce|Preserved Produce]]** (Uncommon)
-* <img src="../assets/items/hide_scrap.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hide_scrap|Hide Scrap]]** (Common)
-* <img src="../assets/items/monster_chitin_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_chitin_common|Common Monster Chitin]]** (Common)
-* <img src="../assets/items/monster_chitin_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_chitin_uncommon|Uncommon Monster Chitin]]** (Uncommon)
-* <img src="../assets/items/monster_chitin_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_chitin_rare|Rare Monster Chitin]]** (Rare)
-* <img src="../assets/items/monster_chitin_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_chitin_mythic|Mythic Monster Chitin]]** (Mythic)
-* <img src="../assets/items/monster_sinew_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_sinew_common|Common Monster Sinew]]** (Common)
-* <img src="../assets/items/monster_sinew_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_sinew_uncommon|Uncommon Monster Sinew]]** (Uncommon)
-* <img src="../assets/items/monster_sinew_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_sinew_rare|Rare Monster Sinew]]** (Rare)
-* <img src="../assets/items/monster_sinew_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_sinew_mythic|Mythic Monster Sinew]]** (Mythic)
-* <img src="../assets/items/monster_gland_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_gland_common|Common Monster Gland]]** (Common)
-* <img src="../assets/items/monster_gland_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_gland_uncommon|Uncommon Monster Gland]]** (Uncommon)
-* <img src="../assets/items/monster_gland_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_gland_rare|Rare Monster Gland]]** (Rare)
-* <img src="../assets/items/monster_gland_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_gland_mythic|Mythic Monster Gland]]** (Mythic)
+
+## [[Items/Monster_Parts/index|Monster Parts]]
 * <img src="../assets/items/monster_bone_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_bone_common|Common Monster Bone]]** (Common)
-* <img src="../assets/items/monster_bone_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_bone_uncommon|Uncommon Monster Bone]]** (Uncommon)
-* <img src="../assets/items/monster_bone_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_bone_rare|Rare Monster Bone]]** (Rare)
+* <img src="../assets/items/monster_chitin_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_chitin_common|Common Monster Chitin]]** (Common)
+* <img src="../assets/items/monster_gland_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_gland_common|Common Monster Gland]]** (Common)
+* <img src="../assets/items/monster_sinew_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_sinew_common|Common Monster Sinew]]** (Common)
 * <img src="../assets/items/monster_bone_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_bone_mythic|Mythic Monster Bone]]** (Mythic)
-* <img src="../assets/items/monster_core_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_core_uncommon|Uncommon Monster Core]]** (Uncommon)
-* <img src="../assets/items/monster_core_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_core_rare|Rare Monster Core]]** (Rare)
+* <img src="../assets/items/monster_chitin_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_chitin_mythic|Mythic Monster Chitin]]** (Mythic)
 * <img src="../assets/items/monster_core_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_core_mythic|Mythic Monster Core]]** (Mythic)
+* <img src="../assets/items/monster_gland_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_gland_mythic|Mythic Monster Gland]]** (Mythic)
+* <img src="../assets/items/monster_sinew_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_sinew_mythic|Mythic Monster Sinew]]** (Mythic)
+* <img src="../assets/items/monster_bone_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_bone_rare|Rare Monster Bone]]** (Rare)
+* <img src="../assets/items/monster_chitin_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_chitin_rare|Rare Monster Chitin]]** (Rare)
+* <img src="../assets/items/monster_core_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_core_rare|Rare Monster Core]]** (Rare)
+* <img src="../assets/items/monster_gland_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_gland_rare|Rare Monster Gland]]** (Rare)
+* <img src="../assets/items/monster_sinew_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_sinew_rare|Rare Monster Sinew]]** (Rare)
+* <img src="../assets/items/monster_bone_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_bone_uncommon|Uncommon Monster Bone]]** (Uncommon)
+* <img src="../assets/items/monster_chitin_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_chitin_uncommon|Uncommon Monster Chitin]]** (Uncommon)
+* <img src="../assets/items/monster_core_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_core_uncommon|Uncommon Monster Core]]** (Uncommon)
+* <img src="../assets/items/monster_gland_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_gland_uncommon|Uncommon Monster Gland]]** (Uncommon)
+* <img src="../assets/items/monster_sinew_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Monster_Parts/monster_sinew_uncommon|Uncommon Monster Sinew]]** (Uncommon)
+
+## [[Items/Power/index|Power]]
+* <img src="../assets/items/gasoline_generator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Power/gasoline_generator|Gasoline Generator]]** (Rare)
+* <img src="../assets/items/pole_upgrade_kit.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Power/pole_upgrade_kit|Pole Upgrade Kit]]** (Uncommon)
+* <img src="../assets/items/power_pole.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Power/power_pole|Power Pole]]** (Common)
+* <img src="../assets/items/power_pole_mk2.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Power/power_pole_mk2|Reinforced Power Pole]]** (Rare)
+
+## [[Items/Tool/index|Tool]]
+* <img src="../assets/items/humidity_extractor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Tool/humidity_extractor|Humidity Extractor]]** (Rare)
+
+## [[Items/Unknown/index|Unknown]]
+* <img src="../assets/items/alien_vegetable.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/alien_vegetable|Alien Vegetable]]** (Uncommon)
+* <img src="../assets/items/alloy_plate.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/alloy_plate|Alloy Plate]]** (Rare)
+* <img src="../assets/items/ancient_relic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ancient_relic|Ancient Relic]]** (Mythic)
+* <img src="../assets/items/ballistic_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ballistic_mesh|Ballistic Mesh]]** (Rare)
+* <img src="../assets/items/battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/battery|Battery]]** (Common)
+* <img src="../assets/items/beacon_component.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/beacon_component|Beacon Component]]** (Mythic)
+* <img src="../assets/items/bio_resin.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/bio_resin|Bio Resin]]** (Common)
+* <img src="../assets/items/bio_spike_pod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/bio_spike_pod|Bio Spike Pod]]** (Rare)
+* <img src="../assets/items/water_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/water_bottle|Bottle of Water]]** (Common)
+* <img src="../assets/items/broken_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/broken_binoculars|Broken Binoculars]]** (Common)
+* <img src="../assets/items/broken_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/broken_radio|Broken Radio]]** (Common)
+* <img src="../assets/items/burnt_motor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/burnt_motor|Burnt-Out Motor]]** (Common)
+* <img src="../assets/items/cactus_pulp.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/cactus_pulp|Cactus Pulp]]** (Common)
+* <img src="../assets/items/calibrated_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/calibrated_sensor|Calibrated Sensor]]** (Rare)
+* <img src="../assets/items/canned_beans.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/canned_beans|Canned Beans]]** (Common)
+* <img src="../assets/items/capacitor_bank.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/capacitor_bank|Capacitor Bank]]** (Rare)
+* <img src="../assets/items/car_battery.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/car_battery|Car Battery]]** (Common)
+* <img src="../assets/items/drone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/drone|Cargo Drone]]** (Mythic)
+* <img src="../assets/items/ceramic_armor_tile.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ceramic_armor_tile|Ceramic Armor Tile]]** (Rare)
+* <img src="../assets/items/ceramic_pot.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ceramic_pot|Ceramic Pot]]** (Common)
+* <img src="../assets/items/ceramic_shards.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ceramic_shards|Ceramic Shards]]** (Common)
+* <img src="../assets/items/charred_planks.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/charred_planks|Charred Planks]]** (Common)
+* <img src="../assets/items/chemical_sludge.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/chemical_sludge|Chemical Sludge]]** (Rare)
+* <img src="../assets/items/circuit_board.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/circuit_boards|Circuit Boards]]** (Rare)
+* <img src="../assets/items/water.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/water|Clean Water]]** (Common)
+* <img src="../assets/items/cleanse_vial.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/cleanse_vial|Cleanse Vial]]** (Rare)
+* <img src="../assets/items/mace_spray_uncommon.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_uncommon|Concentrated Mace]]** (Uncommon)
+* <img src="../assets/items/copper_wiring.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/copper_wiring|Copper Wiring]]** (Common)
+* <img src="../assets/items/cracked_lens.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/cracked_lens|Cracked Lens]]** (Common)
+* <img src="../assets/items/cryo_flask.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/cryo_flask|Cryo Flask]]** (Rare)
+* <img src="../assets/items/damaged_solar_panel.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/damaged_solar_panel|Damaged Solar Panel]]** (Uncommon)
+* <img src="../assets/items/data_tape.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/data_tape|Data Tape]]** (Rare)
+* <img src="../assets/items/dried_jerky.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/dried_jerky|Dried Jerky]]** (Common)
+* <img src="../assets/items/empty_canister.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/empty_canister|Empty Canister]]** (Common)
+* <img src="../assets/items/energy_soda.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/energy_soda|Energy Soda]]** (Uncommon)
+* <img src="../assets/items/expedition_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/expedition_pack|Expedition Pack]]** (Rare)
+* <img src="../assets/items/hauler_drone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hauler_drone|Fabrication Hauler Drone]]** (Uncommon)
+* <img src="../assets/items/fermented_cider.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fermented_cider|Fermented Cider]]** (Uncommon)
+* <img src="../assets/items/field_radio.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/field_radio|Field Radio]]** (Rare)
+* <img src="../assets/items/filter_mesh.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/filter_mesh|Filter Mesh]]** (Common)
+* <img src="../assets/items/fishing_line.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fishing_line|Fishing Line]]** (Common)
+* <img src="../assets/items/fortified_rebar.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fortified_rebar|Fortified Rebar]]** (Common)
+* <img src="../assets/items/fractured_servo.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fractured_servo|Fractured Servo]]** (Rare)
+* <img src="../assets/items/fungal_spores.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/fungal_spores|Fungal Spores]]** (Common)
+* <img src="../assets/items/gasoline_generator_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/gasoline_generator_empty|Gasoline Generator (empty)]]** (Common)
+* <img src="../assets/items/glowing_mushroom.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/glowing_mushroom|Glowing Mushroom]]** (Common)
+* <img src="../assets/items/hardened_actuator.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hardened_actuator|Hardened Actuator]]** (Rare)
+* <img src="../assets/items/stone.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stone|Hardened Stone]]** (Common)
+* <img src="../assets/items/hauler_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hauler_pack|Hauler Pack]]** (Mythic)
+* <img src="../assets/items/herbal_tea.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/herbal_tea|Herbal Tea]]** (Common)
+* <img src="../assets/items/hide_scrap.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hide_scrap|Hide Scrap]]** (Common)
+* <img src="../assets/items/hydraulic_piston.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/hydraulic_piston|Hydraulic Piston]]** (Rare)
+* <img src="../assets/items/ionized_filament.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ionized_filament|Ionized Filament]]** (Rare)
+* <img src="../assets/items/mace_spray_common.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_common|Irritant Mace]]** (Common)
+* <img src="../assets/items/lamp_empty.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/lamp_empty|Lamp (empty)]]** (Common)
+* <img src="../assets/items/logic_core.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/logic_core|Logic Core]]** (Rare)
+* <img src="../assets/items/makeshift_rod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/makeshift_rod|Makeshift Rod]]** (Common)
+* <img src="../assets/items/malfunctioning_sensor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/malfunctioning_sensor|Malfunctioning Sensor]]** (Rare)
+* <img src="../assets/items/micro_fuse.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/micro_fuse|Micro Fuse]]** (Rare)
+* <img src="../assets/items/mace_spray_rare.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_rare|Military Mace]]** (Rare)
+* <img src="../assets/items/mineral_water.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mineral_water|Mineral Water]]** (Uncommon)
+* <img src="../assets/items/mutant_seed_pod.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mutant_seed_pod|Mutant Seed Pod]]** (Rare)
+* <img src="../assets/items/mace_spray_mythic.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/mace_spray_mythic|Neurotoxin Mace]]** (Mythic)
+* <img src="../assets/items/nutrient_paste.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/nutrient_paste|Nutrient Paste]]** (Rare)
+* <img src="../assets/items/obsidian_flake.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/obsidian_flake|Obsidian Flake]]** (Rare)
+* <img src="../assets/items/old_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/old_glass_bottle|Old Glass Bottle]]** (Common)
+* <img src="../assets/items/preserved_produce.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/preserved_produce|Preserved Produce]]** (Uncommon)
+* <img src="../assets/items/pressure_valve.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/pressure_valve|Pressure Valve]]** (Rare)
+* <img src="../assets/items/protein_bar.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/protein_bar|Protein Bar]]** (Uncommon)
+* <img src="../assets/items/quarry_bolts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/quarry_bolts|Quarry Bolts]]** (Common)
+* <img src="../assets/items/rations.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/rations|Rations]]** (Common)
+* <img src="../assets/items/raw_fish.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/raw_fish|Raw Fish]]** (Common)
+* <img src="../assets/items/raw_meat.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/raw_meat|Raw Meat]]** (Common)
+* <img src="../assets/items/timber.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/timber|Raw Timber]]** (Common)
+* <img src="../assets/items/reactor_dust.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/reactor_dust|Reactor Dust]]** (Mythic)
+* <img src="../assets/items/research_material.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/research_material|Research Material]]** (Rare)
+* <img src="../assets/items/resin_sealant.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/resin_sealant|Resin Sealant]]** (Common)
+* <img src="../assets/items/restored_binoculars.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/restored_binoculars|Restored Binoculars]]** (Rare)
+* <img src="../assets/items/ruined_generator_parts.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/ruined_generator_parts|Ruined Generator Parts]]** (Common)
+* <img src="../assets/items/rusted_chain.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/rusted_chain|Rusted Chain]]** (Common)
+* <img src="../assets/items/rusty_tool.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/rusty_tool|Rusty Tool]]** (Common)
+* <img src="../assets/items/salad.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/salad|Salad]]** (Common)
+* <img src="../assets/items/salt_crystals.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/salt_crystals|Salt Crystals]]** (Common)
+* <img src="../assets/items/salvaged_fabric.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/salvaged_fabric|Salvaged Fabric]]** (Common)
+* <img src="../assets/items/salvager_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/salvager_pack|Salvager Pack]]** (Rare)
+* <img src="../assets/items/scrap_metal.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/scrap_metal|Scrap Metal]]** (Common)
+* <img src="../assets/items/shock_capacitor.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/shock_capacitor|Shock Capacitor]]** (Rare)
+* <img src="../assets/items/signal_emitter.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/signal_emitter|Signal Emitter]]** (Rare)
+* <img src="../assets/items/solar_cell.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/solar_cell|Solar Cell]]** (Rare)
+* <img src="../assets/items/soup_can.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/soup_can|Soup Can]]** (Common)
+* <img src="../assets/items/stale_bread.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stale_bread|Stale Bread]]** (Common)
+* <img src="../assets/items/sterile_syringe.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/sterile_syringe|Sterile Syringe]]** (Common)
+* <img src="../assets/items/stim_injector.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stim_injector|Stim Injector]]** (Rare)
+* <img src="../assets/items/stim_overdrive.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stim_overdrive|Stim Overdrive]]** (Mythic)
+* <img src="../assets/items/stim_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stim_pack|Stim Pack]]** (Common)
+* <img src="../assets/items/stimulant_reagent.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/stimulant_reagent|Stimulant Reagent]]** (Rare)
+* <img src="../assets/items/targeting_relay.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/targeting_relay|Targeting Relay]]** (Rare)
+* <img src="../assets/items/thermal_coil.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/thermal_coil|Thermal Coil]]** (Rare)
+* <img src="../assets/items/threat_sensor_array.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/threat_sensor_array|Threat Sensor Array]]** (Rare)
+* <img src="../assets/items/vault_access_key.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/vault_access_key|Vault Access Key]]** (Mythic)
+* <img src="../assets/items/vault_key_fragment.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/vault_key_fragment|Vault Key Fragment]]** (Mythic)
+* <img src="../assets/items/wild_berries.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/wild_berries|Wild Berries]]** (Common)
+* <img src="../assets/items/worn_leather_pack.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Unknown/worn_leather_pack|Worn Leather Pack]]** (Common)
+
+## [[Items/Weapon/index|Weapon]]
+* <img src="../assets/items/broken_glass_bottle.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/broken_glass_bottle|Broken Glass Bottle]]** (Common)
+* <img src="../assets/items/makeshift_shiv.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/makeshift_shiv|Makeshift Shiv]]** (Common)
+* <img src="../assets/items/plasma_lance.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/plasma_lance|Plasma Lance]]** (Mythic)
+* <img src="../assets/items/rebar_blade.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/rebar_blade|Rebar Blade]]** (Rare)
+* <img src="../assets/items/scrap_spear.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/scrap_spear|Scrap Spear]]** (Common)
+* <img src="../assets/items/shock_maul.png" width="20" style="vertical-align: middle; margin-right: 4px;"> **[[Items/Weapon/shock_maul|Shock Maul]]** (Rare)
+
