@@ -16,6 +16,6 @@ Health can only be restored through specific medical items. Some items may also 
 | Item | Health Restoration | AP Restoration | Requirements |
 | :--- | :---: | :---: | :--- |
 | **[[Items/Unknown/water_bottle|Bottle of Water]]** | **+10** | **+2** | None |
-| **[[Items/Medical/field_bandage|Field Bandage]]** | **+20** | **0** | None |
-| **[[Items/Medical/first_aid_kit|First Aid Kit]]** | **+40** | **0** | None |
-| **[[Items/Medical/trauma_stabilizer|Trauma Stabilizer]]** | **+65** | **0** | None |
+| **[[Items/Medical/field_bandage|Field Bandage]]** | **+20** | **0** | [[Skills/field_medicine|Field Medicine]] (Lvl 1) |
+| **[[Items/Medical/first_aid_kit|First Aid Kit]]** | **+40** | **0** | [[Skills/field_medicine|Field Medicine]] (Lvl 2) |
+| **[[Items/Medical/trauma_stabilizer|Trauma Stabilizer]]** | **+65** | **0** | [[Skills/field_medicine|Field Medicine]] (Lvl 3) |
